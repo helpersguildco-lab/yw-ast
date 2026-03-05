@@ -1,0 +1,80 @@
+{
+  "title": "Elijah under the Juniper Tree",
+  "subtitle": "The Prophet Who Had Nothing Left",
+  "author": "YourWord",
+  "tags": ["exhaustion", "faith", "prophets", "1 Kings", "forgotten stories"],
+  "paragraphs": [
+    {
+      "para": 1,
+      "body": "The day before, Elijah had called fire down from heaven. Not a small fire. A fire that consumed the sacrifice, the wood, the stones, the soil, and the water in the trench around the altar. Twelve jars of water and the fire took all of it. The people fell on their faces. Four hundred and fifty prophets of Baal were dead by evening. Elijah had done all of this in one afternoon.",
+      "styles": {
+        "Twelve jars of water and the fire took all of it.": { "size": 23, "color": "#922B21", "font": "ExtraBold" },
+        "Four hundred and fifty": { "size": 22, "color": "#784212", "font": "bold" },
+        "in one afternoon": { "size": 21, "color": "#5D6D7E", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 2,
+      "body": "Queen Jezebel sent him a message the next morning. It was not a threat exactly. It was a promise. She said: by this time tomorrow you will be dead like one of them. One sentence. Elijah read it and something in him that had held all day on Mount Carmel finally gave way. He got up and ran. The man who had stood alone against four hundred and fifty prophets ran from a letter.",
+      "styles": {
+        "by this time tomorrow you will be dead": { "size": 24, "color": "#922B21", "font": "ExtraBold" },
+        "ran from a letter": { "size": 23, "color": "#1A1A2E", "font": "bold" },
+        "something in him finally gave way": { "size": 21, "color": "#5D6D7E", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 3,
+      "body": "He ran south through Judah all the way to Beersheba. He left his servant there. Then he walked alone into the desert for a full day. The sun was direct and the ground gave back the heat it had stored. He found a juniper tree and sat under it. The shade was narrow. He told God he had had enough. He said: take my life. I am not better than my fathers. Then he lay down in the dirt under the tree and closed his eyes.",
+      "styles": {
+        "I am not better than my fathers.": { "size": 24, "color": "#808B96", "font": "ExtraBold" },
+        "He had had enough.": { "size": 23, "color": "#922B21", "font": "bold" },
+        "The shade was narrow.": { "size": 21, "color": "#D4AC0D", "font": "italic" }
+      }
+    },
+    {
+      "para": 4,
+      "body": "He slept. An angel touched him. The touch was on his shoulder, light, the kind that pulls you out of a deep place. The angel had brought food. A cake baked on coals and a jar of water. The smell of the bread was warm and specific in the cold desert air before dawn. The angel said: get up and eat. No explanation. No sermon. Just food and the instruction to eat it.",
+      "styles": {
+        "No explanation. No sermon.": { "size": 24, "color": "#1E8449", "font": "ExtraBold" },
+        "The smell of the bread was warm and specific": { "size": 21, "color": "#D4AC0D", "font": "italic" },
+        "light, the kind that pulls you out of a deep place": { "size": 22, "color": "#5D6D7E", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 5,
+      "body": "Elijah ate and drank and lay back down. The angel came a second time. Touched him again. Said: get up and eat, because the journey is too great for you. That second visit meant something different from the first. The first was sustenance. The second was acknowledgment. God was not telling him the journey was manageable. God was telling him it was TOO GREAT and feeding him anyway.",
+      "styles": {
+        "TOO GREAT": { "size": 26, "color": "#922B21", "font": "ExtraBold" },
+        "The second was acknowledgment.": { "size": 23, "color": "#1F618D", "font": "bold" },
+        "feeding him anyway": { "size": 22, "color": "#1E8449", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 6,
+      "body": "He got up and walked forty days and forty nights to Horeb. The mountain of God. The same mountain Moses had stood on. He found a cave and went inside and spent the night there. In the morning God asked him: what are you doing here, Elijah. He said the same thing he had said under the tree. He was the only one left. Everyone else had abandoned the covenant. They were trying to kill him. He said it all in one breath like a man who had been holding it for a long time.",
+      "styles": {
+        "what are you doing here, Elijah": { "size": 23, "color": "#1F618D", "font": "bold-italic" },
+        "I am the only one left.": { "size": 25, "color": "#922B21", "font": "ExtraBold" },
+        "like a man who had been holding it for a long time": { "size": 21, "color": "#808B96", "font": "italic" }
+      }
+    },
+    {
+      "para": 7,
+      "body": "God told him to stand on the mountain. A great wind came and tore the mountain apart and broke rocks in pieces. God was not in the wind. After the wind an earthquake. God was not in the earthquake. After the earthquake a fire. God was not in the fire. The man who had called fire from heaven stood on the mountain and God was not in any of the large things. After the fire there was A STILL SMALL VOICE. Some translations say a sound of sheer silence.",
+      "styles": {
+        "A STILL SMALL VOICE": { "size": 26, "color": "#1F618D", "font": "ExtraBold" },
+        "God was not in the fire.": { "size": 22, "color": "#922B21", "font": "bold" },
+        "a sound of sheer silence": { "size": 23, "color": "#5D6D7E", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 8,
+      "body": "Elijah wrapped his face in his cloak and stood at the entrance of the cave. The voice asked him again: what are you doing here. He gave the same answer as before, word for word. God did not argue with him. God did not tell him he was wrong or dramatic or faithless. God gave him three tasks, told him there were seven thousand in Israel who had not bowed to Baal, and told him to go back the way he came.",
+      "styles": {
+        "The same answer as before, word for word.": { "size": 23, "color": "#808B96", "font": "ExtraBold" },
+        "seven thousand": { "size": 24, "color": "#1E8449", "font": "bold" },
+        "go back the way he came": { "size": 22, "color": "#1F618D", "font": "bold-italic" }
+      }
+    }
+  ]
+}

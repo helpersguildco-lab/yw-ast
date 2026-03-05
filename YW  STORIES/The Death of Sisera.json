@@ -1,0 +1,80 @@
+{
+  "title": "The Death of Sisera",
+  "subtitle": "The General Who Stopped Running",
+  "author": "YourWord",
+  "tags": ["war", "women", "victory", "Judges", "forgotten stories"],
+  "paragraphs": [
+    {
+      "para": 1,
+      "body": "Sisera commanded nine hundred iron chariots. The kind of army that made the ground shake three hills away. For twenty years he had pressed down on Israel the way a boot presses on soft ground. The Israelites worked their fields under him. They paid what he demanded. They learned to make themselves small when his men came through.",
+      "styles": {
+        "nine hundred iron chariots": { "size": 24, "color": "#784212", "font": "ExtraBold" },
+        "twenty years": { "size": 22, "color": "#922B21", "font": "bold" },
+        "make themselves small": { "size": 21, "color": "#808B96", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 2,
+      "body": "Deborah was a judge. She sat under a palm tree between Ramah and Bethel and people came to her with their disputes. She sent for a man named Barak and told him what God had said: take ten thousand men to Mount Tabor. I will draw Sisera out to the river Kishon and hand him over to you. Barak looked at her and said he would not go unless SHE WENT WITH HIM.",
+      "styles": {
+        "SHE WENT WITH HIM": { "size": 25, "color": "#1F618D", "font": "ExtraBold" },
+        "sat under a palm tree": { "size": 20, "color": "#1E8449", "font": "italic" },
+        "hand him over to you": { "size": 21, "color": "#922B21", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 3,
+      "body": "Deborah went. She told Barak one thing before the battle started: the honor of this victory will not go to you. God will hand Sisera over to a woman. Barak moved his ten thousand men down the slopes of Tabor anyway. The river Kishon was running fast that season. The chariots hit the mud at the bank and the wheels locked. Nine hundred iron chariots and none of them could move.",
+      "styles": {
+        "the honor of this victory will not go to you": { "size": 22, "color": "#7D6608", "font": "bold-italic" },
+        "The wheels locked.": { "size": 24, "color": "#1A1A2E", "font": "ExtraBold" },
+        "Nine hundred iron chariots": { "size": 22, "color": "#784212", "font": "bold" }
+      }
+    },
+    {
+      "para": 4,
+      "body": "Sisera's army collapsed. Men ran on foot. Barak's soldiers cut them down across the valley. Sisera himself jumped from his chariot and ran. The general who had pressed down on Israel for twenty years was now moving through dry grass and rock on foot, alone, putting distance between himself and the sound of fighting behind him. His sandals were loud on the stones. He was breathing hard.",
+      "styles": {
+        "jumped from his chariot and ran": { "size": 23, "color": "#922B21", "font": "ExtraBold" },
+        "alone": { "size": 24, "color": "#5D6D7E", "font": "bold" },
+        "His sandals were loud on the stones.": { "size": 21, "color": "#1A1A2E", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 5,
+      "body": "He came to the tent of Jael. Her husband Heber had a peace treaty with Sisera's king. Her tent was safe ground. Jael came out to meet him and said: come in, do not be afraid. She covered him with a blanket. He asked for water and she opened a skin of MILK instead, the thick kind, and gave it to him. He drank it. He told her to stand at the door and say no one was here if anyone asked.",
+      "styles": {
+        "MILK": { "size": 25, "color": "#D4AC0D", "font": "ExtraBold" },
+        "come in, do not be afraid": { "size": 22, "color": "#1E8449", "font": "bold-italic" },
+        "She covered him with a blanket.": { "size": 21, "color": "#5D6D7E", "font": "italic" }
+      }
+    },
+    {
+      "para": 6,
+      "body": "He slept. The tent was dim and warm. His chest rose and fell slowly under the blanket. Jael picked up a tent peg. She picked up a hammer. She was a woman who had set up and torn down camps her entire life. Her hands knew exactly how hard to strike and at what angle. She drove the peg through his temple and into the ground. The sound was the same as staking down canvas.",
+      "styles": {
+        "His chest rose and fell slowly": { "size": 21, "color": "#808B96", "font": "italic" },
+        "The sound was the same as staking down canvas.": { "size": 23, "color": "#1A1A2E", "font": "ExtraBold" },
+        "Her hands knew exactly": { "size": 22, "color": "#922B21", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 7,
+      "body": "Barak came running past the tent, still chasing. Jael walked out and stopped him. She said: come, I will show you the man you are looking for. He followed her inside. Sisera was on the ground with the peg through his head. The most feared commander in the region had been killed with a tool used to hold up shelter. Barak stood in the entrance of a woman's tent and looked at what twenty years of terror had come down to.",
+      "styles": {
+        "come, I will show you the man you are looking for": { "size": 22, "color": "#1E8449", "font": "bold-italic" },
+        "a tool used to hold up shelter": { "size": 23, "color": "#784212", "font": "ExtraBold" },
+        "twenty years of terror": { "size": 22, "color": "#922B21", "font": "bold" }
+      }
+    },
+    {
+      "para": 8,
+      "body": "Deborah had sung about this before it happened. Her song named Jael blessed above all women in tents. It described the moment in slow detail — the reaching for the peg, the hammer in her right hand, the way Sisera sank and fell at her feet. The song also described Sisera's mother, far away, standing at her window watching for her son's chariot to appear on the road. Her servants told her he was probably just delayed by dividing the plunder. The window stayed empty.",
+      "styles": {
+        "blessed above all women in tents": { "size": 22, "color": "#1E8449", "font": "bold-italic" },
+        "The window stayed empty.": { "size": 25, "color": "#1A1A2E", "font": "ExtraBold" },
+        "watching for her son's chariot": { "size": 21, "color": "#5D6D7E", "font": "italic" }
+      }
+    }
+  ]
+}

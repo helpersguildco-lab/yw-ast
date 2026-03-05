@@ -1,0 +1,80 @@
+{
+  "title": "Hagar in the Desert",
+  "subtitle": "The Woman Who Gave God a Name",
+  "author": "YourWord",
+  "tags": ["exile", "survival", "motherhood", "Genesis", "forgotten stories"],
+  "paragraphs": [
+    {
+      "para": 1,
+      "body": "Hagar was Egyptian. She did not choose to be in Abraham's household. She did not choose to be given to Abraham as a wife when Sarai could not conceive. She was property that moved between decisions made by other people. When she became pregnant, something shifted in her chest toward Sarai. The text says she looked at her mistress with contempt. That is the one recorded feeling she was allowed to have.",
+      "styles": {
+        "She did not choose.": { "size": 24, "color": "#922B21", "font": "ExtraBold" },
+        "property that moved between decisions": { "size": 21, "color": "#808B96", "font": "bold-italic" },
+        "the one recorded feeling she was allowed to have": { "size": 22, "color": "#5D6D7E", "font": "italic" }
+      }
+    },
+    {
+      "para": 2,
+      "body": "Sarai went to Abraham and said: this is your fault. He told her to do whatever she wanted with Hagar. Sarai treated her harshly enough that Hagar ran. Pregnant, alone, she walked into the desert toward Egypt. The sand was hot through the soles of her feet. She found a spring on the road to Shur and sat down beside it. She had no plan beyond the water in front of her.",
+      "styles": {
+        "do whatever she wanted": { "size": 22, "color": "#784212", "font": "bold-italic" },
+        "The sand was hot through the soles of her feet.": { "size": 21, "color": "#D4AC0D", "font": "italic" },
+        "She had no plan beyond the water in front of her.": { "size": 23, "color": "#1A1A2E", "font": "ExtraBold" }
+      }
+    },
+    {
+      "para": 3,
+      "body": "An angel found her at the spring. The first question was not: are you alright. It was: Hagar, servant of Sarai, where have you come from and where are you going. She answered the first part honestly. She said she was running from her mistress. She did not answer the second part. She had no answer for where she was going.",
+      "styles": {
+        "where have you come from and where are you going": { "size": 22, "color": "#1F618D", "font": "bold-italic" },
+        "She did not answer the second part.": { "size": 24, "color": "#922B21", "font": "ExtraBold" },
+        "running from her mistress": { "size": 21, "color": "#808B96", "font": "italic" }
+      }
+    },
+    {
+      "para": 4,
+      "body": "The angel told her to go back. To submit. Those were the instructions — return to the place you fled from. It was not a comfortable word. She was also told her son would be named Ishmael, which means God hears, because God had heard her suffering. She was a pregnant runaway slave sitting in the sand and God had heard the thing she had not even said out loud yet.",
+      "styles": {
+        "God hears": { "size": 24, "color": "#1E8449", "font": "ExtraBold" },
+        "the thing she had not even said out loud yet": { "size": 22, "color": "#5D6D7E", "font": "bold-italic" },
+        "Return to the place you fled from.": { "size": 22, "color": "#784212", "font": "bold" }
+      }
+    },
+    {
+      "para": 5,
+      "body": "She gave God a name. No one else in scripture does this. She called him EL ROI. The God who sees me. She said: have I really seen God and lived after seeing him. The spring got a name too. Beer Lahai Roi. The well of the Living One who sees me. A slave woman named a spring and named God in the same breath, in the middle of a desert she had walked into with nothing.",
+      "styles": {
+        "EL ROI": { "size": 28, "color": "#1F618D", "font": "ExtraBold" },
+        "No one else in scripture does this.": { "size": 23, "color": "#922B21", "font": "bold" },
+        "named a spring and named God in the same breath": { "size": 22, "color": "#1E8449", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 6,
+      "body": "She went back. Ishmael was born. Years passed. Sarah finally had Isaac and the dynamic in the household cracked open again. Sarah saw Ishmael playing with Isaac one afternoon and told Abraham to throw them out. The slave woman and her son. Abraham did not want to do it. He was distressed through the night. In the morning he got up and gave Hagar bread and a skin of water. The weight of it was light in her arms. He sent them into the wilderness of Beersheba.",
+      "styles": {
+        "throw them out": { "size": 23, "color": "#922B21", "font": "ExtraBold" },
+        "He was distressed through the night.": { "size": 22, "color": "#5D6D7E", "font": "bold-italic" },
+        "The weight of it was light in her arms.": { "size": 21, "color": "#784212", "font": "italic" }
+      }
+    },
+    {
+      "para": 7,
+      "body": "The water ran out. Hagar put Ishmael under a bush. The shade was thin and the boy's breathing was rough and shallow. She walked about a bowshot away and sat down. She could not watch him die but she could still hear him. She lifted her voice and the sound that came out of her was not a prayer with words. God heard the boy. An angel called down and asked her: what is wrong, Hagar. As if the answer was not obvious. As if the question itself was the point.",
+      "styles": {
+        "She could not watch him die but she could still hear him.": { "size": 23, "color": "#922B21", "font": "ExtraBold" },
+        "the boy's breathing was rough and shallow": { "size": 21, "color": "#5D6D7E", "font": "italic" },
+        "what is wrong, Hagar": { "size": 22, "color": "#1F618D", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 8,
+      "body": "God opened her eyes and she saw a well of water. It had been there the whole time. She filled the skin. She went to her son and held the opening to his mouth. The water sound against the back of his throat was the only sound in that part of the desert. Ishmael grew up. He became an archer. He lived in the wilderness of Paran and his mother found him a wife from Egypt. From the country she had never stopped being from.",
+      "styles": {
+        "It had been there the whole time.": { "size": 25, "color": "#1E8449", "font": "ExtraBold" },
+        "The water sound against the back of his throat": { "size": 22, "color": "#1F618D", "font": "bold-italic" },
+        "the country she had never stopped being from": { "size": 22, "color": "#784212", "font": "bold" }
+      }
+    }
+  ]
+}

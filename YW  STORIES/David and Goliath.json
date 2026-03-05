@@ -1,0 +1,93 @@
+{
+  "title": "David and Goliath",
+  "subtitle": "The Boy Who Walked Into the Shadow",
+  "author": "YourWord",
+  "tags": ["faith", "courage", "giants", "Israel", "Old Testament"],
+  "style_notes": {
+    "geronimo_mode": true,
+    "description": "Words styled with size, weight, color, and italics to create visual drama. Use Flutter RichText or HTML spans to render."
+  },
+  "pages": [
+    {
+      "page": 1,
+      "heading": "The Valley of Elah",
+      "body": "The Philistine army lined the ridge like a *wall of iron*. Forty thousand sandals pressed into the dust. The air smelled of **SWEAT**, leather, and something older — like the earth before a storm. Israel's soldiers stood on the opposite hill, not moving. Just... watching.",
+      "style_hints": {
+        "SWEAT": "large, bold, red",
+        "wall of iron": "italic, gray",
+        "not moving": "small, faded"
+      }
+    },
+    {
+      "page": 2,
+      "heading": "The Giant Speaks",
+      "body": "Then he came out. **GOLIATH.** Nine feet tall. Bronze helmet. Spear like a *weaver's beam*. His voice didn't shout — it *rolled* across the valley like THUNDER through a cave. 'Send me a man,' he said. His knuckles were scarred. He had done this before.",
+      "style_hints": {
+        "GOLIATH": "massive, bold, dark bronze color",
+        "THUNDER": "large, bold, vibrating effect",
+        "rolled": "italic",
+        "weaver's beam": "italic, small"
+      }
+    },
+    {
+      "page": 3,
+      "heading": "The Boy With Bread",
+      "body": "David arrived carrying *cheese*. His father sent him to check on his brothers — not to fight, just to deliver lunch. He was the youngest. The one left behind with the sheep. He heard Goliath's voice and his *jaw tightened*. He asked the same question twice, to two different men.",
+      "style_hints": {
+        "cheese": "italic, small, almost silly",
+        "jaw tightened": "italic, bold",
+        "twice": "underline"
+      }
+    },
+    {
+      "page": 4,
+      "heading": "His Brothers Were Angry",
+      "body": "Eliab — David's oldest brother — *grabbed his arm*. 'Why are you even here? Who's watching those few sheep?' His voice was sharp. His eyes were sharper. David turned away from him **calmly**. That was the contradiction: the younger one wasn't afraid of the giant. He was used to being dismissed by the people who should've believed in him.",
+      "style_hints": {
+        "grabbed his arm": "bold, italic",
+        "calmly": "large, bold, unexpected weight",
+        "few sheep": "small, mocking font size"
+      }
+    },
+    {
+      "page": 5,
+      "heading": "Before the King",
+      "body": "King Saul looked at David the way adults look at children who've said something *inconvenient*. 'You're just a boy,' he said. David's tunic was dusty. His hands smelled like grass. He said: **'I killed a lion. I killed a bear. This Philistine will be like one of them.'** Saul had no answer for that.",
+      "style_hints": {
+        "inconvenient": "italic, small",
+        "I killed a lion. I killed a bear.": "bold, escalating font size",
+        "no answer": "faded, small"
+      }
+    },
+    {
+      "page": 6,
+      "heading": "The Armor That Didn't Fit",
+      "body": "Saul tried to dress him in *bronze armor*. A helmet. A coat of mail. David put it on, took two steps, and stopped. He took it all off. He walked to the stream instead. He reached in with his hand and pulled out **five smooth stones**. Cold. Round. *Perfect.*",
+      "style_hints": {
+        "bronze armor": "italic, heavy",
+        "five smooth stones": "bold, spaced letters",
+        "Perfect": "italic, standalone, period for weight"
+      }
+    },
+    {
+      "page": 7,
+      "heading": "The Walk Across the Valley",
+      "body": "Goliath saw him coming and *laughed*. An actual laugh. He looked at the shepherd boy and said, 'Am I a dog, that you come at me with sticks?' The ground between them was **DRY**, cracked, silent. David's feet were bare. He could feel every pebble. He kept walking.",
+      "style_hints": {
+        "laughed": "italic, mocking",
+        "DRY": "large, cracked texture if possible",
+        "kept walking": "bold, slow, steady"
+      }
+    },
+    {
+      "page": 8,
+      "heading": "One Stone",
+      "body": "David reached into his bag. His fingers closed around the first stone — cold, slightly *damp* from the stream. He swung the sling once. Twice. The stone left his hand at a speed no eye could follow. It struck Goliath in the *center of his forehead*. The ground shook when he fell. **The whole valley went quiet.**",
+      "style_hints": {
+        "damp": "italic, textural",
+        "center of his forehead": "bold, precise",
+        "The whole valley went quiet": "large, then fade to small at end"
+      }
+    }
+  ]
+}

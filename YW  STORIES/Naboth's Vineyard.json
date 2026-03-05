@@ -1,0 +1,71 @@
+{
+  "title": "Naboth's Vineyard",
+  "subtitle": "The Man Who Said No to a King",
+  "author": "YourWord",
+  "tags": ["justice", "greed", "power", "Old Testament", "forgotten stories"],
+  "paragraphs": [
+    {
+      "para": 1,
+      "body": "Naboth owned a vineyard. It was next to the palace — close enough that King Ahab could see it from his window every morning. The vines were old. The soil had been worked by Naboth's father, and his father's father. It smelled like crushed fig and iron-red earth after rain.",
+      "styles": {
+        "old": { "size": 22, "color": "#784212", "font": "bold-italic" },
+        "Naboth's father, and his father's father": { "size": 20, "color": "#7D6608", "font": "italic" },
+        "iron-red earth after rain": { "size": 21, "color": "#922B21", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 2,
+      "body": "Ahab wanted it for a vegetable garden. He went to Naboth with a clean offer — money, or a better vineyard somewhere else. Fair terms. King's terms. Naboth looked at him and said NO. 'This is my inheritance. The land of my fathers. I will not give it to you.' That was it. No argument. Just no.",
+      "styles": {
+        "NO": { "size": 28, "color": "#922B21", "font": "ExtraBold" },
+        "Fair terms. King's terms.": { "size": 20, "color": "#5D6D7E", "font": "bold-italic" },
+        "Just no.": { "size": 23, "color": "#1A1A2E", "font": "ExtraBold" }
+      }
+    },
+    {
+      "para": 3,
+      "body": "Ahab went home, lay on his bed, turned his face to the wall, and REFUSED TO EAT. The king of Israel — commander of armies, builder of cities — was sulking. His lips were pressed shut. The palace was quiet around him. Nobody knew what to do.",
+      "styles": {
+        "REFUSED TO EAT": { "size": 24, "color": "#1F618D", "font": "ExtraBold" },
+        "sulking": { "size": 22, "color": "#808B96", "font": "bold-italic" },
+        "turned his face to the wall": { "size": 20, "color": "#5D6D7E", "font": "italic" }
+      }
+    },
+    {
+      "para": 4,
+      "body": "His wife Jezebel found him like that. She didn't comfort him — she was annoyed. 'Are you the king of Israel or not?' She told him to get up and eat. She said she would handle Naboth. Her handwriting went out on letters sealed with Ahab's ring. She wore his authority like a BORROWED COAT.",
+      "styles": {
+        "Are you the king of Israel or not?": { "size": 21, "color": "#7D6608", "font": "bold-italic" },
+        "BORROWED COAT": { "size": 23, "color": "#922B21", "font": "ExtraBold" },
+        "sealed with Ahab's ring": { "size": 20, "color": "#784212", "font": "italic" }
+      }
+    },
+    {
+      "para": 5,
+      "body": "The letters told the elders of Naboth's city to find two men — liars — and have them accuse Naboth of cursing God and the king. A public trial. Witnesses. Everything looked correct from the outside. Naboth was dragged out of the city and STONED TO DEATH. The elders sent a report back to Jezebel. Clean and efficient.",
+      "styles": {
+        "STONED TO DEATH": { "size": 26, "color": "#922B21", "font": "ExtraBold" },
+        "Everything looked correct from the outside.": { "size": 21, "color": "#5D6D7E", "font": "bold-italic" },
+        "Clean and efficient.": { "size": 22, "color": "#1A1A2E", "font": "bold" }
+      }
+    },
+    {
+      "para": 6,
+      "body": "Jezebel told Ahab: Naboth is dead. Go take the vineyard. He got up immediately. Walked over. Stood in the vineyard that smelled like crushed fig and old soil. Then Elijah appeared. God had sent him. His first words to Ahab were: HAVE YOU KILLED AND ALSO TAKEN? The vines stood still around them in the afternoon heat.",
+      "styles": {
+        "HAVE YOU KILLED AND ALSO TAKEN?": { "size": 25, "color": "#1A5276", "font": "ExtraBold" },
+        "Go take the vineyard.": { "size": 21, "color": "#7D6608", "font": "bold-italic" },
+        "The vines stood still": { "size": 20, "color": "#1E8449", "font": "italic" }
+      }
+    },
+    {
+      "para": 7,
+      "body": "Ahab called Elijah his enemy. Elijah didn't argue. He just delivered the verdict: dogs would lick Ahab's blood in the same place they licked Naboth's. Jezebel would be eaten by dogs at the wall of Jezreel. Every word came true. Naboth never got his vineyard back. But the ground remembered.",
+      "styles": {
+        "dogs would lick Ahab's blood": { "size": 22, "color": "#922B21", "font": "ExtraBold" },
+        "Every word came true.": { "size": 23, "color": "#1F618D", "font": "bold" },
+        "the ground remembered": { "size": 22, "color": "#784212", "font": "bold-italic" }
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "title": "The Witch of Endor",
+  "subtitle": "The King Who Spoke to the Dead",
+  "author": "YourWord",
+  "tags": ["fear", "desperation", "death", "Old Testament", "forgotten stories"],
+  "paragraphs": [
+    {
+      "para": 1,
+      "body": "The Philistine army had spread across the valley like a dark stain. Saul stood at the edge of his camp and looked at them and his stomach went cold. He prayed. God did not answer. Not in dreams, not through priests, not through prophets. The silence was its own kind of VERDICT.",
+      "styles": {
+        "VERDICT": { "size": 26, "color": "#1A1A2E", "font": "ExtraBold" },
+        "dark stain": { "size": 21, "color": "#5D6D7E", "font": "bold-italic" },
+        "his stomach went cold": { "size": 20, "color": "#1F618D", "font": "italic" }
+      }
+    },
+    {
+      "para": 2,
+      "body": "Samuel was dead. The one man who had ever spoken truth to Saul's face — gone. Buried. Saul had spent years hunting David, burning relationships, making enemies out of allies. Now the war was here and he had no one left to ask. He remembered there was a woman in Endor who spoke to the dead.",
+      "styles": {
+        "Samuel was dead.": { "size": 24, "color": "#922B21", "font": "ExtraBold" },
+        "burning relationships": { "size": 21, "color": "#784212", "font": "bold-italic" },
+        "he had no one left to ask": { "size": 21, "color": "#808B96", "font": "italic" }
+      }
+    },
+    {
+      "para": 3,
+      "body": "He disguised himself. Removed his royal robes, put on plain clothes, and walked through the night with two men. The woman's house was dark and low. She opened the door cautiously — she knew that Saul had outlawed mediums across the entire kingdom. She had good reason to be afraid of EXACTLY THIS KIND OF VISIT.",
+      "styles": {
+        "walked through the night": { "size": 20, "color": "#5D6D7E", "font": "italic" },
+        "EXACTLY THIS KIND OF VISIT": { "size": 23, "color": "#922B21", "font": "ExtraBold" },
+        "dark and low": { "size": 20, "color": "#1A1A2E", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 4,
+      "body": "Saul asked her to call up Samuel. She began — and then she SCREAMED. She had seen something. She turned to her visitor and said: you are Saul. He told her not to be afraid. His disguise had lasted exactly as long as the ritual took to work. She described an old man coming up from the earth, wrapped in a robe.",
+      "styles": {
+        "SCREAMED": { "size": 26, "color": "#922B21", "font": "ExtraBold" },
+        "you are Saul": { "size": 23, "color": "#1F618D", "font": "bold-italic" },
+        "coming up from the earth": { "size": 21, "color": "#784212", "font": "italic" }
+      }
+    },
+    {
+      "para": 5,
+      "body": "Saul bowed his face to the ground. Samuel's voice came. It was not comforting. 'Why have you disturbed me?' Cold. Annoyed. The same directness as always — death had not softened him. Saul explained everything: the Philistines, the silence of God, the desperation. He was the most powerful man in Israel, pressing his FACE INTO THE DIRT, begging a ghost.",
+      "styles": {
+        "Why have you disturbed me?": { "size": 22, "color": "#5D6D7E", "font": "bold-italic" },
+        "FACE INTO THE DIRT": { "size": 24, "color": "#922B21", "font": "ExtraBold" },
+        "death had not softened him": { "size": 21, "color": "#1A1A2E", "font": "italic" }
+      }
+    },
+    {
+      "para": 6,
+      "body": "Samuel told him what he already knew, made worse by hearing it spoken aloud. God had left him. The kingdom had been torn away and given to David. Tomorrow — TOMORROW — Saul and his sons would be dead. The Philistines would win. Samuel's last recorded words to Saul were a confirmation of everything Saul had feared in the dark.",
+      "styles": {
+        "TOMORROW": { "size": 28, "color": "#922B21", "font": "ExtraBold" },
+        "God had left him": { "size": 22, "color": "#1A1A2E", "font": "bold" },
+        "everything Saul had feared in the dark": { "size": 21, "color": "#5D6D7E", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 7,
+      "body": "Saul collapsed. Full length on the ground. The woman knelt beside him — the same woman he had made a criminal by royal decree — and told him to eat. She killed her best calf. Baked bread. Fed the king of Israel on the floor of her house, the night before his last battle. He ate. He stood up. He walked back out into the dark.",
+      "styles": {
+        "the same woman he had made a criminal": { "size": 21, "color": "#7D6608", "font": "bold-italic" },
+        "his last battle": { "size": 23, "color": "#922B21", "font": "ExtraBold" },
+        "He walked back out into the dark.": { "size": 24, "color": "#1A1A2E", "font": "bold" }
+      }
+    }
+  ]
+}

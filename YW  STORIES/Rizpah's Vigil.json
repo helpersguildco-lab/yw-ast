@@ -1,0 +1,62 @@
+{
+  "title": "Rizpah's Vigil",
+  "subtitle": "The Woman Who Would Not Leave",
+  "author": "YourWord",
+  "tags": ["grief", "loyalty", "mother", "Old Testament", "forgotten stories"],
+  "paragraphs": [
+    {
+      "para": 1,
+      "body": "There was a famine. Three years of cracked earth and empty grain jars. David asked God why, and God said: because of Saul. Because of BLOOD that was never answered. Seven men from Saul's family had to die. The king agreed. The men were handed over.",
+      "styles": {
+        "BLOOD": { "size": 24, "color": "#922B21", "font": "ExtraBold" },
+        "Three years": { "size": 20, "color": "#7D6608", "font": "bold-italic" },
+        "The king agreed.": { "size": 21, "color": "#5D6D7E", "font": "bold" }
+      }
+    },
+    {
+      "para": 2,
+      "body": "Two of the seven were Rizpah's sons. She had been Saul's concubine — not a queen, not a wife, just a woman who belonged to a king who was now dead. Nobody wrote her name in the records. Nobody asked her anything. The men were executed at the start of the barley harvest, when the hills were just turning gold.",
+      "styles": {
+        "not a queen, not a wife": { "size": 20, "color": "#808B96", "font": "italic" },
+        "Nobody asked her anything.": { "size": 22, "color": "#1A1A2E", "font": "ExtraBold" },
+        "just turning gold": { "size": 20, "color": "#D4AC0D", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 3,
+      "body": "They were hung on a hill. Left there. That was the point — exposure, not just death. The bodies were meant to stay until someone decided they didn't have to anymore. Rizpah took SACKCLOTH and spread it on a rock at the base of the hill. She sat down. She did not leave.",
+      "styles": {
+        "SACKCLOTH": { "size": 22, "color": "#784212", "font": "ExtraBold" },
+        "She did not leave.": { "size": 24, "color": "#1E8449", "font": "ExtraBold" },
+        "exposure, not just death": { "size": 20, "color": "#922B21", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 4,
+      "body": "By day she drove away the birds. You could hear her — the crack of cloth, the sharp sound of her voice cutting across the hill. By night she drove away the wild animals. The darkness came every night. She stayed through all of it. The harvest ended. The rains didn't come. She was still there.",
+      "styles": {
+        "crack of cloth": { "size": 20, "color": "#5D6D7E", "font": "bold-italic" },
+        "She was still there.": { "size": 24, "color": "#1F618D", "font": "ExtraBold" },
+        "The rains didn't come.": { "size": 21, "color": "#7D6608", "font": "bold" }
+      }
+    },
+    {
+      "para": 5,
+      "body": "Word reached David. He heard what Rizpah had been doing — alone, on that rock, for MONTHS. He got up. He gathered the bones of Saul and Jonathan from Jabesh-gilead, and the bones of the seven men from the hill. He buried all of them. Properly. With ceremony. After that, God answered the prayers for the land.",
+      "styles": {
+        "MONTHS": { "size": 26, "color": "#922B21", "font": "ExtraBold" },
+        "alone, on that rock": { "size": 20, "color": "#808B96", "font": "italic" },
+        "God answered": { "size": 22, "color": "#1E8449", "font": "ExtraBold" }
+      }
+    },
+    {
+      "para": 6,
+      "body": "Rizpah never spoke in this story. Not one recorded word. She had no army, no title, no petition. She had SACKCLOTH and presence. A king changed his actions because one woman refused to move. The rain came down on a land that had forgotten her sons.",
+      "styles": {
+        "Not one recorded word.": { "size": 22, "color": "#5D6D7E", "font": "bold-italic" },
+        "SACKCLOTH and presence": { "size": 23, "color": "#784212", "font": "ExtraBold" },
+        "refused to move": { "size": 21, "color": "#1A5276", "font": "bold-italic" }
+      }
+    }
+  ]
+}
