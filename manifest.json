@@ -1,1 +1,235 @@
 
+{
+  "version": 1,
+  "updated": "2026-03-05",
+  "music": [
+    {
+      "id": "Breath In My Bones",
+      "title": "Breath In My Bones",
+      "genre": "Acoustic",
+      "album": "House Made Of Hallelujahs",
+      "cover": "House Made Of Hallelujahs.webp",
+      "file": "songs/Breath In My Bones.mp3"
+    },
+    {
+      "id": "House Made Of Hallelujahs",
+      "title": "House Made Of Hallelujahs",
+      "genre": "Acoustic",
+      "album": "House Made Of Hallelujahs",
+      "cover": "House Made Of Hallelujahs.webp",
+      "file": "songs/House Made Of Hallelujahs.mp3"
+    },
+    {
+      "id": "Nearer Than My Breathing",
+      "title": "Nearer Than My Breathing",
+      "genre": "Acoustic",
+      "album": "House Made Of Hallelujahs",
+      "cover": "House Made Of Hallelujahs.webp",
+      "file": "songs/Nearer Than My Breathing.mp3"
+    },
+    {
+      "id": "Sunday Morning Joyride",
+      "title": "Sunday Morning Joyride",
+      "genre": "Acoustic",
+      "album": "House Made Of Hallelujahs",
+      "cover": "House Made Of Hallelujahs.webp",
+      "file": "songs/Sunday Morning Joyride.mp3"
+    },
+    {
+      "id": "Breath in Our Bones",
+      "title": "Breath in Our Bones",
+      "genre": "choir",
+      "album": "Bones - choir",
+      "cover": "Bones - choir.webp",
+      "file": "songs/Breath in Our Bones.mp3"
+    },
+    {
+      "id": "Hold Me Steady, Lord",
+      "title": "Hold Me Steady, Lord",
+      "genre": "choir",
+      "album": "Bones - choir",
+      "cover": "Bones - choir.webp",
+      "file": "songs/Hold Me Steady, Lord.mp3"
+    },
+    {
+      "id": "You Are Holy In This Place",
+      "title": "You Are Holy In This Place",
+      "genre": "choir",
+      "album": "Bones - choir",
+      "cover": "Bones - choir.webp",
+      "file": "songs/You Are Holy In This Place.mp3"
+    }
+  ],
+  "audio_stories": [
+    {
+      "id": "Absalom and the Politics of Charisma",
+      "title": "Absalom and the Politics of Charisma",
+      "cover": "Absalom and the Politics of Charisma.webp",
+      "file": "audio/Absalom and the Politics of Charisma.opus"
+    },
+    {
+      "id": "Elijah and the Limits of Spectacle",
+      "title": "Elijah and the Limits of Spectacle",
+      "cover": "Elijah and the Limits of Spectacle.webp",
+      "file": "audio/Elijah and the Limits of Spectacle.opus"
+    },
+    {
+      "id": "Jairus’ Daughter and the Woman Who Touched Jesus",
+      "title": "Jairus’ Daughter and the Woman Who Touched Jesus",
+      "cover": "Jairus’ Daughter and the Woman Who Touched Jesus.webp",
+      "file": "audio/Jairus’ Daughter and the Woman Who Touched Jesus.opus"
+    },
+    {
+      "id": "Jesus Calms the Storm",
+      "title": "Jesus Calms the Storm",
+      "cover": "Jesus Calms the Storm.webp",
+      "file": "audio/Jesus Calms the Storm.opus"
+    },
+    {
+      "id": "Jesus Walks on Water",
+      "title": "Jesus Walks on Water",
+      "cover": "Jesus Walks on Water.webp",
+      "file": "audio/Jesus Walks on Water.opus"
+    },
+    {
+      "id": "Job Integrity Under a System That Refuses Explanation",
+      "title": "Job Integrity Under a System That Refuses Explanation",
+      "cover": "Job Integrity Under a System That Refuses Explanation.webp",
+      "file": "audio/Job Integrity Under a System That Refuses Explanation.opus"
+    },
+    {
+      "id": "Joseph Power, Delay, and the Nonlinear Fulfillment of Promises",
+      "title": "Joseph Power, Delay, and the Nonlinear Fulfillment of Promises",
+      "cover": "Joseph Power, Delay, and the Nonlinear Fulfillment of Promises.webp",
+      "file": "audio/Joseph Power, Delay, and the Nonlinear Fulfillment of Promises.opus"
+    },
+    {
+      "id": "Moses and Pharaoh Authority in Conflict",
+      "title": "Moses and Pharaoh Authority in Conflict",
+      "cover": "Moses and Pharaoh Authority in Conflict.webp",
+      "file": "audio/Moses and Pharaoh Authority in Conflict.opus"
+    },
+    {
+      "id": "The Feeding of the Five Thousand",
+      "title": "The Feeding of the Five Thousand",
+      "cover": "The Feeding of the Five Thousand.webp",
+      "file": "audio/The Feeding of the Five Thousand.opus"
+    },
+    {
+      "id": "The Forgotten Priest",
+      "title": "The Forgotten Priest",
+      "cover": "The Forgotten Priest.webp",
+      "file": "audio/The Forgotten Priest.opus"
+    },
+    {
+      "id": "The Healing of the Paralytic",
+      "title": "The Healing of the Paralytic",
+      "cover": "The Healing of the Paralytic.webp",
+      "file": "audio/The Healing of the Paralytic.opus"
+    },
+    {
+      "id": "The Lost Sheep",
+      "title": "The Lost Sheep",
+      "cover": "The Lost Sheep.webp",
+      "file": "audio/The Lost Sheep.opus"
+    },
+    {
+      "id": "The Man Who Slept Under a Tree",
+      "title": "The Man Who Slept Under a Tree",
+      "cover": "The Man Who Slept Under a Tree.webp",
+      "file": "audio/The Man Who Slept Under a Tree.opus"
+    },
+    {
+      "id": "The Mustard Seed Faith",
+      "title": "The Mustard Seed Faith",
+      "cover": "The Mustard Seed Faith.webp",
+      "file": "audio/The Mustard Seed Faith.opus"
+    },
+    {
+      "id": "The Rich Man and Lazarus",
+      "title": "The Rich Man and Lazarus",
+      "cover": "The Rich Man and Lazarus.webp",
+      "file": "audio/The Rich Man and Lazarus .opus"
+    },
+    {
+      "id": "The Sower and the Soils",
+      "title": "The Sower and the Soils",
+      "cover": "The Sower and the Soils.webp",
+      "file": "audio/The Sower and the Soils.opus"
+    },
+    {
+      "id": "The Ten Lepers Healed",
+      "title": "The Ten Lepers Healed",
+      "cover": "The Ten Lepers Healed.webp",
+      "file": "audio/The Ten Lepers Healed.opus"
+    },
+    {
+      "id": "The Widow of Zarephath",
+      "title": "The Widow of Zarephath",
+      "cover": "The Widow of Zarephath.webp",
+      "file": "audio/The Widow of Zarephath.opus"
+    },
+    {
+      "id": "The Woman at the Well",
+      "title": "The Woman at the Well",
+      "cover": "The Woman at the Well.webp",
+      "file": "audio/The Woman at the Well.opus"
+    },
+    {
+      "id": "Zacchaeus Meets Jesus",
+      "title": "Zacchaeus Meets Jesus",
+      "cover": "Zacchaeus Meets Jesus.webp",
+      "file": "audio/Zacchaeus Meets Jesus.opus"
+    }
+  ],
+  "read_stories": [
+    {
+      "id": "David and Goliath",
+      "title": "David and Goliath",
+      "cover": "David and Goliath.webp",
+      "file": "David and Goliath.json"
+    },
+    {
+      "id": "Elijah under the Juniper Tree",
+      "title": "Elijah under the Juniper Tree",
+      "cover": "Elijah under the Juniper Tree.webp",
+      "file": "Elijah under the Juniper Tree.json"
+    },
+    {
+      "id": "Hagar in the Desert",
+      "title": "Hagar in the Desert",
+      "cover": "Hagar in the Desert.webp",
+      "file": "Hagar in the Desert.json"
+    },
+    {
+      "id": "Jephthah's Daughter",
+      "title": "Jephthah's Daughter",
+      "cover": "Jephthah's Daughter.webp",
+      "file": "Jephthah's Daughter.json"
+    },
+    {
+      "id": "Naboth's Vineyard",
+      "title": "Naboth's Vineyard",
+      "cover": "Naboth's Vineyard.webp",
+      "file": "Naboth's Vineyard.json"
+    },
+    {
+      "id": "Rizpah's Vigil",
+      "title": "Rizpah's Vigil",
+      "cover": "Rizpah's Vigil.webp",
+      "file": "Rizpah's Vigil.json"
+    },
+    {
+      "id": "The Death of Sisera",
+      "title": "The Death of Sisera",
+      "cover": "The Death of Sisera.webp",
+      "file": "The Death of Sisera.json"
+    },
+    {
+      "id": "The Witch of Endor",
+      "title": "The Witch of Endor",
+      "cover": "The Witch of Endor.webp",
+      "file": "The Witch of Endor.json"
+    }
+  ]
+}
