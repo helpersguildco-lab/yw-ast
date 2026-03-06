@@ -1,7 +1,6 @@
-
 {
   "version": 1,
-  "updated": "2026-03-05",
+  "updated": "2026-03-06",
   "music": [
     {
       "id": "Breath In My Bones",
@@ -58,6 +57,62 @@
       "album": "Bones - choir",
       "cover": "Bones - choir.webp",
       "file": "songs/You Are Holy In This Place.mp3"
+    },
+    {
+      "id": "At the altar",
+      "title": "At the altar",
+      "genre": "Instrumental",
+      "album": "Levine Acoustic",
+      "cover": "Levine Acoustic.webp",
+      "file": "songs/At the altar.opus"
+    },
+    {
+      "id": "Laid down",
+      "title": "Laid down",
+      "genre": "Instrumental",
+      "album": "Levine Acoustic",
+      "cover": "Levine Acoustic.webp",
+      "file": "songs/Laid down.opus"
+    },
+    {
+      "id": "All My Heart on Fire",
+      "title": "All My Heart on Fire",
+      "genre": "Rock",
+      "album": "Heart on fire",
+      "cover": "Heart on fire.webp",
+      "file": "songs/All My Heart on Fire.opus"
+    },
+    {
+      "id": "Bring Me To The Fire",
+      "title": "Bring Me To The Fire",
+      "genre": "Rock",
+      "album": "Heart on fire",
+      "cover": "Heart on fire.webp",
+      "file": "songs/Bring Me To The Fire.opus"
+    },
+    {
+      "id": "Hallelujah Highway",
+      "title": "Hallelujah Highway",
+      "genre": "Rock",
+      "album": "Heart on fire",
+      "cover": "Heart on fire.webp",
+      "file": "songs/Hallelujah Highway .opus"
+    },
+    {
+      "id": "Hallelujah",
+      "title": "Hallelujah",
+      "genre": "Rock",
+      "album": "Heart on fire",
+      "cover": "Heart on fire.webp",
+      "file": "songs/Hallelujah.opus"
+    },
+    {
+      "id": "Set My Heart On Fire",
+      "title": "Set My Heart On Fire",
+      "genre": "Rock",
+      "album": "Heart on fire",
+      "cover": "Heart on fire.webp",
+      "file": "songs/Set My Heart On Fire.opus"
     }
   ],
   "audio_stories": [
