@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-03-06",
+  "updated": "2026-03-10",
   "music": [
     {
       "id": "Breath In My Bones",
@@ -37,7 +37,7 @@
     {
       "id": "Breath in Our Bones",
       "title": "Breath in Our Bones",
-      "genre": "choir",
+      "genre": "Choir",
       "album": "Bones - choir",
       "cover": "Bones - choir.webp",
       "file": "songs/Breath in Our Bones.mp3"
@@ -45,7 +45,7 @@
     {
       "id": "Hold Me Steady, Lord",
       "title": "Hold Me Steady, Lord",
-      "genre": "choir",
+      "genre": "Choir",
       "album": "Bones - choir",
       "cover": "Bones - choir.webp",
       "file": "songs/Hold Me Steady, Lord.mp3"
@@ -53,10 +53,58 @@
     {
       "id": "You Are Holy In This Place",
       "title": "You Are Holy In This Place",
-      "genre": "choir",
+      "genre": "Choir",
       "album": "Bones - choir",
       "cover": "Bones - choir.webp",
       "file": "songs/You Are Holy In This Place.mp3"
+    },
+    {
+      "id": "Close Enough To Hear You",
+      "title": "Close Enough To Hear You",
+      "genre": "Choir",
+      "album": "Here With Me Now",
+      "cover": "Here With Me Now.webp",
+      "file": "songs/Close Enough To Hear You.mp3"
+    },
+    {
+      "id": "Holy Breath in Broken Rooms",
+      "title": "Holy Breath in Broken Rooms",
+      "genre": "Choir",
+      "album": "Here With Me Now",
+      "cover": "Here With Me Now.webp",
+      "file": "songs/Holy Breath in Broken Rooms.mp3"
+    },
+    {
+      "id": "Near",
+      "title": "Near",
+      "genre": "Choir",
+      "album": "Here With Me Now",
+      "cover": "Here With Me Now.webp",
+      "file": "songs/Near.mp3"
+    },
+    {
+      "id": "I’ll Still Praise You",
+      "title": "I’ll Still Praise You",
+      "genre": "Country",
+      "album": "David Illya - Roads",
+      "cover": "David Illya - Roads.webp",
+      "file": "songs/I’ll Still Praise You.mp3"
+    },
+    {
+      "id": "Open Hands, Dusty Boots",
+      "title": "Open Hands, Dusty Boots",
+      "genre": "Country",
+      "album": "David Illya - Roads",
+      "cover": "David Illya - Roads.webp",
+      "file": "songs/Open Hands, Dusty Boots.mp3"
+    },
+    {
+      "id": "Rust On My Boots",
+      "title": "Rust On My Boots",
+      "genre": "Country",
+      "album": "David Illya - Roads",
+      "cover": "David Illya - Roads.webp",
+      "file": "songs/Rust On My Boots.mp3"
     },
     {
       "id": "At the altar",
@@ -113,6 +161,38 @@
       "album": "Heart on fire",
       "cover": "Heart on fire.webp",
       "file": "songs/Set My Heart On Fire.opus"
+    },
+    {
+      "id": "Hold Me Through the Hurt",
+      "title": "Hold Me Through the Hurt",
+      "genre": "Rock",
+      "album": "Through The Hurt",
+      "cover": "Through The Hurt.webp",
+      "file": "songs/Hold Me Through the Hurt.mp3"
+    },
+    {
+      "id": "Hold My Heart Steady",
+      "title": "Hold My Heart Steady",
+      "genre": "Rock",
+      "album": "Through The Hurt",
+      "cover": "Through The Hurt.webp",
+      "file": "songs/Hold My Heart Steady.mp3"
+    },
+    {
+      "id": "Lead Me Through the Quiet",
+      "title": "Lead Me Through the Quiet",
+      "genre": "Rock",
+      "album": "Through The Hurt",
+      "cover": "Through The Hurt.webp",
+      "file": "songs/Lead Me Through the Quiet.mp3"
+    },
+    {
+      "id": "You Have My Yes",
+      "title": "You Have My Yes",
+      "genre": "Rock",
+      "album": "Through The Hurt",
+      "cover": "Through The Hurt.webp",
+      "file": "songs/You Have My Yes.mp3"
     }
   ],
   "audio_stories": [
