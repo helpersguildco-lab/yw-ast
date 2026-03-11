@@ -1,7 +1,31 @@
 {
   "version": 1,
-  "updated": "2026-03-10",
+  "updated": "2026-03-11",
   "music": [
+    {
+      "id": "Close to Your Whisper",
+      "title": "Close to Your Whisper",
+      "genre": "Acoustic",
+      "album": "Closer to Your whisper - Harry Rio",
+      "cover": "Closer to Your whisper - Harry Rio.webp",
+      "file": "songs/Close to Your Whisper.mp3"
+    },
+    {
+      "id": "Here In The Quiet",
+      "title": "Here In The Quiet",
+      "genre": "Acoustic",
+      "album": "Closer to Your whisper - Harry Rio",
+      "cover": "Closer to Your whisper - Harry Rio.webp",
+      "file": "songs/Here In The Quiet.mp3"
+    },
+    {
+      "id": "Nothing in my hands",
+      "title": "Nothing in my hands",
+      "genre": "Acoustic",
+      "album": "Closer to Your whisper - Harry Rio",
+      "cover": "Closer to Your whisper - Harry Rio.webp",
+      "file": "songs/Nothing in my hands.mp3"
+    },
     {
       "id": "Breath In My Bones",
       "title": "Breath In My Bones",
@@ -81,6 +105,30 @@
       "album": "Here With Me Now",
       "cover": "Here With Me Now.webp",
       "file": "songs/Near.mp3"
+    },
+    {
+      "id": "Holy Flame, One Name",
+      "title": "Holy Flame, One Name",
+      "genre": "Choir",
+      "album": "Trembling Heart - Irina Camine",
+      "cover": "Trembling Heart - Irina Camine.webp",
+      "file": "songs/Holy Flame, One Name.mp3"
+    },
+    {
+      "id": "Throne of Many Crowns",
+      "title": "Throne of Many Crowns",
+      "genre": "Choir",
+      "album": "Trembling Heart - Irina Camine",
+      "cover": "Trembling Heart - Irina Camine.webp",
+      "file": "songs/Throne of Many Crowns.mp3"
+    },
+    {
+      "id": "Trembling Heart is Singing",
+      "title": "Trembling Heart is Singing",
+      "genre": "Choir",
+      "album": "Trembling Heart - Irina Camine",
+      "cover": "Trembling Heart - Irina Camine.webp",
+      "file": "songs/Trembling Heart is Singing.mp3"
     },
     {
       "id": "I’ll Still Praise You",
@@ -325,6 +373,12 @@
       "file": "David and Goliath.json"
     },
     {
+      "id": "David in the Cave with Saul's Robe",
+      "title": "David in the Cave with Saul's Robe",
+      "cover": "David in the Cave with Saul's Robe.webp",
+      "file": "David in the Cave with Saul's Robe.json"
+    },
+    {
       "id": "Elijah under the Juniper Tree",
       "title": "Elijah under the Juniper Tree",
       "cover": "Elijah under the Juniper Tree.webp",
@@ -343,6 +397,18 @@
       "file": "Jephthah's Daughter.json"
     },
     {
+      "id": "Job's Wife",
+      "title": "Job's Wife",
+      "cover": "Job's Wife.webp",
+      "file": "Job's Wife.json"
+    },
+    {
+      "id": "Jonah Inside the Fish",
+      "title": "Jonah Inside the Fish",
+      "cover": "Jonah Inside the Fish.webp",
+      "file": "Jonah Inside the Fish.json"
+    },
+    {
       "id": "Naboth's Vineyard",
       "title": "Naboth's Vineyard",
       "cover": "Naboth's Vineyard.webp",
@@ -353,6 +419,12 @@
       "title": "Rizpah's Vigil",
       "cover": "Rizpah's Vigil.webp",
       "file": "Rizpah's Vigil.json"
+    },
+    {
+      "id": "The Boy on the Mountain",
+      "title": "The Boy on the Mountain",
+      "cover": "The Boy on the Mountain.webp",
+      "file": "The Boy on the Mountain.json"
     },
     {
       "id": "The Death of Sisera",
