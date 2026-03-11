@@ -1,0 +1,80 @@
+{
+  "title": "Jonah Inside the Fish",
+  "subtitle": "Three Days at the Bottom of Everything",
+  "author": "YourWord",
+  "tags": ["prayer", "descent", "rescue", "Jonah", "forgotten stories"],
+  "paragraphs": [
+    {
+      "para": 1,
+      "body": "The sailors threw him over the side. The storm stopped the moment he hit the water. He would have heard the sea go quiet above him while he was already going down. Cold water has weight. It pressed on his chest and ears and forced the air out of him in a stream of bubbles rising while he went the other direction. The surface light shrank to a pale disc and then disappeared.",
+      "styles": {
+        "Cold water has weight.": { "size": 24, "color": "#F1C40F", "font": "ExtraBold" },
+        "going down": { "size": 22, "color": "#3498DB", "font": "bold-italic" },
+        "the surface light shrank to a pale disc": { "size": 21, "color": "#FAD7A0", "font": "italic" }
+      }
+    },
+    {
+      "para": 2,
+      "body": "The fish was prepared. That is the word used. Not summoned. Not created. Prepared. As if it had been waiting in that part of the sea for this exact moment. It swallowed Jonah whole. He was inside it for THREE DAYS AND THREE NIGHTS. The darkness inside was total. The smell was salt water and stomach and the remains of whatever else the fish had eaten.",
+      "styles": {
+        "Prepared.": { "size": 24, "color": "#2ECC71", "font": "bold" },
+        "THREE DAYS AND THREE NIGHTS": { "size": 26, "color": "#E74C3C", "font": "ExtraBold" },
+        "waiting in that part of the sea": { "size": 21, "color": "#1ABC9C", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 3,
+      "body": "He prayed from inside. The prayer reads like a man describing what is still happening while he tries to believe it has already passed. He said: you hurled me into the deep, into the heart of the seas. He said: the currents swirled around me, all your waves and breakers swept over me. He said: I have been banished from your sight. Everything inside the fish was one long present tense.",
+      "styles": {
+        "the heart of the seas": { "size": 22, "color": "#3498DB", "font": "bold-italic" },
+        "I have been banished from your sight": { "size": 23, "color": "#FF6B6B", "font": "bold" },
+        "one long present tense": { "size": 22, "color": "#E67E22", "font": "italic" }
+      }
+    },
+    {
+      "para": 4,
+      "body": "He spoke about going down to the roots of the mountains. The earth with its bars closing behind him forever. Seaweed wrapped around his head. He was at the BOTTOM OF EVERYTHING and he knew it. This is where the turning began. Not because anything changed. Not because light appeared. He turned while still inside. The seaweed was still on his face.",
+      "styles": {
+        "BOTTOM OF EVERYTHING": { "size": 27, "color": "#E74C3C", "font": "ExtraBold" },
+        "Seaweed wrapped around his head.": { "size": 22, "color": "#3498DB", "font": "italic" },
+        "He turned while still inside.": { "size": 23, "color": "#2ECC71", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 5,
+      "body": "He said: when my life was slipping away I remembered you. The word remembered sits heavy. Not shouted. Recalled. Like finding something you buried yourself. He had run from Nineveh to get away from what God said. He was now at the floor of the sea, and what returned first was memory.",
+      "styles": {
+        "remembered": { "size": 26, "color": "#F1C40F", "font": "ExtraBold" },
+        "floor of the sea": { "size": 22, "color": "#1ABC9C", "font": "bold-italic" },
+        "finding something you buried yourself": { "size": 21, "color": "#FAD7A0", "font": "italic" }
+      }
+    },
+    {
+      "para": 6,
+      "body": "He said he would sacrifice with a voice of thanksgiving and pay what he had vowed. He did not bargain. He said it as it was. A statement made from the belly of a fish. The water was still around him when he said it. Nothing had changed except the direction he faced.",
+      "styles": {
+        "voice of thanksgiving": { "size": 23, "color": "#2ECC71", "font": "bold" },
+        "from the belly of a fish": { "size": 22, "color": "#3498DB", "font": "bold-italic" },
+        "the direction he faced": { "size": 24, "color": "#E67E22", "font": "ExtraBold" }
+      }
+    },
+    {
+      "para": 7,
+      "body": "God spoke to the fish and it vomited Jonah on dry land. The sound of it would have been a roar pushed out of water into air. Light struck him from every direction at once. His skin was raw from salt and stomach acid. His eyes blinked hard against the brightness. The sand under him was rough and sun-hot and solid in a way nothing inside the sea had been.",
+      "styles": {
+        "God spoke to the fish": { "size": 24, "color": "#2ECC71", "font": "ExtraBold" },
+        "Light struck him from every direction": { "size": 22, "color": "#F1C40F", "font": "bold" },
+        "The sand under him was rough and sun-hot": { "size": 23, "color": "#E67E22", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 8,
+      "body": "The second chapter ends there. A man lying on a beach catching his breath. The third chapter opens: the word of God came to Jonah a second time. The same words as before. Go to Nineveh. He got up. He still did not want to go. He went anyway, carrying three days of darkness inside him like a stone.",
+      "styles": {
+        "a second time": { "size": 25, "color": "#E74C3C", "font": "ExtraBold" },
+        "He still did not want to go.": { "size": 23, "color": "#FF6B6B", "font": "bold" },
+        "three days of darkness inside him like a stone": { "size": 22, "color": "#3498DB", "font": "bold-italic" }
+      }
+    }
+  ]
+}

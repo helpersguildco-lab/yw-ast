@@ -1,0 +1,62 @@
+{
+  "title": "Job's Wife",
+  "subtitle": "The Woman Behind the Words",
+  "author": "YourWord",
+  "tags": ["grief", "suffering", "Job", "forgotten stories", "Old Testament"],
+  "paragraphs": [
+    {
+      "para": 1,
+      "body": "She had ten children. She buried all ten of them on the same day. The messengers came one after another while the first one was still talking. Oxen gone. Servants dead. Sheep burned. Camels taken. Then the last one: your sons and daughters were eating together and a wind struck the house and they are all dead. She heard every word of it standing next to Job.",
+      "styles": {
+        "She buried all ten of them on the same day.": { "size": 25, "color": "#E74C3C", "font": "ExtraBold" },
+        "the last one": { "size": 22, "color": "#FF6B6B", "font": "bold-italic" },
+        "they are all dead": { "size": 24, "color": "#F1C40F", "font": "bold" }
+      }
+    },
+    {
+      "para": 2,
+      "body": "Job tore his robe and shaved his head and fell on the ground and worshipped. The text records his response carefully and completely. Her response is not recorded. She stood in the same courtyard, heard the same news, lost the same children. What she did in those first hours nobody wrote down. The book moves on without her until she reappears much later, when things have gotten worse.",
+      "styles": {
+        "Her response is not recorded.": { "size": 24, "color": "#3498DB", "font": "ExtraBold" },
+        "lost the same children": { "size": 22, "color": "#FF6B6B", "font": "bold-italic" },
+        "The book moves on without her": { "size": 21, "color": "#FAD7A0", "font": "italic" }
+      }
+    },
+    {
+      "para": 3,
+      "body": "Job's body broke out in sores from his feet to the top of his head. He sat in the ashes and scraped his skin with broken pottery. The sound of it was dry and constant. She looked at the man she had built a life with, covered in wounds, sitting in the dust outside their ruined household. She had lost everything he had lost. She was also still standing. She had not been given the comfort of collapsing.",
+      "styles": {
+        "scraped his skin with broken pottery": { "size": 22, "color": "#E67E22", "font": "italic" },
+        "She had not been given the comfort of collapsing.": { "size": 24, "color": "#2ECC71", "font": "ExtraBold" },
+        "The sound of it was dry and constant.": { "size": 21, "color": "#1ABC9C", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 4,
+      "body": "She spoke. Four words that became the most condemned sentence she would ever say: CURSE GOD AND DIE. Theologians have argued about it for centuries. Some call it faithlessness. Some call it the most honest thing anyone said in the entire book. She was not a distant observer making a theological error. She was a mother who had watched ten funerals and was now watching her husband rot alive in the courtyard.",
+      "styles": {
+        "CURSE GOD AND DIE": { "size": 28, "color": "#E74C3C", "font": "ExtraBold" },
+        "the most honest thing anyone said in the entire book": { "size": 23, "color": "#F1C40F", "font": "bold-italic" },
+        "watching her husband rot alive in the courtyard": { "size": 22, "color": "#FF6B6B", "font": "italic" }
+      }
+    },
+    {
+      "para": 5,
+      "body": "Job called her foolish. He said: shall we accept good from God and not trouble? He was right and she was also right and neither of them could help the other. His three friends arrived and sat with him in silence for seven days. Nobody came and sat with her. Nobody recorded where she went or what she did during the long middle section of the book while Job argued with God.",
+      "styles": {
+        "He was right and she was also right.": { "size": 24, "color": "#2ECC71", "font": "ExtraBold" },
+        "Nobody came and sat with her.": { "size": 24, "color": "#3498DB", "font": "bold" },
+        "sat with him in silence for seven days": { "size": 21, "color": "#FAD7A0", "font": "italic" }
+      }
+    },
+    {
+      "para": 6,
+      "body": "At the end of the book God restored everything Job had lost. New wealth. New animals. New children. Ten more children, the text says, seven sons and three daughters. The daughters were given names. The sons were not. Job lived another hundred and forty years after this and saw four generations of his family. The restoration is described in careful detail. Whether she was healed of anything the book does not say.",
+      "styles": {
+        "Ten more children.": { "size": 24, "color": "#F1C40F", "font": "ExtraBold" },
+        "The daughters were given names. The sons were not.": { "size": 23, "color": "#1ABC9C", "font": "bold-italic" },
+        "Whether she was healed of anything the book does not say.": { "size": 23, "color": "#3498DB", "font": "bold" }
+      }
+    }
+  ]
+}

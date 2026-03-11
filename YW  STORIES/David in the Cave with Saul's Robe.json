@@ -1,0 +1,71 @@
+{
+  "title": "The Corner of the Robe",
+  "subtitle": "The Day David Could Have Ended It",
+  "author": "YourWord",
+  "tags": ["mercy", "restraint", "David", "Saul", "1 Samuel", "forgotten stories"],
+  "paragraphs": [
+    {
+      "para": 1,
+      "body": "Saul had three thousand soldiers and David had six hundred. Saul was the king and David was the fugitive. For months the chase had moved across the wilderness of Judah, through dry hills and rock shelters and riverbeds that went white and dusty in summer. David's men slept on stone and ate what they could find. Saul's army ate from supply lines and slept in tents.",
+      "styles": {
+        "three thousand soldiers": { "size": 23, "color": "#E74C3C", "font": "bold" },
+        "David was the fugitive": { "size": 23, "color": "#3498DB", "font": "bold-italic" },
+        "slept on stone": { "size": 21, "color": "#FAD7A0", "font": "italic" }
+      }
+    },
+    {
+      "para": 2,
+      "body": "Saul came to the wilderness of En Gedi. He went alone into a cave to relieve himself. It was a deep cave, the kind where the air is cooler and the light drops off quickly after the entrance. David and his men were sitting in the back of that exact cave. They pressed themselves against the rock and held their breath. The sound of Saul's sandals on the cave floor came toward them and then stopped.",
+      "styles": {
+        "the back of that exact cave": { "size": 24, "color": "#F1C40F", "font": "ExtraBold" },
+        "held their breath": { "size": 22, "color": "#3498DB", "font": "bold-italic" },
+        "the air is cooler and the light drops off": { "size": 21, "color": "#1ABC9C", "font": "italic" }
+      }
+    },
+    {
+      "para": 3,
+      "body": "David's men leaned toward him in the dark. They said: this is the day God told you about. The enemy is right there. Do it now. David got up quietly. He moved toward Saul through the dark, close enough to hear him breathing. He reached out and cut a piece from the corner of Saul's robe. The fabric came away without a sound. He moved back into the dark and sat down.",
+      "styles": {
+        "this is the day God told you about": { "size": 23, "color": "#2ECC71", "font": "bold-italic" },
+        "close enough to hear him breathing": { "size": 22, "color": "#FF6B6B", "font": "italic" },
+        "The fabric came away without a sound.": { "size": 24, "color": "#F1C40F", "font": "ExtraBold" }
+      }
+    },
+    {
+      "para": 4,
+      "body": "His heart struck him afterward. That is exactly what the text says. Not guilt. Not regret. His heart struck him. He told his men: God forbid that I should do this to my master. He is the anointed of God. He held the piece of cloth in his hand in the dark and would not let his men touch Saul. They sat in the cave while Saul finished and walked back out into the daylight.",
+      "styles": {
+        "His heart struck him.": { "size": 25, "color": "#E74C3C", "font": "ExtraBold" },
+        "He is the anointed of God.": { "size": 23, "color": "#F1C40F", "font": "bold" },
+        "held the piece of cloth in his hand in the dark": { "size": 22, "color": "#FAD7A0", "font": "italic" }
+      }
+    },
+    {
+      "para": 5,
+      "body": "David came out of the cave after Saul had left. He called out across the open ground: My lord the king! Saul turned around. David bowed his face to the earth. Then he held up the corner of the robe. He said: look at what is in my hand. I cut this from your robe and I did not kill you. Some told me to. I refused. The cloth was small and the space between them was large and the wind moved across the hillside.",
+      "styles": {
+        "My lord the king!": { "size": 24, "color": "#F1C40F", "font": "ExtraBold" },
+        "I cut this from your robe and I did not kill you.": { "size": 23, "color": "#2ECC71", "font": "bold" },
+        "The cloth was small and the space between them was large": { "size": 22, "color": "#3498DB", "font": "italic" }
+      }
+    },
+    {
+      "para": 6,
+      "body": "Saul lifted his voice and wept. He said: you are more righteous than I. You have repaid me good while I repaid you evil. He said he knew David would be king. He asked one thing: when you are king, do not wipe out my family name. David swore it. They stood on opposite sides of the hillside, the man being hunted and the man doing the hunting, and the king was the one who wept first.",
+      "styles": {
+        "you are more righteous than I": { "size": 25, "color": "#2ECC71", "font": "ExtraBold" },
+        "the king was the one who wept first": { "size": 23, "color": "#FF6B6B", "font": "bold-italic" },
+        "do not wipe out my family name": { "size": 22, "color": "#FAD7A0", "font": "italic" }
+      }
+    },
+    {
+      "para": 7,
+      "body": "Saul went home. David and his men went back up into the stronghold. The chase resumed not long after. Saul came after him again with three thousand men. The moment in the cave did not stop anything permanently. David still had years of running ahead of him. He kept the piece of cloth. The text never says what he did with it.",
+      "styles": {
+        "The chase resumed not long after.": { "size": 23, "color": "#E74C3C", "font": "bold" },
+        "He kept the piece of cloth.": { "size": 24, "color": "#F1C40F", "font": "ExtraBold" },
+        "The text never says what he did with it.": { "size": 22, "color": "#3498DB", "font": "bold-italic" }
+      }
+    }
+  ]
+}

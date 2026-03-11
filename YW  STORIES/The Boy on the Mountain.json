@@ -1,0 +1,71 @@
+{
+  "title": "The Boy on the Mountain",
+  "subtitle": "What Isaac Saw on the Way to Moriah",
+  "author": "YourWord",
+  "tags": ["faith", "fathers", "sacrifice", "Genesis", "forgotten stories"],
+  "paragraphs": [
+    {
+      "para": 1,
+      "body": "Abraham woke Isaac before sunrise. No explanation given. He told two servants to come along and loaded a donkey with wood. Isaac watched his father move through the dark with the stillness of a man who had already made a decision. They walked for three days. The mornings were cold enough to see your breath.",
+      "styles": {
+        "the stillness of a man who had already made a decision": { "size": 22, "color": "#3498DB", "font": "italic" },
+        "No explanation given.": { "size": 23, "color": "#FF6B6B", "font": "bold" },
+        "cold enough to see your breath": { "size": 21, "color": "#FAD7A0", "font": "italic" }
+      }
+    },
+    {
+      "para": 2,
+      "body": "On the third day Abraham looked up and saw the place from a distance. He stopped the servants and told them to wait with the donkey. Then he said something Isaac would carry for the rest of his life: WE WILL GO AND WORSHIP AND WE WILL COME BACK. Both of us. He said we. Isaac picked up the wood and Abraham carried the fire and the knife and they walked up together.",
+      "styles": {
+        "WE WILL GO AND WORSHIP AND WE WILL COME BACK": { "size": 25, "color": "#F1C40F", "font": "ExtraBold" },
+        "He said we.": { "size": 23, "color": "#2ECC71", "font": "bold" },
+        "the fire and the knife": { "size": 21, "color": "#E74C3C", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 3,
+      "body": "Halfway up, Isaac slowed. The wood was on his back, the grain rough against his shoulders. He looked at his father and said: Father, here is the fire and here is the wood. But WHERE IS THE LAMB? Four words that held everything he had not said yet. Abraham kept walking. He said: God will provide the lamb, my son. Isaac kept walking too.",
+      "styles": {
+        "WHERE IS THE LAMB?": { "size": 26, "color": "#E74C3C", "font": "ExtraBold" },
+        "the grain rough against his shoulders": { "size": 21, "color": "#2ECC71", "font": "italic" },
+        "God will provide the lamb, my son": { "size": 22, "color": "#F1C40F", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 4,
+      "body": "They reached the place. Abraham built the altar with his hands, arranging stones the way a man builds something he does not want to build. He laid the wood on top. Then he turned to Isaac. The text moves past this moment quickly. Isaac was bound and placed on the altar. He was not a small child. He could have run. He did not run.",
+      "styles": {
+        "He did not run.": { "size": 25, "color": "#2ECC71", "font": "ExtraBold" },
+        "the way a man builds something he does not want to build": { "size": 22, "color": "#FAD7A0", "font": "italic" },
+        "He was not a small child.": { "size": 22, "color": "#FF6B6B", "font": "bold" }
+      }
+    },
+    {
+      "para": 5,
+      "body": "Abraham raised the knife. The blade caught the light for a moment. Then a voice from heaven: Abraham! Abraham! He said: here I am. The voice said: do not lay your hand on the boy. Do not do anything to him. Abraham lowered the knife. His hand was shaking or it was steady. The text does not say.",
+      "styles": {
+        "Abraham! Abraham!": { "size": 26, "color": "#F1C40F", "font": "ExtraBold" },
+        "The blade caught the light for a moment.": { "size": 22, "color": "#E67E22", "font": "italic" },
+        "The text does not say.": { "size": 22, "color": "#3498DB", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 6,
+      "body": "Abraham looked up and saw a ram caught in a thicket by its horns. He went and took it and offered it in place of his son. He named that place: GOD WILL PROVIDE. The smoke from the offering drifted sideways across the mountain. Isaac stood beside his father and watched it rise.",
+      "styles": {
+        "GOD WILL PROVIDE": { "size": 26, "color": "#2ECC71", "font": "ExtraBold" },
+        "caught in a thicket by its horns": { "size": 21, "color": "#E67E22", "font": "italic" },
+        "Isaac stood beside his father and watched it rise": { "size": 22, "color": "#FAD7A0", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 7,
+      "body": "They came back down together. The servants were waiting at the base of the mountain with the donkey. They all walked back to Beersheba. Nobody recorded what Abraham and Isaac said to each other on the way down. After this chapter, the two of them are never shown speaking to each other again in the entire book of Genesis.",
+      "styles": {
+        "Nobody recorded what they said on the way down.": { "size": 23, "color": "#3498DB", "font": "bold-italic" },
+        "never shown speaking to each other again": { "size": 24, "color": "#FF6B6B", "font": "ExtraBold" },
+        "the entire book of Genesis": { "size": 21, "color": "#FAD7A0", "font": "italic" }
+      }
+    }
+  ]
+}
