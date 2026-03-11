@@ -155,22 +155,6 @@
       "file": "songs/Rust On My Boots.mp3"
     },
     {
-      "id": "At the altar",
-      "title": "At the altar",
-      "genre": "Instrumental",
-      "album": "Levine Acoustic",
-      "cover": "Levine Acoustic.webp",
-      "file": "songs/At the altar.opus"
-    },
-    {
-      "id": "Laid down",
-      "title": "Laid down",
-      "genre": "Instrumental",
-      "album": "Levine Acoustic",
-      "cover": "Levine Acoustic.webp",
-      "file": "songs/Laid down.opus"
-    },
-    {
       "id": "All My Heart on Fire",
       "title": "All My Heart on Fire",
       "genre": "Rock",
