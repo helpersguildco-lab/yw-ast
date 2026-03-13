@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "updated": "2026-03-11",
+  "version": 1,
+  "updated": "2026-03-13",
   "music": [
     {
       "id": "Close to Your Whisper",
@@ -59,6 +59,22 @@
       "file": "songs/Sunday Morning Joyride.mp3"
     },
     {
+      "id": "Celestial Serenade",
+      "title": "Celestial Serenade",
+      "genre": "Acoustic",
+      "album": "Worries - Angela",
+      "cover": "Worries - Angela.webp",
+      "file": "songs/Celestial Serenade.mp3"
+    },
+    {
+      "id": "Only Your Name",
+      "title": "Only Your Name",
+      "genre": "Acoustic",
+      "album": "Worries - Angela",
+      "cover": "Worries - Angela.webp",
+      "file": "songs/Only Your Name.mp3"
+    },
+    {
       "id": "Breath in Our Bones",
       "title": "Breath in Our Bones",
       "genre": "Choir",
@@ -81,6 +97,30 @@
       "album": "Bones - choir",
       "cover": "Bones - choir.webp",
       "file": "songs/You Are Holy In This Place.mp3"
+    },
+    {
+      "id": "Crown of Mercy",
+      "title": "Crown of Mercy",
+      "genre": "Choir",
+      "album": "Hallowed",
+      "cover": "Hallowed.webp",
+      "file": "songs/Crown of Mercy.mp3"
+    },
+    {
+      "id": "Glory in the Highest",
+      "title": "Glory in the Highest",
+      "genre": "Choir",
+      "album": "Hallowed",
+      "cover": "Hallowed.webp",
+      "file": "songs/Glory in the Highest.mp3"
+    },
+    {
+      "id": "Hallowed Be Your Name",
+      "title": "Hallowed Be Your Name",
+      "genre": "Choir",
+      "album": "Hallowed",
+      "cover": "Hallowed.webp",
+      "file": "songs/Hallowed Be Your Name.mp3"
     },
     {
       "id": "Close Enough To Hear You",
@@ -155,6 +195,30 @@
       "file": "songs/Rust On My Boots.mp3"
     },
     {
+      "id": "Backroad to the Altar",
+      "title": "Backroad to the Altar",
+      "genre": "Country",
+      "album": "Old Red Bible",
+      "cover": "Old Red Bible.webp",
+      "file": "songs/Backroad to the Altar.mp3"
+    },
+    {
+      "id": "Old red Bible",
+      "title": "Old red Bible",
+      "genre": "Country",
+      "album": "Old Red Bible",
+      "cover": "Old Red Bible.webp",
+      "file": "songs/Old red Bible.mp3"
+    },
+    {
+      "id": "You find me where I stand",
+      "title": "You find me where I stand",
+      "genre": "Country",
+      "album": "Old Red Bible",
+      "cover": "Old Red Bible.webp",
+      "file": "songs/You find me where I stand.mp3"
+    },
+    {
       "id": "All My Heart on Fire",
       "title": "All My Heart on Fire",
       "genre": "Rock",
@@ -193,6 +257,30 @@
       "album": "Heart on fire",
       "cover": "Heart on fire.webp",
       "file": "songs/Set My Heart On Fire.opus"
+    },
+    {
+      "id": "Fire in My Bones - Catherine",
+      "title": "Fire in My Bones - Catherine",
+      "genre": "Rock",
+      "album": "Rescue",
+      "cover": "Rescue.webp",
+      "file": "songs/Fire in My Bones - Catherine.mp3"
+    },
+    {
+      "id": "Run to the Rescue",
+      "title": "Run to the Rescue",
+      "genre": "Rock",
+      "album": "Rescue",
+      "cover": "Rescue.webp",
+      "file": "songs/Run to the Rescue.mp3"
+    },
+    {
+      "id": "standing in the ashes",
+      "title": "standing in the ashes",
+      "genre": "Rock",
+      "album": "Rescue",
+      "cover": "Rescue.webp",
+      "file": "songs/standing in the ashes.mp3"
     },
     {
       "id": "Hold Me Through the Hurt",
