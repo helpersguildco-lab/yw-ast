@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "updated": "2026-03-22",
+  "music": [
+    {
+      "id": "Breath In My Bones",
+      "title": "Breath In My Bones",
+      "genre": "Acoustic",
+      "file": "songs/Acoustic/Breath In My Bones.mp3"
+    },
+    {
+      "id": "Hold Me Steady, Lord",
+      "title": "Hold Me Steady, Lord",
+      "genre": "choir",
+      "file": "songs/choir/Hold Me Steady, Lord.mp3"
+    }
+  ]
+}
