@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "updated": "2026-03-22",
+  "read_stories": [
+    {
+      "id": "David and Goliath",
+      "title": "David and Goliath",
+      "cover": "David and Goliath.webp",
+      "file": "David and Goliath.json"
+    },
+    {
+      "id": "David in the Cave with Saul's Robe",
+      "title": "David in the Cave with Saul's Robe",
+      "cover": "David in the Cave with Saul's Robe.webp",
+      "file": "David in the Cave with Saul's Robe.json"
+    },
+    {
+      "id": "Elijah under the Juniper Tree",
+      "title": "Elijah under the Juniper Tree",
+      "cover": "Elijah under the Juniper Tree.webp",
+      "file": "Elijah under the Juniper Tree.json"
+    },
+    {
+      "id": "Hagar in the Desert",
+      "title": "Hagar in the Desert",
+      "cover": "Hagar in the Desert.webp",
+      "file": "Hagar in the Desert.json"
+    },
+    {
+      "id": "Jephthah's Daughter",
+      "title": "Jephthah's Daughter",
+      "cover": "Jephthah's Daughter.webp",
+      "file": "Jephthah's Daughter.json"
+    },
+    {
+      "id": "Job's Wife",
+      "title": "Job's Wife",
+      "cover": "Job's Wife.webp",
+      "file": "Job's Wife.json"
+    },
+    {
+      "id": "Jonah Inside the Fish",
+      "title": "Jonah Inside the Fish",
+      "cover": "Jonah Inside the Fish.webp",
+      "file": "Jonah Inside the Fish.json"
+    },
+    {
+      "id": "Naboth's Vineyard",
+      "title": "Naboth's Vineyard",
+      "cover": "Naboth's Vineyard.webp",
+      "file": "Naboth's Vineyard.json"
+    },
+    {
+      "id": "Rizpah's Vigil",
+      "title": "Rizpah's Vigil",
+      "cover": "Rizpah's Vigil.webp",
+      "file": "Rizpah's Vigil.json"
+    },
+    {
+      "id": "The Boy on the Mountain",
+      "title": "The Boy on the Mountain",
+      "cover": "The Boy on the Mountain.webp",
+      "file": "The Boy on the Mountain.json"
+    },
+    {
+      "id": "The Death of Sisera",
+      "title": "The Death of Sisera",
+      "cover": "The Death of Sisera.webp",
+      "file": "The Death of Sisera.json"
+    },
+    {
+      "id": "The Witch of Endor",
+      "title": "The Witch of Endor",
+      "cover": "The Witch of Endor.webp",
+      "file": "The Witch of Endor.json"
+    }
+  ]
+}
