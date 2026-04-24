@@ -1,514 +1,1656 @@
 {
   "version": 1,
-  "updated": "2026-03-13",
+  "updated": "2026-04-22",
   "music": [
+    {
+      "id": "All I Want Is Jesus v2",
+      "title": "All I Want Is Jesus v2",
+      "genre": "Acoustic",
+      "file": "songs/All I Want Is Jesus v2.mp3"
+    },
+    {
+      "id": "All I Want Is Jesus",
+      "title": "All I Want Is Jesus",
+      "genre": "Acoustic",
+      "file": "songs/All I Want Is Jesus.mp3"
+    },
+    {
+      "id": "Altar Of My Heart v2",
+      "title": "Altar Of My Heart v2",
+      "genre": "Acoustic",
+      "file": "songs/Altar Of My Heart v2.mp3"
+    },
+    {
+      "id": "Altar Of My Heart",
+      "title": "Altar Of My Heart",
+      "genre": "Acoustic",
+      "file": "songs/Altar Of My Heart.mp3"
+    },
+    {
+      "id": "At Your Whispered Name v2",
+      "title": "At Your Whispered Name v2",
+      "genre": "Acoustic",
+      "file": "songs/At Your Whispered Name v2.mp3"
+    },
+    {
+      "id": "At Your Whispered Name",
+      "title": "At Your Whispered Name",
+      "genre": "Acoustic",
+      "file": "songs/At Your Whispered Name.mp3"
+    },
+    {
+      "id": "Breath of My Heart v10",
+      "title": "Breath of My Heart v10",
+      "genre": "Acoustic",
+      "file": "songs/Breath of My Heart v10.mp3"
+    },
+    {
+      "id": "Breath of My Heart v14",
+      "title": "Breath of My Heart v14",
+      "genre": "Acoustic",
+      "file": "songs/Breath of My Heart v14.mp3"
+    },
+    {
+      "id": "Breath of My Heart v15",
+      "title": "Breath of My Heart v15",
+      "genre": "Acoustic",
+      "file": "songs/Breath of My Heart v15.mp3"
+    },
+    {
+      "id": "Breath of My Heart v17",
+      "title": "Breath of My Heart v17",
+      "genre": "Acoustic",
+      "file": "songs/Breath of My Heart v17.mp3"
+    },
+    {
+      "id": "Breath of My Heart v22",
+      "title": "Breath of My Heart v22",
+      "genre": "Acoustic",
+      "file": "songs/Breath of My Heart v22.mp3"
+    },
+    {
+      "id": "Breath of My Heart v25",
+      "title": "Breath of My Heart v25",
+      "genre": "Acoustic",
+      "file": "songs/Breath of My Heart v25.mp3"
+    },
+    {
+      "id": "Breath of My Heart v27",
+      "title": "Breath of My Heart v27",
+      "genre": "Acoustic",
+      "file": "songs/Breath of My Heart v27.mp3"
+    },
+    {
+      "id": "Breath of My Heart v3",
+      "title": "Breath of My Heart v3",
+      "genre": "Acoustic",
+      "file": "songs/Breath of My Heart v3.mp3"
+    },
+    {
+      "id": "Breath of My Heart v31",
+      "title": "Breath of My Heart v31",
+      "genre": "Acoustic",
+      "file": "songs/Breath of My Heart v31.mp3"
+    },
+    {
+      "id": "Breath of My Heart v36",
+      "title": "Breath of My Heart v36",
+      "genre": "Acoustic",
+      "file": "songs/Breath of My Heart v36.mp3"
+    },
+    {
+      "id": "Breath of My Heart v9",
+      "title": "Breath of My Heart v9",
+      "genre": "Acoustic",
+      "file": "songs/Breath of My Heart v9.mp3"
+    },
+    {
+      "id": "Breath of Your Name v11",
+      "title": "Breath of Your Name v11",
+      "genre": "Acoustic",
+      "file": "songs/Breath of Your Name v11.mp3"
+    },
+    {
+      "id": "Breath of Your Name v2",
+      "title": "Breath of Your Name v2",
+      "genre": "Acoustic",
+      "file": "songs/Breath of Your Name v2.mp3"
+    },
+    {
+      "id": "Breath of Your Name v3",
+      "title": "Breath of Your Name v3",
+      "genre": "Acoustic",
+      "file": "songs/Breath of Your Name v3.mp3"
+    },
+    {
+      "id": "Breath of Your Name v4",
+      "title": "Breath of Your Name v4",
+      "genre": "Acoustic",
+      "file": "songs/Breath of Your Name v4.mp3"
+    },
+    {
+      "id": "Breath of Your Name v5",
+      "title": "Breath of Your Name v5",
+      "genre": "Acoustic",
+      "file": "songs/Breath of Your Name v5.mp3"
+    },
+    {
+      "id": "Breath of Your Name v6",
+      "title": "Breath of Your Name v6",
+      "genre": "Acoustic",
+      "file": "songs/Breath of Your Name v6.mp3"
+    },
+    {
+      "id": "Breath of Your Name v7",
+      "title": "Breath of Your Name v7",
+      "genre": "Acoustic",
+      "file": "songs/Breath of Your Name v7.mp3"
+    },
+    {
+      "id": "Breath of Your Name v8",
+      "title": "Breath of Your Name v8",
+      "genre": "Acoustic",
+      "file": "songs/Breath of Your Name v8.mp3"
+    },
+    {
+      "id": "Breath of Your Name v9",
+      "title": "Breath of Your Name v9",
+      "genre": "Acoustic",
+      "file": "songs/Breath of Your Name v9.mp3"
+    },
+    {
+      "id": "Breath of Your Name",
+      "title": "Breath of Your Name",
+      "genre": "Acoustic",
+      "file": "songs/Breath of Your Name.mp3"
+    },
+    {
+      "id": "Breathe My Name v2",
+      "title": "Breathe My Name v2",
+      "genre": "Acoustic",
+      "file": "songs/Breathe My Name v2.mp3"
+    },
+    {
+      "id": "Breathe My Name",
+      "title": "Breathe My Name",
+      "genre": "Acoustic",
+      "file": "songs/Breathe My Name.mp3"
+    },
+    {
+      "id": "Close As My Breathing v2",
+      "title": "Close As My Breathing v2",
+      "genre": "Acoustic",
+      "file": "songs/Close As My Breathing v2.mp3"
+    },
+    {
+      "id": "Close As My Breathing",
+      "title": "Close As My Breathing",
+      "genre": "Acoustic",
+      "file": "songs/Close As My Breathing.mp3"
+    },
+    {
+      "id": "Close as Breathing v2",
+      "title": "Close as Breathing v2",
+      "genre": "Acoustic",
+      "file": "songs/Close as Breathing v2.mp3"
+    },
+    {
+      "id": "Close as Breathing",
+      "title": "Close as Breathing",
+      "genre": "Acoustic",
+      "file": "songs/Close as Breathing.mp3"
+    },
+    {
+      "id": "Closer Than My Breathing v10",
+      "title": "Closer Than My Breathing v10",
+      "genre": "Acoustic",
+      "file": "songs/Closer Than My Breathing v10.mp3"
+    },
+    {
+      "id": "Closer Than My Breathing v12",
+      "title": "Closer Than My Breathing v12",
+      "genre": "Acoustic",
+      "file": "songs/Closer Than My Breathing v12.mp3"
+    },
+    {
+      "id": "Closer Than My Breathing v17",
+      "title": "Closer Than My Breathing v17",
+      "genre": "Acoustic",
+      "file": "songs/Closer Than My Breathing v17.mp3"
+    },
+    {
+      "id": "Closer Than My Breathing v2",
+      "title": "Closer Than My Breathing v2",
+      "genre": "Acoustic",
+      "file": "songs/Closer Than My Breathing v2.mp3"
+    },
+    {
+      "id": "Closer Than My Breathing v5",
+      "title": "Closer Than My Breathing v5",
+      "genre": "Acoustic",
+      "file": "songs/Closer Than My Breathing v5.mp3"
+    },
+    {
+      "id": "Closer Than My Breathing v6",
+      "title": "Closer Than My Breathing v6",
+      "genre": "Acoustic",
+      "file": "songs/Closer Than My Breathing v6.mp3"
+    },
+    {
+      "id": "Closer Than My Breathing",
+      "title": "Closer Than My Breathing",
+      "genre": "Acoustic",
+      "file": "songs/Closer Than My Breathing.mp3"
+    },
+    {
+      "id": "Draw Me Close Again v2",
+      "title": "Draw Me Close Again v2",
+      "genre": "Acoustic",
+      "file": "songs/Draw Me Close Again v2.mp3"
+    },
+    {
+      "id": "Draw Me Close Again",
+      "title": "Draw Me Close Again",
+      "genre": "Acoustic",
+      "file": "songs/Draw Me Close Again.mp3"
+    },
+    {
+      "id": "Gentle Hallelujah v2",
+      "title": "Gentle Hallelujah v2",
+      "genre": "Acoustic",
+      "file": "songs/Gentle Hallelujah v2.mp3"
+    },
+    {
+      "id": "Gentle Hallelujah",
+      "title": "Gentle Hallelujah",
+      "genre": "Acoustic",
+      "file": "songs/Gentle Hallelujah.mp3"
+    },
+    {
+      "id": "Gentle Hands Together v2",
+      "title": "Gentle Hands Together v2",
+      "genre": "Acoustic",
+      "file": "songs/Gentle Hands Together v2.mp3"
+    },
+    {
+      "id": "Gentle Hands Together",
+      "title": "Gentle Hands Together",
+      "genre": "Acoustic",
+      "file": "songs/Gentle Hands Together.mp3"
+    },
+    {
+      "id": "Here I Am, My Jesus v2",
+      "title": "Here I Am, My Jesus v2",
+      "genre": "Acoustic",
+      "file": "songs/Here I Am, My Jesus v2.mp3"
+    },
+    {
+      "id": "Here I Am, My Jesus",
+      "title": "Here I Am, My Jesus",
+      "genre": "Acoustic",
+      "file": "songs/Here I Am, My Jesus.mp3"
+    },
+    {
+      "id": "Hold Me Near v3",
+      "title": "Hold Me Near v3",
+      "genre": "Acoustic",
+      "file": "songs/Hold Me Near v3.mp3"
+    },
+    {
+      "id": "Hold Me Near",
+      "title": "Hold Me Near",
+      "genre": "Acoustic",
+      "file": "songs/Hold Me Near.mp3"
+    },
+    {
+      "id": "In the Quiet of Your Name v2",
+      "title": "In the Quiet of Your Name v2",
+      "genre": "Acoustic",
+      "file": "songs/In the Quiet of Your Name v2.mp3"
+    },
+    {
+      "id": "In the Quiet of Your Name",
+      "title": "In the Quiet of Your Name",
+      "genre": "Acoustic",
+      "file": "songs/In the Quiet of Your Name.mp3"
+    },
+    {
+      "id": "Lay It All Down v2",
+      "title": "Lay It All Down v2",
+      "genre": "Acoustic",
+      "file": "songs/Lay It All Down v2.mp3"
+    },
+    {
+      "id": "Lay It All Down",
+      "title": "Lay It All Down",
+      "genre": "Acoustic",
+      "file": "songs/Lay It All Down.mp3"
+    },
+    {
+      "id": "Lead Me Through the Quiet v2",
+      "title": "Lead Me Through the Quiet v2",
+      "genre": "Acoustic",
+      "file": "songs/Lead Me Through the Quiet v2.mp3"
+    },
+    {
+      "id": "Lead Me Through the Quiet",
+      "title": "Lead Me Through the Quiet",
+      "genre": "Acoustic",
+      "file": "songs/Lead Me Through the Quiet.mp3"
+    },
+    {
+      "id": "Little Candle Prayer v2",
+      "title": "Little Candle Prayer v2",
+      "genre": "Acoustic",
+      "file": "songs/Little Candle Prayer v2.mp3"
+    },
+    {
+      "id": "Little Candle Prayer",
+      "title": "Little Candle Prayer",
+      "genre": "Acoustic",
+      "file": "songs/Little Candle Prayer.mp3"
+    },
+    {
+      "id": "Near to Your Heart v2",
+      "title": "Near to Your Heart v2",
+      "genre": "Acoustic",
+      "file": "songs/Near to Your Heart v2.mp3"
+    },
+    {
+      "id": "Near to Your Heart",
+      "title": "Near to Your Heart",
+      "genre": "Acoustic",
+      "file": "songs/Near to Your Heart.mp3"
+    },
+    {
+      "id": "Only You Are Holy v10",
+      "title": "Only You Are Holy v10",
+      "genre": "Acoustic",
+      "file": "songs/Only You Are Holy v10.mp3"
+    },
+    {
+      "id": "Only You Are Holy v4",
+      "title": "Only You Are Holy v4",
+      "genre": "Acoustic",
+      "file": "songs/Only You Are Holy v4.mp3"
+    },
+    {
+      "id": "Quiet As Your Mercy v2",
+      "title": "Quiet As Your Mercy v2",
+      "genre": "Acoustic",
+      "file": "songs/Quiet As Your Mercy v2.mp3"
+    },
+    {
+      "id": "Quiet As Your Mercy",
+      "title": "Quiet As Your Mercy",
+      "genre": "Acoustic",
+      "file": "songs/Quiet As Your Mercy.mp3"
+    },
+    {
+      "id": "Quiet Hallelujah v2",
+      "title": "Quiet Hallelujah v2",
+      "genre": "Acoustic",
+      "file": "songs/Quiet Hallelujah v2.mp3"
+    },
+    {
+      "id": "Quiet Hallelujah v3",
+      "title": "Quiet Hallelujah v3",
+      "genre": "Acoustic",
+      "file": "songs/Quiet Hallelujah v3.mp3"
+    },
+    {
+      "id": "Quiet Hallelujah v4",
+      "title": "Quiet Hallelujah v4",
+      "genre": "Acoustic",
+      "file": "songs/Quiet Hallelujah v4.mp3"
+    },
+    {
+      "id": "Quiet Hallelujah",
+      "title": "Quiet Hallelujah",
+      "genre": "Acoustic",
+      "file": "songs/Quiet Hallelujah.mp3"
+    },
+    {
+      "id": "Softest Hallelujah v2",
+      "title": "Softest Hallelujah v2",
+      "genre": "Acoustic",
+      "file": "songs/Softest Hallelujah v2.mp3"
+    },
+    {
+      "id": "Softest Hallelujah",
+      "title": "Softest Hallelujah",
+      "genre": "Acoustic",
+      "file": "songs/Softest Hallelujah.mp3"
+    },
+    {
+      "id": "Softly We Belong to You v2",
+      "title": "Softly We Belong to You v2",
+      "genre": "Acoustic",
+      "file": "songs/Softly We Belong to You v2.mp3"
+    },
+    {
+      "id": "Softly We Belong to You",
+      "title": "Softly We Belong to You",
+      "genre": "Acoustic",
+      "file": "songs/Softly We Belong to You.mp3"
+    },
+    {
+      "id": "Softly We Belong v2",
+      "title": "Softly We Belong v2",
+      "genre": "Acoustic",
+      "file": "songs/Softly We Belong v2.mp3"
+    },
+    {
+      "id": "Softly We Belong v3",
+      "title": "Softly We Belong v3",
+      "genre": "Acoustic",
+      "file": "songs/Softly We Belong v3.mp3"
+    },
+    {
+      "id": "Softly We Belong v4",
+      "title": "Softly We Belong v4",
+      "genre": "Acoustic",
+      "file": "songs/Softly We Belong v4.mp3"
+    },
+    {
+      "id": "Softly We Belong v5",
+      "title": "Softly We Belong v5",
+      "genre": "Acoustic",
+      "file": "songs/Softly We Belong v5.mp3"
+    },
+    {
+      "id": "Softly We Belong v6",
+      "title": "Softly We Belong v6",
+      "genre": "Acoustic",
+      "file": "songs/Softly We Belong v6.mp3"
+    },
+    {
+      "id": "Softly We Belong v7",
+      "title": "Softly We Belong v7",
+      "genre": "Acoustic",
+      "file": "songs/Softly We Belong v7.mp3"
+    },
+    {
+      "id": "Softly We Belong v8",
+      "title": "Softly We Belong v8",
+      "genre": "Acoustic",
+      "file": "songs/Softly We Belong v8.mp3"
+    },
+    {
+      "id": "Softly We Belong",
+      "title": "Softly We Belong",
+      "genre": "Acoustic",
+      "file": "songs/Softly We Belong.mp3"
+    },
+    {
+      "id": "Softly We Gather v10",
+      "title": "Softly We Gather v10",
+      "genre": "Acoustic",
+      "file": "songs/Softly We Gather v10.mp3"
+    },
+    {
+      "id": "Softly We Gather v11",
+      "title": "Softly We Gather v11",
+      "genre": "Acoustic",
+      "file": "songs/Softly We Gather v11.mp3"
+    },
+    {
+      "id": "Softly We Gather v12",
+      "title": "Softly We Gather v12",
+      "genre": "Acoustic",
+      "file": "songs/Softly We Gather v12.mp3"
+    },
+    {
+      "id": "Softly We Gather v13",
+      "title": "Softly We Gather v13",
+      "genre": "Acoustic",
+      "file": "songs/Softly We Gather v13.mp3"
+    },
+    {
+      "id": "Softly We Gather v14",
+      "title": "Softly We Gather v14",
+      "genre": "Acoustic",
+      "file": "songs/Softly We Gather v14.mp3"
+    },
+    {
+      "id": "Softly We Gather v15",
+      "title": "Softly We Gather v15",
+      "genre": "Acoustic",
+      "file": "songs/Softly We Gather v15.mp3"
+    },
+    {
+      "id": "Softly We Gather v16",
+      "title": "Softly We Gather v16",
+      "genre": "Acoustic",
+      "file": "songs/Softly We Gather v16.mp3"
+    },
+    {
+      "id": "Softly We Gather v2",
+      "title": "Softly We Gather v2",
+      "genre": "Acoustic",
+      "file": "songs/Softly We Gather v2.mp3"
+    },
+    {
+      "id": "Softly We Gather v3",
+      "title": "Softly We Gather v3",
+      "genre": "Acoustic",
+      "file": "songs/Softly We Gather v3.mp3"
+    },
+    {
+      "id": "Softly We Gather v4",
+      "title": "Softly We Gather v4",
+      "genre": "Acoustic",
+      "file": "songs/Softly We Gather v4.mp3"
+    },
+    {
+      "id": "Softly We Gather v5",
+      "title": "Softly We Gather v5",
+      "genre": "Acoustic",
+      "file": "songs/Softly We Gather v5.mp3"
+    },
+    {
+      "id": "Softly We Gather v6",
+      "title": "Softly We Gather v6",
+      "genre": "Acoustic",
+      "file": "songs/Softly We Gather v6.mp3"
+    },
+    {
+      "id": "Softly We Gather v7",
+      "title": "Softly We Gather v7",
+      "genre": "Acoustic",
+      "file": "songs/Softly We Gather v7.mp3"
+    },
+    {
+      "id": "Softly We Gather v8",
+      "title": "Softly We Gather v8",
+      "genre": "Acoustic",
+      "file": "songs/Softly We Gather v8.mp3"
+    },
+    {
+      "id": "Softly We Gather v9",
+      "title": "Softly We Gather v9",
+      "genre": "Acoustic",
+      "file": "songs/Softly We Gather v9.mp3"
+    },
+    {
+      "id": "Softly We Gather",
+      "title": "Softly We Gather",
+      "genre": "Acoustic",
+      "file": "songs/Softly We Gather.mp3"
+    },
+    {
+      "id": "Still You Are God v2",
+      "title": "Still You Are God v2",
+      "genre": "Acoustic",
+      "file": "songs/Still You Are God v2.mp3"
+    },
+    {
+      "id": "Still You Are God",
+      "title": "Still You Are God",
+      "genre": "Acoustic",
+      "file": "songs/Still You Are God.mp3"
+    },
+    {
+      "id": "Whispered Hallelujah v2",
+      "title": "Whispered Hallelujah v2",
+      "genre": "Acoustic",
+      "file": "songs/Whispered Hallelujah v2.mp3"
+    },
+    {
+      "id": "Whispered Hallelujah",
+      "title": "Whispered Hallelujah",
+      "genre": "Acoustic",
+      "file": "songs/Whispered Hallelujah.mp3"
+    },
+    {
+      "id": "You Are Still the Storm-Calmer v2",
+      "title": "You Are Still the Storm-Calmer v2",
+      "genre": "Acoustic",
+      "file": "songs/You Are Still the Storm-Calmer v2.mp3"
+    },
+    {
+      "id": "You Are Still the Storm-Calmer",
+      "title": "You Are Still the Storm-Calmer",
+      "genre": "Acoustic",
+      "file": "songs/You Are Still the Storm-Calmer.mp3"
+    },
     {
       "id": "Close to Your Whisper",
       "title": "Close to Your Whisper",
       "genre": "Acoustic",
-      "album": "Closer to Your whisper - Harry Rio",
-      "cover": "Closer to Your whisper - Harry Rio.webp",
       "file": "songs/Close to Your Whisper.mp3"
     },
     {
       "id": "Here In The Quiet",
       "title": "Here In The Quiet",
       "genre": "Acoustic",
-      "album": "Closer to Your whisper - Harry Rio",
-      "cover": "Closer to Your whisper - Harry Rio.webp",
       "file": "songs/Here In The Quiet.mp3"
     },
     {
       "id": "Nothing in my hands",
       "title": "Nothing in my hands",
       "genre": "Acoustic",
-      "album": "Closer to Your whisper - Harry Rio",
-      "cover": "Closer to Your whisper - Harry Rio.webp",
       "file": "songs/Nothing in my hands.mp3"
     },
     {
       "id": "Breath In My Bones",
       "title": "Breath In My Bones",
       "genre": "Acoustic",
-      "album": "House Made Of Hallelujahs",
-      "cover": "House Made Of Hallelujahs.webp",
       "file": "songs/Breath In My Bones.mp3"
     },
     {
       "id": "House Made Of Hallelujahs",
       "title": "House Made Of Hallelujahs",
       "genre": "Acoustic",
-      "album": "House Made Of Hallelujahs",
-      "cover": "House Made Of Hallelujahs.webp",
       "file": "songs/House Made Of Hallelujahs.mp3"
     },
     {
       "id": "Nearer Than My Breathing",
       "title": "Nearer Than My Breathing",
       "genre": "Acoustic",
-      "album": "House Made Of Hallelujahs",
-      "cover": "House Made Of Hallelujahs.webp",
       "file": "songs/Nearer Than My Breathing.mp3"
     },
     {
       "id": "Sunday Morning Joyride",
       "title": "Sunday Morning Joyride",
       "genre": "Acoustic",
-      "album": "House Made Of Hallelujahs",
-      "cover": "House Made Of Hallelujahs.webp",
       "file": "songs/Sunday Morning Joyride.mp3"
     },
     {
       "id": "Celestial Serenade",
       "title": "Celestial Serenade",
       "genre": "Acoustic",
-      "album": "Worries - Angela",
-      "cover": "Worries - Angela.webp",
       "file": "songs/Celestial Serenade.mp3"
     },
     {
       "id": "Only Your Name",
       "title": "Only Your Name",
       "genre": "Acoustic",
-      "album": "Worries - Angela",
-      "cover": "Worries - Angela.webp",
       "file": "songs/Only Your Name.mp3"
+    },
+    {
+      "id": "Breath of Heaven v4",
+      "title": "Breath of Heaven v4",
+      "genre": "Choir",
+      "file": "songs/Breath of Heaven v4.mp3"
+    },
+    {
+      "id": "Breath of Heaven, Fill This Place v2",
+      "title": "Breath of Heaven, Fill This Place v2",
+      "genre": "Choir",
+      "file": "songs/Breath of Heaven, Fill This Place v2.mp3"
+    },
+    {
+      "id": "Breath of Heaven, Fill This Place",
+      "title": "Breath of Heaven, Fill This Place",
+      "genre": "Choir",
+      "file": "songs/Breath of Heaven, Fill This Place.mp3"
+    },
+    {
+      "id": "Breath of Heaven",
+      "title": "Breath of Heaven",
+      "genre": "Choir",
+      "file": "songs/Breath of Heaven.mp3"
+    },
+    {
+      "id": "Breath of My Being v2",
+      "title": "Breath of My Being v2",
+      "genre": "Choir",
+      "file": "songs/Breath of My Being v2.mp3"
+    },
+    {
+      "id": "Breath of My Being",
+      "title": "Breath of My Being",
+      "genre": "Choir",
+      "file": "songs/Breath of My Being.mp3"
+    },
+    {
+      "id": "Breath of My Breathing v2",
+      "title": "Breath of My Breathing v2",
+      "genre": "Choir",
+      "file": "songs/Breath of My Breathing v2.mp3"
+    },
+    {
+      "id": "Breath of My Breathing",
+      "title": "Breath of My Breathing",
+      "genre": "Choir",
+      "file": "songs/Breath of My Breathing.mp3"
+    },
+    {
+      "id": "Breath of My Father v2",
+      "title": "Breath of My Father v2",
+      "genre": "Choir",
+      "file": "songs/Breath of My Father v2.mp3"
+    },
+    {
+      "id": "Breath of My Father",
+      "title": "Breath of My Father",
+      "genre": "Choir",
+      "file": "songs/Breath of My Father.mp3"
+    },
+    {
+      "id": "Breath of My Heart v29",
+      "title": "Breath of My Heart v29",
+      "genre": "Choir",
+      "file": "songs/Breath of My Heart v29.mp3"
+    },
+    {
+      "id": "Breath of My Heart v35",
+      "title": "Breath of My Heart v35",
+      "genre": "Choir",
+      "file": "songs/Breath of My Heart v35.mp3"
+    },
+    {
+      "id": "Closer Than My Breathing v13",
+      "title": "Closer Than My Breathing v13",
+      "genre": "Choir",
+      "file": "songs/Closer Than My Breathing v13.mp3"
+    },
+    {
+      "id": "Closer Than My Breathing v8",
+      "title": "Closer Than My Breathing v8",
+      "genre": "Choir",
+      "file": "songs/Closer Than My Breathing v8.mp3"
+    },
+    {
+      "id": "My Anchor v2",
+      "title": "My Anchor v2",
+      "genre": "Choir",
+      "file": "songs/My Anchor v2.mp3"
+    },
+    {
+      "id": "My Anchor",
+      "title": "My Anchor",
+      "genre": "Choir",
+      "file": "songs/My Anchor.mp3"
+    },
+    {
+      "id": "Peace v2",
+      "title": "Peace v2",
+      "genre": "Choir",
+      "file": "songs/Peace v2.mp3"
+    },
+    {
+      "id": "Peace",
+      "title": "Peace",
+      "genre": "Choir",
+      "file": "songs/Peace.mp3"
+    },
+    {
+      "id": "Sanctus of the Quiet Heart v2",
+      "title": "Sanctus of the Quiet Heart v2",
+      "genre": "Choir",
+      "file": "songs/Sanctus of the Quiet Heart v2.mp3"
+    },
+    {
+      "id": "Sanctus of the Quiet Heart",
+      "title": "Sanctus of the Quiet Heart",
+      "genre": "Choir",
+      "file": "songs/Sanctus of the Quiet Heart.mp3"
+    },
+    {
+      "id": "Still Waters In The Valley v2",
+      "title": "Still Waters In The Valley v2",
+      "genre": "Choir",
+      "file": "songs/Still Waters In The Valley v2.mp3"
+    },
+    {
+      "id": "Still Waters In The Valley",
+      "title": "Still Waters In The Valley",
+      "genre": "Choir",
+      "file": "songs/Still Waters In The Valley.mp3"
+    },
+    {
+      "id": "You Have Always Been Faithful v2",
+      "title": "You Have Always Been Faithful v2",
+      "genre": "Choir",
+      "file": "songs/You Have Always Been Faithful v2.mp3"
+    },
+    {
+      "id": "You Have Always Been Faithful",
+      "title": "You Have Always Been Faithful",
+      "genre": "Choir",
+      "file": "songs/You Have Always Been Faithful.mp3"
     },
     {
       "id": "Breath in Our Bones",
       "title": "Breath in Our Bones",
       "genre": "Choir",
-      "album": "Bones - choir",
-      "cover": "Bones - choir.webp",
       "file": "songs/Breath in Our Bones.mp3"
     },
     {
       "id": "Hold Me Steady, Lord",
       "title": "Hold Me Steady, Lord",
       "genre": "Choir",
-      "album": "Bones - choir",
-      "cover": "Bones - choir.webp",
       "file": "songs/Hold Me Steady, Lord.mp3"
     },
     {
       "id": "You Are Holy In This Place",
       "title": "You Are Holy In This Place",
       "genre": "Choir",
-      "album": "Bones - choir",
-      "cover": "Bones - choir.webp",
       "file": "songs/You Are Holy In This Place.mp3"
     },
     {
       "id": "Crown of Mercy",
       "title": "Crown of Mercy",
       "genre": "Choir",
-      "album": "Hallowed",
-      "cover": "Hallowed.webp",
       "file": "songs/Crown of Mercy.mp3"
     },
     {
       "id": "Glory in the Highest",
       "title": "Glory in the Highest",
       "genre": "Choir",
-      "album": "Hallowed",
-      "cover": "Hallowed.webp",
       "file": "songs/Glory in the Highest.mp3"
     },
     {
       "id": "Hallowed Be Your Name",
       "title": "Hallowed Be Your Name",
       "genre": "Choir",
-      "album": "Hallowed",
-      "cover": "Hallowed.webp",
       "file": "songs/Hallowed Be Your Name.mp3"
     },
     {
       "id": "Close Enough To Hear You",
       "title": "Close Enough To Hear You",
       "genre": "Choir",
-      "album": "Here With Me Now",
-      "cover": "Here With Me Now.webp",
       "file": "songs/Close Enough To Hear You.mp3"
     },
     {
       "id": "Holy Breath in Broken Rooms",
       "title": "Holy Breath in Broken Rooms",
       "genre": "Choir",
-      "album": "Here With Me Now",
-      "cover": "Here With Me Now.webp",
       "file": "songs/Holy Breath in Broken Rooms.mp3"
     },
     {
       "id": "Near",
       "title": "Near",
       "genre": "Choir",
-      "album": "Here With Me Now",
-      "cover": "Here With Me Now.webp",
       "file": "songs/Near.mp3"
+    },
+    {
+      "id": "My Anchor - texas choir",
+      "title": "My Anchor - texas choir",
+      "genre": "Choir",
+      "file": "songs/My Anchor - texas choir.mp3"
+    },
+    {
+      "id": "Peace",
+      "title": "Peace",
+      "genre": "Choir",
+      "file": "songs/Peace.mp3"
+    },
+    {
+      "id": "Sanctus of the Quiet Heart - texas choir",
+      "title": "Sanctus of the Quiet Heart - texas choir",
+      "genre": "Choir",
+      "file": "songs/Sanctus of the Quiet Heart - texas choir.mp3"
     },
     {
       "id": "Holy Flame, One Name",
       "title": "Holy Flame, One Name",
       "genre": "Choir",
-      "album": "Trembling Heart - Irina Camine",
-      "cover": "Trembling Heart - Irina Camine.webp",
       "file": "songs/Holy Flame, One Name.mp3"
     },
     {
       "id": "Throne of Many Crowns",
       "title": "Throne of Many Crowns",
       "genre": "Choir",
-      "album": "Trembling Heart - Irina Camine",
-      "cover": "Trembling Heart - Irina Camine.webp",
       "file": "songs/Throne of Many Crowns.mp3"
     },
     {
       "id": "Trembling Heart is Singing",
       "title": "Trembling Heart is Singing",
       "genre": "Choir",
-      "album": "Trembling Heart - Irina Camine",
-      "cover": "Trembling Heart - Irina Camine.webp",
       "file": "songs/Trembling Heart is Singing.mp3"
     },
     {
       "id": "I’ll Still Praise You",
       "title": "I’ll Still Praise You",
       "genre": "Country",
-      "album": "David Illya - Roads",
-      "cover": "David Illya - Roads.webp",
       "file": "songs/I’ll Still Praise You.mp3"
     },
     {
       "id": "Open Hands, Dusty Boots",
       "title": "Open Hands, Dusty Boots",
       "genre": "Country",
-      "album": "David Illya - Roads",
-      "cover": "David Illya - Roads.webp",
       "file": "songs/Open Hands, Dusty Boots.mp3"
     },
     {
       "id": "Rust On My Boots",
       "title": "Rust On My Boots",
       "genre": "Country",
-      "album": "David Illya - Roads",
-      "cover": "David Illya - Roads.webp",
       "file": "songs/Rust On My Boots.mp3"
     },
     {
       "id": "Backroad to the Altar",
       "title": "Backroad to the Altar",
       "genre": "Country",
-      "album": "Old Red Bible",
-      "cover": "Old Red Bible.webp",
       "file": "songs/Backroad to the Altar.mp3"
     },
     {
       "id": "Old red Bible",
       "title": "Old red Bible",
       "genre": "Country",
-      "album": "Old Red Bible",
-      "cover": "Old Red Bible.webp",
       "file": "songs/Old red Bible.mp3"
     },
     {
       "id": "You find me where I stand",
       "title": "You find me where I stand",
       "genre": "Country",
-      "album": "Old Red Bible",
-      "cover": "Old Red Bible.webp",
       "file": "songs/You find me where I stand.mp3"
+    },
+    {
+      "id": "Anchor In The Quiet v2",
+      "title": "Anchor In The Quiet v2",
+      "genre": "Instrumental",
+      "file": "songs/Anchor In The Quiet v2.mp3"
+    },
+    {
+      "id": "Anchor In The Quiet",
+      "title": "Anchor In The Quiet",
+      "genre": "Instrumental",
+      "file": "songs/Anchor In The Quiet.mp3"
+    },
+    {
+      "id": "Breath In My Bones v3",
+      "title": "Breath In My Bones v3",
+      "genre": "Instrumental",
+      "file": "songs/Breath In My Bones v3.mp3"
+    },
+    {
+      "id": "Breath In My Bones v4",
+      "title": "Breath In My Bones v4",
+      "genre": "Instrumental",
+      "file": "songs/Breath In My Bones v4.mp3"
+    },
+    {
+      "id": "Breath In My Bones v7",
+      "title": "Breath In My Bones v7",
+      "genre": "Instrumental",
+      "file": "songs/Breath In My Bones v7.mp3"
+    },
+    {
+      "id": "Breath In My Silence v2",
+      "title": "Breath In My Silence v2",
+      "genre": "Instrumental",
+      "file": "songs/Breath In My Silence v2.mp3"
+    },
+    {
+      "id": "Breath In My Silence",
+      "title": "Breath In My Silence",
+      "genre": "Instrumental",
+      "file": "songs/Breath In My Silence.mp3"
+    },
+    {
+      "id": "Breath in My Bones v2",
+      "title": "Breath in My Bones v2",
+      "genre": "Instrumental",
+      "file": "songs/Breath in My Bones v2.mp3"
+    },
+    {
+      "id": "Breath in My Bones",
+      "title": "Breath in My Bones",
+      "genre": "Instrumental",
+      "file": "songs/Breath in My Bones.mp3"
+    },
+    {
+      "id": "Breath in the Quiet v2",
+      "title": "Breath in the Quiet v2",
+      "genre": "Instrumental",
+      "file": "songs/Breath in the Quiet v2.mp3"
+    },
+    {
+      "id": "Breath in the Quiet v3",
+      "title": "Breath in the Quiet v3",
+      "genre": "Instrumental",
+      "file": "songs/Breath in the Quiet v3.mp3"
+    },
+    {
+      "id": "Breath in the Quiet v4",
+      "title": "Breath in the Quiet v4",
+      "genre": "Instrumental",
+      "file": "songs/Breath in the Quiet v4.mp3"
+    },
+    {
+      "id": "Breath in the Quiet",
+      "title": "Breath in the Quiet",
+      "genre": "Instrumental",
+      "file": "songs/Breath in the Quiet.mp3"
+    },
+    {
+      "id": "Breath in the Silence v2",
+      "title": "Breath in the Silence v2",
+      "genre": "Instrumental",
+      "file": "songs/Breath in the Silence v2.mp3"
+    },
+    {
+      "id": "Breath in the Silence",
+      "title": "Breath in the Silence",
+      "genre": "Instrumental",
+      "file": "songs/Breath in the Silence.mp3"
+    },
+    {
+      "id": "Breath of My Heart v11",
+      "title": "Breath of My Heart v11",
+      "genre": "Instrumental",
+      "file": "songs/Breath of My Heart v11.mp3"
+    },
+    {
+      "id": "Breath of My Heart v2",
+      "title": "Breath of My Heart v2",
+      "genre": "Instrumental",
+      "file": "songs/Breath of My Heart v2.mp3"
+    },
+    {
+      "id": "Breath of My Heart v5",
+      "title": "Breath of My Heart v5",
+      "genre": "Instrumental",
+      "file": "songs/Breath of My Heart v5.mp3"
+    },
+    {
+      "id": "Breath of My Heart",
+      "title": "Breath of My Heart",
+      "genre": "Instrumental",
+      "file": "songs/Breath of My Heart.mp3"
+    },
+    {
+      "id": "Breathe In Your Name v2",
+      "title": "Breathe In Your Name v2",
+      "genre": "Instrumental",
+      "file": "songs/Breathe In Your Name v2.mp3"
+    },
+    {
+      "id": "Breathe In Your Name",
+      "title": "Breathe In Your Name",
+      "genre": "Instrumental",
+      "file": "songs/Breathe In Your Name.mp3"
+    },
+    {
+      "id": "Breathe On Me v3",
+      "title": "Breathe On Me v3",
+      "genre": "Instrumental",
+      "file": "songs/Breathe On Me v3.mp3"
+    },
+    {
+      "id": "Breathe On Me v4",
+      "title": "Breathe On Me v4",
+      "genre": "Instrumental",
+      "file": "songs/Breathe On Me v4.mp3"
+    },
+    {
+      "id": "Breathe On Us v2",
+      "title": "Breathe On Us v2",
+      "genre": "Instrumental",
+      "file": "songs/Breathe On Us v2.mp3"
+    },
+    {
+      "id": "Breathe On Us",
+      "title": "Breathe On Us",
+      "genre": "Instrumental",
+      "file": "songs/Breathe On Us.mp3"
+    },
+    {
+      "id": "Breathe on This Room v2",
+      "title": "Breathe on This Room v2",
+      "genre": "Instrumental",
+      "file": "songs/Breathe on This Room v2.mp3"
+    },
+    {
+      "id": "Breathe on This Room v3",
+      "title": "Breathe on This Room v3",
+      "genre": "Instrumental",
+      "file": "songs/Breathe on This Room v3.mp3"
+    },
+    {
+      "id": "Breathe on This Room v4",
+      "title": "Breathe on This Room v4",
+      "genre": "Instrumental",
+      "file": "songs/Breathe on This Room v4.mp3"
+    },
+    {
+      "id": "Breathe on This Room v5",
+      "title": "Breathe on This Room v5",
+      "genre": "Instrumental",
+      "file": "songs/Breathe on This Room v5.mp3"
+    },
+    {
+      "id": "Breathe on This Room v6",
+      "title": "Breathe on This Room v6",
+      "genre": "Instrumental",
+      "file": "songs/Breathe on This Room v6.mp3"
+    },
+    {
+      "id": "Breathe on This Room",
+      "title": "Breathe on This Room",
+      "genre": "Instrumental",
+      "file": "songs/Breathe on This Room.mp3"
+    },
+    {
+      "id": "Closer Than My Breathing v14",
+      "title": "Closer Than My Breathing v14",
+      "genre": "Instrumental",
+      "file": "songs/Closer Than My Breathing v14.mp3"
+    },
+    {
+      "id": "Closer Than My Breathing v15",
+      "title": "Closer Than My Breathing v15",
+      "genre": "Instrumental",
+      "file": "songs/Closer Than My Breathing v15.mp3"
+    },
+    {
+      "id": "Closer Than My Breathing v16",
+      "title": "Closer Than My Breathing v16",
+      "genre": "Instrumental",
+      "file": "songs/Closer Than My Breathing v16.mp3"
+    },
+    {
+      "id": "Closer Than My Breathing v3",
+      "title": "Closer Than My Breathing v3",
+      "genre": "Instrumental",
+      "file": "songs/Closer Than My Breathing v3.mp3"
+    },
+    {
+      "id": "Closer Than My Breathing v4",
+      "title": "Closer Than My Breathing v4",
+      "genre": "Instrumental",
+      "file": "songs/Closer Than My Breathing v4.mp3"
+    },
+    {
+      "id": "Closer Than My Breathing v9",
+      "title": "Closer Than My Breathing v9",
+      "genre": "Instrumental",
+      "file": "songs/Closer Than My Breathing v9.mp3"
+    },
+    {
+      "id": "Endless Hallelujah v2",
+      "title": "Endless Hallelujah v2",
+      "genre": "Instrumental",
+      "file": "songs/Endless Hallelujah v2.mp3"
+    },
+    {
+      "id": "Endless Hallelujah",
+      "title": "Endless Hallelujah",
+      "genre": "Instrumental",
+      "file": "songs/Endless Hallelujah.mp3"
+    },
+    {
+      "id": "Hold Me Closer, Jesus v2",
+      "title": "Hold Me Closer, Jesus v2",
+      "genre": "Instrumental",
+      "file": "songs/Hold Me Closer, Jesus v2.mp3"
+    },
+    {
+      "id": "Hold Me Closer, Jesus",
+      "title": "Hold Me Closer, Jesus",
+      "genre": "Instrumental",
+      "file": "songs/Hold Me Closer, Jesus.mp3"
+    },
+    {
+      "id": "Hold Me In Your Heart v2",
+      "title": "Hold Me In Your Heart v2",
+      "genre": "Instrumental",
+      "file": "songs/Hold Me In Your Heart v2.mp3"
+    },
+    {
+      "id": "Hold Me In Your Heart",
+      "title": "Hold Me In Your Heart",
+      "genre": "Instrumental",
+      "file": "songs/Hold Me In Your Heart.mp3"
+    },
+    {
+      "id": "Hold Me In Your Presence v2",
+      "title": "Hold Me In Your Presence v2",
+      "genre": "Instrumental",
+      "file": "songs/Hold Me In Your Presence v2.mp3"
+    },
+    {
+      "id": "Hold Me In Your Presence v3",
+      "title": "Hold Me In Your Presence v3",
+      "genre": "Instrumental",
+      "file": "songs/Hold Me In Your Presence v3.mp3"
+    },
+    {
+      "id": "Hold Me In Your Presence v4",
+      "title": "Hold Me In Your Presence v4",
+      "genre": "Instrumental",
+      "file": "songs/Hold Me In Your Presence v4.mp3"
+    },
+    {
+      "id": "Hold Me In Your Presence v5",
+      "title": "Hold Me In Your Presence v5",
+      "genre": "Instrumental",
+      "file": "songs/Hold Me In Your Presence v5.mp3"
+    },
+    {
+      "id": "Hold Me In Your Presence v6",
+      "title": "Hold Me In Your Presence v6",
+      "genre": "Instrumental",
+      "file": "songs/Hold Me In Your Presence v6.mp3"
+    },
+    {
+      "id": "Hold Me In Your Presence v7",
+      "title": "Hold Me In Your Presence v7",
+      "genre": "Instrumental",
+      "file": "songs/Hold Me In Your Presence v7.mp3"
+    },
+    {
+      "id": "Hold Me In Your Presence v8",
+      "title": "Hold Me In Your Presence v8",
+      "genre": "Instrumental",
+      "file": "songs/Hold Me In Your Presence v8.mp3"
+    },
+    {
+      "id": "Hold Me In Your Presence",
+      "title": "Hold Me In Your Presence",
+      "genre": "Instrumental",
+      "file": "songs/Hold Me In Your Presence.mp3"
+    },
+    {
+      "id": "Rest on Your Promise v2",
+      "title": "Rest on Your Promise v2",
+      "genre": "Instrumental",
+      "file": "songs/Rest on Your Promise v2.mp3"
+    },
+    {
+      "id": "Rest on Your Promise",
+      "title": "Rest on Your Promise",
+      "genre": "Instrumental",
+      "file": "songs/Rest on Your Promise.mp3"
+    },
+    {
+      "id": "You Are Here With Me v2",
+      "title": "You Are Here With Me v2",
+      "genre": "Instrumental",
+      "file": "songs/You Are Here With Me v2.mp3"
+    },
+    {
+      "id": "You Are Here With Me",
+      "title": "You Are Here With Me",
+      "genre": "Instrumental",
+      "file": "songs/You Are Here With Me.mp3"
+    },
+    {
+      "id": "Your Name Above It All v2",
+      "title": "Your Name Above It All v2",
+      "genre": "Instrumental",
+      "file": "songs/Your Name Above It All v2.mp3"
+    },
+    {
+      "id": "Your Name Above It All",
+      "title": "Your Name Above It All",
+      "genre": "Instrumental",
+      "file": "songs/Your Name Above It All.mp3"
+    },
+    {
+      "id": "All I Need Is Jesus v2",
+      "title": "All I Need Is Jesus v2",
+      "genre": "Rock",
+      "file": "songs/All I Need Is Jesus v2.mp3"
+    },
+    {
+      "id": "All I Need Is Jesus",
+      "title": "All I Need Is Jesus",
+      "genre": "Rock",
+      "file": "songs/All I Need Is Jesus.mp3"
+    },
+    {
+      "id": "Altars in the Quiet v2",
+      "title": "Altars in the Quiet v2",
+      "genre": "Rock",
+      "file": "songs/Altars in the Quiet v2.mp3"
+    },
+    {
+      "id": "Altars in the Quiet",
+      "title": "Altars in the Quiet",
+      "genre": "Rock",
+      "file": "songs/Altars in the Quiet.mp3"
+    },
+    {
+      "id": "Arms Wide Open v2",
+      "title": "Arms Wide Open v2",
+      "genre": "Rock",
+      "file": "songs/Arms Wide Open v2.mp3"
+    },
+    {
+      "id": "Arms Wide Open v3",
+      "title": "Arms Wide Open v3",
+      "genre": "Rock",
+      "file": "songs/Arms Wide Open v3.mp3"
+    },
+    {
+      "id": "Arms Wide Open v4",
+      "title": "Arms Wide Open v4",
+      "genre": "Rock",
+      "file": "songs/Arms Wide Open v4.mp3"
+    },
+    {
+      "id": "Arms Wide Open",
+      "title": "Arms Wide Open",
+      "genre": "Rock",
+      "file": "songs/Arms Wide Open.mp3"
+    },
+    {
+      "id": "At Your Feet v2",
+      "title": "At Your Feet v2",
+      "genre": "Rock",
+      "file": "songs/At Your Feet v2.mp3"
+    },
+    {
+      "id": "At Your Feet",
+      "title": "At Your Feet",
+      "genre": "Rock",
+      "file": "songs/At Your Feet.mp3"
+    },
+    {
+      "id": "Breathe on This Heart v2",
+      "title": "Breathe on This Heart v2",
+      "genre": "Rock",
+      "file": "songs/Breathe on This Heart v2.mp3"
+    },
+    {
+      "id": "Breathe on This Heart",
+      "title": "Breathe on This Heart",
+      "genre": "Rock",
+      "file": "songs/Breathe on This Heart.mp3"
+    },
+    {
+      "id": "Heart Like an Altar v2",
+      "title": "Heart Like an Altar v2",
+      "genre": "Rock",
+      "file": "songs/Heart Like an Altar v2.mp3"
+    },
+    {
+      "id": "Heart Like an Altar",
+      "title": "Heart Like an Altar",
+      "genre": "Rock",
+      "file": "songs/Heart Like an Altar.mp3"
+    },
+    {
+      "id": "Hold Me Through the Hurt v2",
+      "title": "Hold Me Through the Hurt v2",
+      "genre": "Rock",
+      "file": "songs/Hold Me Through the Hurt v2.mp3"
+    },
+    {
+      "id": "Hold Me Through the Hurt",
+      "title": "Hold Me Through the Hurt",
+      "genre": "Rock",
+      "file": "songs/Hold Me Through the Hurt.mp3"
+    },
+    {
+      "id": "Hold My Heart Steady v2",
+      "title": "Hold My Heart Steady v2",
+      "genre": "Rock",
+      "file": "songs/Hold My Heart Steady v2.mp3"
+    },
+    {
+      "id": "Hold My Heart Steady",
+      "title": "Hold My Heart Steady",
+      "genre": "Rock",
+      "file": "songs/Hold My Heart Steady.mp3"
+    },
+    {
+      "id": "Holy Flame Hallelujah v2",
+      "title": "Holy Flame Hallelujah v2",
+      "genre": "Rock",
+      "file": "songs/Holy Flame Hallelujah v2.mp3"
+    },
+    {
+      "id": "Holy Flame Hallelujah",
+      "title": "Holy Flame Hallelujah",
+      "genre": "Rock",
+      "file": "songs/Holy Flame Hallelujah.mp3"
+    },
+    {
+      "id": "Holy In This Moment v2",
+      "title": "Holy In This Moment v2",
+      "genre": "Rock",
+      "file": "songs/Holy In This Moment v2.mp3"
+    },
+    {
+      "id": "Holy In This Moment",
+      "title": "Holy In This Moment",
+      "genre": "Rock",
+      "file": "songs/Holy In This Moment.mp3"
+    },
+    {
+      "id": "Lead Me Through the Quiet v3",
+      "title": "Lead Me Through the Quiet v3",
+      "genre": "Rock",
+      "file": "songs/Lead Me Through the Quiet v3.mp3"
+    },
+    {
+      "id": "Lead Me Through the Quiet v4",
+      "title": "Lead Me Through the Quiet v4",
+      "genre": "Rock",
+      "file": "songs/Lead Me Through the Quiet v4.mp3"
+    },
+    {
+      "id": "Living Fire v2",
+      "title": "Living Fire v2",
+      "genre": "Rock",
+      "file": "songs/Living Fire v2.mp3"
+    },
+    {
+      "id": "Living Fire",
+      "title": "Living Fire",
+      "genre": "Rock",
+      "file": "songs/Living Fire.mp3"
+    },
+    {
+      "id": "Only You Are Holy v13",
+      "title": "Only You Are Holy v13",
+      "genre": "Rock",
+      "file": "songs/Only You Are Holy v13.mp3"
+    },
+    {
+      "id": "Only You Are Holy v14",
+      "title": "Only You Are Holy v14",
+      "genre": "Rock",
+      "file": "songs/Only You Are Holy v14.mp3"
+    },
+    {
+      "id": "Only You Are Holy v2",
+      "title": "Only You Are Holy v2",
+      "genre": "Rock",
+      "file": "songs/Only You Are Holy v2.mp3"
+    },
+    {
+      "id": "Only You Are Holy v3",
+      "title": "Only You Are Holy v3",
+      "genre": "Rock",
+      "file": "songs/Only You Are Holy v3.mp3"
+    },
+    {
+      "id": "Only You on the Throne v2",
+      "title": "Only You on the Throne v2",
+      "genre": "Rock",
+      "file": "songs/Only You on the Throne v2.mp3"
+    },
+    {
+      "id": "Only You on the Throne",
+      "title": "Only You on the Throne",
+      "genre": "Rock",
+      "file": "songs/Only You on the Throne.mp3"
+    },
+    {
+      "id": "Over My Heart, You Reign v2",
+      "title": "Over My Heart, You Reign v2",
+      "genre": "Rock",
+      "file": "songs/Over My Heart, You Reign v2.mp3"
+    },
+    {
+      "id": "Over My Heart, You Reign",
+      "title": "Over My Heart, You Reign",
+      "genre": "Rock",
+      "file": "songs/Over My Heart, You Reign.mp3"
+    },
+    {
+      "id": "Pour It All Out v2",
+      "title": "Pour It All Out v2",
+      "genre": "Rock",
+      "file": "songs/Pour It All Out v2.mp3"
+    },
+    {
+      "id": "Pour It All Out",
+      "title": "Pour It All Out",
+      "genre": "Rock",
+      "file": "songs/Pour It All Out.mp3"
+    },
+    {
+      "id": "You Are Still The Miracle v2",
+      "title": "You Are Still The Miracle v2",
+      "genre": "Rock",
+      "file": "songs/You Are Still The Miracle v2.mp3"
+    },
+    {
+      "id": "You Are Still The Miracle",
+      "title": "You Are Still The Miracle",
+      "genre": "Rock",
+      "file": "songs/You Are Still The Miracle.mp3"
+    },
+    {
+      "id": "You Have My Yes v2",
+      "title": "You Have My Yes v2",
+      "genre": "Rock",
+      "file": "songs/You Have My Yes v2.mp3"
+    },
+    {
+      "id": "You Have My Yes v3",
+      "title": "You Have My Yes v3",
+      "genre": "Rock",
+      "file": "songs/You Have My Yes v3.mp3"
+    },
+    {
+      "id": "You Have My Yes v4",
+      "title": "You Have My Yes v4",
+      "genre": "Rock",
+      "file": "songs/You Have My Yes v4.mp3"
+    },
+    {
+      "id": "You Have My Yes v5",
+      "title": "You Have My Yes v5",
+      "genre": "Rock",
+      "file": "songs/You Have My Yes v5.mp3"
+    },
+    {
+      "id": "You Have My Yes v6",
+      "title": "You Have My Yes v6",
+      "genre": "Rock",
+      "file": "songs/You Have My Yes v6.mp3"
+    },
+    {
+      "id": "You Have My Yes v7",
+      "title": "You Have My Yes v7",
+      "genre": "Rock",
+      "file": "songs/You Have My Yes v7.mp3"
+    },
+    {
+      "id": "You Have My Yes v8",
+      "title": "You Have My Yes v8",
+      "genre": "Rock",
+      "file": "songs/You Have My Yes v8.mp3"
+    },
+    {
+      "id": "You Have My Yes",
+      "title": "You Have My Yes",
+      "genre": "Rock",
+      "file": "songs/You Have My Yes.mp3"
+    },
+    {
+      "id": "You Still Break My Chains v2",
+      "title": "You Still Break My Chains v2",
+      "genre": "Rock",
+      "file": "songs/You Still Break My Chains v2.mp3"
+    },
+    {
+      "id": "You Still Break My Chains v3",
+      "title": "You Still Break My Chains v3",
+      "genre": "Rock",
+      "file": "songs/You Still Break My Chains v3.mp3"
+    },
+    {
+      "id": "You Still Break My Chains v4",
+      "title": "You Still Break My Chains v4",
+      "genre": "Rock",
+      "file": "songs/You Still Break My Chains v4.mp3"
+    },
+    {
+      "id": "You Still Break My Chains",
+      "title": "You Still Break My Chains",
+      "genre": "Rock",
+      "file": "songs/You Still Break My Chains.mp3"
     },
     {
       "id": "All My Heart on Fire",
       "title": "All My Heart on Fire",
       "genre": "Rock",
-      "album": "Heart on fire",
-      "cover": "Heart on fire.webp",
       "file": "songs/All My Heart on Fire.opus"
     },
     {
       "id": "Bring Me To The Fire",
       "title": "Bring Me To The Fire",
       "genre": "Rock",
-      "album": "Heart on fire",
-      "cover": "Heart on fire.webp",
       "file": "songs/Bring Me To The Fire.opus"
     },
     {
       "id": "Hallelujah Highway",
       "title": "Hallelujah Highway",
       "genre": "Rock",
-      "album": "Heart on fire",
-      "cover": "Heart on fire.webp",
       "file": "songs/Hallelujah Highway .opus"
     },
     {
       "id": "Hallelujah",
       "title": "Hallelujah",
       "genre": "Rock",
-      "album": "Heart on fire",
-      "cover": "Heart on fire.webp",
       "file": "songs/Hallelujah.opus"
     },
     {
       "id": "Set My Heart On Fire",
       "title": "Set My Heart On Fire",
       "genre": "Rock",
-      "album": "Heart on fire",
-      "cover": "Heart on fire.webp",
       "file": "songs/Set My Heart On Fire.opus"
     },
     {
       "id": "Fire in My Bones - Catherine",
       "title": "Fire in My Bones - Catherine",
       "genre": "Rock",
-      "album": "Rescue",
-      "cover": "Rescue.webp",
       "file": "songs/Fire in My Bones - Catherine.mp3"
     },
     {
       "id": "Run to the Rescue",
       "title": "Run to the Rescue",
       "genre": "Rock",
-      "album": "Rescue",
-      "cover": "Rescue.webp",
       "file": "songs/Run to the Rescue.mp3"
     },
     {
       "id": "standing in the ashes",
       "title": "standing in the ashes",
       "genre": "Rock",
-      "album": "Rescue",
-      "cover": "Rescue.webp",
       "file": "songs/standing in the ashes.mp3"
     },
     {
       "id": "Hold Me Through the Hurt",
       "title": "Hold Me Through the Hurt",
       "genre": "Rock",
-      "album": "Through The Hurt",
-      "cover": "Through The Hurt.webp",
       "file": "songs/Hold Me Through the Hurt.mp3"
     },
     {
       "id": "Hold My Heart Steady",
       "title": "Hold My Heart Steady",
       "genre": "Rock",
-      "album": "Through The Hurt",
-      "cover": "Through The Hurt.webp",
       "file": "songs/Hold My Heart Steady.mp3"
     },
     {
       "id": "Lead Me Through the Quiet",
       "title": "Lead Me Through the Quiet",
       "genre": "Rock",
-      "album": "Through The Hurt",
-      "cover": "Through The Hurt.webp",
       "file": "songs/Lead Me Through the Quiet.mp3"
     },
     {
       "id": "You Have My Yes",
       "title": "You Have My Yes",
       "genre": "Rock",
-      "album": "Through The Hurt",
-      "cover": "Through The Hurt.webp",
       "file": "songs/You Have My Yes.mp3"
-    }
-  ],
-  "audio_stories": [
-    {
-      "id": "Absalom and the Politics of Charisma",
-      "title": "Absalom and the Politics of Charisma",
-      "cover": "Absalom and the Politics of Charisma.webp",
-      "file": "audios/Absalom and the Politics of Charisma.opus"
-    },
-    {
-      "id": "Elijah and the Limits of Spectacle",
-      "title": "Elijah and the Limits of Spectacle",
-      "cover": "Elijah and the Limits of Spectacle.webp",
-      "file": "audios/Elijah and the Limits of Spectacle.opus"
-    },
-    {
-      "id": "Jairus’ Daughter and the Woman Who Touched Jesus",
-      "title": "Jairus’ Daughter and the Woman Who Touched Jesus",
-      "cover": "Jairus’ Daughter and the Woman Who Touched Jesus.webp",
-      "file": "audios/Jairus’ Daughter and the Woman Who Touched Jesus.opus"
-    },
-    {
-      "id": "Jesus Calms the Storm",
-      "title": "Jesus Calms the Storm",
-      "cover": "Jesus Calms the Storm.webp",
-      "file": "audios/Jesus Calms the Storm.opus"
-    },
-    {
-      "id": "Jesus Walks on Water",
-      "title": "Jesus Walks on Water",
-      "cover": "Jesus Walks on Water.webp",
-      "file": "audios/Jesus Walks on Water.opus"
-    },
-    {
-      "id": "Job Integrity Under a System That Refuses Explanation",
-      "title": "Job Integrity Under a System That Refuses Explanation",
-      "cover": "Job Integrity Under a System That Refuses Explanation.webp",
-      "file": "audios/Job Integrity Under a System That Refuses Explanation.opus"
-    },
-    {
-      "id": "Joseph Power, Delay, and the Nonlinear Fulfillment of Promises",
-      "title": "Joseph Power, Delay, and the Nonlinear Fulfillment of Promises",
-      "cover": "Joseph Power, Delay, and the Nonlinear Fulfillment of Promises.webp",
-      "file": "audios/Joseph Power, Delay, and the Nonlinear Fulfillment of Promises.opus"
-    },
-    {
-      "id": "Moses and Pharaoh Authority in Conflict",
-      "title": "Moses and Pharaoh Authority in Conflict",
-      "cover": "Moses and Pharaoh Authority in Conflict.webp",
-      "file": "audios/Moses and Pharaoh Authority in Conflict.opus"
-    },
-    {
-      "id": "The Feeding of the Five Thousand",
-      "title": "The Feeding of the Five Thousand",
-      "cover": "The Feeding of the Five Thousand.webp",
-      "file": "audios/The Feeding of the Five Thousand.opus"
-    },
-    {
-      "id": "The Forgotten Priest",
-      "title": "The Forgotten Priest",
-      "cover": "The Forgotten Priest.webp",
-      "file": "audios/The Forgotten Priest.opus"
-    },
-    {
-      "id": "The Healing of the Paralytic",
-      "title": "The Healing of the Paralytic",
-      "cover": "The Healing of the Paralytic.webp",
-      "file": "audios/The Healing of the Paralytic.opus"
-    },
-    {
-      "id": "The Lost Sheep",
-      "title": "The Lost Sheep",
-      "cover": "The Lost Sheep.webp",
-      "file": "audios/The Lost Sheep.opus"
-    },
-    {
-      "id": "The Man Who Slept Under a Tree",
-      "title": "The Man Who Slept Under a Tree",
-      "cover": "The Man Who Slept Under a Tree.webp",
-      "file": "audios/The Man Who Slept Under a Tree.opus"
-    },
-    {
-      "id": "The Mustard Seed Faith",
-      "title": "The Mustard Seed Faith",
-      "cover": "The Mustard Seed Faith.webp",
-      "file": "audios/The Mustard Seed Faith.opus"
-    },
-    {
-      "id": "The Rich Man and Lazarus",
-      "title": "The Rich Man and Lazarus",
-      "cover": "The Rich Man and Lazarus.webp",
-      "file": "audios/The Rich Man and Lazarus .opus"
-    },
-    {
-      "id": "The Sower and the Soils",
-      "title": "The Sower and the Soils",
-      "cover": "The Sower and the Soils.webp",
-      "file": "audios/The Sower and the Soils.opus"
-    },
-    {
-      "id": "The Ten Lepers Healed",
-      "title": "The Ten Lepers Healed",
-      "cover": "The Ten Lepers Healed.webp",
-      "file": "audios/The Ten Lepers Healed.opus"
-    },
-    {
-      "id": "The Widow of Zarephath",
-      "title": "The Widow of Zarephath",
-      "cover": "The Widow of Zarephath.webp",
-      "file": "audios/The Widow of Zarephath.opus"
-    },
-    {
-      "id": "The Woman at the Well",
-      "title": "The Woman at the Well",
-      "cover": "The Woman at the Well.webp",
-      "file": "audios/The Woman at the Well.opus"
-    },
-    {
-      "id": "Zacchaeus Meets Jesus",
-      "title": "Zacchaeus Meets Jesus",
-      "cover": "Zacchaeus Meets Jesus.webp",
-      "file": "audios/Zacchaeus Meets Jesus.opus"
-    }
-  ],
-  "read_stories": [
-    {
-      "id": "David and Goliath",
-      "title": "David and Goliath",
-      "cover": "David and Goliath.webp",
-      "file": "David and Goliath.json"
-    },
-    {
-      "id": "David in the Cave with Saul's Robe",
-      "title": "David in the Cave with Saul's Robe",
-      "cover": "David in the Cave with Saul's Robe.webp",
-      "file": "David in the Cave with Saul's Robe.json"
-    },
-    {
-      "id": "Elijah under the Juniper Tree",
-      "title": "Elijah under the Juniper Tree",
-      "cover": "Elijah under the Juniper Tree.webp",
-      "file": "Elijah under the Juniper Tree.json"
-    },
-    {
-      "id": "Hagar in the Desert",
-      "title": "Hagar in the Desert",
-      "cover": "Hagar in the Desert.webp",
-      "file": "Hagar in the Desert.json"
-    },
-    {
-      "id": "Jephthah's Daughter",
-      "title": "Jephthah's Daughter",
-      "cover": "Jephthah's Daughter.webp",
-      "file": "Jephthah's Daughter.json"
-    },
-    {
-      "id": "Job's Wife",
-      "title": "Job's Wife",
-      "cover": "Job's Wife.webp",
-      "file": "Job's Wife.json"
-    },
-    {
-      "id": "Jonah Inside the Fish",
-      "title": "Jonah Inside the Fish",
-      "cover": "Jonah Inside the Fish.webp",
-      "file": "Jonah Inside the Fish.json"
-    },
-    {
-      "id": "Naboth's Vineyard",
-      "title": "Naboth's Vineyard",
-      "cover": "Naboth's Vineyard.webp",
-      "file": "Naboth's Vineyard.json"
-    },
-    {
-      "id": "Rizpah's Vigil",
-      "title": "Rizpah's Vigil",
-      "cover": "Rizpah's Vigil.webp",
-      "file": "Rizpah's Vigil.json"
-    },
-    {
-      "id": "The Boy on the Mountain",
-      "title": "The Boy on the Mountain",
-      "cover": "The Boy on the Mountain.webp",
-      "file": "The Boy on the Mountain.json"
-    },
-    {
-      "id": "The Death of Sisera",
-      "title": "The Death of Sisera",
-      "cover": "The Death of Sisera.webp",
-      "file": "The Death of Sisera.json"
-    },
-    {
-      "id": "The Witch of Endor",
-      "title": "The Witch of Endor",
-      "cover": "The Witch of Endor.webp",
-      "file": "The Witch of Endor.json"
     }
   ]
 }
