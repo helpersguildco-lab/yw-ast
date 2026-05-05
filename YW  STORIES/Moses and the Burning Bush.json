@@ -1,0 +1,71 @@
+{
+  "title": "Moses and the Burning Bush",
+  "subtitle": "The Man Who Argued With God",
+  "author": "YourWord",
+  "tags": ["calling", "doubt", "Moses", "Exodus", "forgotten stories"],
+  "paragraphs": [
+    {
+      "para": 1,
+      "body": "Moses had been in the desert for forty years. He left Egypt as a prince and arrived in Midian as a fugitive with nothing but the clothes on his back. He married a shepherd's daughter, had children, and learned to tend sheep in the silence of the wilderness. The man who grew up in Pharaoh's palace now spent his days walking behind animals across dry ground. Forty years is long enough to stop expecting anything to change.",
+      "styles": {
+        "forty years": { "size": 24, "color": "#F1C40F", "font": "ExtraBold" },
+        "left Egypt as a prince and arrived as a fugitive": { "size": 22, "color": "#FF6B6B", "font": "bold-italic" },
+        "long enough to stop expecting anything to change": { "size": 22, "color": "#FAD7A0", "font": "italic" }
+      }
+    },
+    {
+      "para": 2,
+      "body": "He was driving the flock near Horeb when he saw it. A bush that was burning but not burning up. The fire moved through the branches but the branches stayed. He stood and watched it for long enough to be sure he was seeing what he was seeing. Then he said to himself: I will turn aside and look at this strange thing. The text records that God waited until Moses turned aside before calling his name.",
+      "styles": {
+        "burning but not burning up": { "size": 25, "color": "#E67E22", "font": "ExtraBold" },
+        "God waited until Moses turned aside": { "size": 23, "color": "#2ECC71", "font": "bold" },
+        "I will turn aside and look": { "size": 22, "color": "#F1C40F", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 3,
+      "body": "The voice said: Moses, Moses. He said: here I am. The voice told him to take his sandals off because the ground he was standing on was holy. The sand was warm under his feet and the fire in front of him gave off heat against his face. Then the voice said: I am the God of your father, the God of Abraham, Isaac, and Jacob. Moses covered his face. He was afraid to look.",
+      "styles": {
+        "Moses, Moses.": { "size": 26, "color": "#F1C40F", "font": "ExtraBold" },
+        "the ground he was standing on was holy": { "size": 22, "color": "#2ECC71", "font": "bold-italic" },
+        "The sand was warm under his feet": { "size": 21, "color": "#E67E22", "font": "italic" }
+      }
+    },
+    {
+      "para": 4,
+      "body": "God said: I have seen the suffering of my people in Egypt. I have heard them. I know their pain. I have come down to rescue them. And then came the sentence Moses was not ready for: I am sending YOU. Moses stood barefoot in front of a burning bush that would not stop burning and heard the word you land on him like a stone.",
+      "styles": {
+        "I am sending YOU.": { "size": 27, "color": "#E74C3C", "font": "ExtraBold" },
+        "I have seen. I have heard. I know.": { "size": 23, "color": "#3498DB", "font": "bold" },
+        "like a stone": { "size": 22, "color": "#FF6B6B", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 5,
+      "body": "He argued. Not once but five times. He said: who am I to go to Pharaoh? God said: I will be with you. He said: what is your name, what do I tell them? God said: I AM WHO I AM. He said: what if they do not believe me? God gave him signs. A staff that became a snake. A hand that turned white with disease and healed again. Moses watched his own hand change and change back and still kept looking for a reason.",
+      "styles": {
+        "I AM WHO I AM": { "size": 27, "color": "#F1C40F", "font": "ExtraBold" },
+        "He argued five times.": { "size": 23, "color": "#FF6B6B", "font": "bold" },
+        "his own hand change and change back": { "size": 22, "color": "#1ABC9C", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 6,
+      "body": "His fifth argument was the plainest. He said: I am not a good speaker. I am slow of mouth and slow of tongue. I never have been, not before this conversation and not since you started talking to me. Send someone else. The text says God's anger burned against Moses at that point. Not at Pharaoh. Not at the Egyptians. At the man standing at the bush who kept finding reasons to stay in the desert.",
+      "styles": {
+        "Send someone else.": { "size": 26, "color": "#E74C3C", "font": "ExtraBold" },
+        "God's anger burned against Moses": { "size": 23, "color": "#FF6B6B", "font": "bold" },
+        "who kept finding reasons to stay in the desert": { "size": 22, "color": "#FAD7A0", "font": "italic" }
+      }
+    },
+    {
+      "para": 7,
+      "body": "God said: your brother Aaron speaks well. He is already on his way to meet you. You will speak to him and he will speak to the people. Take this staff in your hand. Moses picked up the staff. He went back to his father in law and asked permission to return to Egypt. He packed up his wife and his sons and put them on a donkey. The bush was behind him now. He was facing Egypt for the first time in forty years.",
+      "styles": {
+        "He is already on his way to meet you.": { "size": 23, "color": "#2ECC71", "font": "bold-italic" },
+        "facing Egypt for the first time in forty years": { "size": 24, "color": "#F1C40F", "font": "ExtraBold" },
+        "The bush was behind him now.": { "size": 22, "color": "#E67E22", "font": "bold" }
+      }
+    }
+  ]
+}

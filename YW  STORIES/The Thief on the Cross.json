@@ -1,0 +1,71 @@
+{
+  "title": "The Thief on the Cross",
+  "subtitle": "The Last Conversation Before Dark",
+  "author": "YourWord",
+  "tags": ["grace", "mercy", "crucifixion", "Luke", "forgotten stories"],
+  "paragraphs": [
+    {
+      "para": 1,
+      "body": "Three men were crucified that day. Jesus in the middle, two criminals on either side. The Romans did not explain their choices of placement. The two men on the outer crosses had been condemned for their own crimes and were dying the same death as the man between them. The hill was called the Skull. The crowd below was loud and the sky above was open and the nails through a man's wrists make a sound you do not forget.",
+      "styles": {
+        "Three men were crucified that day.": { "size": 25, "color": "#E74C3C", "font": "ExtraBold" },
+        "the hill was called the Skull": { "size": 22, "color": "#FF6B6B", "font": "bold-italic" },
+        "the nails through a man's wrists make a sound you do not forget": { "size": 23, "color": "#FAD7A0", "font": "italic" }
+      }
+    },
+    {
+      "para": 2,
+      "body": "The crowd below was mocking Jesus. The soldiers were mocking him. One of the criminals joined in. He said: are you not the Christ? Save yourself and us. His pain had curdled into something sharp and he was pointing it at the man next to him. The other criminal turned his head and looked at him. He said: do you not fear God? We are getting what we deserve. This man has done nothing wrong.",
+      "styles": {
+        "Save yourself and us.": { "size": 24, "color": "#E74C3C", "font": "bold" },
+        "do you not fear God?": { "size": 24, "color": "#F1C40F", "font": "ExtraBold" },
+        "This man has done nothing wrong.": { "size": 23, "color": "#2ECC71", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 3,
+      "body": "He was dying. His lungs were working hard just to pull air in, the particular suffocation of crucifixion where breathing requires pushing up on the nails in your feet. Every word he said cost him something physical. He chose to spend those words defending a man he had never met before today, on a hill where both of them were being executed.",
+      "styles": {
+        "Every word cost him something physical.": { "size": 25, "color": "#FF6B6B", "font": "ExtraBold" },
+        "defending a man he had never met before today": { "size": 23, "color": "#3498DB", "font": "bold-italic" },
+        "pushing up on the nails in your feet": { "size": 22, "color": "#FAD7A0", "font": "italic" }
+      }
+    },
+    {
+      "para": 4,
+      "body": "Then he turned toward Jesus. What he asked was small by most measures. He did not ask to be taken down. He did not ask for a miracle. He said: Jesus, remember me when you come into your kingdom. Six words. He had heard enough or seen enough or simply knew enough in that last hour to believe that the man next to him had a kingdom to come into. He asked only to be remembered inside it.",
+      "styles": {
+        "remember me when you come into your kingdom": { "size": 25, "color": "#F1C40F", "font": "ExtraBold" },
+        "He asked only to be remembered.": { "size": 23, "color": "#2ECC71", "font": "bold" },
+        "Six words.": { "size": 24, "color": "#3498DB", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 5,
+      "body": "Jesus answered him. On the cross, in the middle of dying, with the crowd still shouting below and the sky beginning to change above, he answered. He said: truly I tell you, TODAY you will be with me in paradise. Not someday. Not eventually. Today. The man had no time left for anything. No baptism, no church, no years of following. He had one conversation and a promise and a few hours left to breathe.",
+      "styles": {
+        "TODAY": { "size": 28, "color": "#2ECC71", "font": "ExtraBold" },
+        "truly I tell you": { "size": 23, "color": "#F1C40F", "font": "bold" },
+        "one conversation and a promise": { "size": 23, "color": "#3498DB", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 6,
+      "body": "The sky went dark at noon. Not a cloud covering. Dark, the way the text describes it, for three hours across the whole land. The crowd went quiet during it. The criminals on either side were still there. When the darkness lifted Jesus cried out and died. The soldiers broke the legs of the two criminals to speed their deaths. The one who had asked to be remembered was already gone.",
+      "styles": {
+        "The sky went dark at noon.": { "size": 25, "color": "#E74C3C", "font": "ExtraBold" },
+        "for three hours across the whole land": { "size": 22, "color": "#FF6B6B", "font": "bold-italic" },
+        "The one who had asked to be remembered was already gone.": { "size": 23, "color": "#FAD7A0", "font": "italic" }
+      }
+    },
+    {
+      "para": 7,
+      "body": "His name is not in the text. The tradition gave him names later, Dismas being the most common, but the gospel of Luke never says it. He is only ever the criminal, the one on the right, the one who turned his head. He is the last person Jesus made a promise to before he died, and the promise was immediate and total and given to someone who had nothing left to offer in return.",
+      "styles": {
+        "His name is not in the text.": { "size": 24, "color": "#3498DB", "font": "ExtraBold" },
+        "the last person Jesus made a promise to before he died": { "size": 24, "color": "#F1C40F", "font": "bold-italic" },
+        "nothing left to offer in return": { "size": 23, "color": "#2ECC71", "font": "bold" }
+      }
+    }
+  ]
+}

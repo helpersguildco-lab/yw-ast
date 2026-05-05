@@ -1,0 +1,71 @@
+{
+  "title": "Michal at the Window",
+  "subtitle": "The Woman Who Watched From Above",
+  "author": "YourWord",
+  "tags": ["pride", "worship", "David", "Michal", "2 Samuel", "forgotten stories"],
+  "paragraphs": [
+    {
+      "para": 1,
+      "body": "Michal was Saul's daughter. She had loved David first, before he was famous, before the songs about him filled the streets. She had saved his life once, letting him down through a window with a rope while her father's soldiers waited at the door. She put a household idol in his bed and covered it with goat hair to buy him time. She did all of this for a man who then spent years away from her without sending word.",
+      "styles": {
+        "She had loved David first.": { "size": 24, "color": "#F1C40F", "font": "ExtraBold" },
+        "letting him down through a window with a rope": { "size": 22, "color": "#3498DB", "font": "italic" },
+        "without sending word": { "size": 22, "color": "#FF6B6B", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 2,
+      "body": "While David was a fugitive, Saul gave Michal to another man. His name was Paltiel. She lived with him for years, long enough for a life to form around the arrangement. When David became king, he sent for her. She was taken back. The text says Paltiel walked behind her weeping all the way to Bahurim before he was told to go home. Michal does not speak in this part of the story.",
+      "styles": {
+        "Paltiel walked behind her weeping": { "size": 24, "color": "#2ECC71", "font": "bold-italic" },
+        "She was taken back.": { "size": 23, "color": "#E74C3C", "font": "ExtraBold" },
+        "Michal does not speak in this part of the story.": { "size": 22, "color": "#FAD7A0", "font": "italic" }
+      }
+    },
+    {
+      "para": 3,
+      "body": "The ark of God was coming into Jerusalem. David had waited years for this. The procession moved through the city with shouting and trumpets and the sound of people pressing close on both sides of the road. David was at the front of it, dressed in a linen ephod, leaping and dancing before God with everything he had. The city shook with noise. Michal stood at a window above the street and watched him.",
+      "styles": {
+        "leaping and dancing before God with everything he had": { "size": 23, "color": "#F1C40F", "font": "bold-italic" },
+        "The city shook with noise.": { "size": 22, "color": "#E67E22", "font": "bold" },
+        "Michal stood at a window above the street": { "size": 23, "color": "#3498DB", "font": "ExtraBold" }
+      }
+    },
+    {
+      "para": 4,
+      "body": "The text says she despised him in her heart when she saw him dancing. Not later. Right then, watching from the window. The king of Israel uncovered and leaping in the street while the whole city celebrated around him. She had been a king's daughter before she was a king's wife. She knew what dignity looked like from a window and this was not it.",
+      "styles": {
+        "she despised him in her heart": { "size": 24, "color": "#E74C3C", "font": "ExtraBold" },
+        "Right then, watching from the window.": { "size": 22, "color": "#FF6B6B", "font": "bold" },
+        "She had been a king's daughter before she was a king's wife.": { "size": 23, "color": "#FAD7A0", "font": "italic" }
+      }
+    },
+    {
+      "para": 5,
+      "body": "David came home to bless his household. Michal came out to meet him. She said: how glorious the king of Israel looked today, uncovering himself in front of his servants' slave girls like a fool. The words were clean and precise. The kind of sentence a person constructs while standing at a window waiting for someone to come close enough to hear it.",
+      "styles": {
+        "like a fool": { "size": 24, "color": "#E74C3C", "font": "ExtraBold" },
+        "The words were clean and precise.": { "size": 22, "color": "#1ABC9C", "font": "bold-italic" },
+        "waiting for someone to come close enough to hear it": { "size": 22, "color": "#FAD7A0", "font": "italic" }
+      }
+    },
+    {
+      "para": 6,
+      "body": "David did not soften his reply. He said: it was before God, who chose me over your father and his entire house. He said he would become even more undignified than this. He said the slave girls she mentioned would honor him for it. He was not apologizing. He was not explaining. He was done.",
+      "styles": {
+        "who chose me over your father and his entire house": { "size": 23, "color": "#F1C40F", "font": "bold" },
+        "He was done.": { "size": 25, "color": "#E74C3C", "font": "ExtraBold" },
+        "even more undignified than this": { "size": 22, "color": "#E67E22", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 7,
+      "body": "The last line about Michal in the Bible says she had no children to the day of her death. One sentence closing out everything. The woman who saved David with a rope, who was passed between two men without being asked, who stood at a window and watched a city celebrate a man she had once loved, is last seen in a single line about absence.",
+      "styles": {
+        "she had no children to the day of her death": { "size": 24, "color": "#FF6B6B", "font": "ExtraBold" },
+        "passed between two men without being asked": { "size": 22, "color": "#3498DB", "font": "bold-italic" },
+        "a single line about absence": { "size": 23, "color": "#FAD7A0", "font": "bold" }
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "title": "Peter and the Water",
+  "subtitle": "The Man Who Asked to Come",
+  "author": "YourWord",
+  "tags": ["faith", "doubt", "Peter", "Matthew", "forgotten stories"],
+  "paragraphs": [
+    {
+      "para": 1,
+      "body": "Jesus had just fed five thousand people with five loaves and two fish. Immediately after, he sent the disciples ahead in a boat and dismissed the crowd and went up a mountain alone to pray. The disciples rowed out onto the Sea of Galilee as the sun went down. By the middle of the night they were far from shore and the wind was against them and the boat was being battered by waves.",
+      "styles": {
+        "five thousand people with five loaves and two fish": { "size": 23, "color": "#F1C40F", "font": "bold" },
+        "the wind was against them": { "size": 23, "color": "#3498DB", "font": "bold-italic" },
+        "By the middle of the night": { "size": 22, "color": "#FAD7A0", "font": "italic" }
+      }
+    },
+    {
+      "para": 2,
+      "body": "Jesus came to them walking on the water. He was walking on open sea in the dark, moving toward the boat at his own pace while the waves moved around him. The disciples saw him and screamed. They thought he was a ghost. The fear that went through the boat was the specific kind that comes from seeing something your mind has no category for. Jesus spoke immediately. He said: take heart, it is I, do not be afraid.",
+      "styles": {
+        "walking on the water": { "size": 25, "color": "#3498DB", "font": "ExtraBold" },
+        "the disciples screamed": { "size": 23, "color": "#E74C3C", "font": "bold" },
+        "something your mind has no category for": { "size": 22, "color": "#FAD7A0", "font": "italic" }
+      }
+    },
+    {
+      "para": 3,
+      "body": "Peter spoke before anyone else could. He said: Lord, if it is you, tell me to come to you on the water. This was not the group's decision. Nobody else asked. Peter heard the voice and his first instinct was not to wait for the boat to reach shore. He wanted to go out there. Jesus said one word back: COME.",
+      "styles": {
+        "tell me to come to you on the water": { "size": 23, "color": "#F1C40F", "font": "bold-italic" },
+        "COME.": { "size": 30, "color": "#2ECC71", "font": "ExtraBold" },
+        "Nobody else asked.": { "size": 23, "color": "#FF6B6B", "font": "bold" }
+      }
+    },
+    {
+      "para": 4,
+      "body": "Peter got out of the boat. That part is easy to read past. He swung his legs over the side of a wooden boat in the middle of a storm on a dark lake and put his feet on the water. The water held. He took a step and it held again. He was walking on the Sea of Galilee toward Jesus and everything was working. Then he noticed the wind. The moment his attention shifted from Jesus to the storm around him, he began to sink.",
+      "styles": {
+        "Peter got out of the boat.": { "size": 25, "color": "#2ECC71", "font": "ExtraBold" },
+        "The water held.": { "size": 24, "color": "#3498DB", "font": "bold" },
+        "he noticed the wind": { "size": 24, "color": "#E74C3C", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 5,
+      "body": "He went down fast. The cold water came up around his legs and he shouted: Lord, save me! Three words. No explanation needed. Jesus reached out his hand immediately and caught him. They were standing on the water together, Jesus holding Peter by the arm while the wind pushed around them. Jesus said: you of little faith, why did you doubt? The question was not an accusation. It was asked while he was still holding him up.",
+      "styles": {
+        "Lord, save me!": { "size": 27, "color": "#E74C3C", "font": "ExtraBold" },
+        "Jesus reached out his hand immediately": { "size": 23, "color": "#2ECC71", "font": "bold" },
+        "asked while he was still holding him up": { "size": 22, "color": "#F1C40F", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 6,
+      "body": "They got into the boat together. The wind stopped the moment they climbed in. The men in the boat had watched all of it from a few meters away. They had seen Peter walk and sink and get caught and come back. They did something the disciples rarely do this early in the gospel story. They worshipped Jesus and said: truly you are the Son of God. The water was flat and still around the boat.",
+      "styles": {
+        "The wind stopped the moment they climbed in.": { "size": 24, "color": "#3498DB", "font": "ExtraBold" },
+        "truly you are the Son of God": { "size": 24, "color": "#F1C40F", "font": "bold" },
+        "The water was flat and still": { "size": 22, "color": "#FAD7A0", "font": "italic" }
+      }
+    },
+    {
+      "para": 7,
+      "body": "Peter is the only person in recorded history other than Jesus who walked on water. He did it because he asked to. He sank because he looked at the wrong thing. He was rescued because he called out. The other eleven stayed in the boat the entire time and never had to worry about any of it. Peter got wet and got caught and got back in the boat having done something none of them did.",
+      "styles": {
+        "the only person in recorded history other than Jesus": { "size": 23, "color": "#2ECC71", "font": "bold-italic" },
+        "He asked to.": { "size": 25, "color": "#F1C40F", "font": "ExtraBold" },
+        "The other eleven stayed in the boat.": { "size": 23, "color": "#FF6B6B", "font": "bold" }
+      }
+    }
+  ]
+}

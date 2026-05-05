@@ -1,0 +1,71 @@
+{
+  "title": "Four Friends and a Hole in the Roof",
+  "subtitle": "The Men Who Would Not Take No for an Answer",
+  "author": "YourWord",
+  "tags": ["faith", "friendship", "healing", "Mark", "forgotten stories"],
+  "paragraphs": [
+    {
+      "para": 1,
+      "body": "Jesus was inside a house in Capernaum and word had spread fast. The room filled up. The doorway filled up. The area outside the door filled up. People were pressed against each other in the heat, standing on their toes to see over the person in front of them. There was no way in. Four men arrived carrying a fifth man on a mat and looked at the crowd and did not leave.",
+      "styles": {
+        "There was no way in.": { "size": 25, "color": "#E74C3C", "font": "ExtraBold" },
+        "did not leave": { "size": 24, "color": "#2ECC71", "font": "bold" },
+        "pressed against each other in the heat": { "size": 21, "color": "#FAD7A0", "font": "italic" }
+      }
+    },
+    {
+      "para": 2,
+      "body": "The man on the mat could not walk. He had not walked in long enough that his friends had decided to carry him across the city to a house where a teacher was speaking. They believed something would happen if they could get him close enough. The crowd made close enough impossible. One of them looked up at the roof. The others followed his eyes. Nobody said it was a bad idea.",
+      "styles": {
+        "One of them looked up at the roof.": { "size": 25, "color": "#F1C40F", "font": "ExtraBold" },
+        "if they could get him close enough": { "size": 22, "color": "#3498DB", "font": "bold-italic" },
+        "Nobody said it was a bad idea.": { "size": 23, "color": "#2ECC71", "font": "bold" }
+      }
+    },
+    {
+      "para": 3,
+      "body": "They carried him up to the roof. Palestinian roofs in that era were flat, made of compacted earth and straw laid across wooden beams. You could dig through one with your hands if you were determined enough. They started digging. The sound of it came down into the room before anything else did. Dirt and debris falling on the people below. Everyone looked up. Jesus looked up. A hole opened in the ceiling and light came through it.",
+      "styles": {
+        "They started digging.": { "size": 25, "color": "#E67E22", "font": "ExtraBold" },
+        "Dirt and debris falling on the people below.": { "size": 22, "color": "#FAD7A0", "font": "italic" },
+        "A hole opened in the ceiling and light came through it.": { "size": 23, "color": "#F1C40F", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 4,
+      "body": "They lowered the mat through the hole with the man lying on it, using ropes, slowly, until he was on the floor in front of Jesus. The room was completely silent. Four faces appeared at the edges of the hole above, looking down. Jesus looked at the man on the mat and then looked up at the faces in the ceiling. The text says he saw their faith. All five of them. The man who could not walk and the four who would not stop.",
+      "styles": {
+        "Four faces appeared at the edges of the hole": { "size": 23, "color": "#3498DB", "font": "bold-italic" },
+        "he saw their faith": { "size": 26, "color": "#2ECC71", "font": "ExtraBold" },
+        "The man who could not walk and the four who would not stop.": { "size": 23, "color": "#F1C40F", "font": "bold" }
+      }
+    },
+    {
+      "para": 5,
+      "body": "Jesus said: son, your sins are forgiven. The religious teachers sitting in the room went rigid. They did not say anything out loud but Jesus knew what they were thinking. Who is this man who speaks like this? Only God can forgive sins. Jesus looked at them and asked: which is easier, to say your sins are forgiven, or to say get up and walk? He did not wait for an answer.",
+      "styles": {
+        "your sins are forgiven": { "size": 24, "color": "#2ECC71", "font": "ExtraBold" },
+        "Which is easier?": { "size": 24, "color": "#F1C40F", "font": "bold" },
+        "went rigid": { "size": 22, "color": "#FF6B6B", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 6,
+      "body": "He said: so that you know the Son of Man has authority on earth to forgive sins. Then he turned to the man on the mat and said: GET UP. Take your mat and go home. The man got up. He picked up the mat he had been carried in on and walked out through the crowd while everyone pressed back to make room for him. The same crowd that had blocked the door watched him walk through it.",
+      "styles": {
+        "GET UP.": { "size": 28, "color": "#E74C3C", "font": "ExtraBold" },
+        "walked out through the crowd": { "size": 23, "color": "#2ECC71", "font": "bold" },
+        "The same crowd that had blocked the door": { "size": 22, "color": "#3498DB", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 7,
+      "body": "The four men on the roof watched him walk out from above. They had come with a paralyzed friend and a plan that involved destroying someone's ceiling, and it had worked. The crowd below was saying they had never seen anything like this. Nobody in the story records whether the homeowner was compensated for the roof. The four men climbed back down and somewhere outside the city their friend was walking home carrying his own mat.",
+      "styles": {
+        "it had worked": { "size": 25, "color": "#2ECC71", "font": "ExtraBold" },
+        "their friend was walking home carrying his own mat": { "size": 24, "color": "#F1C40F", "font": "bold-italic" },
+        "Nobody records whether the homeowner was compensated.": { "size": 22, "color": "#FAD7A0", "font": "italic" }
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "title": "The Man in the Sycamore",
+  "subtitle": "The One Jesus Looked Up At",
+  "author": "YourWord",
+  "tags": ["grace", "tax collector", "Zacchaeus", "Luke", "forgotten stories"],
+  "paragraphs": [
+    {
+      "para": 1,
+      "body": "Zacchaeus was the chief tax collector in Jericho. Not just a tax collector but the one who ran them. He had built a system that took Roman taxes from Jewish people and skimmed enough off the top to make himself rich in the process. Everyone in Jericho knew who he was and what he had done and how much of their money was now inside his house. He was short. He could not see over the crowd.",
+      "styles": {
+        "chief tax collector": { "size": 24, "color": "#E74C3C", "font": "bold" },
+        "He was short.": { "size": 26, "color": "#FF6B6B", "font": "ExtraBold" },
+        "how much of their money was now inside his house": { "size": 22, "color": "#FAD7A0", "font": "italic" }
+      }
+    },
+    {
+      "para": 2,
+      "body": "Jesus was passing through Jericho. Not stopping, just passing through. The crowd that formed along the road was thick and nobody was making room for Zacchaeus. He ran ahead of the crowd. He found a sycamore tree along the route Jesus would take and climbed it. A wealthy, powerful, fully grown man climbed a tree on a public road in his own city because he wanted to see who was coming.",
+      "styles": {
+        "He ran ahead of the crowd.": { "size": 24, "color": "#E67E22", "font": "bold" },
+        "climbed a tree on a public road in his own city": { "size": 23, "color": "#F1C40F", "font": "bold-italic" },
+        "Not stopping, just passing through.": { "size": 22, "color": "#3498DB", "font": "italic" }
+      }
+    },
+    {
+      "para": 3,
+      "body": "Jesus reached the tree and stopped. He looked up. The crowd stopped with him. Every person in Jericho who had ever been taxed by this man was standing there watching. Jesus said: Zacchaeus, come down immediately. I must stay at your house today. He used his name. He had never met him. He invited himself to dinner before Zacchaeus had said a single word.",
+      "styles": {
+        "Zacchaeus, come down immediately.": { "size": 25, "color": "#F1C40F", "font": "ExtraBold" },
+        "I must stay at your house today.": { "size": 24, "color": "#2ECC71", "font": "bold" },
+        "He had never met him.": { "size": 23, "color": "#FF6B6B", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 4,
+      "body": "Zacchaeus came down immediately. The text says he welcomed Jesus gladly. The crowd did not share the feeling. They muttered. They said: he has gone to be the guest of a sinner. They said it loud enough that it was meant to be heard. Jericho had a long memory and Zacchaeus had been collecting from these people for years. The sight of Jesus walking toward his house was the day's news before they even got through the door.",
+      "styles": {
+        "he has gone to be the guest of a sinner": { "size": 24, "color": "#E74C3C", "font": "bold-italic" },
+        "Zacchaeus came down immediately.": { "size": 25, "color": "#2ECC71", "font": "ExtraBold" },
+        "Jericho had a long memory": { "size": 22, "color": "#FAD7A0", "font": "italic" }
+      }
+    },
+    {
+      "para": 5,
+      "body": "Inside the house Zacchaeus stood up and spoke before Jesus asked him anything. He said: Lord, I will give half of everything I own to the poor. And if I have cheated anyone I will pay back four times the amount. Four times was beyond the legal requirement. The legal requirement was repayment plus a fifth. He was not offering the minimum. He was offering four times what the law demanded, unprompted, before Jesus said a word about money.",
+      "styles": {
+        "half of everything I own": { "size": 24, "color": "#F1C40F", "font": "ExtraBold" },
+        "four times the amount": { "size": 25, "color": "#2ECC71", "font": "bold" },
+        "before Jesus said a word about money": { "size": 22, "color": "#3498DB", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 6,
+      "body": "Jesus said: today salvation has come to this house. He said: this man too is a son of Abraham. That last sentence was aimed at the crowd outside as much as anyone in the room. The people muttering in the street had written Zacchaeus out of the community a long time ago. Jesus put him back in with one sentence, in his own house, on the day they watched him climb down from a tree.",
+      "styles": {
+        "today salvation has come to this house": { "size": 25, "color": "#2ECC71", "font": "ExtraBold" },
+        "this man too is a son of Abraham": { "size": 24, "color": "#F1C40F", "font": "bold" },
+        "written Zacchaeus out of the community": { "size": 22, "color": "#FF6B6B", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 7,
+      "body": "The crowd had decided what kind of person Zacchaeus was years before this day. He had given them enough evidence to work with. What nobody outside that house saw coming was that the same man who climbed a tree to see Jesus would be emptying his accounts before the meal was over. Jesus said he came to seek and save the lost. In Jericho that day, the lost man was the richest one on the street.",
+      "styles": {
+        "emptying his accounts before the meal was over": { "size": 24, "color": "#2ECC71", "font": "bold-italic" },
+        "the lost man was the richest one on the street": { "size": 25, "color": "#F1C40F", "font": "ExtraBold" },
+        "The crowd had decided what kind of person he was years before": { "size": 22, "color": "#FAD7A0", "font": "italic" }
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "title": "The Brother Who Stayed",
+  "subtitle": "The Man Outside the Party",
+  "author": "YourWord",
+  "tags": ["resentment", "faithfulness", "parable", "Luke", "forgotten stories"],
+  "paragraphs": [
+    {
+      "para": 1,
+      "body": "The younger son took his inheritance early, which meant he looked his father in the face and said: I want what I get when you die. Give it to me now. The father divided the property. The older brother watched this happen. He said nothing recorded. He stayed. He went back to work the next morning while his brother packed and left down the road with half of everything the family owned.",
+      "styles": {
+        "I want what I get when you die.": { "size": 24, "color": "#E74C3C", "font": "ExtraBold" },
+        "He stayed.": { "size": 25, "color": "#2ECC71", "font": "bold" },
+        "half of everything the family owned": { "size": 22, "color": "#FF6B6B", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 2,
+      "body": "The years after that were ordinary. He rose early. He managed workers. He kept the accounts and repaired what broke and made the decisions that keep a farm running through dry seasons and wet ones. The father aged. The older son carried more. Nobody threw a party for any of it. The work was the point and he did the work and the land kept producing because he was there.",
+      "styles": {
+        "Nobody threw a party for any of it.": { "size": 24, "color": "#F1C40F", "font": "ExtraBold" },
+        "He rose early.": { "size": 22, "color": "#3498DB", "font": "bold" },
+        "The work was the point": { "size": 22, "color": "#1ABC9C", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 3,
+      "body": "One evening he came in from the fields with dirt on his hands and the smell of the day still on him. He heard music before he reached the house. The sound of it was warm and loud, carrying out across the yard in the cooling air. He stopped a servant and asked what was happening. The servant said: your brother has come home. Your father has killed the fattened calf because he got him back safe.",
+      "styles": {
+        "He heard music before he reached the house.": { "size": 23, "color": "#E67E22", "font": "bold-italic" },
+        "your brother has come home": { "size": 24, "color": "#F1C40F", "font": "ExtraBold" },
+        "the smell of the day still on him": { "size": 21, "color": "#FAD7A0", "font": "italic" }
+      }
+    },
+    {
+      "para": 4,
+      "body": "He would not go in. He stood outside while the music played inside. His father came out to him. The older son spoke and the words came out in one long breath: I have served you for years. I never disobeyed you. You never gave me so much as a young goat to celebrate with my friends. Then this son of yours comes back after wasting everything on a bad life and you kill the fattened calf for him.",
+      "styles": {
+        "He would not go in.": { "size": 25, "color": "#E74C3C", "font": "ExtraBold" },
+        "this son of yours": { "size": 23, "color": "#FF6B6B", "font": "bold" },
+        "I never disobeyed you.": { "size": 22, "color": "#2ECC71", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 5,
+      "body": "He did not say my brother. He said this son of yours. The distance in those four words was not accidental. He had spent years being the responsible one and in one evening the returning one became the celebrated one. The resentment was not about the party. It was about every morning he got up and did the right thing and nobody noticed enough to mention it.",
+      "styles": {
+        "this son of yours": { "size": 24, "color": "#FF6B6B", "font": "ExtraBold" },
+        "every morning he got up and did the right thing": { "size": 23, "color": "#F1C40F", "font": "bold-italic" },
+        "nobody noticed enough to mention it": { "size": 22, "color": "#3498DB", "font": "italic" }
+      }
+    },
+    {
+      "para": 6,
+      "body": "The father did not correct him. He said: son, you are always with me and everything I have is yours. He said: we had to celebrate because your brother was dead and is alive, was lost and is found. The father was not choosing one son over the other. But the older son was standing in the cold outside a party that was happening inside his own house and that is exactly what it felt like.",
+      "styles": {
+        "you are always with me and everything I have is yours": { "size": 24, "color": "#2ECC71", "font": "ExtraBold" },
+        "standing in the cold outside a party": { "size": 23, "color": "#3498DB", "font": "bold-italic" },
+        "your brother was dead and is alive": { "size": 22, "color": "#F1C40F", "font": "bold" }
+      }
+    },
+    {
+      "para": 7,
+      "body": "The parable ends there. Jesus stops the story without telling us whether the older son went inside. The door was open and the music was still playing and the father had come out to him personally and the next move was his. Every person who has ever done the right thing quietly for a long time and then watched someone else get the celebration knows exactly why the story stops there.",
+      "styles": {
+        "Jesus stops the story without telling us whether he went inside.": { "size": 24, "color": "#E74C3C", "font": "ExtraBold" },
+        "The door was open": { "size": 22, "color": "#2ECC71", "font": "bold" },
+        "the next move was his": { "size": 23, "color": "#F1C40F", "font": "bold-italic" }
+      }
+    }
+  ]
+}

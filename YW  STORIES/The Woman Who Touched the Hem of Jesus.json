@@ -1,0 +1,71 @@
+{
+  "title": "The Hem of His Garment",
+  "subtitle": "The Woman Who Reached Through a Crowd",
+  "author": "YourWord",
+  "tags": ["healing", "faith", "women", "Mark", "forgotten stories"],
+  "paragraphs": [
+    {
+      "para": 1,
+      "body": "Twelve years. She had been bleeding for twelve years. Not an injury. Not a wound that would close. A constant, relentless bleeding that made her ceremonially unclean under Jewish law, which meant she could not enter the temple, could not be touched, could not touch anyone else without making them unclean too. Twelve years of being untouchable in a world built on community and proximity.",
+      "styles": {
+        "Twelve years.": { "size": 27, "color": "#E74C3C", "font": "ExtraBold" },
+        "untouchable in a world built on community": { "size": 23, "color": "#3498DB", "font": "bold-italic" },
+        "constant, relentless bleeding": { "size": 22, "color": "#FF6B6B", "font": "bold" }
+      }
+    },
+    {
+      "para": 2,
+      "body": "She had spent everything on doctors. The text does not soften this. She had suffered under many physicians, spent all she had, and grew worse instead of better. Every treatment took something from her and gave nothing back. By the time she heard about Jesus she had no money left, no options left, and a body that had been failing her for longer than some people's entire childhoods.",
+      "styles": {
+        "spent all she had": { "size": 24, "color": "#F1C40F", "font": "ExtraBold" },
+        "grew worse instead of better": { "size": 23, "color": "#FF6B6B", "font": "bold-italic" },
+        "longer than some people's entire childhoods": { "size": 22, "color": "#FAD7A0", "font": "italic" }
+      }
+    },
+    {
+      "para": 3,
+      "body": "Jesus was moving through a dense crowd, pressed from every side. People were pushing against him, calling out, reaching for him. A synagogue leader named Jairus had just asked him to come and heal his dying daughter and they were all moving together through the street. The crowd was loud and close and the air was thick with heat and bodies. She came up behind Jesus from inside that crowd.",
+      "styles": {
+        "pressed from every side": { "size": 23, "color": "#E67E22", "font": "bold-italic" },
+        "She came up behind Jesus": { "size": 24, "color": "#2ECC71", "font": "ExtraBold" },
+        "thick with heat and bodies": { "size": 21, "color": "#FAD7A0", "font": "italic" }
+      }
+    },
+    {
+      "para": 4,
+      "body": "She had a plan and the plan was to not be noticed. She said to herself: if I can just touch his clothes I will be healed. Not his hand. Not his face. The edge of what he was wearing. The very border of his garment. She reached through the crowd and her fingers found the hem and she touched it. Immediately the bleeding stopped. She felt it in her body before her mind caught up, a shift deep and physical and sudden like a door closing on twelve years of noise.",
+      "styles": {
+        "if I can just touch his clothes": { "size": 23, "color": "#F1C40F", "font": "bold-italic" },
+        "she felt it before her mind caught up": { "size": 23, "color": "#2ECC71", "font": "bold" },
+        "like a door closing on twelve years of noise": { "size": 24, "color": "#3498DB", "font": "ExtraBold" }
+      }
+    },
+    {
+      "para": 5,
+      "body": "Jesus stopped. In the middle of a moving crowd, with Jairus waiting and a dying girl ahead, he stopped and said: who touched my clothes? His disciples looked at him like he had lost his mind. They said: there are dozens of people pressing against you from every direction and you are asking who touched you? Jesus kept looking around. He knew that power had gone out from him.",
+      "styles": {
+        "Who touched my clothes?": { "size": 26, "color": "#F1C40F", "font": "ExtraBold" },
+        "power had gone out from him": { "size": 24, "color": "#E67E22", "font": "bold" },
+        "Jesus kept looking around.": { "size": 22, "color": "#2ECC71", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 6,
+      "body": "She came forward. The plan was to stay invisible and leave healed and never be identified. Now the crowd was looking at her and Jesus was looking at her and she fell at his feet trembling. She told him everything. The whole story, in front of everyone, the bleeding and the doctors and the money and the years. The thing she had carried alone for twelve years she said out loud in a public street.",
+      "styles": {
+        "The plan was to stay invisible.": { "size": 24, "color": "#FF6B6B", "font": "ExtraBold" },
+        "She told him everything.": { "size": 25, "color": "#F1C40F", "font": "bold" },
+        "trembling": { "size": 22, "color": "#3498DB", "font": "bold-italic" }
+      }
+    },
+    {
+      "para": 7,
+      "body": "Jesus called her daughter. Of all the words available that was the one he used. Not woman. Not you. Daughter. He said: your faith has healed you. Go in peace and be freed from your suffering. The crowd was still there. Jairus was still waiting. The street was still loud. But for one moment the most urgent thing in that entire scene was a woman who had been sick for twelve years hearing someone call her daughter.",
+      "styles": {
+        "Daughter.": { "size": 28, "color": "#2ECC71", "font": "ExtraBold" },
+        "your faith has healed you": { "size": 24, "color": "#F1C40F", "font": "bold" },
+        "hearing someone call her daughter": { "size": 23, "color": "#FAD7A0", "font": "bold-italic" }
+      }
+    }
+  ]
+}
