@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-03-22",
+  "updated": "2026-05-05",
   "read_stories": [
     {
       "id": "David and Goliath",
@@ -45,10 +45,34 @@
       "file": "Jonah Inside the Fish.json"
     },
     {
+      "id": "Mary Magdalene at the Empty Tomb",
+      "title": "Mary Magdalene at the Empty Tomb",
+      "cover": "Mary Magdalene at the Empty Tomb.webp",
+      "file": "Mary Magdalene at the Empty Tomb.json"
+    },
+    {
+      "id": "Michal Watching David Dance",
+      "title": "Michal Watching David Dance",
+      "cover": "Michal Watching David Dance.webp",
+      "file": "Michal Watching David Dance.json"
+    },
+    {
+      "id": "Moses and the Burning Bush",
+      "title": "Moses and the Burning Bush",
+      "cover": "Moses and the Burning Bush.webp",
+      "file": "Moses and the Burning Bush.json"
+    },
+    {
       "id": "Naboth's Vineyard",
       "title": "Naboth's Vineyard",
       "cover": "Naboth's Vineyard.webp",
       "file": "Naboth's Vineyard.json"
+    },
+    {
+      "id": "Peter Stepping Out of the Boat",
+      "title": "Peter Stepping Out of the Boat",
+      "cover": "Peter Stepping Out of the Boat.webp",
+      "file": "Peter Stepping Out of the Boat.json"
     },
     {
       "id": "Rizpah's Vigil",
@@ -69,10 +93,46 @@
       "file": "The Death of Sisera.json"
     },
     {
+      "id": "The Paralyzed Man and the Roof",
+      "title": "The Paralyzed Man and the Roof",
+      "cover": "The Paralyzed Man and the Roof.webp",
+      "file": "The Paralyzed Man and the Roof.json"
+    },
+    {
+      "id": "The Prodigal Son's Older Brother",
+      "title": "The Prodigal Son's Older Brother",
+      "cover": "The Prodigal Son's Older Brother.webp",
+      "file": "The Prodigal Son's Older Brother.json"
+    },
+    {
+      "id": "The Thief on the Cross",
+      "title": "The Thief on the Cross",
+      "cover": "The Thief on the Cross.webp",
+      "file": "The Thief on the Cross.json"
+    },
+    {
       "id": "The Witch of Endor",
       "title": "The Witch of Endor",
       "cover": "The Witch of Endor.webp",
       "file": "The Witch of Endor.json"
+    },
+    {
+      "id": "The Woman Who Touched the Hem of Jesus",
+      "title": "The Woman Who Touched the Hem of Jesus",
+      "cover": "The Woman Who Touched the Hem of Jesus.webp",
+      "file": "The Woman Who Touched the Hem of Jesus.json"
+    },
+    {
+      "id": "Thomas After the Resurrection",
+      "title": "Thomas After the Resurrection",
+      "cover": "Thomas After the Resurrection.webp",
+      "file": "Thomas After the Resurrection.json"
+    },
+    {
+      "id": "Zacchaeus Up the Tree",
+      "title": "Zacchaeus Up the Tree",
+      "cover": "Zacchaeus Up the Tree.webp",
+      "file": "Zacchaeus Up the Tree.json"
     }
   ]
 }
