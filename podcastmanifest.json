@@ -1,0 +1,263 @@
+{
+  "totalPodcasts": 14,
+  "lastUpdated": "2026-05-22T15:27:59.161Z",
+  "podcasts": [
+    {
+      "id": "bible_in_a_year",
+      "name": "The Bible in a Year (with Fr. Mike Schmitz)",
+      "host": "Fr. Mike Schmitz",
+      "category": "Daily Bible Study & Reading",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/64/0a/63/640a63aa-2e06-edfe-cf28-76678da4cf17/mza_10811210884241695509.jpg/600x600bb.jpg",
+      "totalEpisodes": 1690,
+      "dataFile": "bible_in_a_year.json"
+    },
+    {
+      "id": "bible_recap",
+      "name": "The Bible Recap",
+      "host": "Tara-Leigh Cobble",
+      "category": " Daily Bible Study & Reading",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/05/cf/43/05cf4387-a6fa-f187-d86b-67e0a2944b20/mza_14590302722108144211.jpg/600x600bb.jpg",
+      "totalEpisodes": 999,
+      "dataFile": "bible_recap.json"
+    },
+    {
+      "id": "catechism_in_a_year",
+      "name": "The Catechism in a Year",
+      "host": "Fr. Mike Schmitz",
+      "category": "Daily Bible Study & Reading",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/71/34/43/7134431e-4509-5a82-0b5c-4ca7aa04be1f/mza_11674400714781440620.jpg/600x600bb.jpg",
+      "totalEpisodes": 1249,
+      "dataFile": "catechism_in_a_year.json"
+    },
+    {
+      "id": "daily_audio_bible",
+      "name": "Daily Audio Bible",
+      "host": "Brian Hardin",
+      "category": "Daily Bible Study & Reading",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/bd/ff/df/bdffdf97-2804-d50c-e2f4-a4f6d4d1253c/mza_11649988523315220038.jpg/600x600bb.jpg",
+      "totalEpisodes": 457,
+      "dataFile": "daily_audio_bible.json"
+    },
+    {
+      "id": "lets_read_the_gospels",
+      "name": "Let's Read the Gospels",
+      "host": "Annie F. Downs",
+      "category": "Daily Bible Study & Reading",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/6c/fb/8a/6cfb8ad3-4b6e-dfbd-d2c6-d922976d8b9b/mza_3832870425424856002.jpg/600x600bb.jpg",
+      "totalEpisodes": 1059,
+      "dataFile": "lets_read_the_gospels.json"
+    },
+    {
+      "id": "ten_minute_bible_talks",
+      "name": "Ten Minute Bible Talks",
+      "host": "Keith Simon & Patrick Miller",
+      "category": "Daily Bible Study & Reading",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/b8/b2/e3/b8b2e3e6-99cb-db8c-443f-b88339f40078/mza_14620023605417882297.jpg/600x600bb.jpg",
+      "totalEpisodes": 1488,
+      "dataFile": "ten_minute_bible_talks.json"
+    },
+    {
+      "id": "audio_bible_kids",
+      "name": "1 Year Daily Audio Bible for Kids",
+      "host": "DAB Ministry",
+      "category": "Daily Bible Study & Reading",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/bd/ff/df/bdffdf97-2804-d50c-e2f4-a4f6d4d1253c/mza_11649988523315220038.jpg/600x600bb.jpg",
+      "totalEpisodes": 136,
+      "dataFile": "audio_bible_kids.json"
+    },
+    {
+      "id": "hearing_jesus_daily",
+      "name": "Hearing Jesus Daily Bible Study",
+      "host": "Rachael Carman",
+      "category": "Daily Bible Study & Reading",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/10/7c/75/107c7526-72aa-4756-78b1-be456d2b781e/mza_16362547180479153325.jpg/600x600bb.jpg",
+      "totalEpisodes": 1302,
+      "dataFile": "hearing_jesus_daily.json"
+    },
+    {
+      "id": "esv_bible_jackie_hill",
+      "name": "Through the ESV Bible in a Year with Jackie Hill Perry",
+      "host": "Jackie Hill Perry",
+      "category": "Daily Bible Study & Reading",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/28/bf/c5/28bfc52f-1358-1549-3545-d8aa4d693bf6/mza_5445209789397645167.jpg/600x600bb.jpg",
+      "totalEpisodes": 30,
+      "dataFile": "esv_bible_jackie_hill.json"
+    },
+    {
+      "id": "solid_joys_devotional",
+      "name": "Solid Joys Daily Devotional",
+      "host": "John Piper",
+      "category": "Daily Bible Study & Reading",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/05/92/79/05927909-026c-d2c4-fe9a-b427fa890b0e/mza_5270114092558502334.jpg/600x600bb.jpg",
+      "totalEpisodes": 163,
+      "dataFile": "solid_joys_devotional.json"
+    },
+    {
+      "id": "bible_project",
+      "name": "BibleProject Podcast",
+      "host": "Tim Mackie & Jon Collins",
+      "category": "Deep Theology & Academic Teaching",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/91/bf/2d/91bf2d43-fc05-4f6c-843e-cd70bc9a9af5/mza_14441053424160351720.jpg/600x600bb.jpg",
+      "totalEpisodes": 121,
+      "dataFile": "bible_project.json"
+    },
+    {
+      "id": "ask_pastor_john",
+      "name": "Ask Pastor John",
+      "host": "John Piper",
+      "category": "Deep Theology & Academic Teaching",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/26/5d/93/265d9333-6cfc-8ff8-e9f0-f97df8faaa84/mza_11943632363558667500.jpg/600x600bb.jpg",
+      "totalEpisodes": 2290,
+      "dataFile": "ask_pastor_john.json"
+    },
+    {
+      "id": "renewing_your_mind",
+      "name": "Renewing Your Mind",
+      "host": "R.C. Sproul",
+      "category": "Deep Theology & Academic Teaching",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/31/ff/47/31ff470d-f5e1-cb5d-4f04-944f2b1d6bd5/mza_14562086208035619199.jpg/600x600bb.jpg",
+      "totalEpisodes": 120,
+      "dataFile": "renewing_your_mind.json"
+    },
+    {
+      "id": "naked_bible",
+      "name": "The Naked Bible Podcast",
+      "host": "Dr. Michael S. Heiser",
+      "category": "Deep Theology & Academic Teaching",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/90/13/9b/90139b4d-da0a-e24b-3286-6b2dbf2d29bf/mza_12239454170878174116.jpg/600x600bb.jpg",
+      "totalEpisodes": 350,
+      "dataFile": "naked_bible.json"
+    }
+  ]
+}{
+  "totalPodcasts": 14,
+  "lastUpdated": "2026-05-22T15:27:59.161Z",
+  "podcasts": [
+    {
+      "id": "bible_in_a_year",
+      "name": "The Bible in a Year (with Fr. Mike Schmitz)",
+      "host": "Fr. Mike Schmitz",
+      "category": "Daily Bible Study & Reading",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/64/0a/63/640a63aa-2e06-edfe-cf28-76678da4cf17/mza_10811210884241695509.jpg/600x600bb.jpg",
+      "totalEpisodes": 1690,
+      "dataFile": "bible_in_a_year.json"
+    },
+    {
+      "id": "bible_recap",
+      "name": "The Bible Recap",
+      "host": "Tara-Leigh Cobble",
+      "category": " Daily Bible Study & Reading",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/05/cf/43/05cf4387-a6fa-f187-d86b-67e0a2944b20/mza_14590302722108144211.jpg/600x600bb.jpg",
+      "totalEpisodes": 999,
+      "dataFile": "bible_recap.json"
+    },
+    {
+      "id": "catechism_in_a_year",
+      "name": "The Catechism in a Year",
+      "host": "Fr. Mike Schmitz",
+      "category": "Daily Bible Study & Reading",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/71/34/43/7134431e-4509-5a82-0b5c-4ca7aa04be1f/mza_11674400714781440620.jpg/600x600bb.jpg",
+      "totalEpisodes": 1249,
+      "dataFile": "catechism_in_a_year.json"
+    },
+    {
+      "id": "daily_audio_bible",
+      "name": "Daily Audio Bible",
+      "host": "Brian Hardin",
+      "category": "Daily Bible Study & Reading",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/bd/ff/df/bdffdf97-2804-d50c-e2f4-a4f6d4d1253c/mza_11649988523315220038.jpg/600x600bb.jpg",
+      "totalEpisodes": 457,
+      "dataFile": "daily_audio_bible.json"
+    },
+    {
+      "id": "lets_read_the_gospels",
+      "name": "Let's Read the Gospels",
+      "host": "Annie F. Downs",
+      "category": "Daily Bible Study & Reading",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/6c/fb/8a/6cfb8ad3-4b6e-dfbd-d2c6-d922976d8b9b/mza_3832870425424856002.jpg/600x600bb.jpg",
+      "totalEpisodes": 1059,
+      "dataFile": "lets_read_the_gospels.json"
+    },
+    {
+      "id": "ten_minute_bible_talks",
+      "name": "Ten Minute Bible Talks",
+      "host": "Keith Simon & Patrick Miller",
+      "category": "Daily Bible Study & Reading",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/b8/b2/e3/b8b2e3e6-99cb-db8c-443f-b88339f40078/mza_14620023605417882297.jpg/600x600bb.jpg",
+      "totalEpisodes": 1488,
+      "dataFile": "ten_minute_bible_talks.json"
+    },
+    {
+      "id": "audio_bible_kids",
+      "name": "1 Year Daily Audio Bible for Kids",
+      "host": "DAB Ministry",
+      "category": "Daily Bible Study & Reading",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/bd/ff/df/bdffdf97-2804-d50c-e2f4-a4f6d4d1253c/mza_11649988523315220038.jpg/600x600bb.jpg",
+      "totalEpisodes": 136,
+      "dataFile": "audio_bible_kids.json"
+    },
+    {
+      "id": "hearing_jesus_daily",
+      "name": "Hearing Jesus Daily Bible Study",
+      "host": "Rachael Carman",
+      "category": "Daily Bible Study & Reading",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/10/7c/75/107c7526-72aa-4756-78b1-be456d2b781e/mza_16362547180479153325.jpg/600x600bb.jpg",
+      "totalEpisodes": 1302,
+      "dataFile": "hearing_jesus_daily.json"
+    },
+    {
+      "id": "esv_bible_jackie_hill",
+      "name": "Through the ESV Bible in a Year with Jackie Hill Perry",
+      "host": "Jackie Hill Perry",
+      "category": "Daily Bible Study & Reading",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/28/bf/c5/28bfc52f-1358-1549-3545-d8aa4d693bf6/mza_5445209789397645167.jpg/600x600bb.jpg",
+      "totalEpisodes": 30,
+      "dataFile": "esv_bible_jackie_hill.json"
+    },
+    {
+      "id": "solid_joys_devotional",
+      "name": "Solid Joys Daily Devotional",
+      "host": "John Piper",
+      "category": "Daily Bible Study & Reading",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/05/92/79/05927909-026c-d2c4-fe9a-b427fa890b0e/mza_5270114092558502334.jpg/600x600bb.jpg",
+      "totalEpisodes": 163,
+      "dataFile": "solid_joys_devotional.json"
+    },
+    {
+      "id": "bible_project",
+      "name": "BibleProject Podcast",
+      "host": "Tim Mackie & Jon Collins",
+      "category": "Deep Theology & Academic Teaching",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/91/bf/2d/91bf2d43-fc05-4f6c-843e-cd70bc9a9af5/mza_14441053424160351720.jpg/600x600bb.jpg",
+      "totalEpisodes": 121,
+      "dataFile": "bible_project.json"
+    },
+    {
+      "id": "ask_pastor_john",
+      "name": "Ask Pastor John",
+      "host": "John Piper",
+      "category": "Deep Theology & Academic Teaching",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/26/5d/93/265d9333-6cfc-8ff8-e9f0-f97df8faaa84/mza_11943632363558667500.jpg/600x600bb.jpg",
+      "totalEpisodes": 2290,
+      "dataFile": "ask_pastor_john.json"
+    },
+    {
+      "id": "renewing_your_mind",
+      "name": "Renewing Your Mind",
+      "host": "R.C. Sproul",
+      "category": "Deep Theology & Academic Teaching",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/31/ff/47/31ff470d-f5e1-cb5d-4f04-944f2b1d6bd5/mza_14562086208035619199.jpg/600x600bb.jpg",
+      "totalEpisodes": 120,
+      "dataFile": "renewing_your_mind.json"
+    },
+    {
+      "id": "naked_bible",
+      "name": "The Naked Bible Podcast",
+      "host": "Dr. Michael S. Heiser",
+      "category": "Deep Theology & Academic Teaching",
+      "thumbnailUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/90/13/9b/90139b4d-da0a-e24b-3286-6b2dbf2d29bf/mza_12239454170878174116.jpg/600x600bb.jpg",
+      "totalEpisodes": 350,
+      "dataFile": "naked_bible.json"
+    }
+  ]
+}
