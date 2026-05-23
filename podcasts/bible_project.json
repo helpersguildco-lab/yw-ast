@@ -1,0 +1,977 @@
+{
+  "podcastId": "bible_project",
+  "name": "BibleProject Podcast",
+  "host": "Tim Mackie & Jon Collins",
+  "taddyUuid": "09693ffe-f0ff-4248-b48e-7bc0eb6ca502",
+  "totalEpisodes": 121,
+  "episodes": [
+    {
+      "uuid": "589578eb-0655-4a62-90b9-78ec770411d1",
+      "guid": "c4d62687-2c1e-402e-94cf-10d712be7a58",
+      "name": "A Community of Good News (Remastered)",
+      "datePublished": 1779433200,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/a50ca4dd-fa97-4d25-9352-20a6d00a5387/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=a50ca4dd-fa97-4d25-9352-20a6d00a5387&feed=zovPCGLI",
+      "duration": 3111
+    },
+    {
+      "uuid": "960b9707-4113-45da-9425-9b1f2b780391",
+      "guid": "a983024a-25d4-4f6e-be07-51ae43afe1fa",
+      "name": "A Generous Gospel (Remastered)",
+      "datePublished": 1778803200,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/0d1ea0a2-a797-43b5-8d30-2edcd9003ad7/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=0d1ea0a2-a797-43b5-8d30-2edcd9003ad7&feed=zovPCGLI",
+      "duration": 3330
+    },
+    {
+      "uuid": "be3d724d-cf8c-4f7d-aaf2-6038b5c3a049",
+      "guid": "1009cca4-0d99-43b1-a66a-7f78b82621b7",
+      "name": "Protecting the Witness (Remastered)",
+      "datePublished": 1778250585,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/cf584b14-f191-4adc-ae26-4115fb4f11da/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=cf584b14-f191-4adc-ae26-4115fb4f11da&feed=zovPCGLI",
+      "duration": 2979
+    },
+    {
+      "uuid": "8af6671f-9257-4992-902a-cf975a93166b",
+      "guid": "439ddce7-9d4b-43c2-8e05-dcd019e4841f",
+      "name": "The Cost of Following Jesus (Remastered)",
+      "datePublished": 1777593600,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/6b29ea2c-15e8-4277-9d1d-5fead41f7f39/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=6b29ea2c-15e8-4277-9d1d-5fead41f7f39&feed=zovPCGLI",
+      "duration": 2593
+    },
+    {
+      "uuid": "132bc17e-e103-4a43-b660-5939631e1670",
+      "guid": "73073a92-6f29-4763-8172-5f0e06ea907a",
+      "name": "The Kingdom of God Has Arrived (Remastered)",
+      "datePublished": 1777047830,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/4ea56bfa-624e-401a-a8fd-948a24efcac0/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=4ea56bfa-624e-401a-a8fd-948a24efcac0&feed=zovPCGLI",
+      "duration": 3034
+    },
+    {
+      "uuid": "ee13101e-be9f-48a7-b32f-32cbedfe2896",
+      "guid": "ae3cd595-7889-4ad2-81d3-cafcffc69cfa",
+      "name": "A God of Love, a World of Suffering",
+      "datePublished": 1776384000,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/ed68a05e-5f7a-44df-9c6c-75913eef44f6/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=ed68a05e-5f7a-44df-9c6c-75913eef44f6&feed=zovPCGLI",
+      "duration": 3209
+    },
+    {
+      "uuid": "d7cfdf05-3c15-48e4-a254-1f963b757449",
+      "guid": "90a4e02f-8d04-4dc6-93f4-c8b0888226e6",
+      "name": "A Future for My Work (Remastered)",
+      "datePublished": 1775779200,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/7766bf4a-fbf9-4708-987c-1e1a8496ebb2/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=7766bf4a-fbf9-4708-987c-1e1a8496ebb2&feed=zovPCGLI",
+      "duration": 2879
+    },
+    {
+      "uuid": "92d6c45f-534a-41ff-b31e-039097b8407c",
+      "guid": "3f1e27db-59cd-4ed4-a4ae-dced9e48f460",
+      "name": "A Story About Work (Remastered)",
+      "datePublished": 1775174400,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/77608f9b-c453-4e73-8fad-48bb16f8cdbe/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=77608f9b-c453-4e73-8fad-48bb16f8cdbe&feed=zovPCGLI",
+      "duration": 3619
+    },
+    {
+      "uuid": "681e38c3-e32d-4ed0-81d8-b9b130b2a891",
+      "guid": "da3406c1-904f-4cd2-89f2-8f559358cd4c",
+      "name": "Prayer and Paradise",
+      "datePublished": 1774569600,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/62576410-776c-487b-acd8-6c6471b86ba6/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=62576410-776c-487b-acd8-6c6471b86ba6&feed=zovPCGLI",
+      "duration": 3756
+    },
+    {
+      "uuid": "30b7ef9f-5f8f-43cb-abfc-cf436223648f",
+      "guid": "5908a40a-b60f-4ec1-86de-e64d9b53cda7",
+      "name": "The Gift (Remastered)",
+      "datePublished": 1773360000,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/8601a20a-bb56-4539-a594-9abb416df147/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=8601a20a-bb56-4539-a594-9abb416df147&feed=zovPCGLI",
+      "duration": 2709
+    },
+    {
+      "uuid": "221e8282-95eb-4b45-ad92-5902d00e3fbc",
+      "guid": "1e096527-cda0-40b9-b17e-691da102b259",
+      "name": "Hevel (Remastered)",
+      "datePublished": 1772755200,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/ae70bab1-51b0-4cec-a19d-35ace66d7dae/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=ae70bab1-51b0-4cec-a19d-35ace66d7dae&feed=zovPCGLI",
+      "duration": 2816
+    },
+    {
+      "uuid": "e2928534-8ee5-43df-baec-8b5cb3fe6d04",
+      "guid": "d85e80a8-fdc9-484b-b8e1-7f2caee5b468",
+      "name": "A History of New Testament Manuscripts and English Translations (Remastered)",
+      "datePublished": 1772150400,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/18ed0df5-54ed-43e7-95db-f7e1e7f0cefc/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=18ed0df5-54ed-43e7-95db-f7e1e7f0cefc&feed=zovPCGLI",
+      "duration": 3051
+    },
+    {
+      "uuid": "ac49e22d-96da-4db0-bdd4-717dfcff77dd",
+      "guid": "2810adad-8789-4196-92b0-59e09ad3444a",
+      "name": "Old Testament Manuscripts & the Making of the New Testament (Remastered)",
+      "datePublished": 1771545600,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/8ae78ead-4ba6-4c47-a171-e1d8d51d4ad6/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=8ae78ead-4ba6-4c47-a171-e1d8d51d4ad6&feed=zovPCGLI",
+      "duration": 2754
+    },
+    {
+      "uuid": "279a5e98-a2cb-47d6-8d69-1afa854a7b5a",
+      "guid": "50b6fbb4-513f-4859-90ad-94c275d2f0b2",
+      "name": "The Making of the Old Testament Books (Remastered)",
+      "datePublished": 1770940800,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/f640887b-7f31-4dcd-a18c-44f4f526c4c7/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=f640887b-7f31-4dcd-a18c-44f4f526c4c7&feed=zovPCGLI",
+      "duration": 3152
+    },
+    {
+      "uuid": "156f20fc-32df-4c00-bdc4-53f096910220",
+      "guid": "8d6b8bf6-3a4d-4997-ae4f-7da42af1fa6a",
+      "name": "Torah Crash Course: Leviticus, Numbers, and Deuteronomy (Remastered)",
+      "datePublished": 1770336000,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/f6c495d3-3868-49ea-b13c-5205e1eb8679/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=f6c495d3-3868-49ea-b13c-5205e1eb8679&feed=zovPCGLI",
+      "duration": 2846
+    },
+    {
+      "uuid": "2b8478ce-cdf4-469f-bd1f-4c9f7c90b4c4",
+      "guid": "f36aeafe-9959-46de-9667-41b3d8bbd49d",
+      "name": "Torah Crash Course: Exodus (Remastered)",
+      "datePublished": 1769731200,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/d101e810-6bf0-4aee-a463-3f0ea9c9c45f/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=d101e810-6bf0-4aee-a463-3f0ea9c9c45f&feed=zovPCGLI",
+      "duration": 3521
+    },
+    {
+      "uuid": "8c880d3a-7219-47e1-962c-805eaef85a57",
+      "guid": "c3be3ffa-d905-4006-8e7f-4868b2144271",
+      "name": "Torah Crash Course: Genesis (Remastered)",
+      "datePublished": 1769126400,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/862fef7f-5ec8-444b-9148-3d0c51c01fb4/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=862fef7f-5ec8-444b-9148-3d0c51c01fb4&feed=zovPCGLI",
+      "duration": 3728
+    },
+    {
+      "uuid": "82fc0b27-51be-4587-9909-a0c6af7f0933",
+      "guid": "d4d8b494-42fa-424b-825e-3f5d97a744c0",
+      "name": "The Surprising, Actual Story of Genesis 1-2",
+      "datePublished": 1768521600,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/0c31ae96-4665-4734-9499-738ed7c2c356/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=0c31ae96-4665-4734-9499-738ed7c2c356&feed=zovPCGLI",
+      "duration": 6167
+    },
+    {
+      "uuid": "558b1acf-f411-49cd-b6d6-0fc105c688c0",
+      "guid": "52a13e77-d77e-438d-acd3-9c680ad005a7",
+      "name": "Science and Faith (Remastered)",
+      "datePublished": 1767916800,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/f5a9da2a-33b6-4656-85b0-44b80b40011f/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=f5a9da2a-33b6-4656-85b0-44b80b40011f&feed=zovPCGLI",
+      "duration": 3273
+    },
+    {
+      "uuid": "e44cf3be-f52b-4b7e-9c81-ba8e80ff781c",
+      "guid": "cb8c7dcb-beec-41f1-a599-d5b750b032ee",
+      "name": "When God Loves Your Enemy (Remastered)",
+      "datePublished": 1767312000,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/9d2feeee-03a2-4698-93b9-0ddfc9eaa612/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=9d2feeee-03a2-4698-93b9-0ddfc9eaa612&feed=zovPCGLI",
+      "duration": 2774
+    },
+    {
+      "uuid": "fadad8d6-b7c0-4183-9cfa-11c741761d9b",
+      "guid": "fe7b319c-334b-431b-8934-6ce237e61279",
+      "name": "Thrones and Ashes (Remastered)",
+      "datePublished": 1766707200,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/50bf5ebd-a60c-43b5-bdfa-d461fc37f0bc/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=50bf5ebd-a60c-43b5-bdfa-d461fc37f0bc&feed=zovPCGLI",
+      "duration": 3287
+    },
+    {
+      "uuid": "567dfcf7-9080-4af3-b8c9-18a4a80cc680",
+      "guid": "b570395f-9326-43ac-ba51-6122004e2418",
+      "name": "A Severe Mercy (Remastered)",
+      "datePublished": 1766102400,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/1db3ce02-9514-449b-937d-501b33c0f798/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=1db3ce02-9514-449b-937d-501b33c0f798&feed=zovPCGLI",
+      "duration": 2764
+    },
+    {
+      "uuid": "feab05b3-10f5-49ea-91ff-9e64a546f8ea",
+      "guid": "c3b932a0-6ce9-44cb-a6bf-2df0a88580bc",
+      "name": "Asleep at the Wheel (Remastered)",
+      "datePublished": 1765497600,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/66af7cc4-dfc0-4c85-af68-a26fe070600b/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=66af7cc4-dfc0-4c85-af68-a26fe070600b&feed=zovPCGLI",
+      "duration": 2854
+    },
+    {
+      "uuid": "ed50eb22-0ecd-448f-9b7b-ff7e6f23e13d",
+      "guid": "b45f51ae-7095-40c3-b453-d48a3c174f14",
+      "name": "Running From Your Life (Remastered)",
+      "datePublished": 1764892800,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/1c8117b9-a86c-49a9-b1a4-f4fa5b882efa/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=1c8117b9-a86c-49a9-b1a4-f4fa5b882efa&feed=zovPCGLI",
+      "duration": 2860
+    },
+    {
+      "uuid": "2b44acb1-b3c0-4d8e-816c-712902bb0ee2",
+      "guid": "3c78d7b4-8b1c-4986-9507-2240e03b94bd",
+      "name": "What Is the Kingdom of Heaven?",
+      "datePublished": 1764634200,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/eaa12aa1-cfde-48f5-8d16-ffabc55e1ba9/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=eaa12aa1-cfde-48f5-8d16-ffabc55e1ba9&feed=zovPCGLI",
+      "duration": 3125
+    },
+    {
+      "uuid": "660d3122-3cdf-4107-9bf3-00d9e4ff1c59",
+      "guid": "3ebca612-93b4-40ab-bfbb-66da5e4d952c",
+      "name": "The Meaning of Hope (Remastered)",
+      "datePublished": 1764633900,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/31df3fb0-b753-4a59-ab75-4ef5c72910d5/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=31df3fb0-b753-4a59-ab75-4ef5c72910d5&feed=zovPCGLI",
+      "duration": 3236
+    },
+    {
+      "uuid": "2bb70d3d-7cd2-41a7-bcc5-21bab101105b",
+      "guid": "1587143d-9d1b-4763-8361-1437f0cbe737",
+      "name": "(Re)introducing Exploring My Strange Bible",
+      "datePublished": 1764633600,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/8573de6e-9247-4d00-a4da-3cb1020d9cd2/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=8573de6e-9247-4d00-a4da-3cb1020d9cd2&feed=zovPCGLI",
+      "duration": 1075
+    },
+    {
+      "uuid": "dbdb74c7-5f46-4817-956d-0f7e1017e6f9",
+      "guid": "4c074e82-12a5-4ad8-a899-b898f326ccf4",
+      "name": "An Update From Tim",
+      "datePublished": 1554706800,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/3fd5968d-a131-4886-86cf-5e345d9790de/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=3fd5968d-a131-4886-86cf-5e345d9790de&feed=zovPCGLI",
+      "duration": 271
+    },
+    {
+      "uuid": "e535fadc-d24e-49db-b447-14f4fc933c1f",
+      "guid": "7b026858-615e-40a5-902d-cc7ed85d5bea",
+      "name": "The Crocus Flower and the Empty Tomb - Gospel of Matthew Part 35",
+      "datePublished": 1549872000,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/b520c522-8a08-4395-942a-0541adf39629/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=b520c522-8a08-4395-942a-0541adf39629&feed=zovPCGLI",
+      "duration": 3132
+    },
+    {
+      "uuid": "d4dda2ac-1f4e-458a-9c53-60f5797ec53d",
+      "guid": "4d11dba8-94f6-44f0-910d-0e277da1c8c9",
+      "name": "The Blood Cries Out - Gospel of Matthew Part 34",
+      "datePublished": 1548662400,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/fe3f6a49-6139-40e4-9a41-a197a55eaf0c/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=fe3f6a49-6139-40e4-9a41-a197a55eaf0c&feed=zovPCGLI",
+      "duration": 3427
+    },
+    {
+      "uuid": "60f5d5ff-fd3c-4087-af71-6e84e3d95375",
+      "guid": "b68accbb-ad08-4c60-8b24-fc904fbf57f5",
+      "name": "Panic Attack - Gospel of Matthew Part 33",
+      "datePublished": 1547366400,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/495e3564-0e72-443b-a22f-6292ccdb3738/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=495e3564-0e72-443b-a22f-6292ccdb3738&feed=zovPCGLI",
+      "duration": 3425
+    },
+    {
+      "uuid": "50b3d8f6-7c5d-4125-92fe-1b054f0a8fdc",
+      "guid": "5db2bead-9cbd-4c27-beb4-c2191c8974e8",
+      "name": "The Passover Meal - Gospel of Matthew Part 32",
+      "datePublished": 1546243200,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/c526a85f-3478-45ae-8838-023e393e0577/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=c526a85f-3478-45ae-8838-023e393e0577&feed=zovPCGLI",
+      "duration": 3241
+    },
+    {
+      "uuid": "c9db363c-c86c-4e59-bbc8-65c7a208b616",
+      "guid": "a7157e11-d02b-44e8-8d45-b06fc66d184d",
+      "name": "Gold, Darkness, and Dwarves - Gospel of Matthew Part 31",
+      "datePublished": 1545033600,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/ee1a7284-0e98-419a-be99-fb91f2c56292/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=ee1a7284-0e98-419a-be99-fb91f2c56292&feed=zovPCGLI",
+      "duration": 3113
+    },
+    {
+      "uuid": "7fab642d-b95d-4ea4-a655-27b229fce31d",
+      "guid": "95b09db4-733d-43ac-a4a9-de43535ded90",
+      "name": "Signs of the Times - Gospel of Matthew Part 30",
+      "datePublished": 1543824000,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/842c01c9-7eeb-4e76-871a-752aa4cba1e2/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=842c01c9-7eeb-4e76-871a-752aa4cba1e2&feed=zovPCGLI",
+      "duration": 3540
+    },
+    {
+      "uuid": "a6e2f392-3f7b-4110-a49f-b8311b91bf20",
+      "guid": "2a512bac-dfab-4a4e-bedf-afc5bb956ffd",
+      "name": "Love and the Rebirth of the Universe - Gospel of Matthew Part 29",
+      "datePublished": 1543219200,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/d8ed390f-8101-4852-84a2-158900c00a3a/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=d8ed390f-8101-4852-84a2-158900c00a3a&feed=zovPCGLI",
+      "duration": 3271
+    },
+    {
+      "uuid": "d4766385-31fa-4cfd-a243-275705311234",
+      "guid": "69a25af8-72fd-48b6-9389-189e50165a51",
+      "name": "Love Poems, Vineyards, and Rocks - Gospel of Matthew Part 28",
+      "datePublished": 1542617400,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/faa91321-abb8-4559-871b-deb76b58b5f3/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=faa91321-abb8-4559-871b-deb76b58b5f3&feed=zovPCGLI",
+      "duration": 3107
+    },
+    {
+      "uuid": "9251a5d9-38b2-479e-addb-d53c040d6fab",
+      "guid": "7bb5a771-80c9-4be0-a5d9-70b0ed527562",
+      "name": "Jesus, Prophet and Provocateur - Gospel of Matthew Part 27",
+      "datePublished": 1542009600,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/d9444b9a-81e4-4c5f-aa6d-e487b5912d35/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=d9444b9a-81e4-4c5f-aa6d-e487b5912d35&feed=zovPCGLI",
+      "duration": 3154
+    },
+    {
+      "uuid": "3d36c4fd-6d33-44a3-aa8e-280515882dad",
+      "guid": "9f5d82fd-a61e-4be2-8a7c-f7fb5e706ac6",
+      "name": "Forgiveness - Gospel of Matthew Part 26",
+      "datePublished": 1540768560,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/c68e6ae1-e099-4e1e-9efe-e07cb97227d3/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=c68e6ae1-e099-4e1e-9efe-e07cb97227d3&feed=zovPCGLI",
+      "duration": 3465
+    },
+    {
+      "uuid": "44851f40-fa89-4fe8-b6e6-e19006514959",
+      "guid": "a5457130-be17-473d-a83d-3ece237d67e0",
+      "name": "Of Millstones and Guardian Angels - Gospel of Matthew Part 25",
+      "datePublished": 1540191600,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/9dfc3657-9970-4faa-ba1a-fbefc77f9441/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=9dfc3657-9970-4faa-ba1a-fbefc77f9441&feed=zovPCGLI",
+      "duration": 2718
+    },
+    {
+      "uuid": "c0d8237c-6e84-4f16-8ae4-a62b8dcad50b",
+      "guid": "53499e9f-97e3-4d81-bd0d-bce540de9818",
+      "name": "Death and Taxes - Gospel of Matthew Part 24",
+      "datePublished": 1539586800,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/90050558-023e-4d5f-aaec-99c2048c9339/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=90050558-023e-4d5f-aaec-99c2048c9339&feed=zovPCGLI",
+      "duration": 2769
+    },
+    {
+      "uuid": "a4d553ef-0d6d-47dc-be5c-d38bcf166fb8",
+      "guid": "ce957a56-c1bf-41c7-8fc7-84435b75e033",
+      "name": "The Other Side of the Lake - Gospel of Matthew Part 23",
+      "datePublished": 1538982000,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/79eeea75-9eef-4b8f-b927-c9e69281ef5b/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=79eeea75-9eef-4b8f-b927-c9e69281ef5b&feed=zovPCGLI",
+      "duration": 3022
+    },
+    {
+      "uuid": "5c254d59-b01b-4b55-815b-5f997b1de567",
+      "guid": "606bf7cc-2820-4c1b-a541-6a5e1e20d4f6",
+      "name": "Severed Heads & Hungry Crowds - Gospel of Matthew Part 22",
+      "datePublished": 1538377200,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/9ea1875b-5fff-4879-bbb5-10dd5db292a5/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=9ea1875b-5fff-4879-bbb5-10dd5db292a5&feed=zovPCGLI",
+      "duration": 2637
+    },
+    {
+      "uuid": "24f37e3d-f5c9-4c1b-93d7-8ac585903c8f",
+      "guid": "87b7be78-0364-4943-92a1-3c3ff928e5a9",
+      "name": "Weeds and Wheat - Gospel of Matthew Part 21",
+      "datePublished": 1537772400,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/2b72d2ef-ee23-4930-a3bb-542905d653b8/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=2b72d2ef-ee23-4930-a3bb-542905d653b8&feed=zovPCGLI",
+      "duration": 2960
+    },
+    {
+      "uuid": "3c5a8a89-ec18-4a57-b06e-b53268746058",
+      "guid": "d78d33fa-30db-4193-aff1-370f434a6e9a",
+      "name": "Jesus Gives Us a Sign - The Gospel of Matthew Part 20",
+      "datePublished": 1537167600,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/53663e6a-189e-4214-9082-6a909852c540/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=53663e6a-189e-4214-9082-6a909852c540&feed=zovPCGLI",
+      "duration": 2965
+    },
+    {
+      "uuid": "6c19f5dc-b62e-469f-a97a-5cca9de2e2bc",
+      "guid": "3e81aa19-7fcb-4d61-bfca-ee0737aa80ce",
+      "name": "One Way Road to the Grave - Gospel of Matthew Part 19",
+      "datePublished": 1536570000,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/6d253eda-2f58-40bc-b9fa-6e4c368dd468/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=6d253eda-2f58-40bc-b9fa-6e4c368dd468&feed=zovPCGLI",
+      "duration": 3154
+    },
+    {
+      "uuid": "ba9b0843-a5db-43d5-bcab-e3f387f75811",
+      "guid": "f25970f3-1d7f-42e0-b384-57b076791120",
+      "name": "The Hammer that Heals - Gospel of Matthew Part 18",
+      "datePublished": 1535958000,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/05afaf6e-2650-4cbb-afdf-aa2f94b4aa1a/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=05afaf6e-2650-4cbb-afdf-aa2f94b4aa1a&feed=zovPCGLI",
+      "duration": 2521
+    },
+    {
+      "uuid": "b66749ae-8afc-4bf9-aad0-a03db713b320",
+      "guid": "4b991631-64d9-481e-a7ee-06359012ee47",
+      "name": "An Open-Minded Faith - Gospel of Matthew Part 17",
+      "datePublished": 1534748400,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/7fd17a07-f572-4c05-84e9-d7a0af556d03/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=7fd17a07-f572-4c05-84e9-d7a0af556d03&feed=zovPCGLI",
+      "duration": 3360
+    },
+    {
+      "uuid": "a2692752-b2a7-4453-b26b-389f6c01a6e9",
+      "guid": "ffd47381-c6bd-439d-a7d3-ce19a2abc318",
+      "name": "Who Can Forgive Sins? - Gospel of Matthew Part 16",
+      "datePublished": 1534143600,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/9c320ed4-1b6d-45b0-9165-0b50faff2e90/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=9c320ed4-1b6d-45b0-9165-0b50faff2e90&feed=zovPCGLI",
+      "duration": 3079
+    },
+    {
+      "uuid": "d232a8c6-0439-4db8-9b0f-fa713f054f91",
+      "guid": "afce9c61-0451-40e3-947b-3a38215f24f2",
+      "name": "A Jesus-Centered Community - Gospel of Matthew Part 15",
+      "datePublished": 1533538800,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/53214abe-3c53-47e6-9256-292d0ddbb25b/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=53214abe-3c53-47e6-9256-292d0ddbb25b&feed=zovPCGLI",
+      "duration": 3384
+    },
+    {
+      "uuid": "55b81bd1-b770-41e1-85d9-31242816f3dd",
+      "guid": "0e4ad9eb-bf6c-4733-a83e-da7d5b10d462",
+      "name": "Storms and Swine - Gospel of Matthew Part 14",
+      "datePublished": 1532936700,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/26dd4cdf-6ea5-443a-aaaa-c4daab634aae/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=26dd4cdf-6ea5-443a-aaaa-c4daab634aae&feed=zovPCGLI",
+      "duration": 3170
+    },
+    {
+      "uuid": "8624a03b-610c-421c-9ab9-7584f7b6af71",
+      "guid": "19c2f576-46ba-4d56-97e3-bb7647da3c1d",
+      "name": "Make Me Clean - Gospel of Matthew Part 13",
+      "datePublished": 1532329200,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/b33b7ea7-09ee-4427-bbb1-2c7c5c2427ed/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=b33b7ea7-09ee-4427-bbb1-2c7c5c2427ed&feed=zovPCGLI",
+      "duration": 3033
+    },
+    {
+      "uuid": "cd8470f3-6f6b-4bcc-8715-33d5e8fc50d3",
+      "guid": "230c19db-d42a-4f94-a520-5d4f2ebd08b1",
+      "name": "Ask and You Will Receive - Gospel of Matthew Part 12",
+      "datePublished": 1531724400,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/887d4c9a-0790-41fb-8049-a08cc7b9c384/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=887d4c9a-0790-41fb-8049-a08cc7b9c384&feed=zovPCGLI",
+      "duration": 2900
+    },
+    {
+      "uuid": "966727b1-bd8c-4697-8d13-a4aaceea3fd5",
+      "guid": "b567a86f-ccf3-488c-92cf-79b44b3ec253",
+      "name": "To Judge, or Not to Judge - Gospel of Matthew Part 11",
+      "datePublished": 1531119600,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/9890d458-b744-4b5c-a82b-54f723b50ccf/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=9890d458-b744-4b5c-a82b-54f723b50ccf&feed=zovPCGLI",
+      "duration": 3363
+    },
+    {
+      "uuid": "e16b2ce4-d9ed-46f9-ae24-3b02c1bf43ee",
+      "guid": "eeaa307a-e2cc-4ac2-98cb-dcc627ab3f69",
+      "name": "The Lord’s Prayer - Gospel of Matthew Part 10",
+      "datePublished": 1530514800,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/ff2afff6-f310-446f-aec2-2afbb5a09858/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=ff2afff6-f310-446f-aec2-2afbb5a09858&feed=zovPCGLI",
+      "duration": 3022
+    },
+    {
+      "uuid": "74a404b2-4220-4d5d-aaa7-46782afa3f88",
+      "guid": "d777eeb7-fc84-4ba8-b3d9-5d0e9038374c",
+      "name": "Love Your Enemies - Gospel of Matthew Part 9",
+      "datePublished": 1529910000,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/126a7504-60dc-4925-bc07-ccdd78419963/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=126a7504-60dc-4925-bc07-ccdd78419963&feed=zovPCGLI",
+      "duration": 2914
+    },
+    {
+      "uuid": "00ef7fc2-ffca-43f3-ba57-30997bdf2485",
+      "guid": "350ea740-8cc9-45e3-a217-a0fa65312a14",
+      "name": "Jesus, Truth & Spin - Gospel of Matthew Part 8",
+      "datePublished": 1529305200,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/ea507692-d75f-4089-8cf8-87c0cccd4e83/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=ea507692-d75f-4089-8cf8-87c0cccd4e83&feed=zovPCGLI",
+      "duration": 2841
+    },
+    {
+      "uuid": "b270ad47-6983-4c42-bd3c-16a1841c9611",
+      "guid": "309d49ea-cd2b-472c-a77a-e49b9e2c26e6",
+      "name": "Jesus and Sexual Desire - Gospel of Matthew Part 7",
+      "datePublished": 1528700400,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/283c498d-bf26-4bac-954f-f2290945bce7/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=283c498d-bf26-4bac-954f-f2290945bce7&feed=zovPCGLI",
+      "duration": 3018
+    },
+    {
+      "uuid": "4ada6745-a536-4728-8c27-06a7f753f207",
+      "guid": "5d13e6ea-b36b-4d39-8b81-fed4c7f5245b",
+      "name": "Jesus and the Torah - Gospel of Matthew Part 6",
+      "datePublished": 1528095600,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/00268fc3-5d1d-46c1-9ec7-c00cb6c1cef0/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=00268fc3-5d1d-46c1-9ec7-c00cb6c1cef0&feed=zovPCGLI",
+      "duration": 2995
+    },
+    {
+      "uuid": "1d77ec4a-bf80-4f9c-ab91-199067ec71e6",
+      "guid": "3d6c5cf1-1d6d-4cc6-bda9-add53785dfeb",
+      "name": "A Kingdom of Blessing - Gospel of Matthew Part 5",
+      "datePublished": 1527490800,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/33a7c049-923e-4726-8f31-a6c8fe6f1602/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=33a7c049-923e-4726-8f31-a6c8fe6f1602&feed=zovPCGLI",
+      "duration": 3318
+    },
+    {
+      "uuid": "74ec5e2f-7d19-4cb4-bf60-3abae656eeb6",
+      "guid": "8ee3c048-385a-4ab7-8421-fee0b64007f3",
+      "name": "Jesus and the Kingdom of God - Gospel of Matthew Part 4",
+      "datePublished": 1526886000,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/50395290-60dc-4218-8a5f-3b0c278347b7/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=50395290-60dc-4218-8a5f-3b0c278347b7&feed=zovPCGLI",
+      "duration": 2820
+    },
+    {
+      "uuid": "bb40fe0b-1845-4d52-ab5d-5055629aef7e",
+      "guid": "3af74696-3257-4533-9a33-b99b24205c99",
+      "name": "Testing Jesus in the Wilderness - Gospel of Matthew Part 3",
+      "datePublished": 1526281200,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/c7b73056-9f88-4686-9377-ae525b832f76/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=c7b73056-9f88-4686-9377-ae525b832f76&feed=zovPCGLI",
+      "duration": 3620
+    },
+    {
+      "uuid": "b41b1f17-7e4b-49d1-99a0-9d6354b0053f",
+      "guid": "4955d468-0301-4816-b036-a9deaf93a302",
+      "name": "God with Us - Gospel of Matthew Part 2",
+      "datePublished": 1525676400,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/d576e634-317b-4786-830f-155ddaeb8949/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=d576e634-317b-4786-830f-155ddaeb8949&feed=zovPCGLI",
+      "duration": 2928
+    },
+    {
+      "uuid": "10d8ab59-a51f-4b9d-87b4-4cea8f135715",
+      "guid": "ebdb0041-a2ac-4438-ae97-4933486838fc",
+      "name": "Yahweh Saves - Gospel of Matthew Part 1",
+      "datePublished": 1525071600,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/7cc41b8f-817b-43ef-add9-2503ab31eadc/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=7cc41b8f-817b-43ef-add9-2503ab31eadc&feed=zovPCGLI",
+      "duration": 3061
+    },
+    {
+      "uuid": "7b4b7f6b-e69b-485d-9568-d3dfc2b711ef",
+      "guid": "13d2f146-9bfc-42fb-b86a-241de325d100",
+      "name": "Love Is Not A Black Hole",
+      "datePublished": 1524466800,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/95bd3bb5-4c39-4a39-9604-258b0d6c37eb/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=95bd3bb5-4c39-4a39-9604-258b0d6c37eb&feed=zovPCGLI",
+      "duration": 3541
+    },
+    {
+      "uuid": "426005ed-3b9f-4473-bc5e-e9997d607617",
+      "guid": "d2a6c3ad-60de-41b2-8c2b-5fd2b5d9c2a3",
+      "name": "The Messianic Passover",
+      "datePublished": 1521442800,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/a51d125b-7dc4-4a9e-8922-322fb4204416/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=a51d125b-7dc4-4a9e-8922-322fb4204416&feed=zovPCGLI",
+      "duration": 3579
+    },
+    {
+      "uuid": "4280a090-e6e1-4202-9a83-e25a8bb9b670",
+      "guid": "907d6ff5-b8e6-4762-a2b4-b41fc9ffcabb",
+      "name": "Jesus' Final Words",
+      "datePublished": 1520236800,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/afd3624c-f334-418f-bb9b-96973a106116/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=afd3624c-f334-418f-bb9b-96973a106116&feed=zovPCGLI",
+      "duration": 2326
+    },
+    {
+      "uuid": "0182e3ca-b1f4-44a4-b568-6c2431bdaf3a",
+      "guid": "eff087e7-51a2-446a-9c5c-fca92f39add5",
+      "name": "Faithfulness in Exile: Daniel Part 5 - Resurrection Hope",
+      "datePublished": 1519632000,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/b0c85630-c9ed-4ed6-8db9-0c71ab2f9a60/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=b0c85630-c9ed-4ed6-8db9-0c71ab2f9a60&feed=zovPCGLI",
+      "duration": 3446
+    },
+    {
+      "uuid": "82e97fda-25dd-4632-8d7b-0823f43a9488",
+      "guid": "d036703d-1acf-4d9d-9217-b417085c8ebf",
+      "name": "Faithfulness in Exile: Daniel Part 4 - So Righteous",
+      "datePublished": 1519027200,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/b2568811-51eb-4ac1-8db1-3b0afba43816/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=b2568811-51eb-4ac1-8db1-3b0afba43816&feed=zovPCGLI",
+      "duration": 3315
+    },
+    {
+      "uuid": "1c1196a6-1e07-4180-8326-e458178fceba",
+      "guid": "4d2ea6c5-f796-4cfc-8ef9-5c1020b02df5",
+      "name": "Faithfulness in Exile: Daniel Part 3 - Super Beast & the Son",
+      "datePublished": 1518595200,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/50a26f22-eeac-45ec-8cfd-fe302726c652/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=50a26f22-eeac-45ec-8cfd-fe302726c652&feed=zovPCGLI",
+      "duration": 3211
+    },
+    {
+      "uuid": "fa7fb15c-469a-45eb-b59d-4d7522a001c0",
+      "guid": "086d6013-06ad-4ce5-8b95-ead529d0cda5",
+      "name": "Faithfulness in Exile: Daniel Part 2 - The National Idol",
+      "datePublished": 1517830380,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/2f61012d-5d6a-4eec-a771-2335ca78af1a/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=2f61012d-5d6a-4eec-a771-2335ca78af1a&feed=zovPCGLI",
+      "duration": 3310
+    },
+    {
+      "uuid": "c3d17bf4-77e8-4ae4-86ec-d9c7b5a20236",
+      "guid": "48650a69-f3a1-4d07-9fc4-e3e0c92c7030",
+      "name": "Faithfulness in Exile: Daniel Part 1 - Dreams and Idols",
+      "datePublished": 1517212800,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/5694a5fb-91e4-4bfa-a857-4fa2e272a9c2/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=5694a5fb-91e4-4bfa-a857-4fa2e272a9c2&feed=zovPCGLI",
+      "duration": 3309
+    },
+    {
+      "uuid": "7a9d63ee-f9b3-4e7c-aead-ec0cbc0ca6b1",
+      "guid": "3e431c9a-467e-4831-adc5-de969f2056c6",
+      "name": "Book of Hebrews Part 8 - Tale of Two Mountains",
+      "datePublished": 1516608000,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/ded6d706-c8e7-423d-85a2-174561aff7dc/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=ded6d706-c8e7-423d-85a2-174561aff7dc&feed=zovPCGLI",
+      "duration": 2767
+    },
+    {
+      "uuid": "664d9a6a-095b-4234-b4e2-69806015a056",
+      "guid": "1c51aab2-ed12-45a1-8b22-30d18ecbe83b",
+      "name": "Book of Hebrews Part 7 - What is Faith?",
+      "datePublished": 1516003200,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/fc375b22-4878-44af-8d14-f0928c876898/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=fc375b22-4878-44af-8d14-f0928c876898&feed=zovPCGLI",
+      "duration": 3093
+    },
+    {
+      "uuid": "5e175c7d-72db-4eb2-8d25-f524ad20599f",
+      "guid": "6b334795-ef8e-4b4f-baae-359aa18f990f",
+      "name": "Book of Hebrews Part 6 - Let Us Draw Near",
+      "datePublished": 1515398400,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/fa76e691-64a4-4e79-98af-11d4163d0c45/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=fa76e691-64a4-4e79-98af-11d4163d0c45&feed=zovPCGLI",
+      "duration": 2755
+    },
+    {
+      "uuid": "929406ec-ccf5-4e67-bc2e-236b551ad7cd",
+      "guid": "43fc7173-7912-4df8-8ab1-8a6ad7c5935b",
+      "name": "Book of Hebrews Part 5 - Jesus is your Priest",
+      "datePublished": 1514793600,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/69074194-abf3-4a97-9d21-86c60a14dccc/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=69074194-abf3-4a97-9d21-86c60a14dccc&feed=zovPCGLI",
+      "duration": 2456
+    },
+    {
+      "uuid": "56b72847-53ee-4ae7-880e-6816e4119fd3",
+      "guid": "c8a58cca-94e5-4c26-bc6a-ec38dae29e5d",
+      "name": "Book of Hebrews Part 4 - The Anchor of your Soul",
+      "datePublished": 1514361600,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/7ee9bd04-1b0f-47cc-900e-6dce5d2dc1a8/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=7ee9bd04-1b0f-47cc-900e-6dce5d2dc1a8&feed=zovPCGLI",
+      "duration": 2388
+    },
+    {
+      "uuid": "3fd08734-7d74-4606-a145-111760b8f810",
+      "guid": "abd88067-1cfb-4469-8f86-26cc76f9e102",
+      "name": "Book of Hebrews Part 3 - Invitation to Rest",
+      "datePublished": 1513584000,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/55720264-da92-4565-b33d-32b19635f103/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=55720264-da92-4565-b33d-32b19635f103&feed=zovPCGLI",
+      "duration": 2868
+    },
+    {
+      "uuid": "a139b4e3-c7a4-4447-b91e-a6d5c090c490",
+      "guid": "470b9694-6511-4e05-abc2-9b05ccd95e19",
+      "name": "Book of Hebrews Part 2 - What does it mean to be Human?",
+      "datePublished": 1512979200,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/2f0d4831-95f0-41bb-8a88-d38374d04c08/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=2f0d4831-95f0-41bb-8a88-d38374d04c08&feed=zovPCGLI",
+      "duration": 2639
+    },
+    {
+      "uuid": "7d9ea907-cc25-42f2-a2e7-e609ead04c05",
+      "guid": "8916466e-9ce9-4c6c-975d-03a36eaf703c",
+      "name": "Book of Hebrews Part 1 - Are You Listening?",
+      "datePublished": 1512374400,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/db75a00a-ba26-4133-9aae-125f538fbff0/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=db75a00a-ba26-4133-9aae-125f538fbff0&feed=zovPCGLI",
+      "duration": 2222
+    },
+    {
+      "uuid": "64316902-0bc5-4a21-8773-e8f01819fb01",
+      "guid": "7f29a79d-2c4b-4030-9c69-75387fc3957c",
+      "name": "I am who I am Part 10: Born of the Spirit",
+      "datePublished": 1511942400,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/b2ca8e1d-ac4c-48b2-8e80-024b0a8fa834/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=b2ca8e1d-ac4c-48b2-8e80-024b0a8fa834&feed=zovPCGLI",
+      "duration": 3433
+    },
+    {
+      "uuid": "9f5bf56b-2838-43dc-9756-e48d477b9104",
+      "guid": "8a803565-d3c8-4cc8-9499-912b8eee471b",
+      "name": "I am who I am Part 9: The Spirit & The Temple",
+      "datePublished": 1511769900,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/bb9bcd02-2fc1-447a-9512-ed41c5066bef/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=bb9bcd02-2fc1-447a-9512-ed41c5066bef&feed=zovPCGLI",
+      "duration": 3380
+    },
+    {
+      "uuid": "66225828-675d-4964-85f8-c481718cb1fb",
+      "guid": "0b0c569e-6141-4ad0-aef0-588e6e71f972",
+      "name": "I am who I am Part 8: The Spirit as a Voice of Love",
+      "datePublished": 1511769600,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/e93610ce-ca3c-4f41-ab95-ad3055170a4b/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=e93610ce-ca3c-4f41-ab95-ad3055170a4b&feed=zovPCGLI",
+      "duration": 3154
+    },
+    {
+      "uuid": "33c7bce7-aea6-4e00-a9d5-c0968bc74add",
+      "guid": "20e5b782-407e-4025-ac57-60a46afbe550",
+      "name": "I am who I am Part 7: The Spirit, Suffering, and Prayer",
+      "datePublished": 1511337600,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/1d8bafc2-805e-4968-97b3-1d5068e66968/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=1d8bafc2-805e-4968-97b3-1d5068e66968&feed=zovPCGLI",
+      "duration": 2863
+    },
+    {
+      "uuid": "9e0394f0-8cb3-4504-a8f9-cf27b5b6093a",
+      "guid": "333d7705-dc99-4374-9a1c-21011056d5a5",
+      "name": "I am who I am Part 6: The Spirit and the Fruit",
+      "datePublished": 1511165100,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/79427350-48b7-4016-bb91-175a1c31ff83/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=79427350-48b7-4016-bb91-175a1c31ff83&feed=zovPCGLI",
+      "duration": 3776
+    },
+    {
+      "uuid": "aa855276-fbe7-473e-83e3-d2b08d8a61f9",
+      "guid": "f8c67ef4-68a0-43f3-a840-72381d6d6c35",
+      "name": "I am who I am Part 5: Spirit as a Life Giver",
+      "datePublished": 1511164800,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/990011e6-b06f-4da4-b986-d122bef5e2ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=990011e6-b06f-4da4-b986-d122bef5e2ea&feed=zovPCGLI",
+      "duration": 3631
+    },
+    {
+      "uuid": "49bce645-df06-470b-9c6a-b3685f82c8d0",
+      "guid": "af06f04d-a098-4d6e-ad56-62ed85f778b3",
+      "name": "I am who I am Part 4: Who Can Forgive Sins?",
+      "datePublished": 1510733100,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/0355e367-81b3-4404-a5f9-42ef84aa058a/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=0355e367-81b3-4404-a5f9-42ef84aa058a&feed=zovPCGLI",
+      "duration": 3933
+    },
+    {
+      "uuid": "be0eb2e5-eb2f-4592-86f7-32c2d7cf4617",
+      "guid": "7719d2e4-1ed7-4491-96a6-52e3452db690",
+      "name": "I am who I am Part 3: Jesus' Family Story",
+      "datePublished": 1510732800,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/8b2ceeaa-bb04-4879-be00-a88f0463e95b/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=8b2ceeaa-bb04-4879-be00-a88f0463e95b&feed=zovPCGLI",
+      "duration": 3335
+    },
+    {
+      "uuid": "3bb9a890-b41b-4711-a695-2e1f5103b541",
+      "guid": "7ff0d9f6-5176-42a1-b952-0a10c63ee5b1",
+      "name": "I am who I am Part 2: Yahweh is our Gracious Judge",
+      "datePublished": 1510560300,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/b98cd1f7-6686-4497-aa89-a024a64f3a95/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=b98cd1f7-6686-4497-aa89-a024a64f3a95&feed=zovPCGLI",
+      "duration": 3386
+    },
+    {
+      "uuid": "d86cac14-98a0-43db-8bcb-c43e57ac0787",
+      "guid": "4e9ece34-f34d-4191-b54e-8115fddbbc3b",
+      "name": "I am who I am Part 1: Yahweh Is Our God",
+      "datePublished": 1510560000,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/dcf6acfc-114a-4017-b550-ca4cd4f2a22d/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=dcf6acfc-114a-4017-b550-ca4cd4f2a22d&feed=zovPCGLI",
+      "duration": 3421
+    },
+    {
+      "uuid": "ab882cdc-247a-47fe-a881-1d3f625699cf",
+      "guid": "4a527829-a0c4-4fd2-bd6f-fc35fe43f2e4",
+      "name": "Ephesians Part 5: A Household of Gospel",
+      "datePublished": 1510128000,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/6a996362-928f-4371-b156-b551fe7322c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=6a996362-928f-4371-b156-b551fe7322c6&feed=zovPCGLI",
+      "duration": 3097
+    },
+    {
+      "uuid": "763f86b6-325d-4a0b-b75e-2881984168e4",
+      "guid": "46043ea8-a1e0-4b02-807e-a5909177149a",
+      "name": "Ephesians Part 4: Be Filled with the Spirit",
+      "datePublished": 1509955200,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/fb6e48db-8bc4-4517-a756-0770b361f420/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=fb6e48db-8bc4-4517-a756-0770b361f420&feed=zovPCGLI",
+      "duration": 2530
+    },
+    {
+      "uuid": "201b41d8-f92c-4375-abac-1057f6865e7a",
+      "guid": "c35f632f-a414-44ae-9299-a2cc35ce48c7",
+      "name": "Ephesians Part 3: A New Humanity",
+      "datePublished": 1509519600,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/8ede8d88-d6ec-4ae6-98fd-ab76b3d985eb/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=8ede8d88-d6ec-4ae6-98fd-ab76b3d985eb&feed=zovPCGLI",
+      "duration": 3229
+    },
+    {
+      "uuid": "991c17b8-ab1c-4ab5-b034-b6b248fa2525",
+      "guid": "25468c7d-6e04-47fa-bb37-02eb6ab98d45",
+      "name": "Ephesians Part 2: A New Family",
+      "datePublished": 1509347100,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/a8d9fe4c-50dc-48d1-9663-01c034f39411/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=a8d9fe4c-50dc-48d1-9663-01c034f39411&feed=zovPCGLI",
+      "duration": 3471
+    },
+    {
+      "uuid": "34c41655-2cc9-49ce-8b7f-8dc4fd3dbbe5",
+      "guid": "d100d95a-8041-4317-a407-d41909685d9b",
+      "name": "Ephesians Part 1: Prayer for Power",
+      "datePublished": 1509346800,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/3df95e39-3921-4fe6-ad38-dc8ceeae824a/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=3df95e39-3921-4fe6-ad38-dc8ceeae824a&feed=zovPCGLI",
+      "duration": 4026
+    },
+    {
+      "uuid": "19e55d17-61d5-4a5a-a670-41ec89db535c",
+      "guid": "82cf50d6-2575-4f35-88ca-f084ee6a58aa",
+      "name": "Psalms - The Language of Prayer Part 4: Praying Through Doubt",
+      "datePublished": 1508915100,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/8c2009d0-f984-4ea0-bcae-62999edc9579/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=8c2009d0-f984-4ea0-bcae-62999edc9579&feed=zovPCGLI",
+      "duration": 3080
+    },
+    {
+      "uuid": "1a6bde84-201f-40dc-9065-395ff2d47f03",
+      "guid": "09591504-c587-4475-a3eb-98a4f389fba8",
+      "name": "Psalms - The Language of Prayer Part 3: A Prayer of Confessions",
+      "datePublished": 1508914800,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/537dae19-efee-4596-bcd5-197a16b8ab37/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=537dae19-efee-4596-bcd5-197a16b8ab37&feed=zovPCGLI",
+      "duration": 2755
+    },
+    {
+      "uuid": "8082121a-b1d0-4b62-bfc8-6ff16494c655",
+      "guid": "6db2fe54-b277-4ca2-98eb-cd32744955b5",
+      "name": "Psalms - The Language of Prayer Part 2: Praying Through Our Pain",
+      "datePublished": 1508742300,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/88f3729a-a449-4eb8-beb9-e125ad5bdb90/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=88f3729a-a449-4eb8-beb9-e125ad5bdb90&feed=zovPCGLI",
+      "duration": 2924
+    },
+    {
+      "uuid": "93f02585-0da3-4cff-8fae-937b383bd1e0",
+      "guid": "a375ff1a-119d-464f-9c0f-208aa1d5fb08",
+      "name": "Psalms - The Language of Prayer Part 1: Praying Through Our Fears",
+      "datePublished": 1508742000,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/dd4a45e5-066a-412d-8b23-90addde7d582/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=dd4a45e5-066a-412d-8b23-90addde7d582&feed=zovPCGLI",
+      "duration": 2892
+    },
+    {
+      "uuid": "38540a2f-fff1-4f0a-a7c8-da2c5b93f6ec",
+      "guid": "0b9670ee-4ed0-42f0-bcc9-ae83fda19a86",
+      "name": "Language of Faith Part 3: Covenant",
+      "datePublished": 1508310000,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/533aab55-cf31-4e38-a91b-c470e401e811/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=533aab55-cf31-4e38-a91b-c470e401e811&feed=zovPCGLI",
+      "duration": 3019
+    },
+    {
+      "uuid": "b10ee1c1-fee5-45c1-855f-1d3570ee4f9e",
+      "guid": "2ee167b0-16d8-44bc-a86f-a79fce83a948",
+      "name": "Language of Faith Part 2: Glory",
+      "datePublished": 1508137500,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/edf102ff-c9d3-441e-ad19-ad1a4fe686c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=edf102ff-c9d3-441e-ad19-ad1a4fe686c5&feed=zovPCGLI",
+      "duration": 3202
+    },
+    {
+      "uuid": "f7761236-524b-451f-aaa0-610f9ed4cdd9",
+      "guid": "a66fbcba-f73c-452a-bb78-cd51dce4923e",
+      "name": "Language of Faith Part 1: Holiness",
+      "datePublished": 1508137200,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/274fb0a1-6ee1-469c-82d3-2243f06db8fd/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=274fb0a1-6ee1-469c-82d3-2243f06db8fd&feed=zovPCGLI",
+      "duration": 3289
+    },
+    {
+      "uuid": "a1074275-0a9e-46d7-8fce-5aea0802ef1c",
+      "guid": "ac3d3288-47e6-4b75-8b0c-8d8473ade9b6",
+      "name": "Resurrection as a Way of Life Part 5: All Things New or All New Things?",
+      "datePublished": 1507705200,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/9de9313a-4902-4a7f-bb29-6ec4c5ecae53/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=9de9313a-4902-4a7f-bb29-6ec4c5ecae53&feed=zovPCGLI",
+      "duration": 2580
+    },
+    {
+      "uuid": "837630a5-8fe1-40de-aea0-6c6204b5477c",
+      "guid": "6ac02bff-921c-462a-a349-d023a9e432b0",
+      "name": "Resurrection as a Way of Life Part 4: Acorns of Fire",
+      "datePublished": 1507532400,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/c2774234-47e5-4281-a3bc-72c252ed1861/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=c2774234-47e5-4281-a3bc-72c252ed1861&feed=zovPCGLI",
+      "duration": 2952
+    },
+    {
+      "uuid": "19279e50-63ad-4328-8a9e-7cd6ac50211f",
+      "guid": "c2ffe48c-ff99-497f-9030-1d0c7caa2894",
+      "name": "Resurrection as a Way of Life Part 3: Groaning and Liberation",
+      "datePublished": 1507100400,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/a7fd1687-47e2-4e7c-8368-c343e79631e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=a7fd1687-47e2-4e7c-8368-c343e79631e8&feed=zovPCGLI",
+      "duration": 2596
+    },
+    {
+      "uuid": "d8bb0acd-9c5d-4620-bd75-e515f39d1454",
+      "guid": "26b37455-05a8-4265-b718-ddb9eed3c206",
+      "name": "Resurrection as a Way of Life Part 2: A Living Hope",
+      "datePublished": 1506927900,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/b614ac17-66b3-409d-844b-b58c20fab1c5/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=b614ac17-66b3-409d-844b-b58c20fab1c5&feed=zovPCGLI",
+      "duration": 2979
+    },
+    {
+      "uuid": "bfcce3ac-1944-4d62-a22e-839525a1d67d",
+      "guid": "5a22765a-1597-4c5a-8f68-be4291b63c4e",
+      "name": "Resurrection as a Way of Life Part 1:  A New Vision",
+      "datePublished": 1506927600,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/9b97c4af-0048-4f6a-83bb-2a340ee49f3f/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=9b97c4af-0048-4f6a-83bb-2a340ee49f3f&feed=zovPCGLI",
+      "duration": 2928
+    },
+    {
+      "uuid": "aa827789-38d3-463e-9d3e-cbdf2fb0eb06",
+      "guid": "3c5a2d4e-740b-4e87-8536-240365de001d",
+      "name": "Why Church Matters Part 2: Sharing Grace",
+      "datePublished": 1506495900,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/b5aedfaa-c9d8-45b0-aea5-35201b53be71/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=b5aedfaa-c9d8-45b0-aea5-35201b53be71&feed=zovPCGLI",
+      "duration": 3204
+    },
+    {
+      "uuid": "cc8a52e8-e449-4b5d-bec7-f8bcc5054409",
+      "guid": "1b91ddd0-41f5-46f4-9308-5cf06ac26177",
+      "name": "Why Church Matters Part 1: A Life of Learning",
+      "datePublished": 1506322800,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/6470ecaf-7a7b-42b0-a681-74cc1d339800/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=6470ecaf-7a7b-42b0-a681-74cc1d339800&feed=zovPCGLI",
+      "duration": 3355
+    },
+    {
+      "uuid": "14b600ea-8049-4d37-8d72-64f8e86fab96",
+      "guid": "1fd810e1-6139-437c-bd71-39f11c4cb664",
+      "name": "Heaven & Hell 4 - A Renewed Creation",
+      "datePublished": 1505891100,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/9571816d-2776-41ef-b9a7-b16b2bccef24/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=9571816d-2776-41ef-b9a7-b16b2bccef24&feed=zovPCGLI",
+      "duration": 3216
+    },
+    {
+      "uuid": "210a7944-cb89-431b-ab43-3bdef57a3d1a",
+      "guid": "0985c245-6701-4998-91e8-fb6ee2505a40",
+      "name": "Heaven & Hell 3 - Divine Judgment and Resurrection Hope",
+      "datePublished": 1505890800,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/2695261d-7566-4643-86b2-08892fc129d7/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=2695261d-7566-4643-86b2-08892fc129d7&feed=zovPCGLI",
+      "duration": 1652
+    },
+    {
+      "uuid": "06647222-f555-4c37-b286-70a2890a71f1",
+      "guid": "05f23375-1eb7-4cb4-8841-bc5e9aa11166",
+      "name": "Heaven & Hell 2 - Heaven and Zombies",
+      "datePublished": 1505718300,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/576cbf64-3a37-4a5a-9d11-f49a62824d72/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=576cbf64-3a37-4a5a-9d11-f49a62824d72&feed=zovPCGLI",
+      "duration": 2726
+    },
+    {
+      "uuid": "ea4c0e21-e20f-4557-9711-15e560792bec",
+      "guid": "978172d1-80a9-4d49-9ddf-00a00f051d9e",
+      "name": "Heaven & Hell 1 - Life and Death in Genesis 1-3",
+      "datePublished": 1505718000,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/f61a9936-2284-446e-887c-a146c94e9bf8/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=f61a9936-2284-446e-887c-a146c94e9bf8&feed=zovPCGLI",
+      "duration": 2908
+    },
+    {
+      "uuid": "0c78a134-0945-411f-a72c-6ec6263afd59",
+      "guid": "ae7de254-7b6f-428f-bb21-fbbc47cfe54a",
+      "name": "Practicing Faith Part 3: Praying & Acting",
+      "datePublished": 1505286600,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/6d840a03-778e-4eb9-b9f5-c1f93691e9d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=6d840a03-778e-4eb9-b9f5-c1f93691e9d0&feed=zovPCGLI",
+      "duration": 3196
+    },
+    {
+      "uuid": "764bd8d6-1b8d-4e55-9f66-b5785dd433c9",
+      "guid": "77f31f5e-bb70-461d-96b5-60fc954b7967",
+      "name": "Practicing Faith Part 2: Feasting & Fasting",
+      "datePublished": 1505113500,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/fe9a672f-ba2a-43be-b259-53f2c3405bda/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=fe9a672f-ba2a-43be-b259-53f2c3405bda&feed=zovPCGLI",
+      "duration": 2605
+    },
+    {
+      "uuid": "73416d39-a669-4dce-b91c-33cdd154e0fd",
+      "guid": "21e643d1-bada-4913-8988-c1b16bf2b86e",
+      "name": "Practicing Faith Part 1: Solitude & Community",
+      "datePublished": 1505113200,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/4bf464b1-6275-4a91-879d-abd441cd08d8/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=4bf464b1-6275-4a91-879d-abd441cd08d8&feed=zovPCGLI",
+      "duration": 3094
+    },
+    {
+      "uuid": "77c64ebc-e3a8-4335-a65e-e464e4f9220a",
+      "guid": "76652c84-aa62-4878-b55b-7a44f476cd05",
+      "name": "A Renewed Heavens & Earth: New Testament Themes Part 6",
+      "datePublished": 1504681800,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/bb85d40c-cc98-4654-977a-37733934ac7e/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=bb85d40c-cc98-4654-977a-37733934ac7e&feed=zovPCGLI",
+      "duration": 3073
+    },
+    {
+      "uuid": "ae2f8c1a-484f-4766-ad75-c1425a849711",
+      "guid": "adc2fb50-bd53-4a5c-9a70-649cf7a5894d",
+      "name": "Ecclesiastes Part 3 - The Limits of Labor",
+      "datePublished": 1503904200,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/c296f75d-afe0-45f3-8d8d-748e9ce350bb/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=c296f75d-afe0-45f3-8d8d-748e9ce350bb&feed=zovPCGLI",
+      "duration": 2830
+    },
+    {
+      "uuid": "0ee56087-a065-4c2d-95c9-43b49cc6c95a",
+      "guid": "01f6f350-6d12-48d6-9824-1014b4de1b61",
+      "name": "The Amazing Jonah Part 5: When God Loves Your Enemy",
+      "datePublished": 1502695200,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/984da7c6-5ac0-4c4f-a60d-0f50fe1e2e10/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=984da7c6-5ac0-4c4f-a60d-0f50fe1e2e10&feed=zovPCGLI",
+      "duration": 2778
+    },
+    {
+      "uuid": "e5c753ec-76ed-48f0-b148-be64c7a6e70d",
+      "guid": "77b66724-b61e-4137-98bc-29ad4a2d2a82",
+      "name": "The Amazing Jonah Part 4: Thrones & Ashes",
+      "datePublished": 1502694900,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/85966b3f-05b7-4540-a389-8b3f73dc8eba/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=85966b3f-05b7-4540-a389-8b3f73dc8eba&feed=zovPCGLI",
+      "duration": 3316
+    },
+    {
+      "uuid": "95df9b12-a98c-4ce2-9466-cd2dce639812",
+      "guid": "4bdc3b1f-93c5-4217-a497-d5557f2a2b87",
+      "name": "The Amazing Jonah Part 3: A Severe Mercy",
+      "datePublished": 1502694600,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/258f95ec-ab56-4e4d-be13-e5f935793130/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=258f95ec-ab56-4e4d-be13-e5f935793130&feed=zovPCGLI",
+      "duration": 2796
+    },
+    {
+      "uuid": "f495c2e6-42fe-4f9a-a4cf-dcefb2a950f5",
+      "guid": "cbc72098-f7fc-4598-b20c-e5e6282136ef",
+      "name": "The Amazing Jonah Part 2: Asleep at the Wheel",
+      "datePublished": 1502694300,
+      "audioUrl": "https://afp-597195-injected.calisto.simplecastaudio.com/e5d85dd4-a616-4860-846c-fc4d57e11252/episodes/cf74d144-3b7d-44ea-9b05-a70cb0cf6578/audio/128/default.mp3?aid=rss_feed&awCollectionId=e5d85dd4-a616-4860-846c-fc4d57e11252&awEpisodeId=cf74d144-3b7d-44ea-9b05-a70cb0cf6578&feed=zovPCGLI",
+      "duration": 2926
+    }
+  ]
+}

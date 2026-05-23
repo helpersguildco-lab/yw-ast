@@ -1,0 +1,1313 @@
+{
+  "podcastId": "solid_joys_devotional",
+  "name": "Solid Joys Daily Devotional",
+  "host": "John Piper",
+  "taddyUuid": "9749da30-b3cb-4be4-a94f-ec439088724e",
+  "totalEpisodes": 163,
+  "episodes": [
+    {
+      "uuid": "11ec15d9-a3e7-4d73-b374-0b0fe9b1e99f",
+      "guid": "738fff78-206f-40d7-9cd2-37e3736ff5c4",
+      "name": "January 15 - Ang Kalayaan ng Biyaya",
+      "datePublished": 1741079298,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/99342417/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-4%2Fd0088d66-9ac3-b930-ec1e-b9ec325781e8.mp3",
+      "duration": 300
+    },
+    {
+      "uuid": "7f0a6d0a-2f39-4ddc-811d-1cc9b40dc198",
+      "guid": "b1a99b3d-29ba-4371-b23f-4e8688c6b4d1",
+      "name": "January 14 - Ang Bintana ng Puso",
+      "datePublished": 1728192033,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/92639495/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-6%2F442bc54d-bf24-c267-07d2-81aae9ff8f54.mp3",
+      "duration": 268
+    },
+    {
+      "uuid": "a32a262f-b190-4e0c-b2bf-90af379fd2b0",
+      "guid": "6aceb4d0-d306-4bb2-bdb0-0499c674da5b",
+      "name": "January 13 - Ang mga Utos na Lumilikha",
+      "datePublished": 1728191899,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/92639476/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-6%2F21115136-85c3-b5e4-29b2-091c644d843a.mp3",
+      "duration": 291
+    },
+    {
+      "uuid": "32523676-5097-41dc-af68-6759d3432890",
+      "guid": "7eb375c9-2876-43cd-b095-0a61bc11a1ad",
+      "name": "January 12 - Ang Susi ng Karanasan",
+      "datePublished": 1728191806,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/92639436/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-6%2Fb0f2745c-857f-a4e5-cd7a-eeec143534ba.mp3",
+      "duration": 246
+    },
+    {
+      "uuid": "7981d519-f9f1-4bac-b424-34d5f7417ffd",
+      "guid": "e73a958d-9ce0-428b-9503-1a0f9144be46",
+      "name": "January 10 - Paano Huhusgahan ang mga Mananampalataya",
+      "datePublished": 1728191647,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/92639401/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-6%2F80cbabfe-39cb-b969-8c19-7bf33ffbbd73.mp3",
+      "duration": 271
+    },
+    {
+      "uuid": "d6949615-c728-4231-badc-8d68a5371396",
+      "guid": "9dfae0c2-43af-4dcf-9184-3ef347cf88bd",
+      "name": "January 09 - Sandali Lamang",
+      "datePublished": 1728191562,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/92639317/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-6%2F0a20bb71-0581-65ef-861b-1c9ba2789b0b.mp3",
+      "duration": 204
+    },
+    {
+      "uuid": "9ef0f923-0ecc-4bc6-9194-678e2e65c987",
+      "guid": "d231ed05-c319-46d3-b2aa-724854c206ea",
+      "name": "January 8 - Kunin ang Ayaw Mong Mawala",
+      "datePublished": 1724935654,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/91035612/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-29%2Faea03d2f-5b12-e272-e3cf-3b83f516a149.mp3",
+      "duration": 270
+    },
+    {
+      "uuid": "c9df1ec8-3efa-44d1-90ca-76e46797cc04",
+      "guid": "8dd56466-afd1-4ff2-b831-4793e5cf13f6",
+      "name": "January 6 - Ang Kalooban ng Diyos ay na Ikaw ay Lumapit",
+      "datePublished": 1724935597,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/91035559/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-29%2F8a2378f9-47ea-0d51-9e5b-bf7d91adb9ae.mp3",
+      "duration": 210
+    },
+    {
+      "uuid": "0f767f71-e30d-4bba-8efe-ef61fcd316e9",
+      "guid": "49c9a211-1600-4b5d-aab8-06d4d3155aaf",
+      "name": "January 5 - Ang Ating Kalabang Walang Pangil",
+      "datePublished": 1723109002,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/90192848/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-8%2Fc0a3973f-1f47-60ff-14a3-a45e23c9907c.mp3",
+      "duration": 274
+    },
+    {
+      "uuid": "ad034331-536c-4a86-8ccc-2ad852355192",
+      "guid": "1282fb17-4ef3-4f34-84cd-49c610a68120",
+      "name": "January 3 - Ang Pinakamaliit na Pananampalataya",
+      "datePublished": 1721326975,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/89389800/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-18%2Feea66195-9952-3584-4088-1403ffb5bc2e.mp3",
+      "duration": 305
+    },
+    {
+      "uuid": "16f0d0ad-b9b2-452f-bc4f-5c762a0599a1",
+      "guid": "5cd696cf-df59-406e-9eb2-c5eed3375707",
+      "name": "January 2, 2024 - Ano ang Ginawa ni Hesus para sa Kamatayan",
+      "datePublished": 1719827510,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/88681801/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-1%2F382118837-44100-2-4163d8eac8fff.m4a",
+      "duration": 198
+    },
+    {
+      "uuid": "251356fe-da45-419b-806f-e4fe1724fac6",
+      "guid": "99e591a3-a6df-4810-b604-ce78d17465f2",
+      "name": "November 9 - Pagkamangha sa Katapusan ng Kasaysayan",
+      "datePublished": 1699603404,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/78437802/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-10%2F8e763c16-e3ae-5417-6fb6-b40898d68b15.mp3",
+      "duration": 286
+    },
+    {
+      "uuid": "1eece943-c943-46d3-8f6f-9a858892ef45",
+      "guid": "a89c386a-9f8c-4636-8686-173ddc1d03e1",
+      "name": "November 2 - Kagalakan sa Kapighatian",
+      "datePublished": 1699603332,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/78437772/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-10%2F9769082f-37be-82e1-0953-f8f87770d805.mp3",
+      "duration": 279
+    },
+    {
+      "uuid": "cb0a13cb-6e64-4592-8c43-b3fa9c3c6fbd",
+      "guid": "68d50c7a-c731-4b1a-b8c9-9ec24133bda0",
+      "name": "October 26 - Ang Gamot Para sa Mga Misyonero",
+      "datePublished": 1699602262,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/78437460/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-10%2Fe9ac20ca-e05c-ef45-0db0-56a3f07b73e4.mp3",
+      "duration": 209
+    },
+    {
+      "uuid": "027ab5be-fd07-4d00-a81a-e742da7c5860",
+      "guid": "1b933445-126e-45a4-8dd8-ee5747a11bbc",
+      "name": "October 19 - Ang Pinakadakilang Kaligayahan ng Pag-Ibig",
+      "datePublished": 1699602208,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/78437448/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-10%2Ff705dab3-b731-0a95-38a6-7fc0e6488f48.mp3",
+      "duration": 240
+    },
+    {
+      "uuid": "c42e6157-2342-4f97-9334-999daea971cb",
+      "guid": "d5e84e92-1c5f-4d82-a070-181b0f0f8580",
+      "name": "October 12 - Mag-ingat sa Paglilikod sa Diyos",
+      "datePublished": 1699602143,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/78437425/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-10%2Fba20a361-51cc-69eb-47ef-bac2cc352e37.mp3",
+      "duration": 304
+    },
+    {
+      "uuid": "0c342e3a-b204-43f6-b0ec-4504825c22a2",
+      "guid": "3cd27e21-2cdc-4cd3-931c-bb932529e981",
+      "name": "October 5 - Ang Katarungan ay Makakamtan",
+      "datePublished": 1699602052,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/78437406/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-10%2F21053bcd-337b-ef32-0e15-a57a00e868ee.mp3",
+      "duration": 289
+    },
+    {
+      "uuid": "6df98d06-a54b-4be8-b6ed-49d9069ecdc6",
+      "guid": "4b78fb8e-f5d9-45b3-a71a-38601cc1f6b5",
+      "name": "September 28 - Ang Ating Kabutihan ay Kanyang Kaluwalhatian",
+      "datePublished": 1696053558,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/76584796/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-30%2Fc0cdaf3e-f5f8-b3b7-8dc4-1f9833218cfb.mp3",
+      "duration": 300
+    },
+    {
+      "uuid": "cadf07c7-00fd-4cbd-a983-6e8431c03e67",
+      "guid": "9cc7e1ff-b7d1-4ef2-8f11-38ad8360c7af",
+      "name": "September 21 - Sandata Laban sa Pagkabalisa",
+      "datePublished": 1696053049,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/76584717/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-30%2F9b441a93-5786-524c-374d-ee088a9c4714.mp3",
+      "duration": 322
+    },
+    {
+      "uuid": "2e26462a-513b-49fc-992c-44fbda17fccb",
+      "guid": "f17a80e5-2785-46df-af25-aaa84491b40e",
+      "name": "September 14 - Ibibigay ng Diyos ang Lahat ng Iyong Kailangan",
+      "datePublished": 1696052865,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/76584696/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-30%2F69a438de-fc5a-7988-6210-6490c9e209ad.mp3",
+      "duration": 198
+    },
+    {
+      "uuid": "c206feda-0444-4e47-a245-8a10883ff96b",
+      "guid": "71ea9109-0493-440e-9ec5-ae20343f7a25",
+      "name": "September 7 - Mga Kaaway at Pananampalatayana Binigay ng Diyos",
+      "datePublished": 1696052796,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/76584668/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-30%2F77a567b3-28a6-573f-4150-19423e1404e2.mp3",
+      "duration": 257
+    },
+    {
+      "uuid": "1da238e6-1009-42a6-9034-8577ab116c28",
+      "guid": "5af75249-4127-4bad-ba24-5f145d80423d",
+      "name": "August 31 - Ang Leon at ang Kordero",
+      "datePublished": 1693454594,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/75292319/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-31%2F3821a36c-0a1a-f303-9651-26a8e81769e5.mp3",
+      "duration": 246
+    },
+    {
+      "uuid": "320e89c6-a08f-44aa-97cd-1b98cd809d87",
+      "guid": "9f8c4320-18cb-4f75-a1b5-8555c71e1b9f",
+      "name": "August 24 - Ang Mensahe ng Sangkalikasan",
+      "datePublished": 1693454372,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/75292224/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-31%2Fdee13fce-8a99-0f2d-b9ff-e22d71db3ecb.mp3",
+      "duration": 210
+    },
+    {
+      "uuid": "57724b1b-e816-4b46-bb11-ea98dfce6f40",
+      "guid": "52aaaf1e-fa5e-48a6-a3f7-978a82d9bf8b",
+      "name": "August 17 - Kung Ano ang Ibig Sabihin ng Pagbibigay-Puri sa Panginoon",
+      "datePublished": 1693454249,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/75292161/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-31%2F298daa7f-4ae4-15ef-e16f-43daf5923dc9.mp3",
+      "duration": 185
+    },
+    {
+      "uuid": "8f7ce47b-b0c9-4b19-8a22-96e8fea1474a",
+      "guid": "08a1fa67-b6c3-4047-a279-31f8cdae5e91",
+      "name": "August 10 - Maawa Ka sa Akin, O Diyos",
+      "datePublished": 1693454098,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/75292115/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-31%2F8007e0e5-e236-4b11-2790-412717469e83.mp3",
+      "duration": 160
+    },
+    {
+      "uuid": "29650b94-e356-4795-b32c-bdabc9b335a6",
+      "guid": "16f50f19-3b51-4a4b-8587-9512e51606ef",
+      "name": "August 3 - Kung Bakit May Katawan Ka?",
+      "datePublished": 1693453972,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/75292029/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-31%2F80f4c79f-873f-623e-98b3-cf78ed97c69e.mp3",
+      "duration": 182
+    },
+    {
+      "uuid": "6529ebb5-586b-4672-bcdf-1e06d0604914",
+      "guid": "7d41a1f6-db3f-436a-bae2-1fc4e6864c95",
+      "name": "July 27 - Kung Hindi Mo Lalabanan ang Pagnanasa",
+      "datePublished": 1691749040,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/74506041/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-11%2Fd2339d50-2a6a-658b-93dd-cb79568d00dd.mp3",
+      "duration": 285
+    },
+    {
+      "uuid": "4dc6e229-04df-4a95-89d7-6577c2667c12",
+      "guid": "da97c715-471a-4f0a-a11f-9f7f21457191",
+      "name": "July 20 - Biyaya para sa Bawat Pangangailangan",
+      "datePublished": 1691748832,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/74506013/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-11%2Ff2186278-7bad-2314-3e61-0c34a6b8d01d.mp3",
+      "duration": 228
+    },
+    {
+      "uuid": "3471b826-19b2-4065-945c-8f6a412ce051",
+      "guid": "9e658709-47e5-4f29-8fd3-47f58cdbe372",
+      "name": "July 13 - Ano’ng Nag-uudyok sa Iyo para Maglingkod?",
+      "datePublished": 1691748493,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/74505849/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-11%2F3123491b-86f6-0d81-02c0-c01652fd54d4.mp3",
+      "duration": 213
+    },
+    {
+      "uuid": "94653330-1195-4f0a-8631-008452f0a12d",
+      "guid": "920f3c53-8ab8-4660-b668-11f43b57af95",
+      "name": "July 6 - Paano Napagtagumpayan ni Cristo ang Kapaitan",
+      "datePublished": 1691747718,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/74505628/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-11%2F31188875-ab1d-492b-ae53-d33888539bd8.mp3",
+      "duration": 203
+    },
+    {
+      "uuid": "aa5b799d-432b-4962-83e4-813b09f12dd9",
+      "guid": "8671678f-802c-4edd-8cf2-55107dda83c7",
+      "name": "June 29 - Ang Makapangyarihang Ugat ng Praktikal na Pag-ibig",
+      "datePublished": 1691747591,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/74505584/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-11%2Fbd51e325-51e1-8c07-ac28-5bfe795820d9.mp3",
+      "duration": 300
+    },
+    {
+      "uuid": "8d9b16ac-e537-4993-91d5-9f042f7654e6",
+      "guid": "d22b5469-445b-413a-acbb-788be688cbd5",
+      "name": "June 22 - Paano Tayo Dapat Makipaglaban para sa Kabanalan",
+      "datePublished": 1691747362,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/74505534/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-11%2Faeab3b35-e4f1-4554-2acd-0f1ebb372a2c.mp3",
+      "duration": 244
+    },
+    {
+      "uuid": "ebb336cd-0598-4e13-9b1e-673bc4a13e5e",
+      "guid": "05d8b50a-7a39-4e4e-9aa5-95b7d50c2a6a",
+      "name": "March 25 - Ang Disenyo ng Diyos sa mga Detour",
+      "datePublished": 1691747231,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/74505507/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-11%2F902843b3-8836-0288-323b-cae7ef7afb05.mp3",
+      "duration": 257
+    },
+    {
+      "uuid": "8b3dc4fe-384f-4268-b6dc-9cb5d1a5469a",
+      "guid": "d5cc8499-3db3-4e79-ade6-35f7f84d08c6",
+      "name": "May 18 - Ang Liwanag Lampas sa Liwanag",
+      "datePublished": 1691222974,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/74269838/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-5%2Fc6fa302c-73e4-d07d-0bec-759de9a2bdc3.mp3",
+      "duration": 341
+    },
+    {
+      "uuid": "58da7feb-126f-4387-bc45-f99dd26ff8d4",
+      "guid": "5bc22a53-5122-4466-ab30-56c7e64824f7",
+      "name": "May 11 - Pumunta sa Piging",
+      "datePublished": 1691222293,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/74269815/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-5%2Fb8a43044-f303-e197-4286-aaad28814e35.mp3",
+      "duration": 198
+    },
+    {
+      "uuid": "7b0afafa-faf1-4933-8d4f-35e85757fad9",
+      "guid": "87b352bb-4d22-4c49-808d-bdd8ea11ae4d",
+      "name": "May 4 - Isang Motibong Mapanganib",
+      "datePublished": 1691222189,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/74268864/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-5%2F930d851d-8a8b-98eb-1d53-a3ca20e2524f.mp3",
+      "duration": 271
+    },
+    {
+      "uuid": "1fb415fc-7f92-403e-8ac8-1887307a3b02",
+      "guid": "2159a704-97ab-422c-9f17-af19828cdcb5",
+      "name": "April 27 - Mga Anak ng Umaawit na Diyos",
+      "datePublished": 1691218336,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/74268847/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-5%2F86b0c440-9d71-3cd1-7487-db1f9504a79e.mp3",
+      "duration": 221
+    },
+    {
+      "uuid": "01b5e2dc-11d4-4da6-9fd6-a1f9a66c836f",
+      "guid": "36c027c5-85ad-4725-8660-df3527bb3dcd",
+      "name": "April 20 - Takot Lumihis Mula sa Kanya",
+      "datePublished": 1691218244,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/74268824/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-5%2Fdca89f86-ac33-2c9c-146f-5f9be37dd6a6.mp3",
+      "duration": 307
+    },
+    {
+      "uuid": "db9ff204-f175-4c04-aba8-5802588d3225",
+      "guid": "ac17db6a-a3bd-4656-91ce-df4f3a53685c",
+      "name": "April 13 - Kausapin ang Iyong mga Luha",
+      "datePublished": 1687434577,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/70245216/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-12%2F6ddd5765-335f-4c26-e527-a0a82723a382.mp3",
+      "duration": 245
+    },
+    {
+      "uuid": "57ca4a52-2d6f-4947-b100-8de1bfd15963",
+      "guid": "10735858-d20a-4c60-be93-6bd2b65b93f9",
+      "name": "March 30 - Kapag Tinawag Niya, Iingatan Niya",
+      "datePublished": 1683873638,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/70245184/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-12%2F686d9f41-77d2-a905-e7b0-4dda1802f7e3.mp3",
+      "duration": 236
+    },
+    {
+      "uuid": "e89cf5fd-fb52-4efb-9a1b-3952b62cd1e2",
+      "guid": "5599186c-4ec1-406f-a418-6e68b8ddb2bc",
+      "name": "March 23 - Tinitiyak ng Kamangmangan ang Kasamaan",
+      "datePublished": 1683873355,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/70245063/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-12%2Fc9e59989-e1ec-5470-d624-becbf72f49e1.mp3",
+      "duration": 271
+    },
+    {
+      "uuid": "68054f7a-41b9-4d1c-a911-ee2e57e4b129",
+      "guid": "8d66eb3d-3b55-42b5-92a2-eeefbf0b40de",
+      "name": "Mar 16 - Tatapusin ni Jesus ang Misyon",
+      "datePublished": 1680207357,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/67612104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-30%2Fd09ea810-c604-132f-17cd-a43bc9828997.mp3",
+      "duration": 218
+    },
+    {
+      "uuid": "b3940c03-438f-4543-82a4-90690af258ab",
+      "guid": "4b340744-7621-46b1-a4d5-bb1ccbb76a6a",
+      "name": "Mar 9 - Nagmamalasakit ang Diyos sa Iyo",
+      "datePublished": 1678385451,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/66254139/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-9%2F839c714f-0315-b1fc-a51d-bf374242d01b.mp3",
+      "duration": 317
+    },
+    {
+      "uuid": "ef0f4e6f-a67a-4cd3-9e30-b14e8f931eb0",
+      "guid": "9e1af8e8-7dd2-48cb-8426-d1c5e1dd02ef",
+      "name": "March 2 - Kumikilos ang Diyos Gamit ang Mabubuting Hangarin_mixdown",
+      "datePublished": 1677770007,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/65863531/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-2%2Fa7d8b938-99f2-663b-3c50-07a5dd9ad7cf.mp3",
+      "duration": 289
+    },
+    {
+      "uuid": "342b3000-8cba-47dd-b585-8b7448328d42",
+      "guid": "188ee103-14b4-4a60-a070-9ab545f531bf",
+      "name": "Feb 23 - Ang Oras ng Di-Pangkaraniwang Panganib",
+      "datePublished": 1677154541,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/65506901/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-23%2F50248ec3-09ad-6a85-585a-bd17b1cd8dab.mp3",
+      "duration": 255
+    },
+    {
+      "uuid": "ed1950c4-e809-4097-b1e1-13f84e7d877b",
+      "guid": "ecb14e3a-da57-40da-949a-13291ccdbc14",
+      "name": "Feb 16 - Kapag Parang Imposible ang Pagsunod",
+      "datePublished": 1676566005,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/65153807/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-16%2Fc27d9819-41c7-8167-3c41-5ead1638f67c.mp3",
+      "duration": 187
+    },
+    {
+      "uuid": "af52f3d2-4a89-4363-b3b5-6372c559315d",
+      "guid": "ced02296-d0a4-4db9-8f1a-49cd30df7335",
+      "name": "Feb 9 - Mas Mainam Kaysa Pera, Sex at Kapangyarihan",
+      "datePublished": 1675938503,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/64763661/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-9%2F58b5408b-c184-79b9-8354-342290e2ba25.mp3",
+      "duration": 251
+    },
+    {
+      "uuid": "f5b2fb76-210c-4859-aaea-109d43d79bde",
+      "guid": "dc1830f1-9d22-4568-a917-b67c522e7df3",
+      "name": "Feb 2 - Ang Cycle ng Pagpapatawad",
+      "datePublished": 1675433165,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/64456004/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-3%2F55647bb1-d82c-955b-60f1-159f45529378.mp3",
+      "duration": 299
+    },
+    {
+      "uuid": "3721ccb1-f221-449d-9bc2-693ed54810bc",
+      "guid": "7a96ac58-56b8-4c19-9719-3177af3edfc1",
+      "name": "Dec 30 - Binihisan at Binigyan ng Kapangyarihan",
+      "datePublished": 1672392877,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/62862350/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-30%2F91fa0dcb-0ce5-e09e-d2a2-cac5f31d3ed6.mp3",
+      "duration": 251
+    },
+    {
+      "uuid": "92794434-9891-4c0b-8edd-c132b142342c",
+      "guid": "426c5ab2-41a8-4331-92e0-2c15a7152dcf",
+      "name": "Nov 25 - Luwalhatiin ang Diyos sa Pagpapasalamat",
+      "datePublished": 1671748354,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/62576224/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-22%2Fb244b0cd-10ad-2e6c-af99-232a2ac9a7d0.mp3",
+      "duration": 216
+    },
+    {
+      "uuid": "3e441ebd-31df-4e41-b084-6f508a10130d",
+      "guid": "dd215e21-6a91-4d34-9721-6f621313ab08",
+      "name": "Nov 18 - Ang Tumatagos na Kapangyarihan ng Salita",
+      "datePublished": 1671748283,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/62576190/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-22%2F3746a168-baf3-64ae-fd31-41c4ccaff533.mp3",
+      "duration": 189
+    },
+    {
+      "uuid": "9b1cd7a6-7971-4bbc-a2eb-2fd1a582ebab",
+      "guid": "1c62f4da-6fe7-493e-b598-5cc154df3307",
+      "name": "Nov 11 - Tayo ang Kanyang Sambahayan",
+      "datePublished": 1668131451,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/60441681/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-11%2F643c803d-9efe-6092-b4fe-f112519cf352.mp3",
+      "duration": 262
+    },
+    {
+      "uuid": "17cba816-1112-4aea-962a-44a96afc4494",
+      "guid": "94ac98d3-4267-48a5-b538-862c9c38bd10",
+      "name": "Nov 4 - Ang Tunay na Problema sa Pagkabalisa",
+      "datePublished": 1667598592,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/60107319/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-4%2F6d29575c-1539-5374-4ec0-4fa7c23f12aa.mp3",
+      "duration": 205
+    },
+    {
+      "uuid": "69c7903d-2c21-4011-ad42-6dc95d6ccdd4",
+      "guid": "64ac4b61-0518-462e-8ef3-de5a3262cd69",
+      "name": "Oct 28 - Radikal na Gantimpala",
+      "datePublished": 1667245467,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/59869984/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-31%2F1e11f753-37ae-3fe8-f768-2d4abdba0a1f.mp3",
+      "duration": 174
+    },
+    {
+      "uuid": "7a004c46-565c-4d6e-97db-596254b5787e",
+      "guid": "8f36a9f6-a168-41b3-a70b-02c669bd4020",
+      "name": "Oct 21 - Ang Hiwaga ng Pag-aasawa",
+      "datePublished": 1666355210,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/59387221/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-21%2Fb83f64ee-83fa-0d97-125a-59d73a257db5.mp3",
+      "duration": 263
+    },
+    {
+      "uuid": "baf4606d-11a3-4255-9ca5-3ee0f5242d86",
+      "guid": "e1f8b91c-1206-4580-9788-2023edaac4c0",
+      "name": "Oct 14 - Nagpapagaling ang Diyos sa pamamagitan ng Pagpapababa Niya sa Tao",
+      "datePublished": 1665742165,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/59045455/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-14%2F5c0911dc-73a9-f4ee-4ff4-3a30fe6797c3.mp3",
+      "duration": 274
+    },
+    {
+      "uuid": "cc4efe2f-49c2-4087-83c0-e5b54d7f7a50",
+      "guid": "23c5d2cb-15b4-4947-8b0d-4815c0baa07f",
+      "name": "Oct 7 - Tayo'y Nagihintay Siya'y Gumagawa",
+      "datePublished": 1665147366,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/58709816/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-7%2Ffb3c48c6-7868-28e9-98ca-49bd20f36f8b.mp3",
+      "duration": 360
+    },
+    {
+      "uuid": "26815039-aa2e-4834-b0e7-efb644af5d1a",
+      "guid": "508bab50-45b6-424a-89ce-56bb64992629",
+      "name": "Sept 30 - Ang Pinaka-mapagpalayang Natuklasan",
+      "datePublished": 1664542592,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/58368108/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-30%2F389fd848-2abf-4d8d-97ea-90105940ba08.mp3",
+      "duration": 211
+    },
+    {
+      "uuid": "cea5bd75-7bf7-4ecf-ad7d-4afce523b753",
+      "guid": "4fbc284e-6505-4b86-bb9f-b0dd1513e28b",
+      "name": "Sept 23 - Pag-asa para sa mga Pinakamasamang Makasalanan",
+      "datePublished": 1663934046,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/58004469/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-23%2F83887443-1b1a-83df-3a4f-f5df86aa1a7e.mp3",
+      "duration": 191
+    },
+    {
+      "uuid": "533f1224-b668-423f-8946-2a1fcdbdd6f9",
+      "guid": "4862741c-7cb9-4dd9-9950-09a401a53f15",
+      "name": "Sept 16 - Ang Huling Piging ng Kaluluwa",
+      "datePublished": 1663308907,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/57654630/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-16%2Fce6f8add-29c4-9445-9000-c5571b059625.mp3",
+      "duration": 214
+    },
+    {
+      "uuid": "d5766b80-ddc8-4706-9d22-6c1e49b920d0",
+      "guid": "de008a5d-8788-4ed3-bb6f-550e844f339a",
+      "name": "Sept 9 - Libre Dapat ang Biyaya",
+      "datePublished": 1662707017,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/57303949/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-9%2Ffbd862dc-6d7f-6dd9-2def-921c0034a891.mp3",
+      "duration": 158
+    },
+    {
+      "uuid": "c44ba626-3f22-4580-a066-2745b81ac0fc",
+      "guid": "9726597a-fd67-4fcd-bc0f-d10a023d4b92",
+      "name": "Sept 2 - Wasak at Nagagalak",
+      "datePublished": 1662109464,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/56992341/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-2%2F49d407fc-c44c-b589-9ba3-5566dfcc75d6.mp3",
+      "duration": 293
+    },
+    {
+      "uuid": "cbe8385f-6dc4-47ce-8f27-0fe64e559e24",
+      "guid": "b8af8d5b-7d25-47ea-adae-4c126443aefd",
+      "name": "July 29 - Ang Plano ng Diyos para sa mga Inuusig",
+      "datePublished": 1659074114,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/55468813/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-29%2F9bfb2315-91d7-0357-67c7-9ab1dc55e2d8.mp3",
+      "duration": 246
+    },
+    {
+      "uuid": "6ef609d2-1e01-4026-bd9b-f1188830575f",
+      "guid": "ed5b64ec-107b-422e-af15-758b10903f4a",
+      "name": "July 22 - Pangaralan ang Sarili",
+      "datePublished": 1658503022,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/55180790/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-22%2Fd5c1a7f6-93c5-c854-fa2f-508984fb2a6d.mp3",
+      "duration": 223
+    },
+    {
+      "uuid": "509e112a-7484-43d7-bac1-c2ae3900b613",
+      "guid": "93d50f50-1526-4fce-8b96-0cc70f10840f",
+      "name": "July 15 - Naglilingkod Tayo sa Pamamagitan ng Biyaya",
+      "datePublished": 1657904245,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/54879288/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-15%2F6d72d0a1-a701-4606-32b3-826b6c921239.mp3",
+      "duration": 272
+    },
+    {
+      "uuid": "4d9a9e61-9d02-420b-84a0-1aa3a63f3b5c",
+      "guid": "0803e692-5c4e-4a02-8038-5ee88d06edfe",
+      "name": "July 8 - Gustong-gusto ng Saving Faith and Pagpapatawad",
+      "datePublished": 1657465471,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/54636170/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-10%2F685f0a58-0397-69ea-6b18-5bb5951d7531.mp3",
+      "duration": 265
+    },
+    {
+      "uuid": "dc7c6201-6b21-473b-8f79-775873485db8",
+      "guid": "97b5b976-f679-407a-9763-7d1577326751",
+      "name": "June 24 - Kaya Kong Maging Kuntento sa Bawat Sitwasyon",
+      "datePublished": 1656043203,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/53904624/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-23%2Feffe2cc0-53ae-5e59-2b00-9b583414ee39.mp3",
+      "duration": 276
+    },
+    {
+      "uuid": "69cb868b-72c1-4722-9e74-a8f6f6034316",
+      "guid": "64f712ff-e412-4f61-a59b-1bae44ca745f",
+      "name": "June 17 - Anong Klaseng Panalangin ang Nakalulugod sa Diyos?",
+      "datePublished": 1655464891,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/53623502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-17%2F2b9c3815-93f2-55aa-528a-048ae5236544.mp3",
+      "duration": 222
+    },
+    {
+      "uuid": "427e0e06-7dbc-4f85-b1ee-8e6d89df6702",
+      "guid": "a8c11a13-4f43-4fa4-89fc-d634eef7426b",
+      "name": "June 10 - Kapag Nagiging Pagrerebelde ang Pangangatwiran",
+      "datePublished": 1655136886,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/53427900/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-13%2F4f0bba95-ec1b-072e-11ea-039eaac7b621.mp3",
+      "duration": 232
+    },
+    {
+      "uuid": "60da5ba8-15a6-4f2f-987e-8f9d8901bb45",
+      "guid": "fdad90c1-971b-44e0-918d-953b924813d6",
+      "name": "June 3 - Pananampalataya para sa Imposible",
+      "datePublished": 1654496327,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/53080572/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-6%2Ff15dcf70-2b5e-e3df-96a2-42b1589fe528.mp3",
+      "duration": 215
+    },
+    {
+      "uuid": "9d49ab4d-b69c-42f6-8efd-915e5390a3ca",
+      "guid": "6b66e4f7-93a8-4950-be12-313dcabb437b",
+      "name": "May 27 - Tunay vs. Huwad na Pananampalataya",
+      "datePublished": 1653665537,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/52656432/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-27%2F268266623-44100-2-2a05a0e9fba15.m4a",
+      "duration": 194
+    },
+    {
+      "uuid": "b302faf5-f34a-45b5-ad52-2b737d357325",
+      "guid": "c61a5cc4-fbe2-4d9c-b3c9-fa193153a84b",
+      "name": "May 20 - Paano Kasusuklaman ang Iyong Buhay",
+      "datePublished": 1653063306,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/52300394/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-20%2F0d6a2f1a-35e2-9371-41db-a2d25450c2c3.mp3",
+      "duration": 265
+    },
+    {
+      "uuid": "53a60d1c-f1f5-4990-b9cb-49d0fe88befb",
+      "guid": "adf89fa8-e06c-4097-b043-44312592e83e",
+      "name": "May 13 - Ang May Kagagawan ng Lahat",
+      "datePublished": 1652452588,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/51947821/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-13%2F9d73853c-c1f6-9110-18a7-e8145cd44f55.mp3",
+      "duration": 260
+    },
+    {
+      "uuid": "f5b1de8b-7b20-4414-b47a-a3d01993877a",
+      "guid": "0e93b572-3f47-4a6e-acc8-dd83814474f1",
+      "name": "May 6 - Ang Tunay na Kaalaman",
+      "datePublished": 1651848897,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/51616682/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-6%2F263929712-44100-2-7a4b7b591bd37.m4a",
+      "duration": 194
+    },
+    {
+      "uuid": "633b9ecd-a39a-4af0-bc8f-df8f3f6bed8a",
+      "guid": "01bc5a59-77c4-41a2-8981-654b71a3b878",
+      "name": "April 29 - Ang Araw ay Malapit Na",
+      "datePublished": 1651214487,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/51268646/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-29%2Fdbc87430-15e4-fd84-e9e2-5a70df6a0511.mp3",
+      "duration": 216
+    },
+    {
+      "uuid": "610a3fc7-79dc-48cd-8acf-3922b8b59a20",
+      "guid": "70f7c80b-4da8-46b1-b8b8-f16f65166ba4",
+      "name": "April 22 - Limang Dahilan para Hindi Matakot",
+      "datePublished": 1650630010,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/50937452/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-22%2F6a4898df-36bd-0eb5-6b39-b1ffa3bc0dc5.mp3",
+      "duration": 319
+    },
+    {
+      "uuid": "719bb73a-4b5a-4218-90fe-a5aff4a4ab5f",
+      "guid": "3777143f-1754-4931-a9e6-291a45ae0467",
+      "name": "April 15 - Huwag Tumulad sa Mule",
+      "datePublished": 1650211439,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/50701827/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-17%2Fbde98527-43cc-6f17-3ed4-4f700f6b3a2b.mp3",
+      "duration": 189
+    },
+    {
+      "uuid": "85139d44-3f23-4e78-96c4-5121deb06197",
+      "guid": "773dec47-fe84-4f1c-855e-c7337c5ed4a2",
+      "name": "April 8 - Ipaalam kay Satanas ang Kanyang Pagkatalo ",
+      "datePublished": 1650211284,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/50701743/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-17%2F9f0c2f88-0d8c-c9ce-b5e6-8b18e5b36092.mp3",
+      "duration": 226
+    },
+    {
+      "uuid": "787d0d6f-4910-4ebc-8c2b-91b8d966aa81",
+      "guid": "f9af7410-3322-427f-a70e-bc9d92d0f838",
+      "name": "April 1 | Dalawa sa pinakamalalalim nating pangangailangan",
+      "datePublished": 1648793484,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/49943597/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-3-1%2Febf83ce4-4303-91c9-83e7-2778c8d36be6.mp3",
+      "duration": 222
+    },
+    {
+      "uuid": "379de340-c354-4806-a959-4fa0c3956470",
+      "guid": "1ad590b7-48f5-4f8f-96cb-ac335ad599f4",
+      "name": "March 25 - Satisfied Magpakailanman",
+      "datePublished": 1648214511,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/49595509/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-25%2F2ecc75df-7320-7ccd-5072-4ecba11c4ee9.mp3",
+      "duration": 226
+    },
+    {
+      "uuid": "a30f1bb9-e7b6-4a8c-ad13-0d85a70477e0",
+      "guid": "206d2a0b-4ea4-4e00-a779-dcda7ae4c7da",
+      "name": "Bakit Natin Dapat Panghawakan ang Ating Pag-asa",
+      "datePublished": 1647532800,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/49437320/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-22%2F5be18ec5-5fa1-3db5-28a9-52b2fa4b45f0.mp3",
+      "duration": 222
+    },
+    {
+      "uuid": "12479a03-7648-439b-9bd5-102a70e433a7",
+      "guid": "11fe7141-e4a5-4011-bc91-e3c6d9068b9a",
+      "name": "Dalawang Walang Hanggang Malakas at Mapagmahal na Katotohanan",
+      "datePublished": 1646928000,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/49437227/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-22%2F6fab4e79-5a5f-6292-2e31-9e46df38ba3b.mp3",
+      "duration": 221
+    },
+    {
+      "uuid": "90df3716-2edf-46cb-a585-d22a034b8023",
+      "guid": "6611ed00-c238-46df-805b-297b363880c1",
+      "name": "Nagagalak ang Diyos na Gumawa ng Mabuti Para sa Iyo",
+      "datePublished": 1646380963,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/48534962/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-2-4%2Fd968aff1-b539-b855-b222-c4bc2f83e821.mp3",
+      "duration": 209
+    },
+    {
+      "uuid": "ffb1685e-3c43-4e17-b264-f5f23e59dc7c",
+      "guid": "3620e61b-eba8-4029-b6aa-87dee9c1781f",
+      "name": "Kapag Imortal Ka",
+      "datePublished": 1645156800,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/47801761/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-17%2Ff3110199-a6a0-1602-d376-c2a0b46f54d2.mp3",
+      "duration": 177
+    },
+    {
+      "uuid": "8e62ce88-d54e-4817-9428-b99ab6698fcf",
+      "guid": "635b1b34-2af1-4443-be42-9fbd81677f58",
+      "name": "Ang Pinakamahusay na Anyo ng Pang-aalipin",
+      "datePublished": 1644553418,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/47501912/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-11%2Fa0e8b557-3f95-3abe-3e98-7b6c003af068.mp3",
+      "duration": 222
+    },
+    {
+      "uuid": "9ed00f34-d376-4f51-a3a7-e71de9e9e416",
+      "guid": "75e667ba-89eb-4cec-9b37-ac1a50232569",
+      "name": "Limang Paraan na Nakatutulong ang Pagdurusa",
+      "datePublished": 1643947200,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/47102262/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-3%2Fd0e68917-d97b-5d73-c502-2d1f1ae33f02.mp3",
+      "duration": 269
+    },
+    {
+      "uuid": "446d2dd4-13b5-4302-bda6-c080dd2eb6a8",
+      "guid": "1aa488e4-8669-44a3-8740-34398d14e6f1",
+      "name": "Paano Magsisi",
+      "datePublished": 1643356800,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/47102191/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-3%2Fc11dbe0c-45bb-0f74-8605-de18ec40523f.mp3",
+      "duration": 299
+    },
+    {
+      "uuid": "c599e0a3-30ef-4898-8e3b-97993af5308a",
+      "guid": "f7365f8c-eec9-48c7-b6f8-2195d2ae4e6f",
+      "name": "Ang Anchor ng Kagalakan",
+      "datePublished": 1642737600,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/46453154/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-21%2F9b37aff1-a2c7-6550-46dd-34414b60dfa1.mp3",
+      "duration": 239
+    },
+    {
+      "uuid": "fbf8b7e3-3a67-4f3b-b594-5d563ffece6c",
+      "guid": "fac6be12-ecfe-4d9c-8bdf-af751854ce83",
+      "name": "Ang Bintana ng Puso",
+      "datePublished": 1642132800,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/46105361/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-13%2F2f5f251a-3471-9682-718f-c5a2a59ce973.mp3",
+      "duration": 283
+    },
+    {
+      "uuid": "58e644f4-fb63-4a24-a22a-751b4a81853f",
+      "guid": "a6924a3e-928e-4280-8c58-b4c9beab9016",
+      "name": "Itinanggi at Ibinigay na Biyaya",
+      "datePublished": 1641528000,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/45779559/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-6%2Fc1ba1442-e992-b3ee-3b20-4d3bd61c95ab.mp3",
+      "duration": 316
+    },
+    {
+      "uuid": "65a65c45-0ce6-42d8-9ef3-6dde718bd29d",
+      "guid": "d8f23999-8c3b-4d1c-b142-27faf9caef67",
+      "name": "Ano ang Iyong Layunin?",
+      "datePublished": 1640594053,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/45359535/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-27%2F3ef63b90-e7d6-71e6-1ccd-fd1ed3decc03.mp3",
+      "duration": 253
+    },
+    {
+      "uuid": "cef84e0f-e4a8-4095-934c-deb5af0769a3",
+      "guid": "7707edbe-cb1e-4f26-8c23-0dc7bbe48cae",
+      "name": "Upang Ikaw ay Manampalataya",
+      "datePublished": 1640145600,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/44761217/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-13%2Ff2255e81-8452-bbb7-ef22-6c209d066bb1.mp3",
+      "duration": 269
+    },
+    {
+      "uuid": "805a47cb-f2fb-4c98-9dcc-2852925d7018",
+      "guid": "49b0075a-18a6-458d-b816-aea5a3e68f5c",
+      "name": "Ang Kapanganakan ng Walang Hanggan",
+      "datePublished": 1640059200,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/44761140/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-13%2F18c16a44-ebce-ef9e-c07d-55950e282474.mp3",
+      "duration": 233
+    },
+    {
+      "uuid": "5a965bae-a207-4e83-9e62-2c203c484d68",
+      "guid": "0ee9d8be-bfa1-4aa0-b1b9-7f9f8a06b8eb",
+      "name": "Ang Pagkakaisa sa Pasko",
+      "datePublished": 1639972800,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/44761054/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-13%2F75ac20c5-267c-78f0-ff5f-a5098937b632.mp3",
+      "duration": 227
+    },
+    {
+      "uuid": "ee25f424-959b-4051-a0f6-f9c8ddac14b4",
+      "guid": "8b981401-1088-462f-931a-f28bff25c067",
+      "name": "Ang Pasko ay para sa Kalayaan",
+      "datePublished": 1639886400,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/44760880/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-13%2F3e0e6f59-9f93-b684-12f2-52b265e3fc66.mp3",
+      "duration": 291
+    },
+    {
+      "uuid": "4f20178e-731b-4b32-bebc-9abdabd4e484",
+      "guid": "9f2d61fb-7f98-4b89-9188-588c074232b5",
+      "name": "Ang Christmas Model para sa Pagmimisyon",
+      "datePublished": 1639800000,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/44760642/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-13%2F8c95d84b-5e94-4ae0-e2ca-cf2b51b33c3e.mp3",
+      "duration": 216
+    },
+    {
+      "uuid": "a1d88d5e-4e06-418b-b51d-4cfe6d7716b6",
+      "guid": "14e9ecb9-0f7f-480e-b3c5-22a2251c0917",
+      "name": "Ang Pinakadakilang Kaligtasang Maaaring Maisip",
+      "datePublished": 1639713600,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/44760524/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-13%2Ff8f088f9-eb5a-f50a-7ce4-2f083d26ec38.mp3",
+      "duration": 269
+    },
+    {
+      "uuid": "c5dbb5c6-0f32-4112-8b01-dba2736af168",
+      "guid": "f12da126-87f7-4937-ae48-7e476455db61",
+      "name": "Ang Pinakamatagumpay na Kabiguan ng Diyos",
+      "datePublished": 1639627200,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/44760368/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-13%2F7a78cc57-cd6e-f342-7ade-bf133a9a690a.mp3",
+      "duration": 245
+    },
+    {
+      "uuid": "f7c6c519-7175-42d2-ad97-ae29dfde4d79",
+      "guid": "a7c1fa87-ddba-4dc8-aad0-e7b5cc63c2f5",
+      "name": "Buhay at Kamatayan sa Pasko",
+      "datePublished": 1639540800,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/44760277/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-13%2Fb72322a9-9e2d-3d84-5cd3-a2c5376b031d.mp3",
+      "duration": 271
+    },
+    {
+      "uuid": "df0dbe3b-435c-4f9d-80d6-f7ecccf332e3",
+      "guid": "ee8d074b-14ad-48dd-a57e-815681305abb",
+      "name": "Gagawing Totoo para sa Kanyang mga Anak",
+      "datePublished": 1639454400,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/44760174/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-13%2Fc0d44b05-2ae1-66aa-6336-5c7f810a54a6.mp3",
+      "duration": 219
+    },
+    {
+      "uuid": "466a0ab8-518d-4262-8b64-7751882595a0",
+      "guid": "a31b8ec2-bb7c-4409-92d3-32edb3c33959",
+      "name": "Narito ang Huling Realidad",
+      "datePublished": 1639363655,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/44759681/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-13%2F237231608-44100-2-9df7ca9f44e34.m4a",
+      "duration": 233
+    },
+    {
+      "uuid": "554b0a5a-ed68-4128-90fc-ecf49acc94eb",
+      "guid": "18d66a2b-421f-4835-815e-f8a24ea38c2a",
+      "name": "Ang Pagpapalit sa mga Anino",
+      "datePublished": 1639281600,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/44639832/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-10%2F98b58de4-4ab6-d96b-a821-77e95bd24e0f.mp3",
+      "duration": 155
+    },
+    {
+      "uuid": "3aff1807-bb0d-487d-838a-4a8e9a220f1c",
+      "guid": "d20caeb5-09d7-43ab-ad64-36b061ef3f37",
+      "name": "Bakit Pumarito si Jesus",
+      "datePublished": 1639195200,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/44639537/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-10%2F63039d83-4ad9-0e4d-08a1-252829a56f51.mp3",
+      "duration": 388
+    },
+    {
+      "uuid": "114b2cb4-1ce9-4384-940f-d3d88fa46e70",
+      "guid": "e96aa4a6-a4dc-4470-a50d-08ccbc780bab",
+      "name": "Ginto, Insenso, at Mira",
+      "datePublished": 1639112914,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/44639462/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-10%2Fe600be3a-f945-49af-134b-d5e5cb17e539.mp3",
+      "duration": 228
+    },
+    {
+      "uuid": "76ef39c4-a63a-4da0-a03b-00909c474c71",
+      "guid": "cb40b50f-48bb-4ab1-b064-1673dcaa247f",
+      "name": "Dalawang Uri ng Oposisyon kay Jesus",
+      "datePublished": 1639112735,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/44639307/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-10%2F8e652fed-efba-64e2-edf4-88b84e1b8769.mp3",
+      "duration": 195
+    },
+    {
+      "uuid": "e0f3e8fb-e8b2-414d-b33d-ba0da741083e",
+      "guid": "25921a84-91bd-476c-b50a-b4ad06eddbc1",
+      "name": "Ang Supernatural na Bituin ng Bethlehem",
+      "datePublished": 1639112487,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/44639264/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-10%2Fa0b301df-6f5f-4ccf-b495-5410666956c5.mp3",
+      "duration": 333
+    },
+    {
+      "uuid": "461be0d8-a9bc-49e6-8cbd-fb79066444c4",
+      "guid": "e9881bc7-afbe-4877-8fa9-f1446dc8f46a",
+      "name": "Mesias para sa Mga Mago",
+      "datePublished": 1638849600,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/44266915/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-2%2F2effe2a9-c40c-d1e9-0b0a-5b1d21d69eed.mp3",
+      "duration": 179
+    },
+    {
+      "uuid": "fe629586-1d81-4b64-813c-9cfc305aa3c2",
+      "guid": "3433259a-1869-4314-9fa5-0ec921bec1cc",
+      "name": "Kapayapaan para sa mga Kinaluluguran ng Diyos",
+      "datePublished": 1638801047,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/44438180/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-6%2F81d4994e-d238-d869-2b23-71448af9cfcf.mp3",
+      "duration": 222
+    },
+    {
+      "uuid": "84deece5-ef74-4dfb-ad32-a64bcd7c9c69",
+      "guid": "ddeea1ae-f1e0-401e-a652-ec82a73ba841",
+      "name": "Kapayapaan para sa mga Kinaluluguran ng Diyos",
+      "datePublished": 1638763200,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/44266769/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-2%2Fd67a434f-16eb-b1d0-1aa2-628e51fc947e.mp3",
+      "duration": 248
+    },
+    {
+      "uuid": "7607c9ad-f8ef-479c-841d-496fcddf69a7",
+      "guid": "d390699a-175e-4a00-a6b3-c06549a63345",
+      "name": "Walang Detour Mula sa Kalbaryo",
+      "datePublished": 1638676800,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/44266669/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-2%2F683f91f9-61d2-1c20-5b2c-7d64b3768ad8.mp3",
+      "duration": 224
+    },
+    {
+      "uuid": "910261d1-5e7d-4e14-bbfc-7956407303ef",
+      "guid": "a022e5c6-3012-4530-8ba7-3250e0636e75",
+      "name": "Para sa mga Abang Tao ng Diyos",
+      "datePublished": 1638590400,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/44266560/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-2%2F5cbb3a7c-a0e2-28da-01d3-93b94dceeb93.mp3",
+      "duration": 277
+    },
+    {
+      "uuid": "e5438301-82a1-40df-8fa5-20e69aa68d11",
+      "guid": "64ae57e0-92d0-452a-a3d5-4a8f8de5c662",
+      "name": "Ang Pinakaaabangang Pagbisita",
+      "datePublished": 1638504000,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/44124118/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-30%2F658e882a-d1da-0d53-4b2b-aa56ca4f50bb.mp3",
+      "duration": 205
+    },
+    {
+      "uuid": "6fe787d5-85a9-4e37-b5d8-57aaf74bb866",
+      "guid": "9a640853-2d1e-45ea-b756-73779f2caaca",
+      "name": "Ang Kamangha-manghang Diyos ni Maria",
+      "datePublished": 1638417600,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/44124066/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-30%2F2567d07b-3fa1-301a-d108-1e4c6daa58b6.mp3",
+      "duration": 211
+    },
+    {
+      "uuid": "286b3440-8fff-43c0-936e-d52220832be3",
+      "guid": "5eb2420b-dc2d-4b90-a94a-8e9ecb2da3ca",
+      "name": "Ihanda ang Daan",
+      "datePublished": 1638331200,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/44124027/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-30%2F645c1f00-87d3-e5ca-f922-0dabe8ca343c.mp3",
+      "duration": 254
+    },
+    {
+      "uuid": "9f061d38-4ada-4045-a769-dc2e288e97b8",
+      "guid": "cf451043-7f13-4177-8631-1355ecfe6b41",
+      "name": "Ang Tanging Tagapaglinis ng Konsensya",
+      "datePublished": 1638159474,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/44064071/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-29%2F234130726-44100-2-c171b8d15e4e9.m4a",
+      "duration": 197
+    },
+    {
+      "uuid": "6fbe23f4-a87a-4d68-abdd-b9c8fa37975d",
+      "guid": "41a7ce58-7884-46ea-8a05-277de5ddf156",
+      "name": "Ang Susi sa Spiritual Maturity",
+      "datePublished": 1637553600,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/43368764/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-15%2F117097fd-a54a-a8ce-a034-a44ae479ac55.mp3",
+      "duration": 239
+    },
+    {
+      "uuid": "5ad1ba9e-8d24-49f7-bd29-71d4a630e88e",
+      "guid": "4c5b4696-746c-4d86-a0da-208cd259d8a4",
+      "name": "Mga Salita sa Pakikipaglaban",
+      "datePublished": 1636973263,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/43368731/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-15%2F73842ab8-19d8-67c1-97d7-6f96964bd94c.mp3",
+      "duration": 246
+    },
+    {
+      "uuid": "4235e077-8a54-40b2-bb74-ae6c4316562e",
+      "guid": "12c62c10-42f5-4b03-9831-323eb64c7d24",
+      "name": "Pinararangalan Natin ang Tinatamasa Natin",
+      "datePublished": 1636344000,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/42588363/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-31%2F26ce75ce-cd88-40fb-d096-6ffb9144a320.mp3",
+      "duration": 217
+    },
+    {
+      "uuid": "94ce64a4-704c-4084-937d-565b0448672f",
+      "guid": "d45a0886-788f-4e0e-865e-d8948c08c423",
+      "name": "Ang mga Paghihirap ni Cristo sa Atin",
+      "datePublished": 1635739200,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/42588284/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-31%2F45dbc1c5-c4b2-d4b3-b2e9-bbbc8eb39dd6.mp3",
+      "duration": 193
+    },
+    {
+      "uuid": "c1bdf00d-216b-430d-9a69-7a0d8df02c6c",
+      "guid": "3d225015-ad57-4320-8108-a35c4acf4539",
+      "name": "Ang Dakilang Pag-asa ng Pagmimisyon",
+      "datePublished": 1635134400,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/42259484/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-24%2F8d6ac08e-6c58-5d1d-7b12-68465d5fb5ed.mp3",
+      "duration": 236
+    },
+    {
+      "uuid": "84976cc9-f083-4747-b1ee-9555da070b2c",
+      "guid": "d2d89a81-9a93-4a88-81a6-c8b505c56267",
+      "name": "Ang Kagalakan ni Jesus sa Pag-aasawa",
+      "datePublished": 1634544142,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/41946808/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-18%2F225134106-44100-2-571796f5ef18a.m4a",
+      "duration": 299
+    },
+    {
+      "uuid": "668845e6-a41f-4216-96ec-4a61c8687ea1",
+      "guid": "b376bc8c-0bf5-49c4-9a9e-173cc1e1edf4",
+      "name": "Wala Tayong Magagawa",
+      "datePublished": 1633924800,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/41593445/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-11%2F796e36de-2809-fe2c-0661-42efe1c93179.mp3",
+      "duration": 262
+    },
+    {
+      "uuid": "6f9d7760-3c1a-4eff-b49c-15b376235661",
+      "guid": "a73b8769-dfb1-4b36-a02e-f9c7b035e793",
+      "name": "Di-nauubos na Kagalakan",
+      "datePublished": 1633320000,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/41247200/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-4%2Ff2979f70-a617-4d2b-b8c8-1923a6184980.mp3",
+      "duration": 202
+    },
+    {
+      "uuid": "a55d1182-e175-4813-87a7-9ad30d79a49d",
+      "guid": "4e96beb0-f731-4bab-abfe-e9b790f6ef99",
+      "name": "Ang Kapangyarihan ng Mas Dakilang Pangako",
+      "datePublished": 1632715200,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/40507288/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-19%2F88e5d270-4de2-6018-3ae1-4c67b62bcbb0.mp3",
+      "duration": 222
+    },
+    {
+      "uuid": "b74bbe34-0d44-4683-8148-f75c2b449e3b",
+      "guid": "6e65b4f3-77d4-44ce-b1e1-79adb9a15ac0",
+      "name": "Hindi Pa Ganoong Ka-hedonistic",
+      "datePublished": 1632110400,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/40507206/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-19%2F42c7f7a6-9b3c-c3dd-c503-fd74d380828b.mp3",
+      "duration": 157
+    },
+    {
+      "uuid": "668c515d-ff35-43fc-81d5-3d966f45276d",
+      "guid": "03c4a921-1877-4d5e-9c07-459e05fab59e",
+      "name": "7 Dahilan Upang Hindi Mag-alala",
+      "datePublished": 1631505600,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/39867338/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-6%2F2930af2c-3f70-8f25-c8be-c58e8e10e4e6.mp3",
+      "duration": 383
+    },
+    {
+      "uuid": "9a57659c-b4c3-4eea-8aa9-7a221afb8ce3",
+      "guid": "9fcb0805-9ad0-42d4-a7bf-41b67923db48",
+      "name": "Ang Kasalukuyan at Makapangyarihang Pag-ibig",
+      "datePublished": 1630900800,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/39867204/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-6%2F8aabe734-eae4-4f32-c942-89b93a838b3b.mp3",
+      "duration": 316
+    },
+    {
+      "uuid": "cf034257-300c-45c5-aa0a-ad4759e8eb57",
+      "guid": "bd584fa1-7631-4b76-9a69-89392725d59a",
+      "name": "Paglago ng Church, Paraan ng Diyos",
+      "datePublished": 1630296000,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/39532690/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-30%2Fdcc759c6-5ce4-4c0e-5992-934caa37f28f.mp3",
+      "duration": 273
+    },
+    {
+      "uuid": "1be530de-0b04-4526-a6e3-1ca3f1017028",
+      "guid": "b2f9cc4e-a669-44fa-b408-594d300e3b74",
+      "name": "Hindi Sumasamba sa Diyos-diyosan ang Diyos",
+      "datePublished": 1629691200,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/38842366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-16%2F662542e2-bfba-4486-7ef8-1e0cc0f045ee.mp3",
+      "duration": 252
+    },
+    {
+      "uuid": "e539d935-8fde-450e-aaba-ac87176e0960",
+      "guid": "9a5f34e3-225e-4e60-b650-6ba92a09fdfb",
+      "name": "Bakit Ka Bumibigay sa Sexual Sin",
+      "datePublished": 1629086400,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/38839649/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-16%2Fcb329333-e6e2-70f8-f8c5-fed6ffeac3d7.mp3",
+      "duration": 135
+    },
+    {
+      "uuid": "bd56ad83-712a-4767-b686-1a4ea19d029c",
+      "guid": "57414c26-9721-4279-b10f-d158533b4027",
+      "name": "Ang Dulo ng Ebanghelyo",
+      "datePublished": 1628481600,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/38467433/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-8%2Fab8cb726-7e1a-cb8e-c56a-20cd0b1ea8bd.mp3",
+      "duration": 201
+    },
+    {
+      "uuid": "eb15c786-35ad-40ba-8407-a7df76124a67",
+      "guid": "8269d510-643a-4662-9fd6-a6fb0f5d07e0",
+      "name": "Hindi Na Takot sa Kamatayan",
+      "datePublished": 1627887600,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/38168354/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-2%2F948ab199-150a-0d4e-0c11-90544d0d301d.mp3",
+      "duration": 301
+    },
+    {
+      "uuid": "ecd91ff9-7e1e-43f3-9a57-7896f5bb4cdd",
+      "guid": "33dbe281-30bd-4c87-bf06-7a40477167c8",
+      "name": "Ang Ibig Sabihin ng Pag-ibig sa Salapi",
+      "datePublished": 1627272000,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/37438803/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-18%2F206306051-44100-2-99bfd026dcddc.m4a",
+      "duration": 230
+    },
+    {
+      "uuid": "ae2527f1-1606-4855-93a4-04e1306c5857",
+      "guid": "e4f2a184-a82a-45a5-837a-ac407dd6c33f",
+      "name": "Ang Kanyang Timing ay Eksakto",
+      "datePublished": 1626667200,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/37437197/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-18%2F206305487-44100-2-f296ed9a9b389.m4a",
+      "duration": 265
+    },
+    {
+      "uuid": "29eb47d7-6faf-420d-b416-415e7988ab46",
+      "guid": "1a92fd84-8fc9-41df-bb66-f2edd5daa0fe",
+      "name": "Tinatanggal ng Pananampalataya ang Kasalanan, Kasakiman, at Takot",
+      "datePublished": 1626066000,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/37081241/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-12%2Ff9b7a50e-f0c6-e714-b321-0862ea4e751d.mp3",
+      "duration": 329
+    },
+    {
+      "uuid": "b867e113-c584-4401-bbd3-1240bc854c9d",
+      "guid": "e2f19f2f-1772-4de8-a4d7-dc87bd525f13",
+      "name": "Ibigay sa Diyos ang Iyong Paghihiganti",
+      "datePublished": 1625454991,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/36695882/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-5%2F202899676-44100-2-d63be65e425a.m4a",
+      "duration": 280
+    },
+    {
+      "uuid": "44b8b438-e40f-4e3c-9521-9d2154ad79d1",
+      "guid": "1619dd8a-9157-4579-b652-fe2bcce3d81c",
+      "name": "Pagpapakatatag Kapag Masakit ang Pagsunod",
+      "datePublished": 1624852800,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/35841322/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-20%2Ff50371cc-493a-94a4-df80-b3c41458b895.mp3",
+      "duration": 263
+    },
+    {
+      "uuid": "5f28d12e-2bfc-4138-b78d-22ab259201fc",
+      "guid": "429d161b-75d8-442f-9403-2e50e386e0d2",
+      "name": "Ang Satisfaction na Tumatalo sa Kasalanan",
+      "datePublished": 1624248000,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/35840930/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-20%2F278c7c85-b1de-8eea-f327-adaddedbb440.mp3",
+      "duration": 265
+    },
+    {
+      "uuid": "7f90afa7-9e6f-47ec-be57-9168749ae421",
+      "guid": "bba1df4f-9412-460e-9add-9287379ab316",
+      "name": "Gaano Tayong Gustong Pagpalain ng Diyos",
+      "datePublished": 1623643200,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/35386846/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-13%2Fdc82e4e6-4746-95b4-04ab-242c3db363fb.mp3",
+      "duration": 269
+    },
+    {
+      "uuid": "17791f3e-0941-4e39-b6e0-b274736e1961",
+      "guid": "ef91ca98-b984-4c22-a156-ffcfc2ddcc1c",
+      "name": "Nabubuhay Tayo sa Pananampalataya",
+      "datePublished": 1623038400,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/34544463/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-31%2F97f42a7b-67ba-e733-1904-5916ce942c9a.mp3",
+      "duration": 237
+    },
+    {
+      "uuid": "4f24dfba-8cc9-4165-8d22-a3309bc27321",
+      "guid": "df57e879-6bce-4743-a4d8-1c3e91b2f8b2",
+      "name": "Ang Makakamit sa Paglilingkod sa Diyos",
+      "datePublished": 1622433600,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/34544366/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-31%2F3319cf87-ef36-2d53-6e12-da043ae2fb97.mp3",
+      "duration": 304
+    },
+    {
+      "uuid": "acef6ad3-828e-49af-89cf-62cc27b6f990",
+      "guid": "e60f5a05-ca1b-4aa0-ab77-978752ed2072",
+      "name": "Ang Pundasyon ng Iyong Kasiguruhan",
+      "datePublished": 1621828800,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/33604496/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-16%2Fb3270614-2cc1-f80e-6742-4e29ec3945c5.mp3",
+      "duration": 275
+    },
+    {
+      "uuid": "ef0c17af-586e-4be3-9d38-0970ed70a3f0",
+      "guid": "cc77afa9-07e1-4e85-a321-9a041f29b4be",
+      "name": "Limang Digital na Panganib",
+      "datePublished": 1621224000,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/33604331/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-16%2F186861357-44100-2-aa1e8a2ecfa2d.m4a",
+      "duration": 351
+    },
+    {
+      "uuid": "a7d67138-2d02-4dd6-9cc6-9fe90d724a40",
+      "guid": "effb5010-22ef-4670-b1f8-687813b88f8a",
+      "name": "Mapabilang sa Kanyang Bayan",
+      "datePublished": 1620619200,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/32666089/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-2%2F4393a01e-6bcc-b3b2-8fe7-abd005ac6b37.mp3",
+      "duration": 251
+    },
+    {
+      "uuid": "cf5d73eb-c9af-4c2d-96d5-8ff74ed9cfe4",
+      "guid": "0254415d-15d9-4f9c-9c71-550ff8226460",
+      "name": "Paano Humingi ng Tawad",
+      "datePublished": 1620014400,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/32665536/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-2%2F38be4338-9a9f-e626-568b-66283cd54394.mp3",
+      "duration": 267
+    },
+    {
+      "uuid": "32593f24-465b-45df-a4b0-b9ebe5ce863b",
+      "guid": "78caecc1-1f18-496e-91ac-7d95e43eb62b",
+      "name": "Nilikha Ka Para sa Diyos",
+      "datePublished": 1619409600,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/31665975/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-18%2Fb7e03c50-3eed-f41f-03b5-dce3844a7936.mp3",
+      "duration": 305
+    },
+    {
+      "uuid": "91470553-96a4-4117-8a02-0eaa917c3749",
+      "guid": "516bc3f6-6cde-4e7d-9fba-3054f5d52504",
+      "name": "Ang Bukas Na Puro Kabiguan",
+      "datePublished": 1618804800,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/31665673/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-18%2F768ac332-2e95-08ea-3c72-5a6565497a21.mp3",
+      "duration": 277
+    },
+    {
+      "uuid": "e7f354d2-4d24-4b6e-a6c0-bd117ee31b65",
+      "guid": "a2658ede-794d-48db-b188-7d5ce08ba111",
+      "name": "Hindi Ka Matatalo sa Huli",
+      "datePublished": 1618200000,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/30681787/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-4%2F3f4ab5bc-0b96-22bb-9982-0091b74c7099.mp3",
+      "duration": 270
+    },
+    {
+      "uuid": "203e1afb-59df-4ffd-8e56-7ed053c4919c",
+      "guid": "fada118f-e0e9-40d8-8086-f1f37df54454",
+      "name": "Ang Mga Aklat sa Hukuman",
+      "datePublished": 1617595200,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/30679275/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-4%2Fa128f27c-898e-9b9e-a52e-d87f46c16948.mp3",
+      "duration": 327
+    },
+    {
+      "uuid": "008837f4-06af-4a33-ba86-5c5748f2b5bd",
+      "guid": "a797b5b0-ad1e-4af2-b120-eee8a7ed4d53",
+      "name": "Tiyak Tulad ng Pag-ibig ng Diyos sa Kanyang Anak",
+      "datePublished": 1616990400,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/30147367/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-28%2F292a34bb-0b8f-ac66-dbc5-d4d74ad88432.mp3",
+      "duration": 263
+    },
+    {
+      "uuid": "0c316e56-28dd-45bc-9fa1-4a2eb533cacb",
+      "guid": "ad06fd53-0a10-484f-93f5-20f4f937309e",
+      "name": "Ang Candy Store ni Satanas",
+      "datePublished": 1616385600,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/29581354/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-21%2F458f8fa5-3205-6ee7-6e70-0031304f204b.mp3",
+      "duration": 230
+    },
+    {
+      "uuid": "a939519f-6726-4a71-818e-9226f79c1fbd",
+      "guid": "91286c25-6ef8-49f5-b6d9-873fc5e28b16",
+      "name": "Subersibo para sa Tagapagligtas",
+      "datePublished": 1615780800,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/28919968/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-14%2Fc5a7c5bd-4d7f-1684-b9ff-260c75d00b96.mp3",
+      "duration": 166
+    },
+    {
+      "uuid": "4757cb69-74dd-4158-b498-b900f2f026ec",
+      "guid": "de669991-47e3-444b-9085-c3f7e1bdbfb0",
+      "name": "Buksan ang Bintana ng Iyong Puso",
+      "datePublished": 1615183200,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/28319072/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-8%2F162625793-44100-2-cd215b14c0469.m4a",
+      "duration": 202
+    },
+    {
+      "uuid": "dc12d872-50b8-4f32-87a0-99a6fa144a93",
+      "guid": "f166bbc7-963c-4c91-816e-e8fd921934b6",
+      "name": "Ang Pinagmumulan Ng Ating Comfort (Ginhawa)",
+      "datePublished": 1614571200,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/27504928/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-27%2Fe2df5038-c6b5-27e2-e001-a9fd5adc4d7c.mp3",
+      "duration": 326
+    },
+    {
+      "uuid": "7bd1b5d0-6779-4f68-9f3d-bea13fce3aa7",
+      "guid": "a94b7c27-40af-4765-b60d-94747109b777",
+      "name": "Magalak sa Kanyang Kapuspusan",
+      "datePublished": 1613966400,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/26567517/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-11%2F154322515-44100-2-198439cfab2c.m4a",
+      "duration": 268
+    },
+    {
+      "uuid": "56630016-080a-4736-88fd-1453fb6f8248",
+      "guid": "9faa111b-c5c0-48ee-8385-9b907b90eba5",
+      "name": "Pag-ibig ang Bawat Hakbang sa Kalbaryo",
+      "datePublished": 1613361600,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/26566404/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-11%2F907c3b84-6d24-8513-c910-82ceb95e23e4.mp3",
+      "duration": 225
+    },
+    {
+      "uuid": "515dec91-d173-4d0a-8c03-69fcabf1faaa",
+      "guid": "0b5d90b5-7895-4be3-a493-fb3bb10cd64f",
+      "name": "Masaya Ka Bang Hindi Ka Diyos?",
+      "datePublished": 1612756800,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/25850567/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-28%2Febcedb6f-ba4a-1d14-7f70-df859fa75d13.mp3",
+      "duration": 268
+    },
+    {
+      "uuid": "4aaf7ce6-780f-4b85-941a-5a4bbaa88038",
+      "guid": "98323d88-a96f-4ea9-a14e-dd96a71c3e47",
+      "name": "Kasama Sa Kasunduan",
+      "datePublished": 1612152000,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/25850512/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-28%2F77e5fa3c-6f53-3b38-79fe-a626c1ef708e.mp3",
+      "duration": 257
+    },
+    {
+      "uuid": "3995b1d6-7408-4a33-840d-c857e4b4fe5b",
+      "guid": "7d033854-d5e5-4ada-b630-d045d1adbaad",
+      "name": "Naantalang Paglaya",
+      "datePublished": 1611547200,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/25241059/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-15%2F932ba804-dd34-6735-403e-71a9146276d4.mp3",
+      "duration": 210
+    },
+    {
+      "uuid": "67ee3006-8d31-4019-8e52-efe087d6b8d6",
+      "guid": "e1c6353f-adf9-4b90-b33f-fbe1bdc91105",
+      "name": "Ang Lunas sa Pagmamataas",
+      "datePublished": 1610942400,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/25240883/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-15%2F9a125bb0-e73d-eda9-0042-0fb63caf501f.mp3",
+      "duration": 305
+    },
+    {
+      "uuid": "d744b4a1-2e14-440c-9898-9c0ea7594386",
+      "guid": "3ebe36ad-a67e-4606-a461-92cca44a193c",
+      "name": "Pagmamahal sa Diyos at sa Katotohanan",
+      "datePublished": 1610337600,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/24902619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-8%2Fbb5f041b-4155-dcfc-deef-bc6e58b740f8.mp3",
+      "duration": 273
+    },
+    {
+      "uuid": "70c2c5a1-6eac-4324-979d-8b1fe5fbba47",
+      "guid": "2f217dcc-06d0-4739-b17b-ea942a48536d",
+      "name": "Pag-asa para sa mga Di-ganap na Kristiyano",
+      "datePublished": 1609722000,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/24572439/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-30%2F141712838-44100-2-22446b73cd0cd.m4a",
+      "duration": 180
+    },
+    {
+      "uuid": "a4d812fd-b100-44f4-85d0-f05b50220db6",
+      "guid": "a636529a-8032-400d-aadd-7f4cea1922c5",
+      "name": "Pagpapala Para sa Bagong Taon",
+      "datePublished": 1609462800,
+      "audioUrl": "https://anchor.fm/s/45d39d08/podcast/play/24572177/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2020-11-30%2F141711758-44100-2-984692d8f2182.m4a",
+      "duration": 170
+    }
+  ]
+}

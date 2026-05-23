@@ -1,0 +1,2809 @@
+{
+  "podcastId": "naked_bible",
+  "name": "The Naked Bible Podcast",
+  "host": "Dr. Michael S. Heiser",
+  "taddyUuid": "0fabbd8e-6fa3-4e5c-b9dc-e4da6e2b42e9",
+  "totalEpisodes": 350,
+  "episodes": [
+    {
+      "uuid": "304b00ac-9b6d-4430-b927-06db90f7fb3c",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=4192",
+      "name": "Naked Bible 479: 1 Samuel 30-31",
+      "datePublished": 1693826756,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/4192/naked-bible-479-1-samuel-30-31.mp3",
+      "duration": 2634
+    },
+    {
+      "uuid": "32b11b46-ae0c-4bcf-850c-b36f19613a78",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=4176",
+      "name": "Naked Bible 478: 1 Samuel 29",
+      "datePublished": 1693116851,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/4176/naked-bible-478-1-samuel-29.mp3",
+      "duration": 2623
+    },
+    {
+      "uuid": "10d89055-0fb3-4718-99f8-7ad658f6713f",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=4132",
+      "name": "Naked Bible 477: 1 Samuel 28",
+      "datePublished": 1692486656,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/4132/naked-bible-477-1-samuel-28.mp3",
+      "duration": 2563
+    },
+    {
+      "uuid": "39b0dde4-031a-415a-9aff-3c3be198eaa1",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=4123",
+      "name": "Naked Bible 476: 1 Samuel 27",
+      "datePublished": 1691913534,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/4123/naked-bible-476-1-samuel-27.mp3",
+      "duration": 2612
+    },
+    {
+      "uuid": "28648bf2-51d8-4740-8714-f757be5e654b",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=4076",
+      "name": "Naked Bible 475: 1 Samuel 26",
+      "datePublished": 1690655547,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/4076/naked-bible-475-1-samuel-26.mp3",
+      "duration": 1847
+    },
+    {
+      "uuid": "6afcd044-f2ab-4075-bbcb-551777fd46d0",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=4059",
+      "name": "Naked Bible 474: 1 Samuel 25",
+      "datePublished": 1690065692,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/4059/naked-bible-474-1-samuel-25.mp3",
+      "duration": 2421
+    },
+    {
+      "uuid": "a73ecb5b-51cc-4db6-8680-9808f7a32b82",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=4037",
+      "name": "Naked Bible 473: 1 Samuel 24",
+      "datePublished": 1689528678,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/4037/naked-bible-473-1-samuel-24.mp3",
+      "duration": 3670
+    },
+    {
+      "uuid": "d785a2b9-474c-462e-b295-613ee0aa8e01",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=4003",
+      "name": "Naked Bible 472: 1 Samuel 23",
+      "datePublished": 1688814000,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/4003/naked-bible-472-1-samuel-23.mp3",
+      "duration": 2123
+    },
+    {
+      "uuid": "59b94385-9e25-4fd4-abaf-fc16b788df90",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3986",
+      "name": "Naked Bible 471: 1 Samuel 22",
+      "datePublished": 1688331165,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3986/naked-bible-471-1-samuel-22.mp3",
+      "duration": 1522
+    },
+    {
+      "uuid": "5e943c48-904c-436f-a00c-0fd08d984cd6",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3963",
+      "name": "Naked Bible 470: 1 Samuel 21",
+      "datePublished": 1687600800,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3963/naked-bible-470-1-samuel-21.mp3",
+      "duration": 1986
+    },
+    {
+      "uuid": "3b42deee-e4f0-41f9-ba7c-26e2576b3608",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3942",
+      "name": "Naked Bible 469: 1 Samuel 20",
+      "datePublished": 1686935210,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3942/naked-bible-469-1-samuel-20.mp3",
+      "duration": 1812
+    },
+    {
+      "uuid": "0d509d2d-4c71-40bf-9d7a-7ac21a0c79cf",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3879",
+      "name": "Naked Bible 468: Miqlat",
+      "datePublished": 1685220573,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3879/naked-bible-468-miqlat.mp3",
+      "duration": 1929
+    },
+    {
+      "uuid": "66454517-eaa6-40b5-8d68-6e481fcff7c7",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3794",
+      "name": "Naked Bible 467: 1 Samuel 19",
+      "datePublished": 1684580400,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3794/naked-bible-467-1-samuel-19.mp3",
+      "duration": 1387
+    },
+    {
+      "uuid": "302a17b3-0125-4a10-b81e-b58b5cd7fd70",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3793",
+      "name": "Naked Bible 466: 1 Samuel 18",
+      "datePublished": 1683975600,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3793/naked-bible-466-1-samuel-18.mp3",
+      "duration": 1700
+    },
+    {
+      "uuid": "68e6b907-e26f-4cc4-be03-0dd0a39ca6fd",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3792",
+      "name": "Naked Bible 465: 1 Samuel 17",
+      "datePublished": 1683370800,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3792/naked-bible-465-1-samuel-17.mp3",
+      "duration": 1908
+    },
+    {
+      "uuid": "e97d7a40-151b-411e-aeab-55dabfb0efd6",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3779",
+      "name": "Naked Bible 464: 1 Samuel 16",
+      "datePublished": 1682913181,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3779/naked-bible-464-1-samuel-16.mp3",
+      "duration": 4006
+    },
+    {
+      "uuid": "f184903e-b9bf-4ac0-943f-eb17b6228322",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3729",
+      "name": "Naked Bible 463: 1 Samuel 15",
+      "datePublished": 1682161200,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3729/naked-bible-463-1-samuel-15.mp3",
+      "duration": 2179
+    },
+    {
+      "uuid": "f1e67862-9c6f-4946-b620-1344f7f86978",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3697",
+      "name": "Naked Bible 462: Honoring Dr. Michael S. Heiser Part 4",
+      "datePublished": 1681556400,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3697/naked-bible-462-honoring-dr-michael-s-heiser-part-4.mp3",
+      "duration": 3976
+    },
+    {
+      "uuid": "2c8bbd7c-8f12-40b2-a8c4-58406778a3f3",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3689",
+      "name": "Naked Bible 461: Honoring Dr. Michael S. Heiser Part 3",
+      "datePublished": 1681004451,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3689/naked-bible-461-honoring-dr-michael-s-heiser-part-3.mp3",
+      "duration": 3935
+    },
+    {
+      "uuid": "9c8e382f-4823-4f2f-b7aa-ee9088eb1ed0",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3649",
+      "name": "Naked Bible 460: Honoring Dr. Michael S. Heiser Part 2",
+      "datePublished": 1680395809,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3649/naked-bible-460-honoring-dr-michael-s-heiser-part-2.mp3",
+      "duration": 4991
+    },
+    {
+      "uuid": "997c7463-b50e-427e-9d6e-5d5dbdb0f97b",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3530",
+      "name": "Naked Bible 459: Honoring Dr. Michael S. Heiser",
+      "datePublished": 1677949982,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3530/naked-bible-459-honoring-dr-michael-s-heiser.mp3",
+      "duration": 6441
+    },
+    {
+      "uuid": "347a4d45-9749-4143-a5cb-36e92fdb70ab",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3469",
+      "name": "Naked Bible 458: 1 Samuel 13-14",
+      "datePublished": 1673137850,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3469/naked-bible-458-1-samuel-13-14.mp3",
+      "duration": 3866
+    },
+    {
+      "uuid": "d10028dd-5a8e-4fab-9132-2f3f78e0dffa",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3460",
+      "name": "Naked Bible 457: 1 Samuel 12",
+      "datePublished": 1672511810,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3460/naked-bible-457-1-samuel-12.mp3",
+      "duration": 2075
+    },
+    {
+      "uuid": "17abf180-af34-455b-b565-e0567f723a40",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3455",
+      "name": "Naked Bible 456: 1 Samuel 11",
+      "datePublished": 1671911689,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3455/naked-bible-456-1-samuel-11.mp3",
+      "duration": 2921
+    },
+    {
+      "uuid": "51018abb-a02a-4748-8e23-d9b9cce2de74",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3453",
+      "name": "Naked Bible 455: 1 Samuel 8-10 Part 2",
+      "datePublished": 1671288669,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3453/naked-bible-455-1-samuel-8-10-part-2.mp3",
+      "duration": 3122
+    },
+    {
+      "uuid": "cafbae03-4ccb-42a4-9695-31af0d0a3b61",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3450",
+      "name": "Naked Bible 454: 1 Samuel 8-10 Part 1",
+      "datePublished": 1670673600,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3450/naked-bible-454-1-samuel-8-10-part-1.mp3",
+      "duration": 2117
+    },
+    {
+      "uuid": "01f24b7c-8cf4-4704-8cec-4417bb2af28c",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3443",
+      "name": "Naked Bible 453: 1 Samuel 7",
+      "datePublished": 1670194972,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3443/naked-bible-453-1-samuel-7.mp3",
+      "duration": 3088
+    },
+    {
+      "uuid": "60fbaf63-a491-45b3-87ce-58d6c65e7917",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3437",
+      "name": "Naked Bible 452: Counterfeit Kingdom",
+      "datePublished": 1669511108,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3437/naked-bible-452-counterfeit-kingdom.mp3",
+      "duration": 5079
+    },
+    {
+      "uuid": "0485c812-546b-4bc0-b83f-a67c6af337da",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3435",
+      "name": "Naked Bible 451: 1 Samuel 5-6",
+      "datePublished": 1668898318,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3435/naked-bible-451-1-samuel-5-6.mp3",
+      "duration": 2326
+    },
+    {
+      "uuid": "9d8b3586-ea4f-491d-99b8-6eff51d20f6e",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3429",
+      "name": "Naked Bible 450: 1 Samuel 4",
+      "datePublished": 1667693540,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3429/naked-bible-450-1-samuel-4.mp3",
+      "duration": 2187
+    },
+    {
+      "uuid": "ca5cfef4-d1f5-45e5-8a66-7111e06d6fe0",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3424",
+      "name": "Naked Bible 449: 1 Samuel 3",
+      "datePublished": 1667094581,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3424/naked-bible-449-1-samuel-3.mp3",
+      "duration": 1826
+    },
+    {
+      "uuid": "b8fb14c5-0d88-486f-add5-b3cc25ee2f03",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3416",
+      "name": "Naked Bible 448: 1 Samuel 2:12-36",
+      "datePublished": 1666436400,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3416/naked-bible-448-1-samuel-212-36.mp3",
+      "duration": 2217
+    },
+    {
+      "uuid": "d524490a-4dbf-4b6d-a972-51e75025d170",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3415",
+      "name": "Naked Bible 447: 1 Samuel 1:1-2:11",
+      "datePublished": 1665935090,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3415/naked-bible-447-1-samuel-11-211.mp3",
+      "duration": 2437
+    },
+    {
+      "uuid": "15302c03-b8d9-40d1-ac91-dca4ee32da7a",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3408",
+      "name": "Naked Bible 446: 1 Samuel Introduction",
+      "datePublished": 1665226800,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3408/naked-bible-446-1-samuel-introduction.mp3",
+      "duration": 2059
+    },
+    {
+      "uuid": "be4cdf2b-fe32-4e95-bd1f-ed5369c9da57",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3390",
+      "name": "Naked Bible 445: Q&A 57",
+      "datePublished": 1664622000,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3390/naked-bible-445-qa-57.mp3",
+      "duration": 1865
+    },
+    {
+      "uuid": "74de8712-264b-441f-9a40-a877a711cc21",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3389",
+      "name": "Naked Bible 444: Q&A 56",
+      "datePublished": 1664123012,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3389/naked-bible-444-qa-56.mp3",
+      "duration": 2776
+    },
+    {
+      "uuid": "9855b634-1184-415a-b824-038d0529ce63",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3388",
+      "name": "Naked Bible 443: Jude Q&A Part 2",
+      "datePublished": 1663412400,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3388/naked-bible-443-jude-qa-part-2.mp3",
+      "duration": 2348
+    },
+    {
+      "uuid": "0c395f5b-389d-4bd1-bb3f-e82c33609867",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3385",
+      "name": "Naked Bible 442: Jude Q&A Part 1",
+      "datePublished": 1662922800,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3385/naked-bible-442-jude-qa-part-1.mp3",
+      "duration": 2609
+    },
+    {
+      "uuid": "cbda61a7-24fe-4fac-b459-e4142a37d34e",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3384",
+      "name": "Naked Bible 441: The Afterlife Part 2",
+      "datePublished": 1662238624,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3384/naked-bible-441-the-afterlife-part-2.mp3",
+      "duration": 3139
+    },
+    {
+      "uuid": "49f7f3ee-3623-4bab-aeb6-b71875d2a283",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3383",
+      "name": "Naked Bible 440: The Afterlife Part 1",
+      "datePublished": 1661734020,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3383/naked-bible-440-the-afterlife-part-1.mp3",
+      "duration": 3332
+    },
+    {
+      "uuid": "81255623-fab4-4ccc-94ba-7ea62d68814d",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3377",
+      "name": "Naked Bible 439: The Epistle of Jude Part 8",
+      "datePublished": 1661112410,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3377/naked-bible-439-the-epistle-of-jude-part-8.mp3",
+      "duration": 3068
+    },
+    {
+      "uuid": "e5770038-ed17-499b-8a82-96e43213ee30",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3373",
+      "name": "Naked Bible 438: The Epistle of Jude Part 7",
+      "datePublished": 1660505856,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3373/naked-bible-438-the-epistle-of-jude-part-7.mp3",
+      "duration": 2309
+    },
+    {
+      "uuid": "acc0f300-def0-4651-9c1f-e3cc0e1fc919",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3371",
+      "name": "Naked Bible 437: The Epistle of Jude Part 6",
+      "datePublished": 1659819833,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3371/naked-bible-437-the-epistle-of-jude-part-6.mp3",
+      "duration": 2434
+    },
+    {
+      "uuid": "dd7f5704-dd4a-43ea-80ef-8f8ca8cb88f7",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3366",
+      "name": "Naked Bible 436: The Epistle of Jude Part 5",
+      "datePublished": 1659228467,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3366/naked-bible-436-the-epistle-of-jude-part-5.mp3",
+      "duration": 2070
+    },
+    {
+      "uuid": "951bcd80-3b8d-4c8b-98f3-366fae0c4e16",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3360",
+      "name": "Naked Bible 435: The Epistle of Jude Part 4",
+      "datePublished": 1658706819,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3360/naked-bible-435-the-epistle-of-jude-part-4.mp3",
+      "duration": 2404
+    },
+    {
+      "uuid": "11d17022-1fc1-4f56-a927-da49692739f3",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3350",
+      "name": "Naked Bible 434: The Epistle of Jude Part 3",
+      "datePublished": 1658091561,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3350/naked-bible-434-the-epistle-of-jude-part-3.mp3",
+      "duration": 3762
+    },
+    {
+      "uuid": "17aae55d-ada8-45c4-a9a6-7fc54f4f5b83",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3349",
+      "name": "Naked Bible 433: The Epistle of Jude Part 2",
+      "datePublished": 1657430890,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3349/naked-bible-433-the-epistle-of-jude-part-2.mp3",
+      "duration": 3128
+    },
+    {
+      "uuid": "20146958-1e13-4d4c-a1a6-f363eeaee0e2",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3344",
+      "name": "Naked Bible 432: The Epistle of Jude Part 1",
+      "datePublished": 1656793411,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3344/naked-bible-432-the-epistle-of-jude-part-1.mp3",
+      "duration": 3993
+    },
+    {
+      "uuid": "a5d949fa-ff83-4550-8e64-0ceffeb1ba52",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3337",
+      "name": "Naked Bible 431: Q&A 55",
+      "datePublished": 1656175863,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3337/naked-bible-431-qa-55.mp3",
+      "duration": 1764
+    },
+    {
+      "uuid": "37581495-205a-4500-b878-d1c5da6429c8",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3333",
+      "name": "Naked Bible 430: John Walton on Demons and Spirits",
+      "datePublished": 1655553600,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3333/naked-bible-430-john-walton-on-demons-and-spirits.mp3",
+      "duration": 6220
+    },
+    {
+      "uuid": "1827ef91-d22b-4ce5-ac74-c15c61d0305b",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3331",
+      "name": "Naked Bible 429: Hollywood Heroes",
+      "datePublished": 1654982650,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3331/naked-bible-429-hollywood-heroes.mp3",
+      "duration": 3915
+    },
+    {
+      "uuid": "da6d82c9-000b-437c-9fdb-1ecac017d038",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3315",
+      "name": "Naked Bible 428: Q&A 54",
+      "datePublished": 1654360986,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3315/naked-bible-428-qa-54.mp3",
+      "duration": 1350
+    },
+    {
+      "uuid": "619d33c5-bcda-47f4-bd26-33449e92a2ef",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3314",
+      "name": "Naked Bible 427: Q&A 53",
+      "datePublished": 1653774445,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3314/naked-bible-427-qa-53.mp3",
+      "duration": 1717
+    },
+    {
+      "uuid": "b534bdcf-934a-4680-b194-2c065b0ee60a",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3311",
+      "name": "Naked Bible 426: Q&A 52",
+      "datePublished": 1653130800,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3311/naked-bible-426-qa-52.mp3",
+      "duration": 1295
+    },
+    {
+      "uuid": "6b87abf7-3b5d-4cf1-a541-026acf0aba63",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3310",
+      "name": "Naked Bible 425: Q&A 51",
+      "datePublished": 1652522400,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3310/naked-bible-425-qa-51.mp3",
+      "duration": 1680
+    },
+    {
+      "uuid": "3690862c-2f87-4255-94c1-ee37b088db87",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3302",
+      "name": "Naked Bible 424: Q&A 50",
+      "datePublished": 1651921200,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3302/naked-bible-424-qa-50.mp3",
+      "duration": 1632
+    },
+    {
+      "uuid": "b56f17f7-4f43-448d-b51f-152136c5926e",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3297",
+      "name": "Naked Bible 423: The Queen of Heaven",
+      "datePublished": 1651316400,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3297/naked-bible-423-the-queen-of-heaven.mp3",
+      "duration": 3182
+    },
+    {
+      "uuid": "1ad1e225-5bbc-44b5-a4c4-867c46ec0024",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3283",
+      "name": "Naked Bible 422: Paul’s Use of the Old Testament Series: Romans 12-16",
+      "datePublished": 1650748771,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3283/naked-bible-422-pauls-use-of-the-old-testament-series-romans-12-16.mp3",
+      "duration": 3791
+    },
+    {
+      "uuid": "9f99917c-1b0a-45b0-9f28-f53e383e7a1d",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3277",
+      "name": "Naked Bible 421: Paul’s Use of the Old Testament Series: Romans 9-11",
+      "datePublished": 1650106800,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3277/naked-bible-421-pauls-use-of-the-old-testament-series-romans-9-11.mp3",
+      "duration": 3080
+    },
+    {
+      "uuid": "d3b29183-f64a-4c9e-8753-d398003c1c9e",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3276",
+      "name": "Naked Bible 420: Paul’s Use of the Old Testament Series: Romans 4",
+      "datePublished": 1649540122,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3276/naked-bible-420-pauls-use-of-the-old-testament-series-romans-4.mp3",
+      "duration": 2512
+    },
+    {
+      "uuid": "864370db-7182-4aae-bc0d-4ab961abe247",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3274",
+      "name": "Naked Bible 419: Paul’s Use of the Old Testament Series: Romans 1-3",
+      "datePublished": 1649033283,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3274/naked-bible-419-pauls-use-of-the-old-testament-series-romans-1-3.mp3",
+      "duration": 4136
+    },
+    {
+      "uuid": "0bd35755-a1fb-4488-bc3f-b71d6b2a2ca9",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3263",
+      "name": "Naked Bible 418: Paul’s Use of the Old Testament Series: Malachi and Romans",
+      "datePublished": 1648344388,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3263/naked-bible-418-pauls-use-of-the-old-testament-series-malachi-and-romans.mp3",
+      "duration": 4372
+    },
+    {
+      "uuid": "1ea7a319-3fb4-4e09-8e42-e10655fe4603",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3253",
+      "name": "Naked Bible 417: Paul’s Use of the Old Testament Series: The Messiahs in Daniel 9",
+      "datePublished": 1647684000,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3253/naked-bible-417-pauls-use-of-the-old-testament-series-the-messiahs-in-daniel-9.mp3",
+      "duration": 3434
+    },
+    {
+      "uuid": "5bb5fb43-88af-4899-8080-604f5e4afe47",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3252",
+      "name": "Naked Bible 416: Paul’s Use of the Old Testament Series: The Son of Man in Daniel 7",
+      "datePublished": 1647141167,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3252/naked-bible-416-pauls-use-of-the-old-testament-series-the-son-of-man-in-daniel-7.mp3",
+      "duration": 3488
+    },
+    {
+      "uuid": "a625bfa0-7661-4ed5-85f9-2acd6b4539c2",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3250",
+      "name": "Naked Bible 415: Paul’s Use of the Old Testament Series: The Messianic Story Part 3",
+      "datePublished": 1646608681,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3250/naked-bible-415-pauls-use-of-the-old-testament-series-the-messianic-story-part-3.mp3",
+      "duration": 3808
+    },
+    {
+      "uuid": "3b7e48e1-8964-4067-808e-cd4d4c665ae3",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3249",
+      "name": "Naked Bible 414: Paul’s Use of the Old Testament Series: The Messianic Story Part 2",
+      "datePublished": 1646025408,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3249/naked-bible-414-pauls-use-of-the-old-testament-series-the-messianic-story-part-2.mp3",
+      "duration": 4663
+    },
+    {
+      "uuid": "94a0119d-52ac-4572-bc5d-298f3ae5761a",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3248",
+      "name": "Naked Bible 413: Paul’s Use of the Old Testament Series: The Messianic Story Part 1",
+      "datePublished": 1645409336,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3248/naked-bible-413-pauls-use-of-the-old-testament-series-the-messianic-story-part-1.mp3",
+      "duration": 4737
+    },
+    {
+      "uuid": "2c1a929b-eca5-49a7-845c-dbeb84d7c8cb",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3233",
+      "name": "Naked Bible 412: Paul’s Use of the Old Testament Series: “Messiah”",
+      "datePublished": 1644739080,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3233/naked-bible-412-pauls-use-of-the-old-testament-series-messiah.mp3",
+      "duration": 3126
+    },
+    {
+      "uuid": "aee8533b-8f02-4705-b409-006e5a1494a0",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3232",
+      "name": "Naked Bible 411: Paul’s Use of the Old Testament Series: Introduction",
+      "datePublished": 1644206896,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3232/naked-bible-411-pauls-use-of-the-old-testament-series-introduction.mp3",
+      "duration": 3254
+    },
+    {
+      "uuid": "68ea4bf5-5a5a-4172-b11b-a31e02d1af01",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3231",
+      "name": "Naked Bible 410: Q&A 49",
+      "datePublished": 1643618141,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3231/naked-bible-410-qa-49.mp3",
+      "duration": 1689
+    },
+    {
+      "uuid": "043cc7b7-719e-4a59-8c83-b772d7cf295b",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3229",
+      "name": "Naked Bible 409: Q&A 48",
+      "datePublished": 1642852800,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3229/naked-bible-409-qa-48.mp3",
+      "duration": 1603
+    },
+    {
+      "uuid": "8d9b8ccd-b2cc-4e12-a95c-3f6266f367d3",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3202",
+      "name": "Naked Bible 408: Jesus and the Old Testament",
+      "datePublished": 1642379761,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3202/naked-bible-408-jesus-and-the-old-testament.mp3",
+      "duration": 3693
+    },
+    {
+      "uuid": "3119cb71-1285-465a-a91c-886ec221a918",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3200",
+      "name": "Naked Bible 407: Exodus Old and New",
+      "datePublished": 1641795656,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3200/naked-bible-407-exodus-old-and-new.mp3",
+      "duration": 4002
+    },
+    {
+      "uuid": "c90fa239-d39e-4b02-af4b-a7c2333b4b4e",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3212",
+      "name": "Naked Bible 406: Year Ahead",
+      "datePublished": 1641171283,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3212/naked-bible-406-year-ahead.mp3",
+      "duration": 2744
+    },
+    {
+      "uuid": "2b0c639a-b68f-4b0c-ad65-7eb07d3dc620",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3188",
+      "name": "Naked Bible 405: Revelation Q&A Part 6",
+      "datePublished": 1640426400,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3188/naked-bible-405-revelation-qa-part-6.mp3",
+      "duration": 2964
+    },
+    {
+      "uuid": "600d8113-7662-439a-b75b-fbdd63168169",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3187",
+      "name": "Naked Bible 404: Revelation Q&A Part 5",
+      "datePublished": 1639884483,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3187/naked-bible-404-revelation-qa-part-5.mp3",
+      "duration": 3108
+    },
+    {
+      "uuid": "2ece8a08-0c7e-4426-878b-0a6058ffcb70",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3186",
+      "name": "Naked Bible 403: Revelation Q&A Part 4",
+      "datePublished": 1639227600,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3186/naked-bible-403-revelation-qa-part-4.mp3",
+      "duration": 3104
+    },
+    {
+      "uuid": "f1120ede-6b08-43b7-85bc-8520666470c0",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3185",
+      "name": "Naked Bible 402: Revelation Q&A Part 3",
+      "datePublished": 1638653574,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3185/naked-bible-402-revelation-qa-part-3.mp3",
+      "duration": 3518
+    },
+    {
+      "uuid": "0cc471a2-d891-401f-80b5-9c6b87f3718c",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3177",
+      "name": "Naked Bible 401: Revelation Q&A Part 2",
+      "datePublished": 1638018000,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3177/naked-bible-401-revelation-qa-part-2.mp3",
+      "duration": 4099
+    },
+    {
+      "uuid": "96f6d553-05ae-476d-8390-b322e9f02607",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3176",
+      "name": "Naked Bible 400: Revelation Q&A Part 1",
+      "datePublished": 1637413200,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3176/naked-bible-400-revelation-qa-part-1.mp3",
+      "duration": 3972
+    },
+    {
+      "uuid": "90d5c4c2-ae82-46d2-913a-737885d2d93c",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3166",
+      "name": "Naked Bible 399: Miracles Today",
+      "datePublished": 1636808400,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3166/naked-bible-399-miracles-today.mp3",
+      "duration": 3948
+    },
+    {
+      "uuid": "3a58f7c0-499e-4a41-98f5-d1d269df353b",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3165",
+      "name": "Naked Bible 398: Beginner Guides to New Testament Studies",
+      "datePublished": 1636189200,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3165/naked-bible-398-beginner-guides-to-new-testament-studies.mp3",
+      "duration": 4059
+    },
+    {
+      "uuid": "01e9c60c-25ea-4836-a464-46101731448b",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3160",
+      "name": "Naked Bible 397: Revelation 21-22 Part 2",
+      "datePublished": 1635584400,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3160/naked-bible-397-revelation-21-22-part-2.mp3",
+      "duration": 4909
+    },
+    {
+      "uuid": "a6e52c79-a2d3-4632-b6ce-4f00077fbbac",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3158",
+      "name": "Naked Bible 396: Revelation 21-22 Part 1",
+      "datePublished": 1635034274,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3158/naked-bible-396-revelation-21-22-part-1.mp3",
+      "duration": 5009
+    },
+    {
+      "uuid": "bcd9bf5d-52db-47d9-bf2d-e46bbda38fcd",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3148",
+      "name": "Naked Bible 395: The New Perspective on Paul",
+      "datePublished": 1633899963,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3148/naked-bible-395-the-new-perspective-on-paul.mp3",
+      "duration": 3250
+    },
+    {
+      "uuid": "74770508-9baa-4cd6-9bed-5c262015c261",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3147",
+      "name": "Naked Bible 394: Saved by Grace or Judged According to Works?",
+      "datePublished": 1633281679,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3147/naked-bible-394-saved-by-grace-or-judged-according-to-works.mp3",
+      "duration": 3849
+    },
+    {
+      "uuid": "6914a972-a2d9-40e7-af46-83c941716b4f",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3140",
+      "name": "Naked Bible 393: Revelation 20",
+      "datePublished": 1632551124,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3140/naked-bible-393-revelation-20.mp3",
+      "duration": 3730
+    },
+    {
+      "uuid": "57b6a81b-b5b1-4e18-ae9d-0068ad5f5ae4",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3139",
+      "name": "Naked Bible 392: Revelation 19 Part 2",
+      "datePublished": 1632014121,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3139/naked-bible-392-revelation-19-part-2.mp3",
+      "duration": 4844
+    },
+    {
+      "uuid": "effc7e37-ff68-42ca-a431-f3dd53b04d5b",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3132",
+      "name": "Naked Bible 391: Revelation 19 Part 1",
+      "datePublished": 1630783323,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3132/naked-bible-391-revelation-19-part-1.mp3",
+      "duration": 3238
+    },
+    {
+      "uuid": "ec7e863f-7a86-4ecf-a015-2247697e287f",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3125",
+      "name": "Naked Bible 390: Revelation 17-18",
+      "datePublished": 1630045137,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3125/naked-bible-390-revelation-17-18.mp3",
+      "duration": 3937
+    },
+    {
+      "uuid": "86d5d66d-2403-48bf-a32c-65ff12d523d1",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3121",
+      "name": "Naked Bible 389: Revelation 15-16",
+      "datePublished": 1629009886,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3121/naked-bible-389-revelation-15-16.mp3",
+      "duration": 3669
+    },
+    {
+      "uuid": "e7fc7284-5b7d-4932-a4b2-0a56ba2d5650",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3057",
+      "name": "Naked Bible 388: Evangelical Theology",
+      "datePublished": 1628326802,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3057/naked-bible-388-evangelical-theology.mp3",
+      "duration": 3902
+    },
+    {
+      "uuid": "94f1ddd4-7fe1-4207-98e2-474b4e51d0d1",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3099",
+      "name": "Naked Bible 387: Q&A 47",
+      "datePublished": 1627713834,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3099/naked-bible-387-qa-47.mp3",
+      "duration": 1839
+    },
+    {
+      "uuid": "500ea764-f07e-4d4a-acf5-44c8fc146f6a",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3098",
+      "name": "Naked Bible 386: Messiah Son of Joseph",
+      "datePublished": 1627195894,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3098/naked-bible-386-messiah-son-of-joseph.mp3",
+      "duration": 3593
+    },
+    {
+      "uuid": "adde718b-622e-4742-a73c-e55c994953c6",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3097",
+      "name": "Naked Bible 385: The Psalms and Eschatology",
+      "datePublished": 1626512435,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3097/naked-bible-385-the-psalms-and-eschatology.mp3",
+      "duration": 2915
+    },
+    {
+      "uuid": "b1c4a709-2430-420c-9427-d7f3c84852fd",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3091",
+      "name": "Naked Bible 384: Revelation 14",
+      "datePublished": 1625907601,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3091/naked-bible-384-revelation-14.mp3",
+      "duration": 3713
+    },
+    {
+      "uuid": "931365ef-8f48-464a-a3ae-35c34de99057",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3090",
+      "name": "Naked Bible 383: Revelation 13",
+      "datePublished": 1625445990,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3090/naked-bible-383-revelation-13.mp3",
+      "duration": 4444
+    },
+    {
+      "uuid": "4edd274e-0a1e-4e98-887b-2c3e61a88c3e",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3086",
+      "name": "Naked Bible 382: Revelation 12",
+      "datePublished": 1624698015,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3086/naked-bible-382-revelation-12.mp3",
+      "duration": 3695
+    },
+    {
+      "uuid": "129de09b-80b7-4f30-b231-13d0e620485b",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3077",
+      "name": "Naked Bible 381: Revelation 11",
+      "datePublished": 1624135818,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3077/naked-bible-381-revelation-11.mp3",
+      "duration": 4135
+    },
+    {
+      "uuid": "c771ebc6-bebb-4c79-a3c8-0cd3d20ee270",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3058",
+      "name": "Naked Bible 380: Q&A 46",
+      "datePublished": 1623618769,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3058/naked-bible-380-qa-46.mp3",
+      "duration": 3052
+    },
+    {
+      "uuid": "3452ed1e-8c87-4cf5-afe4-f1b39e306923",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3069",
+      "name": "Naked Bible 379: The Bedrock of Christianity",
+      "datePublished": 1622958148,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3069/naked-bible-379-the-bedrock-of-christianity.mp3",
+      "duration": 4144
+    },
+    {
+      "uuid": "df0e65c4-4b2e-4a0d-bfd6-f6adce47df78",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3061",
+      "name": "Naked Bible 378: Revelation 10",
+      "datePublished": 1622340243,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3061/naked-bible-378-revelation-10.mp3",
+      "duration": 3418
+    },
+    {
+      "uuid": "6f79d8be-f66a-40ad-9740-9b7899dcd617",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3056",
+      "name": "Naked Bible 377: Revelation 9",
+      "datePublished": 1621714251,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3056/naked-bible-377-revelation-9.mp3",
+      "duration": 4167
+    },
+    {
+      "uuid": "84049228-e8b9-4b8c-896a-08ee12ce206d",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3055",
+      "name": "Naked Bible 376: Revelation 8:7-13",
+      "datePublished": 1621208147,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3055/naked-bible-376-revelation-87-13.mp3",
+      "duration": 3304
+    },
+    {
+      "uuid": "2c364e4b-46a1-4271-824a-c7275b35d351",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3044",
+      "name": "Naked Bible 375: Revelation 8:1-6",
+      "datePublished": 1620538552,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3044/naked-bible-375-revelation-81-6.mp3",
+      "duration": 2840
+    },
+    {
+      "uuid": "26220c6c-f6b1-4c05-8e2c-b3b8e183fb06",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3041",
+      "name": "Naked Bible 374: Q&A 45",
+      "datePublished": 1619915219,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3041/naked-bible-374-qa-45.mp3",
+      "duration": 1795
+    },
+    {
+      "uuid": "e894511c-17cf-4a9b-ba9d-a5dff9ea3b4d",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3040",
+      "name": "Naked Bible 373: Revelation 7 Part 2",
+      "datePublished": 1619309321,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3040/naked-bible-373-revelation-7-part-2.mp3",
+      "duration": 3888
+    },
+    {
+      "uuid": "ec008af5-0fdc-4179-9e01-aa237391ce74",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3024",
+      "name": "Naked Bible 372: Revelation 7 Part 1",
+      "datePublished": 1618751238,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3024/naked-bible-372-revelation-7-part-1.mp3",
+      "duration": 4054
+    },
+    {
+      "uuid": "54265a2b-27de-440f-ba62-cf1d55644889",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3032",
+      "name": "Naked Bible 371: Reading Moses, Seeing Jesus",
+      "datePublished": 1618080909,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3032/naked-bible-371-reading-moses-seeing-jesus.mp3",
+      "duration": 4001
+    },
+    {
+      "uuid": "0cf486fd-96d0-476e-9950-6b124557075a",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3019",
+      "name": "Naked Bible 370: Revelation 6",
+      "datePublished": 1617494518,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3019/naked-bible-370-revelation-6.mp3",
+      "duration": 3576
+    },
+    {
+      "uuid": "5c4efe87-21de-4e6a-8bee-ffb399696373",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3016",
+      "name": "Naked Bible 369: Revelation 5",
+      "datePublished": 1616979927,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3016/naked-bible-369-revelation-5.mp3",
+      "duration": 4087
+    },
+    {
+      "uuid": "2902d61d-bd5a-433b-8cdf-ed7b965c52f8",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3012",
+      "name": "Naked Bible 368: Revelation 4 Part 3",
+      "datePublished": 1616273773,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3012/naked-bible-368-revelation-4-part-3.mp3",
+      "duration": 3559
+    },
+    {
+      "uuid": "bd217029-8bf2-4196-bebe-0b92e0b6ff3b",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3009",
+      "name": "Naked Bible 367: Revelation 4 Part 2",
+      "datePublished": 1615751794,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3009/naked-bible-367-revelation-4-part-2.mp3",
+      "duration": 3626
+    },
+    {
+      "uuid": "d54dead1-3531-4966-b6bf-7b05284c5336",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3003",
+      "name": "Naked Bible 366: Revelation 4 Part 1",
+      "datePublished": 1615100418,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3003/naked-bible-366-revelation-4-part-1.mp3",
+      "duration": 3221
+    },
+    {
+      "uuid": "76b1c305-6f6f-44d7-81cc-8d7617879333",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=3002",
+      "name": "Naked Bible 365: Q&A 44",
+      "datePublished": 1614420019,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/3002/naked-bible-365-qa-44.mp3",
+      "duration": 2772
+    },
+    {
+      "uuid": "ba55ca99-ea6c-445c-9551-05febdd1a5f7",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2999",
+      "name": "Naked Bible 364: EEM.org & DiscoveringMErcy.org",
+      "datePublished": 1613858906,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2999/naked-bible-364-eem-org-discoveringmercy-org.mp3",
+      "duration": 4471
+    },
+    {
+      "uuid": "0499204d-1966-49f9-bf6a-ef40ca244f32",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2990",
+      "name": "Naked Bible 363: Revelation 3 Part 2",
+      "datePublished": 1613335526,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2990/naked-bible-363-revelation-3-part-2.mp3",
+      "duration": 3760
+    },
+    {
+      "uuid": "79c49bf6-4d5b-438f-9ded-06bb5a441b33",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2983",
+      "name": "Naked Bible 362: Revelation 3 Part 1",
+      "datePublished": 1612655991,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2983/naked-bible-362-revelation-3-part-1.mp3",
+      "duration": 3867
+    },
+    {
+      "uuid": "1348eace-4de0-4790-869f-959744e9b452",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2979",
+      "name": "Naked Bible 361: Revelation 2:8-29",
+      "datePublished": 1612062080,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2979/naked-bible-361-revelation-28-29.mp3",
+      "duration": 3489
+    },
+    {
+      "uuid": "6f6f6d06-af31-422b-8aa2-994bbac55278",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2976",
+      "name": "Naked Bible 360: Revelation 2:1-7",
+      "datePublished": 1611531581,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2976/naked-bible-360-revelation-21-7.mp3",
+      "duration": 3863
+    },
+    {
+      "uuid": "48c56d52-e2e6-42a9-8c6c-6618113fe759",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2975",
+      "name": "Naked Bible 359: The Myth Made Fact",
+      "datePublished": 1610839618,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2975/naked-bible-359-the-myth-made-fact.mp3",
+      "duration": 5084
+    },
+    {
+      "uuid": "7b4e46d6-9ca6-4f38-bd2c-4270e7fdb785",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2957",
+      "name": "Naked Bible 358: Q&A 43",
+      "datePublished": 1610237549,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2957/naked-bible-358-qa-43.mp3",
+      "duration": 2156
+    },
+    {
+      "uuid": "8dbcadbe-ed6e-4477-b37a-0c4242b86817",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2956",
+      "name": "Naked Bible 357: The Genealogical Adam and Eve Part 2",
+      "datePublished": 1609625370,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2956/naked-bible-357-the-genealogical-adam-and-eve-part-2.mp3",
+      "duration": 5046
+    },
+    {
+      "uuid": "6accc14b-3d92-4864-b399-fdcb42be74c7",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2955",
+      "name": "Naked Bible 356: The Genealogical Adam and Eve Part 1",
+      "datePublished": 1609122143,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2955/naked-bible-356-the-genealogical-adam-and-eve-part-1.mp3",
+      "duration": 3483
+    },
+    {
+      "uuid": "c7c9f142-0670-4246-86f8-22628853246e",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2954",
+      "name": "Naked Bible 355: Revelation 1:7-20",
+      "datePublished": 1608521450,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2954/naked-bible-355-revelation-17-20.mp3",
+      "duration": 4328
+    },
+    {
+      "uuid": "4355ba51-29a9-4a35-8a70-8fbaa5ab243e",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2943",
+      "name": "Naked Bible 354: Revelation 1:4-6",
+      "datePublished": 1607829171,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2943/naked-bible-354-revelation-14-6.mp3",
+      "duration": 3831
+    },
+    {
+      "uuid": "7ae6530a-bc2b-4eda-9705-bfe0fb395b5f",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2938",
+      "name": "Naked Bible 353: Revelation 1:4",
+      "datePublished": 1607330115,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2938/naked-bible-353-revelation-14.mp3",
+      "duration": 2615
+    },
+    {
+      "uuid": "e79a6a71-18f1-49c9-88c1-62b46168f8f5",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2934",
+      "name": "Naked Bible 352: Introducing The Old Testament in the Book of Revelation",
+      "datePublished": 1606636762,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2934/naked-bible-352-introducing-the-old-testament-in-the-book-of-revelation.mp3",
+      "duration": 3908
+    },
+    {
+      "uuid": "0812e151-f495-4614-b1e2-0f4ce8c76386",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2917",
+      "name": "Naked Bible 351: The Good News of the Return of the King",
+      "datePublished": 1606028783,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2917/naked-bible-351-the-good-news-of-the-return-of-the-king.mp3",
+      "duration": 4595
+    },
+    {
+      "uuid": "ebd88c71-8c4f-4312-bbfe-25972ada35f6",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2906",
+      "name": "Naked Bible 350: Loving Loyalty and Believing Loyalty",
+      "datePublished": 1605497901,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2906/naked-bible-350-loving-loyalty-and-believing-loyalty.mp3",
+      "duration": 3103
+    },
+    {
+      "uuid": "cc192c47-86dd-44fc-ac23-f79391259bf7",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2905",
+      "name": "Naked Bible 349: Q&A 42",
+      "datePublished": 1604794882,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2905/naked-bible-349-qa-42.mp3",
+      "duration": 2705
+    },
+    {
+      "uuid": "421dcf6f-0875-41d8-99ef-0fa05cb785c9",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2899",
+      "name": "Naked Bible 348: A Relevance Theory Approach",
+      "datePublished": 1604182910,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2899/naked-bible-348-a-relevance-theory-approach.mp3",
+      "duration": 4497
+    },
+    {
+      "uuid": "6fe9009b-b0df-4ff4-b5d4-048c1cf5372d",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2894",
+      "name": "Naked Bible 347: Jonah and the Chaos Dragon",
+      "datePublished": 1603598869,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2894/naked-bible-347-jonah-and-the-chaos-dragon.mp3",
+      "duration": 4016
+    },
+    {
+      "uuid": "3b061caa-69de-4adc-9791-e2ec9886d411",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2890",
+      "name": "Naked Bible 346: The Old Testament and Luke 1",
+      "datePublished": 1603069605,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2890/naked-bible-346-the-old-testament-and-luke-1.mp3",
+      "duration": 4089
+    },
+    {
+      "uuid": "daf90ebb-7a2d-425a-b1d7-6197cb3a17d7",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2885",
+      "name": "Naked Bible 345: The Vine and the Branches",
+      "datePublished": 1602358305,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2885/naked-bible-345-the-vine-and-the-branches.mp3",
+      "duration": 3077
+    },
+    {
+      "uuid": "b28c9381-257d-4592-9a72-a990df32122a",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2879",
+      "name": "Naked Bible 344: Gentiles in the Psalms",
+      "datePublished": 1601792421,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2879/naked-bible-344-gentiles-in-the-psalms.mp3",
+      "duration": 3293
+    },
+    {
+      "uuid": "3f4b5422-7a81-481f-9932-bc6a92a9d10c",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2878",
+      "name": "Naked Bible 343: Q&A 41",
+      "datePublished": 1601145133,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2878/naked-bible-343-qa-41.mp3",
+      "duration": 2561
+    },
+    {
+      "uuid": "c6bfe83b-2cf3-427d-8d23-621cc9edb3d8",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2865",
+      "name": "Naked Bible 342: Ezekiel’s Dry Bones and the Gospel of John",
+      "datePublished": 1600558199,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2865/naked-bible-342-ezekiels-dry-bones-and-the-gospel-of-john.mp3",
+      "duration": 4045
+    },
+    {
+      "uuid": "0bcc51d5-4ff7-4d0e-91e2-94bab1dab717",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2859",
+      "name": "Naked Bible 341: The Book of Ezekiel in John 10",
+      "datePublished": 1599952557,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2859/naked-bible341-the-book-of-ezekiel-in-john-10.mp3",
+      "duration": 4030
+    },
+    {
+      "uuid": "51aa5a1a-a31f-4560-a3ba-1e324a9e4502",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2856",
+      "name": "Naked Bible 340: The Cloud of Witnesses in Hebrews 12",
+      "datePublished": 1599331684,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2856/naked-bible-340-the-cloud-of-witnesses-in-hebrews-12.mp3",
+      "duration": 3549
+    },
+    {
+      "uuid": "b3c9b663-a56e-4506-8f6a-f2d3e3b21609",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2853",
+      "name": "Naked Bible 339: Exodus in the Gospel of Matthew",
+      "datePublished": 1598691606,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2853/naked-bible-339-exodus-in-the-gospel-of-matthew.mp3",
+      "duration": 2625
+    },
+    {
+      "uuid": "ab51a258-f25b-4061-bee6-1ed38eda0391",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2850",
+      "name": "Naked Bible 338: Conversation Series Part 5",
+      "datePublished": 1598086851,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2850/naked-bible-338-conversation-series-part-5.mp3",
+      "duration": 3638
+    },
+    {
+      "uuid": "ebef352a-895c-4a32-80c2-fb2d41edd5e5",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2847",
+      "name": "Naked Bible 337: Q&A 40",
+      "datePublished": 1597541024,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2847/naked-bible-337-qa-40.mp3",
+      "duration": 2672
+    },
+    {
+      "uuid": "b5f35ffb-2374-43bf-89e4-a034b0ce18c3",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2836",
+      "name": "Naked Bible 336: Begotten by the Spirit",
+      "datePublished": 1597009583,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2836/naked-bible-336-begotten-by-the-spirit.mp3",
+      "duration": 3948
+    },
+    {
+      "uuid": "cf67a44c-51b9-4590-bfe4-e2a5b6c57fd2",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2833",
+      "name": "Naked Bible 335: Jesus as the Gardener",
+      "datePublished": 1596419679,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2833/naked-bible-335-jesus-as-the-gardener.mp3",
+      "duration": 3661
+    },
+    {
+      "uuid": "9c030501-e6ca-427f-b224-5b573048c9f2",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2826",
+      "name": "Naked Bible 334: Paradise Lost",
+      "datePublished": 1595723976,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2826/naked-bible-334-paradise-lost.mp3",
+      "duration": 5180
+    },
+    {
+      "uuid": "41686cb4-820f-4054-9d64-519af926e48e",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2813",
+      "name": "Naked Bible 333: The Israelite King and Jesus as King",
+      "datePublished": 1595205010,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2813/naked-bible-333-the-israelite-king-and-jesus-as-king.mp3",
+      "duration": 3747
+    },
+    {
+      "uuid": "d93cb6ef-139e-4bc7-b61e-99b83d49fc5b",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2812",
+      "name": "Naked Bible 332: Conversation Series Part 4",
+      "datePublished": 1594458009,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2812/naked-bible-332-conversation-series-part-4.mp3",
+      "duration": 3875
+    },
+    {
+      "uuid": "dff27feb-7794-4a94-8cc9-090f90e6c174",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2810",
+      "name": "Naked Bible 331: Q&A 39",
+      "datePublished": 1593902778,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2810/naked-bible-331-qa-39.mp3",
+      "duration": 2472
+    },
+    {
+      "uuid": "c2e38a32-1dd4-4abb-967d-e77b4befece7",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2795",
+      "name": "Naked Bible 330: The Exodus and John 3:5",
+      "datePublished": 1593321554,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2795/naked-bible-330-the-exodus-and-john-35.mp3",
+      "duration": 4026
+    },
+    {
+      "uuid": "3d67a71c-7ba4-46bf-8885-b0cf62bb58dc",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2792",
+      "name": "Naked Bible 329: Binding and Loosing",
+      "datePublished": 1592780532,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2792/naked-bible-329-binding-and-loosing.mp3",
+      "duration": 3862
+    },
+    {
+      "uuid": "457b1e88-837e-4473-bfbf-9ad461bc63e2",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2788",
+      "name": "Naked Bible 328: Jesus and the Honeycomb",
+      "datePublished": 1592103941,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2788/naked-bible-328-jesus-and-the-honeycomb.mp3",
+      "duration": 4430
+    },
+    {
+      "uuid": "eb61c138-5288-4177-9e18-5b22f5e9a48a",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2783",
+      "name": "Naked Bible 327: The Old Testament Afterlife and the Psalms of Korah",
+      "datePublished": 1591482319,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2783/naked-bible-327-the-old-testament-afterlife-and-the-psalms-of-korah.mp3",
+      "duration": 3227
+    },
+    {
+      "uuid": "277c59f3-3e16-4437-b193-15b6b14bd0ae",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2772",
+      "name": "Naked Bible 326: Conversation Series Part 3",
+      "datePublished": 1591043293,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2772/naked-bible-326-conversation-series-part-3.mp3",
+      "duration": 3481
+    },
+    {
+      "uuid": "70cb7966-b686-405a-9159-1379f3b714d2",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2771",
+      "name": "Naked Bible 325: Q&A 38",
+      "datePublished": 1590294239,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2771/naked-bible-325-qa-38.mp3",
+      "duration": 2685
+    },
+    {
+      "uuid": "5c2bec72-b60a-4bf8-8272-ade44200ba79",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2770",
+      "name": "Naked Bible 324: Psalm 91 and Demons",
+      "datePublished": 1589668041,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2770/naked-bible-324-psalm-91-and-demons.mp3",
+      "duration": 4828
+    },
+    {
+      "uuid": "5be04b10-621c-44cb-ab20-36a32e02adf6",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2766",
+      "name": "Naked Bible 323: Dr. Ben Witherington III",
+      "datePublished": 1589060824,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2766/naked-bible-323-dr-ben-witherington-iii.mp3",
+      "duration": 5095
+    },
+    {
+      "uuid": "867a3c9e-a621-4ab7-89c4-c3d99d29c176",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2757",
+      "name": "Naked Bible 322: Dr. Louis Markos",
+      "datePublished": 1588592712,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2757/naked-bible-322-dr-louis-markos.mp3",
+      "duration": 6079
+    },
+    {
+      "uuid": "f0414564-798b-40bb-b46d-e89333115b1f",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2751",
+      "name": "Naked Bible 321: Q&A 37",
+      "datePublished": 1587805251,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2751/naked-bible-321-qa-37.mp3",
+      "duration": 2998
+    },
+    {
+      "uuid": "5295a6e5-4b87-4259-b85a-22cb9ee65781",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2750",
+      "name": "Naked Bible 320: Conversation Series Part 2",
+      "datePublished": 1587280004,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2750/naked-bible-320-conversation-series-part-2.mp3",
+      "duration": 3122
+    },
+    {
+      "uuid": "ae6f6d64-6f72-4c75-aa3e-5b9d5557c218",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2733",
+      "name": "Naked Bible 319: Conversation Series Part 1",
+      "datePublished": 1586724368,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2733/naked-bible-319-conversation-series-part-1.mp3",
+      "duration": 3894
+    },
+    {
+      "uuid": "38c37043-5eb6-4441-b6ab-6a0c429ef0bf",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2732",
+      "name": "Naked Bible 318: Divorce and Remarriage in the New Testament",
+      "datePublished": 1585981683,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2732/naked-bible-318-divorce-and-remarriage-in-the-new-testament.mp3",
+      "duration": 3270
+    },
+    {
+      "uuid": "d2b1070d-4963-4c7e-8bb3-fdb49498e53e",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2747",
+      "name": "Naked Bible 317: Humanitarian Disaster Institute",
+      "datePublished": 1585438151,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2747/naked-bible-317-humanitarian-disaster-institute.mp3",
+      "duration": 3112
+    },
+    {
+      "uuid": "7e2cba10-2862-46c0-b4d7-f6b95d9bba82",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2731",
+      "name": "Naked Bible 316: Divorce and Remarriage in the Old Testament",
+      "datePublished": 1584853619,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2731/naked-bible-316-divorce-and-remarriage-in-the-old-testament.mp3",
+      "duration": 3717
+    },
+    {
+      "uuid": "c83006cb-7289-4755-b616-7aa0749a3ec5",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2729",
+      "name": "Naked Bible 315: Exodus Q&A Part 4",
+      "datePublished": 1584235869,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2729/naked-bible-315-exodus-qa-part-4.mp3",
+      "duration": 2954
+    },
+    {
+      "uuid": "feacd287-5588-4fd8-8136-9f19f978e2b5",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2725",
+      "name": "Naked Bible 314: Exodus Q&A Part 3",
+      "datePublished": 1583732815,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2725/naked-bible-314-exodus-qa-part-3.mp3",
+      "duration": 3138
+    },
+    {
+      "uuid": "f87af4e9-8eec-4c98-9142-5897675f3b9b",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2715",
+      "name": "Naked Bible 313: Exodus Q&A Part 2",
+      "datePublished": 1583037666,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2715/naked-bible-313-exodus-qa-part-2.mp3",
+      "duration": 3349
+    },
+    {
+      "uuid": "ed96a8c9-3709-4653-8295-8ae35a244964",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2710",
+      "name": "Naked Bible 312: Exodus Q&A Part 1",
+      "datePublished": 1582532365,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2710/naked-bible-312-exodus-qa-part-1.mp3",
+      "duration": 3299
+    },
+    {
+      "uuid": "d9b588e5-0a89-4c15-86bc-279028a90c46",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2698",
+      "name": "Naked Bible 311: Exodus 35-40",
+      "datePublished": 1581913117,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2698/naked-bible-311-exodus-35-40.mp3",
+      "duration": 3096
+    },
+    {
+      "uuid": "3e5ae057-5ddf-424d-bc80-419fb50e23b8",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2693",
+      "name": "Naked Bible 310: Exodus 33-34",
+      "datePublished": 1581300781,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2693/naked-bible-310-exodus-33-34.mp3",
+      "duration": 4477
+    },
+    {
+      "uuid": "82ed0bc8-9442-44f6-ac52-a8194540ba26",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2688",
+      "name": "Naked Bible 309: Exodus 32-33",
+      "datePublished": 1580609490,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2688/naked-bible-309-exodus-32-33.mp3",
+      "duration": 3990
+    },
+    {
+      "uuid": "4411c110-54c1-42cd-a420-6e35a7d9fe8c",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2686",
+      "name": "Naked Bible 308: Exodus 32",
+      "datePublished": 1580096912,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2686/naked-bible-308-exodus-32.mp3",
+      "duration": 4319
+    },
+    {
+      "uuid": "628dede8-fd91-4eb8-8ca3-ce93fc81389a",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2666",
+      "name": "Naked Bible 307: Exodus 30-31",
+      "datePublished": 1579402788,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2666/naked-bible-307-exodus-30-31.mp3",
+      "duration": 3568
+    },
+    {
+      "uuid": "f13cd3f1-37ed-4d5f-92b1-7ed94d3928c2",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2667",
+      "name": "Naked Bible 306: Exodus 28-29",
+      "datePublished": 1578911151,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2667/naked-bible-306-exodus-28-29.mp3",
+      "duration": 4137
+    },
+    {
+      "uuid": "5f622fd9-904f-488b-8ae1-7aa1d8c46cdd",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2653",
+      "name": "Naked Bible 305: EEM.org",
+      "datePublished": 1578132025,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2653/naked-bible-305-eem-org.mp3",
+      "duration": 3281
+    },
+    {
+      "uuid": "a1e2b65d-ecce-4f57-a58d-78f49cc758eb",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2652",
+      "name": "Naked Bible 304: Exodus 26-27 Part 2",
+      "datePublished": 1577670833,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2652/naked-bible-304-exodus-26-27-part-2.mp3",
+      "duration": 3686
+    },
+    {
+      "uuid": "050af23a-fdc5-4ca1-9be9-7abb046a7e76",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2651",
+      "name": "Naked Bible 303: Exodus 26-27 Part 1",
+      "datePublished": 1577049973,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2651/naked-bible-303-exodus-26-27-part-1.mp3",
+      "duration": 3399
+    },
+    {
+      "uuid": "06742d63-6b36-4998-ae93-63295216ca2f",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2650",
+      "name": "Naked Bible 302: Bearing God’s Name",
+      "datePublished": 1576447968,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2650/naked-bible-302-bearing-gods-name.mp3",
+      "duration": 4457
+    },
+    {
+      "uuid": "78884394-a05c-446b-9c26-e875e0323e5d",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2649",
+      "name": "Naked Bible 301: Q&A 36 Part 2",
+      "datePublished": 1575833612,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2649/naked-bible-301-qa-36-part-2.mp3",
+      "duration": 3937
+    },
+    {
+      "uuid": "61cea071-2f05-4877-a742-991f5d7a8b23",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2643",
+      "name": "Naked Bible 300: Q&A 36 Part 1",
+      "datePublished": 1575168327,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2643/naked-bible-300-qa-36-part-1.mp3",
+      "duration": 3923
+    },
+    {
+      "uuid": "b1635dc1-46e7-4fe7-9e55-cfa66c3384f9",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2641",
+      "name": "Naked Bible 299: ETS/SBL Conferences",
+      "datePublished": 1574493725,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2641/naked-bible-299-ets-sbl-conferences.mp3",
+      "duration": 1938
+    },
+    {
+      "uuid": "834848f1-be4d-4caf-82b0-0c0dfe07ef30",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2634",
+      "name": "Naked Bible 298: Exodus 25 Part 3",
+      "datePublished": 1574016909,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2634/naked-bible-298-exodus-25-part-3.mp3",
+      "duration": 4261
+    },
+    {
+      "uuid": "d40d1403-623a-41ce-bff0-fbfeaa267028",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2623",
+      "name": "Naked Bible 297: Exodus 25 Part 2",
+      "datePublished": 1573369697,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2623/naked-bible-297-exodus-25-part-2.mp3",
+      "duration": 3537
+    },
+    {
+      "uuid": "777f4122-1a4f-41a2-bcce-981d5952ad48",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2621",
+      "name": "Naked Bible 296: Exodus 25 Part 1",
+      "datePublished": 1572756180,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2621/naked-bible-296-exodus-25-part-1.mp3",
+      "duration": 2767
+    },
+    {
+      "uuid": "aa01a83a-1251-4bbf-8329-393be855b629",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2618",
+      "name": "Naked Bible 295: Exodus 24 Part 2",
+      "datePublished": 1572155357,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2618/naked-bible-295-exodus-24-part-2.mp3",
+      "duration": 3121
+    },
+    {
+      "uuid": "97c0a377-7af2-4186-877b-a4af58c7af14",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2617",
+      "name": "Naked Bible 294: Exodus 24 Part 1",
+      "datePublished": 1571549914,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2617/naked-bible-294-exodus-24-part-1.mp3",
+      "duration": 2732
+    },
+    {
+      "uuid": "a9552fda-f834-4959-b24c-8ade0c58125b",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2600",
+      "name": "Naked Bible 293: Exodus 23:20-33",
+      "datePublished": 1570870841,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2600/naked-bible-293-exodus-2320-33.mp3",
+      "duration": 3937
+    },
+    {
+      "uuid": "8b740dc6-3689-4a87-b28f-531518ef7b79",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2601",
+      "name": "Naked Bible 292: Q&A 35",
+      "datePublished": 1570332088,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2601/naked-bible-292-qa-35.mp3",
+      "duration": 2742
+    },
+    {
+      "uuid": "4aa4d5e1-f275-4d1c-beb6-5356ae86dc0c",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2598",
+      "name": "Naked Bible 291: Exodus 21-23 Part 2",
+      "datePublished": 1569726461,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2598/naked-bible-291-exodus-21-23-part-2.mp3",
+      "duration": 4298
+    },
+    {
+      "uuid": "e0da0b3c-7cd4-461f-acec-524854ddd901",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2587",
+      "name": "Naked Bible 290: Exodus 21-23 Part 1",
+      "datePublished": 1569106436,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2587/naked-bible-290-exodus-21-23-part-1.mp3",
+      "duration": 4330
+    },
+    {
+      "uuid": "c3cd1b5c-a5a2-488e-96ae-68bc9bb8752a",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2582",
+      "name": "Naked Bible 289: Exodus 20 Part 3",
+      "datePublished": 1568474742,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2582/naked-bible-289-exodus-20-part-3.mp3",
+      "duration": 4791
+    },
+    {
+      "uuid": "d1ae846c-67e9-4f6e-9441-911e1475aede",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2586",
+      "name": "Naked Bible 288: Exodus 20 Part 2",
+      "datePublished": 1567921396,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2586/naked-bible-288-exodus-20-part-2.mp3",
+      "duration": 4743
+    },
+    {
+      "uuid": "0ddc6d5a-7c12-4ebc-a716-9c0384c03ded",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2571",
+      "name": "Naked Bible 287: Exodus 20 Part 1",
+      "datePublished": 1567275886,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2571/naked-bible-287-exodus-20-part-1.mp3",
+      "duration": 3260
+    },
+    {
+      "uuid": "86736887-a510-44ae-8d2a-1c6587a58522",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2563",
+      "name": "Naked Bible 286: Exodus 19",
+      "datePublished": 1566765005,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2563/naked-bible-286-exodus-19.mp3",
+      "duration": 3293
+    },
+    {
+      "uuid": "aeb3e6f4-7b30-43a4-a911-ffc9c00bca92",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2562",
+      "name": "Naked Bible 285: Evil and Satan",
+      "datePublished": 1566168012,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2562/naked-bible-285-evil-and-satan.mp3",
+      "duration": 4342
+    },
+    {
+      "uuid": "30f0b92f-5f6b-44d0-83f2-abf61779e754",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2548",
+      "name": "Naked Bible 284: Exodus 18",
+      "datePublished": 1565485782,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2548/naked-bible-284-exodus-18.mp3",
+      "duration": 3825
+    },
+    {
+      "uuid": "9e8fc8ff-2c76-460a-ae5a-7f632d95bf5c",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2547",
+      "name": "Naked Bible 283: Exodus 17 Part 2",
+      "datePublished": 1564865382,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2547/naked-bible-283-exodus-17-part-2.mp3",
+      "duration": 4867
+    },
+    {
+      "uuid": "4ecd9a9b-64c7-41ad-8019-626af704c2b0",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2538",
+      "name": "Naked Bible 282: Exodus 17 Part 1",
+      "datePublished": 1564299678,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2538/naked-bible-282-exodus-17-part-1.mp3",
+      "duration": 3792
+    },
+    {
+      "uuid": "8e6f473b-a1a4-4bf2-869b-43b6f587c70f",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2537",
+      "name": "Naked Bible 281: Exodus 16",
+      "datePublished": 1563666422,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2537/naked-bible-281-exodus-16.mp3",
+      "duration": 4221
+    },
+    {
+      "uuid": "5d22da6b-a34a-49a0-8343-f3ff737d7f46",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2521",
+      "name": "Naked Bible 280: Exodus 15 Part 2",
+      "datePublished": 1563077700,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2521/naked-bible-280-exodus-15-part-2.mp3",
+      "duration": 4591
+    },
+    {
+      "uuid": "e5d5b1d5-5325-458c-b424-3d4168eb70e3",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2507",
+      "name": "Naked Bible 279: Stovall Weems",
+      "datePublished": 1562464156,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2507/naked-bible-279-stovall-weems.mp3",
+      "duration": 4453
+    },
+    {
+      "uuid": "eabac310-7431-4758-833b-9bb34a27b645",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2509",
+      "name": "Naked Bible 278: Exodus 15 Part 1",
+      "datePublished": 1561843347,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2509/naked-bible-278-exodus-15-part-1.mp3",
+      "duration": 4506
+    },
+    {
+      "uuid": "3ec0a803-7ee1-478a-8277-b1c6c18da90a",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2508",
+      "name": "Naked Bible 277: Exodus 14 Part 2",
+      "datePublished": 1561194009,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2508/naked-bible-277-exodus-14-part-2.mp3",
+      "duration": 2881
+    },
+    {
+      "uuid": "0b43895c-d555-44d6-b30c-1d6e6d478eb6",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2502",
+      "name": "Naked Bible 276: Exodus 14 Part 1",
+      "datePublished": 1560589203,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2502/naked-bible-276-exodus-14-part-1.mp3",
+      "duration": 3630
+    },
+    {
+      "uuid": "48104e06-167e-401a-a609-f577594d8cb2",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2491",
+      "name": "Naked Bible 275: Exodus 13",
+      "datePublished": 1560065775,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2491/naked-bible-275-exodus-13.mp3",
+      "duration": 4427
+    },
+    {
+      "uuid": "1e9e6a4c-ce36-4961-b072-75debaae6674",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2480",
+      "name": "Naked Bible 274: Q&A 34",
+      "datePublished": 1559524078,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2480/naked-bible-274-qa-34.mp3",
+      "duration": 3354
+    },
+    {
+      "uuid": "4d082e2b-609f-4127-8f5c-6280152561da",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2478",
+      "name": "Naked Bible 273: Exodus 12 Part 2b",
+      "datePublished": 1558818264,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2478/naked-bible-273-exodus-12-part-2b.mp3",
+      "duration": 2907
+    },
+    {
+      "uuid": "5758e468-2e05-4b64-8449-bc8243bd54e8",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2474",
+      "name": "Naked Bible 272: Exodus 12 Part 2a",
+      "datePublished": 1558209099,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2474/naked-bible-272-exodus-12-part-2a.mp3",
+      "duration": 2753
+    },
+    {
+      "uuid": "b211e935-d664-40d9-8697-30c663ea1d6e",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2469",
+      "name": "Naked Bible 271: Exodus 12 Part 1",
+      "datePublished": 1557617223,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2469/naked-bible-271-exodus-12-part-1.mp3",
+      "duration": 4475
+    },
+    {
+      "uuid": "3d7caa64-db88-4f2f-bfc2-2a60749d2369",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2461",
+      "name": "Naked Bible 270: Exodus 11-12",
+      "datePublished": 1557034258,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2461/naked-bible-270-exodus-11-12.mp3",
+      "duration": 4109
+    },
+    {
+      "uuid": "c16ff104-861e-42e4-a771-bdc6561e97b6",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2458",
+      "name": "Naked Bible 269: Exodus 8-10",
+      "datePublished": 1556407466,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2458/naked-bible-269-exodus-8-10.mp3",
+      "duration": 3733
+    },
+    {
+      "uuid": "5c6b228a-d8d7-4c6e-9d5e-6833dd6eeaeb",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2452",
+      "name": "Naked Bible 268: Exodus 7:14-25",
+      "datePublished": 1555808778,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2452/naked-bible-268-exodus-714-25.mp3",
+      "duration": 3260
+    },
+    {
+      "uuid": "eac7c23c-ef80-4ace-a0ec-c2c438f4727b",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2443",
+      "name": "Naked Bible 267: Exodus 7:1-13",
+      "datePublished": 1555226663,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2443/naked-bible-267-exodus-71-13.mp3",
+      "duration": 4488
+    },
+    {
+      "uuid": "03e60913-228f-45f6-8a3e-3a122bdf827e",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2431",
+      "name": "Naked Bible 266: Exodus 5-6",
+      "datePublished": 1554541252,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2431/naked-bible-266-exodus-5-6.mp3",
+      "duration": 3830
+    },
+    {
+      "uuid": "73241706-213e-4745-ac2e-d17f64d863e5",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2427",
+      "name": "Naked Bible 265: Exodus 4:18-31",
+      "datePublished": 1553992304,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2427/naked-bible-265-exodus-418-31.mp3",
+      "duration": 4289
+    },
+    {
+      "uuid": "c0ad68f3-3f75-4165-a714-79a90aee8953",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2420",
+      "name": "Naked Bible 264: Exodus 4:1-17",
+      "datePublished": 1553383761,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2420/naked-bible-264-exodus-41-17.mp3",
+      "duration": 2592
+    },
+    {
+      "uuid": "556495a0-4dd0-4557-93cb-c9956087922b",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2419",
+      "name": "Naked Bible 263: Exodus 3 Part 3",
+      "datePublished": 1552726825,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2419/naked-bible-263-exodus-3-part-3.mp3",
+      "duration": 4186
+    },
+    {
+      "uuid": "b83b1b58-c126-4b24-8c9e-4034c737ceac",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2414",
+      "name": "Naked Bible 262: Exodus 3 Part 2b",
+      "datePublished": 1552125631,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2414/naked-bible-262-exodus-3-part-2b.mp3",
+      "duration": 2570
+    },
+    {
+      "uuid": "eee97c06-eb3f-491b-a20c-034a43307155",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2413",
+      "name": "Naked Bible 261: Exodus 3 Part 2a",
+      "datePublished": 1551530144,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2413/naked-bible-261-exodus-3-part-2a.mp3",
+      "duration": 3407
+    },
+    {
+      "uuid": "75407aad-af56-49ea-aeb5-62b1af209075",
+      "guid": "https://nakedbiblepodcast.com/?post_type=podcast&p=2407",
+      "name": "Naked Bible 260: Exodus 3 Part 1",
+      "datePublished": 1550994491,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2407/naked-bible-260-exodus-3-part-1.mp3",
+      "duration": 4386
+    },
+    {
+      "uuid": "e97961bd-d278-48d4-b75f-b19afbe7f067",
+      "guid": "http://nakedbiblepodcast.com/?post_type=podcast&p=2403",
+      "name": "Naked Bible 259: Exodus 2:11-25",
+      "datePublished": 1550434015,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2403/naked-bible-259-exodus-211-25.mp3",
+      "duration": 3740
+    },
+    {
+      "uuid": "b295cf4d-e8c6-4380-8e8b-ab8f769ae96c",
+      "guid": "http://nakedbiblepodcast.com/?post_type=podcast&p=2309",
+      "name": "Naked Bible 258: The Bible Project",
+      "datePublished": 1549738260,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2309/naked-bible-258-the-bible-project.mp3",
+      "duration": 3853
+    },
+    {
+      "uuid": "6eb7d087-7ef5-48c0-8c05-4ec5615216d6",
+      "guid": "http://nakedbiblepodcast.com/?p=2283",
+      "name": "Naked Bible 257: Exodus 2:1-10",
+      "datePublished": 1549396734,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2283/naked-bible-257-exodus-21-10.mp3",
+      "duration": 4181
+    },
+    {
+      "uuid": "e65e2f07-747b-4d03-be75-893dba54967e",
+      "guid": "http://nakedbiblepodcast.com/?p=2268",
+      "name": "Naked Bible 256: Exodus 1 Part 2",
+      "datePublished": 1548555139,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2268/naked-bible-256-exodus-1-part-2.mp3",
+      "duration": 3455
+    },
+    {
+      "uuid": "c93fb047-68eb-4b4a-a892-a2270862974f",
+      "guid": "http://nakedbiblepodcast.com/?p=2266",
+      "name": "Naked Bible 255: Exodus 1 Part 1",
+      "datePublished": 1547941901,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2266/naked-bible-255-exodus-1-part-1.mp3",
+      "duration": 4285
+    },
+    {
+      "uuid": "5af4926f-5440-4113-9cba-7d3f6ffde818",
+      "guid": "http://nakedbiblepodcast.com/?p=2257",
+      "name": "Naked Bible 254: Introducing the Book of Exodus",
+      "datePublished": 1547335061,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2257/naked-bible-254-introducing-the-book-of-exodus.mp3",
+      "duration": 3946
+    },
+    {
+      "uuid": "a671c642-c35f-447f-a670-47b113934c6e",
+      "guid": "http://nakedbiblepodcast.com/?p=2255",
+      "name": "Naked Bible 253: The Persecuted Church in Nepal",
+      "datePublished": 1546719358,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2255/naked-bible-253-the-persecuted-church-in-nepal.mp3",
+      "duration": 3026
+    },
+    {
+      "uuid": "44c91540-9f7c-4568-b9df-f18f03d9eaea",
+      "guid": "http://nakedbiblepodcast.com/?p=2232",
+      "name": "Naked Bible 252: The Day of the Lord",
+      "datePublished": 1545472828,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2232/naked-bible-252-the-day-of-the-lord.mp3",
+      "duration": 5007
+    },
+    {
+      "uuid": "1da3624c-cc09-4452-ab9d-d1960b918518",
+      "guid": "http://nakedbiblepodcast.com/?p=2225",
+      "name": "Naked Bible 251: The Church Fathers and Genesis 1",
+      "datePublished": 1544915764,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2225/naked-bible-251-the-church-fathers-and-genesis-1.mp3",
+      "duration": 3358
+    },
+    {
+      "uuid": "f9b6fab6-e159-47b4-8649-03f5055661f2",
+      "guid": "http://nakedbiblepodcast.com/?p=2213",
+      "name": "Naked Bible 250: The Pastoral Epistles",
+      "datePublished": 1544317986,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2213/naked-bible-250-the-pastoral-epistles.mp3",
+      "duration": 3560
+    },
+    {
+      "uuid": "e6abe77a-3279-4d37-9fa2-e8536f285c9c",
+      "guid": "http://nakedbiblepodcast.com/?p=2208",
+      "name": "Naked Bible 249: Did Israelites View Their Judges as Gods?",
+      "datePublished": 1543786507,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2208/naked-bible-249-did-israelites-view-their-judges-as-gods.mp3",
+      "duration": 3739
+    },
+    {
+      "uuid": "feb1e88e-e992-45c3-b8eb-5d31a70da258",
+      "guid": "http://nakedbiblepodcast.com/?p=2185",
+      "name": "Naked Bible 248: Live From Denver",
+      "datePublished": 1543102037,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2185/naked-bible-248-live-from-denver.mp3",
+      "duration": 8201
+    },
+    {
+      "uuid": "be13a2e7-bdf7-4f2f-a84d-52e4e0a64c2c",
+      "guid": "http://nakedbiblepodcast.com/?p=2183",
+      "name": "Naked Bible 247: SBL Conference Interviews Part 2",
+      "datePublished": 1542967216,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2183/naked-bible-247-sbl-conference-interviews-part-2.mp3",
+      "duration": 4543
+    },
+    {
+      "uuid": "3c8ec4c1-05ef-4b86-bab7-e02eafd77b26",
+      "guid": "http://nakedbiblepodcast.com/?p=2181",
+      "name": "Naked Bible 246: SBL Conference Interviews Part 1",
+      "datePublished": 1542794451,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2181/naked-bible-246-sbl-conference-interviews-part-1.mp3",
+      "duration": 3908
+    },
+    {
+      "uuid": "a662b360-4bff-47da-817c-85ade7942512",
+      "guid": "http://nakedbiblepodcast.com/?p=2177",
+      "name": "Naked Bible 245: ETS Conference Interviews Part 4",
+      "datePublished": 1542708052,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2177/naked-bible-245-ets-conference-interviews-part-4.mp3",
+      "duration": 4133
+    },
+    {
+      "uuid": "5b6769f6-c766-4999-8147-646c02f25f2c",
+      "guid": "http://nakedbiblepodcast.com/?p=2175",
+      "name": "Naked Bible 244: ETS Conference Interviews Part 3",
+      "datePublished": 1542621609,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2175/naked-bible-244-ets-conference-interviews-part-3.mp3",
+      "duration": 2978
+    },
+    {
+      "uuid": "e62cea41-44a3-4903-acc7-8de0df858853",
+      "guid": "http://nakedbiblepodcast.com/?p=2173",
+      "name": "Naked Bible 243: ETS Conference Interviews Part 2",
+      "datePublished": 1542569738,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2173/naked-bible-243-ets-conference-interviews-part-2.mp3",
+      "duration": 2713
+    },
+    {
+      "uuid": "56bde6ce-7e73-4de7-aec8-3fd61bd18713",
+      "guid": "http://nakedbiblepodcast.com/?p=2168",
+      "name": "Naked Bible 242: ETS Conference Interviews Part 1",
+      "datePublished": 1542503762,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2168/naked-bible-242-ets-conference-interviews-part-1.mp3",
+      "duration": 3146
+    },
+    {
+      "uuid": "b6f9befb-5816-47ad-9bac-bacd1f0fdc9d",
+      "guid": "http://nakedbiblepodcast.com/?p=2165",
+      "name": "Naked Bible 241: Psalms 24 and 29 in Their Ancient Context",
+      "datePublished": 1541912932,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2165/naked-bible-241-psalms-24-and-29-in-their-ancient-context.mp3",
+      "duration": 4544
+    },
+    {
+      "uuid": "a6b0135a-ee70-43a7-9de8-8d8b290e6530",
+      "guid": "http://nakedbiblepodcast.com/?p=2161",
+      "name": "Naked Bible 240: Colossians Q&A",
+      "datePublished": 1541271640,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2161/naked-bible-240-colossians-qa.mp3",
+      "duration": 3279
+    },
+    {
+      "uuid": "49fb7730-36d3-4e50-a74d-3a509ae927a6",
+      "guid": "http://nakedbiblepodcast.com/?p=2157",
+      "name": "Naked Bible 239: Q&A 33",
+      "datePublished": 1540685732,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2157/naked-bible-239-qa-33.mp3",
+      "duration": 3416
+    },
+    {
+      "uuid": "45cc1bbc-0770-43c6-937a-ea2e158a5263",
+      "guid": "http://nakedbiblepodcast.com/?p=2149",
+      "name": "Naked Bible 238: Q&A 32",
+      "datePublished": 1540106851,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2149/naked-bible-238-qa-32.mp3",
+      "duration": 2718
+    },
+    {
+      "uuid": "864f1fd9-2221-496c-9dbc-18960ff9f9e8",
+      "guid": "http://nakedbiblepodcast.com/?p=2138",
+      "name": "Naked Bible 237: Colossians 4",
+      "datePublished": 1539480844,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2138/naked-bible-237-colossians-4.mp3",
+      "duration": 4181
+    },
+    {
+      "uuid": "66275b06-3eab-4ba0-8bde-5e59870f3b71",
+      "guid": "http://nakedbiblepodcast.com/?p=2126",
+      "name": "Naked Bible 236: Colossians 3:18-25",
+      "datePublished": 1538859867,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2126/naked-bible-236-colossians-318-25.mp3",
+      "duration": 4598
+    },
+    {
+      "uuid": "2c8d75b6-530e-414d-9c7c-9350c6e7ffc5",
+      "guid": "http://nakedbiblepodcast.com/?p=2124",
+      "name": "Naked Bible 235: Colossians 3:1-17",
+      "datePublished": 1538257019,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2124/naked-bible-235-colossians-31-17.mp3",
+      "duration": 3777
+    },
+    {
+      "uuid": "a0506dd8-b132-43eb-887f-641070ed9a83",
+      "guid": "http://nakedbiblepodcast.com/?p=2097",
+      "name": "Naked Bible 234: Apps and Art",
+      "datePublished": 1537655720,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2097/naked-bible-234-apps-and-art.mp3",
+      "duration": 5454
+    },
+    {
+      "uuid": "7b4263b6-7591-4454-889f-bd8c3ff9e2aa",
+      "guid": "http://nakedbiblepodcast.com/?p=2095",
+      "name": "Naked Bible 233: Honor and Shame Culture",
+      "datePublished": 1537057587,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2095/naked-bible-233-honor-and-shame-culture.mp3",
+      "duration": 3655
+    },
+    {
+      "uuid": "de433feb-6d7d-4e41-b52d-4df19968ce99",
+      "guid": "http://nakedbiblepodcast.com/?p=2105",
+      "name": "Naked Bible 232: Colossians 2:13-23",
+      "datePublished": 1536449827,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2105/naked-bible-232-colossians-213-23.mp3",
+      "duration": 3973
+    },
+    {
+      "uuid": "00c25cde-a0cf-412d-9581-0572f4f16342",
+      "guid": "http://nakedbiblepodcast.com/?p=2092",
+      "name": "Naked Bible 231: Colossians 2:11-12",
+      "datePublished": 1535829758,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2092/naked-bible-231-colossians-211-12.mp3",
+      "duration": 4637
+    },
+    {
+      "uuid": "49cb53a2-05f8-425c-ba85-520bf93d45a4",
+      "guid": "http://nakedbiblepodcast.com/?p=2084",
+      "name": "Naked Bible 230: Colossians 2:9-10",
+      "datePublished": 1535230777,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2084/naked-bible-230-colossians-29-10.mp3",
+      "duration": 3996
+    },
+    {
+      "uuid": "3d4447fb-7a7a-45ab-ac64-e71d1126b777",
+      "guid": "http://nakedbiblepodcast.com/?p=2069",
+      "name": "Naked Bible 229: Colossians 2:6-8",
+      "datePublished": 1534582822,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2069/naked-bible-229-colossians-26-8.mp3",
+      "duration": 4236
+    },
+    {
+      "uuid": "cd43ea6d-7b65-467f-b1f3-378ce736a6d5",
+      "guid": "http://nakedbiblepodcast.com/?p=2067",
+      "name": "Naked Bible 228: Colossians 1:21-2:5",
+      "datePublished": 1533978045,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2067/naked-bible-228-colossians-121-25.mp3",
+      "duration": 3600
+    },
+    {
+      "uuid": "8d5939db-b368-45aa-8692-6baa321f0a7e",
+      "guid": "http://nakedbiblepodcast.com/?p=2058",
+      "name": "Naked Bible 227: Colossians 1:13-20",
+      "datePublished": 1533403850,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2058/naked-bible-227-colossians-113-20.mp3",
+      "duration": 4617
+    },
+    {
+      "uuid": "d3bf199f-65fb-4105-89e5-d84d4172321e",
+      "guid": "http://nakedbiblepodcast.com/?p=2049",
+      "name": "Naked Bible 226: Colossians 1:1-13",
+      "datePublished": 1532768410,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2049/naked-bible-226-colossians-11-13.mp3",
+      "duration": 3335
+    },
+    {
+      "uuid": "544d1e6e-c7d0-44e1-9733-bacf4a63df4d",
+      "guid": "http://nakedbiblepodcast.com/?p=2043",
+      "name": "Naked Bible 225: Introducing the Book of Colossians",
+      "datePublished": 1532199622,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2043/naked-bible-225-introducing-the-book-of-colossians.mp3",
+      "duration": 4048
+    },
+    {
+      "uuid": "dd3b8687-91ea-4dcb-a612-34464a2f8389",
+      "guid": "http://nakedbiblepodcast.com/?p=2037",
+      "name": "Naked Bible 224: The Falling Away and the Restrainer",
+      "datePublished": 1531558808,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2037/naked-bible-224-the-falling-away-and-the-restrainer.mp3",
+      "duration": 4142
+    },
+    {
+      "uuid": "c3393be2-0483-46c3-b655-83d59e5ca771",
+      "guid": "http://nakedbiblepodcast.com/?p=2028",
+      "name": "Naked Bible 223: Q&A 31",
+      "datePublished": 1530954006,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2028/naked-bible-223-qa-31.mp3",
+      "duration": 2583
+    },
+    {
+      "uuid": "0f5cb8f0-cd7e-4a78-8a7b-2a7ceb4d30b4",
+      "guid": "http://nakedbiblepodcast.com/?p=2014",
+      "name": "Naked Bible 222: Trees and Kings with Rusty Osborne",
+      "datePublished": 1530349243,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2014/naked-bible-222-trees-and-kings-with-rusty-osborne.mp3",
+      "duration": 4179
+    },
+    {
+      "uuid": "abefc862-f127-4a0e-b85c-b573ddb67034",
+      "guid": "http://nakedbiblepodcast.com/?p=2010",
+      "name": "Naked Bible 221: Baptism for the Dead",
+      "datePublished": 1529744445,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2010/naked-bible-221-baptism-for-the-dead.mp3",
+      "duration": 3785
+    },
+    {
+      "uuid": "6a4a42f3-5cf7-4180-871d-63a221d74345",
+      "guid": "http://nakedbiblepodcast.com/?p=2006",
+      "name": "Naked Bible 220: Q&A 30",
+      "datePublished": 1529139610,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2006/naked-bible-220-qa-30.mp3",
+      "duration": 2184
+    },
+    {
+      "uuid": "f5529915-1523-47d8-89db-2df58b0616ba",
+      "guid": "http://nakedbiblepodcast.com/?p=2003",
+      "name": "Naked Bible 219: Q&A 29",
+      "datePublished": 1528564248,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/2003/naked-bible-219-qa-29.mp3",
+      "duration": 1921
+    },
+    {
+      "uuid": "00a86583-f315-4122-9667-1eba19fdf7cb",
+      "guid": "http://nakedbiblepodcast.com/?p=1999",
+      "name": "Naked Bible 218: Authorship and Date of the Book of Job",
+      "datePublished": 1528026296,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1999/naked-bible-218-authorship-and-date-of-the-book-of-job.mp3",
+      "duration": 3963
+    },
+    {
+      "uuid": "c7626154-1e70-4f57-8fb5-431a26b71f99",
+      "guid": "http://nakedbiblepodcast.com/?p=1995",
+      "name": "Naked Bible 217: Authorship and Date of the Book of Isaiah",
+      "datePublished": 1527370677,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1995/naked-bible-217-authorship-and-date-of-the-book-of-isaiah.mp3",
+      "duration": 5080
+    },
+    {
+      "uuid": "20c167f0-f0e5-4bd0-ab66-8c25ec63ab01",
+      "guid": "http://nakedbiblepodcast.com/?p=1969",
+      "name": "Naked Bible 216: Q&A 28",
+      "datePublished": 1526720411,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1969/naked-bible-216-qa-28.mp3",
+      "duration": 1667
+    },
+    {
+      "uuid": "13304520-89e2-455f-bce0-9c4732f72c83",
+      "guid": "http://nakedbiblepodcast.com/?p=1967",
+      "name": "Naked Bible 215: Q&A 27",
+      "datePublished": 1526115616,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1967/naked-bible-215-qa-27.mp3",
+      "duration": 1380
+    },
+    {
+      "uuid": "e029fb57-f252-4b86-af7b-94c80842ac90",
+      "guid": "http://nakedbiblepodcast.com/?p=1965",
+      "name": "Naked Bible 214: Q&A 26",
+      "datePublished": 1525510828,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1965/naked-bible-214-qa-26.mp3",
+      "duration": 2831
+    },
+    {
+      "uuid": "50d8eb8e-e2ba-4f39-8aa3-60ada790c8d2",
+      "guid": "http://nakedbiblepodcast.com/?p=1951",
+      "name": "Naked Bible 213: Do Good Works Contribute to Salvation?",
+      "datePublished": 1524928767,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1951/naked-bible-213-do-good-works-contribute-to-salvation.mp3",
+      "duration": 5284
+    },
+    {
+      "uuid": "7f2b2105-2673-4a66-b17c-979886506314",
+      "guid": "http://nakedbiblepodcast.com/?p=1944",
+      "name": "Naked Bible 212: Joshua’s Conquest of Jericho and the Ugaritic Keret Epic",
+      "datePublished": 1524301258,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1944/naked-bible-212-joshuas-conquest-of-jericho-and-the-ugaritic-keret-epic.mp3",
+      "duration": 4302
+    },
+    {
+      "uuid": "3cf91e7a-6ff2-4041-a885-314c244bd9f5",
+      "guid": "http://nakedbiblepodcast.com/?p=1937",
+      "name": "Naked Bible 211: Was Cain the Seed of the Serpent?",
+      "datePublished": 1523760755,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1937/naked-bible-211-was-cain-the-seed-of-the-serpent.mp3",
+      "duration": 4170
+    },
+    {
+      "uuid": "175106be-f49d-4498-967b-0f909cc2e1d0",
+      "guid": "http://nakedbiblepodcast.com/?p=1927",
+      "name": "Naked Bible 210: God and Deception",
+      "datePublished": 1523091642,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1927/naked-bible-210-god-and-deception.mp3",
+      "duration": 3444
+    },
+    {
+      "uuid": "8fdc7dfd-3265-46aa-b93d-e73ee9d9d99b",
+      "guid": "http://nakedbiblepodcast.com/?p=1925",
+      "name": "Naked Bible 209: A Fern and Audrey Testimony",
+      "datePublished": 1522486809,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1925/naked-bible-209-a-fern-and-audrey-testimony.mp3",
+      "duration": 3680
+    },
+    {
+      "uuid": "102e6530-6d13-4441-acb9-9e936ac8b0c7",
+      "guid": "http://nakedbiblepodcast.com/?p=1913",
+      "name": "Naked Bible 208: Q&A 25",
+      "datePublished": 1521882008,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1913/naked-bible-208-qa-25.mp3",
+      "duration": 3103
+    },
+    {
+      "uuid": "ab3eb216-77ac-4edb-905f-35089e8d3039",
+      "guid": "http://nakedbiblepodcast.com/?p=1911",
+      "name": "Naked Bible 207: Revelation 4-5 with Dr. Alan Bandy",
+      "datePublished": 1521334524,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1911/naked-bible-207-revelation-4-5-with-dr-alan-bandy.mp3",
+      "duration": 4112
+    },
+    {
+      "uuid": "1eee051d-ee7a-4e57-8b93-adb520c9d82f",
+      "guid": "http://nakedbiblepodcast.com/?p=1900",
+      "name": "Naked Bible 206: The 70 Bulls of the Feast of Tabernacles",
+      "datePublished": 1520957672,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1900/naked-bible-206-the-70-bulls-of-the-feast-of-tabernacles.mp3",
+      "duration": 3265
+    },
+    {
+      "uuid": "3f3f6f82-e2d1-422c-8337-94d6693134f6",
+      "guid": "http://nakedbiblepodcast.com/?p=1886",
+      "name": "Naked Bible 205: The Sword and the Servant with David Burnett",
+      "datePublished": 1520120079,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1886/naked-bible-205-the-sword-and-the-servant-with-david-burnett.mp3",
+      "duration": 4549
+    },
+    {
+      "uuid": "4305cd08-6de8-4b28-9e8a-b78cfb2b3e1e",
+      "guid": "http://nakedbiblepodcast.com/?p=1859",
+      "name": "Naked Bible 204: Grammar and Bible Study with Steve Runge",
+      "datePublished": 1519466448,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1859/naked-bible-204-grammar-and-bible-study.mp3",
+      "duration": 5297
+    },
+    {
+      "uuid": "95328d6a-b1c5-4e51-a9c5-6b26a43ca6b4",
+      "guid": "http://nakedbiblepodcast.com/?p=1857",
+      "name": "Naked Bible 203: Q&A 24",
+      "datePublished": 1518861603,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1857/naked-bible-203-qa-24.mp3",
+      "duration": 2702
+    },
+    {
+      "uuid": "43096d0e-952c-427a-a19e-97d77feb5ce6",
+      "guid": "http://nakedbiblepodcast.com/?p=1872",
+      "name": "Naked Bible 202: Hebrews Q&A Part 2",
+      "datePublished": 1518256834,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1872/naked-bible-202-hebrews-qa-part-2.mp3",
+      "duration": 2602
+    },
+    {
+      "uuid": "75da4805-4d33-4253-a83e-c4c314dc35b9",
+      "guid": "http://nakedbiblepodcast.com/?p=1855",
+      "name": "Naked Bible 201: Hebrews Q&A Part 1",
+      "datePublished": 1517645723,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1855/naked-bible-201-hebrews-qa-part-1.mp3",
+      "duration": 3158
+    },
+    {
+      "uuid": "7e6cca6c-9345-4b6d-92e4-452989399b3a",
+      "guid": "http://nakedbiblepodcast.com/?p=1853",
+      "name": "Naked Bible 200: Global Reach",
+      "datePublished": 1517187161,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1853/naked-bible-200-global-reach.mp3",
+      "duration": 6579
+    },
+    {
+      "uuid": "8a318f47-2041-4a06-baa9-7d42010871af",
+      "guid": "http://nakedbiblepodcast.com/?p=1846",
+      "name": "Naked Bible 199: Hebrews 13",
+      "datePublished": 1516484442,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1846/naked-bible-199-hebrews-13.mp3",
+      "duration": 3924
+    },
+    {
+      "uuid": "e480b83c-b3b9-4d4c-af9c-50999cba0c08",
+      "guid": "http://nakedbiblepodcast.com/?p=1839",
+      "name": "Naked Bible 198: Hebrews 12",
+      "datePublished": 1515891241,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1839/naked-bible-198-hebrews-12.mp3",
+      "duration": 4770
+    },
+    {
+      "uuid": "4c2ad79f-1a9d-4268-a33f-d85acde7aab4",
+      "guid": "http://nakedbiblepodcast.com/?p=1832",
+      "name": "Naked Bible 197: Hebrews 11",
+      "datePublished": 1515294826,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1832/naked-bible-197-hebrews-11.mp3",
+      "duration": 3742
+    },
+    {
+      "uuid": "dc37fc6b-7577-4205-a19e-7d092cf67123",
+      "guid": "http://nakedbiblepodcast.com/?p=1821",
+      "name": "Naked Bible 196: Hebrews 10",
+      "datePublished": 1514685677,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1821/naked-bible-196-hebrews-10.mp3",
+      "duration": 4601
+    },
+    {
+      "uuid": "248b8254-7623-47fe-a31f-6968beb476a0",
+      "guid": "http://nakedbiblepodcast.com/?p=1815",
+      "name": "Naked Bible 195: Is Christmas a Pagan Holiday?",
+      "datePublished": 1514196030,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1815/naked-bible-195-is-christmas-a-pagan-holiday.mp3",
+      "duration": 5633
+    },
+    {
+      "uuid": "1d729389-10bd-4547-8f28-6b9f052cf2ed",
+      "guid": "http://nakedbiblepodcast.com/?p=1802",
+      "name": "Naked Bible 194: Hebrews 9",
+      "datePublished": 1513411251,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1802/naked-bible-194-hebrews-9.mp3",
+      "duration": 3549
+    },
+    {
+      "uuid": "3ef42ad4-4e27-4e82-951e-a0bedcdd5c50",
+      "guid": "http://nakedbiblepodcast.com/?p=1786",
+      "name": "Naked Bible 193: Hebrews 8",
+      "datePublished": 1512852557,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1786/naked-bible-193-hebrews-8.mp3",
+      "duration": 4443
+    },
+    {
+      "uuid": "2f5d4201-0e70-4753-9c9d-a48e8df582ad",
+      "guid": "http://nakedbiblepodcast.com/?p=1761",
+      "name": "Naked Bible 192: SBL Conference Interviews Part 3",
+      "datePublished": 1512201648,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1761/naked-bible-192-sbl-conference-interviews-part-3.mp3",
+      "duration": 1598
+    },
+    {
+      "uuid": "6f500e46-bc2e-4acc-ac31-d56f9db1b8b8",
+      "guid": "http://nakedbiblepodcast.com/?p=1759",
+      "name": "Naked Bible 191: SBL Conference Interviews Part 2",
+      "datePublished": 1512028808,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1759/naked-bible-191-sbl-conference-interviews-part-2.mp3",
+      "duration": 3834
+    },
+    {
+      "uuid": "a40a7be2-3586-4b08-b10e-94355a8eaa5e",
+      "guid": "http://nakedbiblepodcast.com/?p=1757",
+      "name": "Naked Bible 190: SBL Conference Interviews Part 1",
+      "datePublished": 1511856035,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1757/naked-bible-190-sbl-conference-interviews-part-1.mp3",
+      "duration": 3547
+    },
+    {
+      "uuid": "de4eb083-b25d-453a-9dcb-2a5d64a1d6d2",
+      "guid": "http://nakedbiblepodcast.com/?p=1753",
+      "name": "Naked Bible 189: Live from Boston",
+      "datePublished": 1511596815,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1753/naked-bible-189-live-from-boston.mp3",
+      "duration": 5850
+    },
+    {
+      "uuid": "18810541-97c1-4b82-8027-6308b0a86f33",
+      "guid": "http://nakedbiblepodcast.com/?p=1751",
+      "name": "Naked Bible 188: ETS Conference Interviews Part 2",
+      "datePublished": 1511424018,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1751/naked-bible-188-ets-conference-interviews-part-2.mp3",
+      "duration": 5031
+    },
+    {
+      "uuid": "4f5bc01a-b379-40f8-b0f8-518349132f18",
+      "guid": "http://nakedbiblepodcast.com/?p=1749",
+      "name": "Naked Bible 187: ETS Conference Interviews Part 1",
+      "datePublished": 1511307013,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1749/naked-bible-187-ets-conference-interviews-part-1.mp3",
+      "duration": 4664
+    },
+    {
+      "uuid": "34066990-6390-4559-940e-662155426fe1",
+      "guid": "http://nakedbiblepodcast.com/?p=1746",
+      "name": "Naked Bible 186: Discovering MErcy with Fern and Audrey",
+      "datePublished": 1511055039,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1746/naked-bible-186-discovering-mercy-with-fern-and-audrey.mp3",
+      "duration": 3499
+    },
+    {
+      "uuid": "db3e08ce-b638-47cc-87af-a075f0fcdaa0",
+      "guid": "http://nakedbiblepodcast.com/?p=1734",
+      "name": "Naked Bible 185: Hebrews 7",
+      "datePublished": 1510387218,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1734/naked-bible-185-hebrews-7.mp3",
+      "duration": 4346
+    },
+    {
+      "uuid": "46e544b3-2b0b-43d3-95ac-388ad7a56b6d",
+      "guid": "http://nakedbiblepodcast.com/?p=1729",
+      "name": "Naked Bible 184: Hebrews 5:11-6:20",
+      "datePublished": 1509833884,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1729/naked-bible-184-hebrews-511-620.mp3",
+      "duration": 5241
+    },
+    {
+      "uuid": "73b34902-42fa-413f-9f34-66c370f07ff3",
+      "guid": "http://nakedbiblepodcast.com/?p=1720",
+      "name": "Naked Bible 183: Hebrews 4:14-5:10",
+      "datePublished": 1509174007,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1720/naked-bible-183-hebrews-414-510.mp3",
+      "duration": 2958
+    },
+    {
+      "uuid": "4de531aa-5752-425b-86b3-5801afeb6427",
+      "guid": "http://nakedbiblepodcast.com/?p=1716",
+      "name": "Naked Bible 182: Hebrews 4:1-13",
+      "datePublished": 1508691768,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1716/naked-bible-182-hebrews-41-13.mp3",
+      "duration": 3163
+    },
+    {
+      "uuid": "81d407f4-04bf-4c1d-8518-c33d99843be7",
+      "guid": "http://nakedbiblepodcast.com/?p=1702",
+      "name": "Naked Bible 181: Hebrews 3",
+      "datePublished": 1508047274,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1702/naked-bible-181-hebrews-3.mp3",
+      "duration": 3898
+    },
+    {
+      "uuid": "1878087c-354a-47d7-b41a-46c0879dea97",
+      "guid": "http://nakedbiblepodcast.com/?p=1699",
+      "name": "Naked Bible 180: Continuing the NAR Conversation with Dr. Michael L. Brown",
+      "datePublished": 1507408662,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1699/naked-bible-180-continuing-the-nar-conversation-with-dr-michael-l-brown.mp3",
+      "duration": 4327
+    },
+    {
+      "uuid": "35c9d627-c442-42be-96bc-0d8060197b2c",
+      "guid": "http://nakedbiblepodcast.com/?p=1688",
+      "name": "Naked Bible 179: What is the New Apostolic Reformation?",
+      "datePublished": 1506754901,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1688/naked-bible-179-what-is-the-new-apostolic-reformation.mp3",
+      "duration": 5221
+    },
+    {
+      "uuid": "ea47a6d3-23e5-4afe-901f-38c7de949e7d",
+      "guid": "http://nakedbiblepodcast.com/?p=1680",
+      "name": "Naked Bible 178: Why the World Didn’t End on September 23",
+      "datePublished": 1506217272,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1680/naked-bible-178-why-the-world-didnt-end-on-september-23.mp3",
+      "duration": 3755
+    },
+    {
+      "uuid": "7996b19a-f4a8-46c4-92c4-b00a3b7a29a9",
+      "guid": "http://nakedbiblepodcast.com/?p=1674",
+      "name": "Naked Bible 177: Hebrews 2",
+      "datePublished": 1505592917,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1674/naked-bible-177-hebrews-2.mp3",
+      "duration": 4559
+    },
+    {
+      "uuid": "37a58c76-7c13-4964-8229-f6a968a9b87c",
+      "guid": "http://nakedbiblepodcast.com/?p=1651",
+      "name": "Naked Bible 176: Hebrews 1:5-14",
+      "datePublished": 1504993735,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1651/naked-bible-176-hebrews-15-14.mp3",
+      "duration": 3756
+    },
+    {
+      "uuid": "2882b073-956d-4621-9ce6-a6b2fe68a8fe",
+      "guid": "http://nakedbiblepodcast.com/?p=1649",
+      "name": "Naked Bible 175: Hebrews 1:1-4",
+      "datePublished": 1504341029,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1649/naked-bible-175-hebrews-11-4.mp3",
+      "duration": 3806
+    },
+    {
+      "uuid": "a7d35929-9fed-485d-bccd-6f76d256a35a",
+      "guid": "http://nakedbiblepodcast.com/?p=1646",
+      "name": "Naked Bible 174: Live from Lubbock",
+      "datePublished": 1504340903,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1646/naked-bible-174-live-from-lubbock.mp3",
+      "duration": 3372
+    },
+    {
+      "uuid": "eb655595-a9fa-4f66-a4a6-903469101ced",
+      "guid": "http://nakedbiblepodcast.com/?p=1640",
+      "name": "Naked Bible 173: Introducing the Book of Hebrews",
+      "datePublished": 1503754845,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1640/naked-bible-173-introducing-the-book-of-hebrews.mp3",
+      "duration": 4124
+    },
+    {
+      "uuid": "f071fa2d-0012-4cb3-9b16-41fa642d4661",
+      "guid": "http://nakedbiblepodcast.com/?p=1626",
+      "name": "Naked Bible 172: Melchizedek Q&A",
+      "datePublished": 1503183265,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1626/naked-bible-172-melchizedek-qa.mp3",
+      "duration": 3677
+    },
+    {
+      "uuid": "ed08c96f-ef47-44d4-882f-5d29bc71bd87",
+      "guid": "http://nakedbiblepodcast.com/?p=1617",
+      "name": "Naked Bible 171: Q&A 23",
+      "datePublished": 1502577822,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1617/naked-bible-171-qa-23.mp3",
+      "duration": 4113
+    },
+    {
+      "uuid": "aa4bf18b-b80b-4cef-b6d2-c0afdd6beea6",
+      "guid": "http://nakedbiblepodcast.com/?p=1539",
+      "name": "Naked Bible 170: Melchizedek Part 3",
+      "datePublished": 1501930801,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1539/naked-bible-170-melchizedek-part-3.mp3",
+      "duration": 2863
+    },
+    {
+      "uuid": "80cb2712-cf8c-4189-969d-a3b3b4793bc8",
+      "guid": "http://nakedbiblepodcast.com/?p=1532",
+      "name": "Naked Bible 169: Surviving and Thriving in Seminary",
+      "datePublished": 1501386109,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1532/naked-bible-169-surviving-and-thriving-in-seminary.mp3",
+      "duration": 5682
+    },
+    {
+      "uuid": "0927e271-edd2-42d3-b45f-571231f3a197",
+      "guid": "http://nakedbiblepodcast.com/?p=1520",
+      "name": "Naked Bible 168: Melchizedek Part 2",
+      "datePublished": 1500775833,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1520/naked-bible-168-melchizedek-part-2.mp3",
+      "duration": 4327
+    },
+    {
+      "uuid": "8cab8056-9dc6-4173-93f6-e8bdd508fdba",
+      "guid": "http://nakedbiblepodcast.com/?p=1513",
+      "name": "Naked Bible 167: Melchizedek Part 1b",
+      "datePublished": 1500116450,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1513/naked-bible-167-melchizedek-part-1b.mp3",
+      "duration": 3569
+    },
+    {
+      "uuid": "1e9bfc88-5629-42ef-a773-5f021d5a2eec",
+      "guid": "http://nakedbiblepodcast.com/?p=1507",
+      "name": "Naked Bible 166: Melchizedek Part 1a",
+      "datePublished": 1499576483,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1507/naked-bible-166-melchizedek-part-1a.mp3",
+      "duration": 2683
+    },
+    {
+      "uuid": "72bdf53a-cb28-4c1a-ae4a-91d99664551c",
+      "guid": "http://nakedbiblepodcast.com/?p=1497",
+      "name": "Naked Bible 165: Q&A 22",
+      "datePublished": 1498903239,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1497/naked-bible-165-qa-22.mp3",
+      "duration": 3177
+    },
+    {
+      "uuid": "eb64d004-ae8e-4d58-bfac-c88cfa84441d",
+      "guid": "http://nakedbiblepodcast.com/?p=1490",
+      "name": "Naked Bible 164: Paul’s Ascent and Angelic Torment with David Burnett",
+      "datePublished": 1498346254,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1490/naked-bible-164-pauls-ascent-and-angelic-torment-with-david-burnett.mp3",
+      "duration": 4497
+    },
+    {
+      "uuid": "9508ccb3-c1d2-448a-b258-e76352e67e28",
+      "guid": "http://nakedbiblepodcast.com/?p=1485",
+      "name": "Naked Bible 163: Other Gods and Other Religions with Gerald McDermott",
+      "datePublished": 1497759509,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1485/naked-bible-163-other-gods-and-other-religions-with-gerald-mcdermott.mp3",
+      "duration": 4066
+    },
+    {
+      "uuid": "300e6525-da13-4738-aa51-7af8a9e31358",
+      "guid": "http://nakedbiblepodcast.com/?p=1475",
+      "name": "Naked Bible 162: The Evil Eye",
+      "datePublished": 1497207368,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1475/naked-bible-162-the-evil-eye.mp3",
+      "duration": 4596
+    },
+    {
+      "uuid": "ace16860-4660-4d9b-ab42-6b140b7e4a3e",
+      "guid": "http://nakedbiblepodcast.com/?p=1450",
+      "name": "Naked Bible 161: Translating Genesis 1-11",
+      "datePublished": 1496491244,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1450/naked-bible-161-translating-genesis-1-11.mp3",
+      "duration": 3955
+    },
+    {
+      "uuid": "e67fd368-429e-4ea9-95f6-b031d7806c7d",
+      "guid": "http://nakedbiblepodcast.com/?p=1444",
+      "name": "Naked Bible 160: Q&A 21",
+      "datePublished": 1495943531,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1444/naked-bible-160-qa-21.mp3",
+      "duration": 4455
+    },
+    {
+      "uuid": "8e049696-0926-43fa-a09b-5fa897f3585a",
+      "guid": "http://nakedbiblepodcast.com/?p=1425",
+      "name": "Naked Bible 159: Noah’s Nakedness, the Sin of Ham, and the Curse of Canaan",
+      "datePublished": 1495328652,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1425/naked-bible-159-noahs-nakedness-the-sin-of-ham-and-the-curse-of-canaan.mp3",
+      "duration": 2895
+    },
+    {
+      "uuid": "d40c5c95-fe4f-4ac0-bc95-468f4f4eef8d",
+      "guid": "http://nakedbiblepodcast.com/?p=1420",
+      "name": "Naked Bible 158: The Fate of the Ark of the Covenant",
+      "datePublished": 1494784063,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1420/naked-bible-158-the-fate-of-the-ark-of-the-covenant.mp3",
+      "duration": 5487
+    },
+    {
+      "uuid": "14c1b9af-f65d-46e0-84ff-33aee9b91ff7",
+      "guid": "http://nakedbiblepodcast.com/?p=1411",
+      "name": "Naked Bible 157: Ezekiel 40-48 Part 2",
+      "datePublished": 1494107903,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1411/naked-bible-157-ezekiel-40-48-part-2.mp3",
+      "duration": 4683
+    },
+    {
+      "uuid": "9df8a799-a3dd-400a-a1cf-58a681d2e4f8",
+      "guid": "http://nakedbiblepodcast.com/?p=1399",
+      "name": "Naked Bible 156: Ezekiel 40-48 Part 1",
+      "datePublished": 1493525041,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1399/naked-bible-156-ezekiel-40-48-part-1.mp3",
+      "duration": 3876
+    },
+    {
+      "uuid": "3425c8d7-7e6e-4ddc-a38d-2821769f28be",
+      "guid": "http://nakedbiblepodcast.com/?p=1386",
+      "name": "Naked Bible 155: David Limbaugh",
+      "datePublished": 1492883962,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1386/naked-bible-155-david-limbaugh.mp3",
+      "duration": 4071
+    },
+    {
+      "uuid": "3ff9390d-2a3e-45f1-9212-c560c3a326da",
+      "guid": "http://nakedbiblepodcast.com/?p=1378",
+      "name": "Naked Bible 154: Q&A 20",
+      "datePublished": 1492257652,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1378/naked-bible-154-qa-20.mp3",
+      "duration": 5658
+    },
+    {
+      "uuid": "cd201c1d-2a32-40e6-9878-3bb27e114975",
+      "guid": "http://nakedbiblepodcast.com/?p=1374",
+      "name": "Naked Bible 153: Ezekiel 38-39 Part 2",
+      "datePublished": 1491691676,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1374/naked-bible-153-ezekiel-38-39-part-2.mp3",
+      "duration": 3903
+    },
+    {
+      "uuid": "8bdf626f-f943-4375-83b2-7c56ac080670",
+      "guid": "http://nakedbiblepodcast.com/?p=1360",
+      "name": "Naked Bible 152: Ezekiel 38-39 Part 1",
+      "datePublished": 1491071180,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1360/naked-bible-152-ezekiel-38-39-part-1.mp3",
+      "duration": 3718
+    },
+    {
+      "uuid": "fc7b1191-2062-4dbc-9ba4-e948912d154e",
+      "guid": "http://nakedbiblepodcast.com/?p=1350",
+      "name": "Naked Bible 151: Ezekiel 37",
+      "datePublished": 1490556186,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1350/naked-bible-151-ezekiel-37.mp3",
+      "duration": 4842
+    },
+    {
+      "uuid": "cddc8312-8bca-4dde-b573-2c811325d0fd",
+      "guid": "http://nakedbiblepodcast.com/?p=1304",
+      "name": "Naked Bible 150: Ezekiel 35-36",
+      "datePublished": 1489842048,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1304/naked-bible-150-ezekiel-35-36.mp3",
+      "duration": 2739
+    },
+    {
+      "uuid": "977eea94-3849-4ba0-aec1-1ad2d868cd03",
+      "guid": "http://nakedbiblepodcast.com/?p=1297",
+      "name": "Naked Bible 149: Q&A with Fern, Audrey, and Beth",
+      "datePublished": 1489240846,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1297/naked-bible-149-qa-with-fern-audrey-and-beth.mp3",
+      "duration": 4726
+    },
+    {
+      "uuid": "2c4a67d5-409c-4ecf-b7a8-5634282de54d",
+      "guid": "http://nakedbiblepodcast.com/?p=1293",
+      "name": "Naked Bible 148: Q&A 19",
+      "datePublished": 1488675822,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1293/naked-bible-148-qa-19.mp3",
+      "duration": 3680
+    },
+    {
+      "uuid": "6dda4b0a-87d5-4d63-9ff9-e7cdeacaaf3a",
+      "guid": "http://nakedbiblepodcast.com/?p=1279",
+      "name": "Naked Bible 147: Ezekiel 33-34",
+      "datePublished": 1488181572,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1279/naked-bible-147-ezekiel-33-34.mp3",
+      "duration": 3817
+    },
+    {
+      "uuid": "d3920514-edaa-4ade-9b21-78237e61c603",
+      "guid": "http://nakedbiblepodcast.com/?p=1276",
+      "name": "Naked Bible 146: Ezekiel 32",
+      "datePublished": 1487500847,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1276/naked-bible-146-ezekiel-32.mp3",
+      "duration": 3639
+    },
+    {
+      "uuid": "746086a1-e98c-472c-8a1f-82c805da5a26",
+      "guid": "http://nakedbiblepodcast.com/?p=1261",
+      "name": "Naked Bible 145: Ezekiel 31",
+      "datePublished": 1486874786,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1261/naked-bible-145-ezekiel-31.mp3",
+      "duration": 4219
+    },
+    {
+      "uuid": "17610ab6-3447-44e4-9e16-b9215885fe63",
+      "guid": "http://nakedbiblepodcast.com/?p=1255",
+      "name": "Naked Bible 144: Ezekiel 29-30",
+      "datePublished": 1486256438,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1255/naked-bible-144-ezekiel-29-30.mp3",
+      "duration": 4123
+    },
+    {
+      "uuid": "1077c503-6bc3-45c1-9fdf-fd7551727f30",
+      "guid": "http://nakedbiblepodcast.com/?p=1240",
+      "name": "Naked Bible 143: Ezekiel 28",
+      "datePublished": 1485648213,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1240/naked-bible-143-ezekiel-28.mp3",
+      "duration": 3847
+    },
+    {
+      "uuid": "99eed261-4061-48fa-b5a8-38b4ab5ab32a",
+      "guid": "http://nakedbiblepodcast.com/?p=1217",
+      "name": "Naked Bible 142: Ezekiel 26-27",
+      "datePublished": 1485034505,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1217/naked-bible-142-ezekiel-26-27.mp3",
+      "duration": 2953
+    },
+    {
+      "uuid": "798f7539-6d5f-49ba-93b5-9fe4c82ae070",
+      "guid": "http://nakedbiblepodcast.com/?p=1215",
+      "name": "Naked Bible 141: Ezekiel 25",
+      "datePublished": 1484445890,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1215/naked-bible-141-ezekiel-25.mp3",
+      "duration": 3330
+    },
+    {
+      "uuid": "bddc9d5a-0b49-4af8-816e-a12be19f19a2",
+      "guid": "http://nakedbiblepodcast.com/?p=1212",
+      "name": "Naked Bible 140: Ezekiel 24",
+      "datePublished": 1483834463,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1212/naked-bible-140-ezekiel-24.mp3",
+      "duration": 2879
+    },
+    {
+      "uuid": "b583e729-0f1d-4fc6-bfb6-c8454e36dd3b",
+      "guid": "http://nakedbiblepodcast.com/?p=1206",
+      "name": "Naked Bible 139: Q&A 18",
+      "datePublished": 1483224561,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1206/naked-bible-139-qa-18.mp3",
+      "duration": 3741
+    },
+    {
+      "uuid": "fa95d33f-7285-45bb-ad77-74399bd2be6d",
+      "guid": "http://nakedbiblepodcast.com/?p=1195",
+      "name": "Naked Bible 138: What Day was Jesus Born?",
+      "datePublished": 1482651850,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1195/naked-bible-138-what-day-was-jesus-born.mp3",
+      "duration": 5976
+    },
+    {
+      "uuid": "8bfc848f-a9e2-4197-8ac1-aaa4d61437c7",
+      "guid": "http://nakedbiblepodcast.com/?p=1171",
+      "name": "Naked Bible 137: Ezekiel 23",
+      "datePublished": 1482005808,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1171/naked-bible-137-ezekiel-23.mp3",
+      "duration": 3539
+    },
+    {
+      "uuid": "e0441319-1b23-4b8d-b1c1-3e7bd6f9292b",
+      "guid": "http://nakedbiblepodcast.com/?p=1164",
+      "name": "Naked Bible 136: Ezekiel 21-22",
+      "datePublished": 1481405753,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1164/naked-bible-136-ezekiel-21-22.mp3",
+      "duration": 3401
+    },
+    {
+      "uuid": "e492285b-95f8-464d-b364-388f8a785745",
+      "guid": "http://nakedbiblepodcast.com/?p=1147",
+      "name": "Naked Bible 135: Ezekiel 19-20",
+      "datePublished": 1480883040,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1147/naked-bible-135-ezekiel-19-20.mp3",
+      "duration": 5054
+    },
+    {
+      "uuid": "2a4895d5-1a95-45cf-8daa-0ecffc32d3ba",
+      "guid": "http://nakedbiblepodcast.com/?p=1094",
+      "name": "Naked Bible 134: Conference Interviews Part 6",
+      "datePublished": 1480240819,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1094/naked-bible-134-conference-interviews-part-6.mp3",
+      "duration": 3832
+    },
+    {
+      "uuid": "089d5279-359e-4d9d-b7c0-c0740465b1e2",
+      "guid": "http://nakedbiblepodcast.com/?p=1092",
+      "name": "Naked Bible 133: Live from San Antonio",
+      "datePublished": 1480154427,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1092/naked-bible-133-live-from-san-antonio.mp3",
+      "duration": 8478
+    },
+    {
+      "uuid": "aa7b3d7f-fdb1-4c7e-ad14-31bb071605aa",
+      "guid": "http://nakedbiblepodcast.com/?p=1090",
+      "name": "Naked Bible 132: Conference Interviews Part 5",
+      "datePublished": 1480068032,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1090/naked-bible-132-conference-interviews-part-5.mp3",
+      "duration": 3305
+    },
+    {
+      "uuid": "50031838-1dc9-4936-a652-5612a2be8e30",
+      "guid": "http://nakedbiblepodcast.com/?p=1088",
+      "name": "Naked Bible 131: Conference Interviews Part 4",
+      "datePublished": 1479981632,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1088/naked-bible-131-conference-interviews-part-4.mp3",
+      "duration": 4049
+    },
+    {
+      "uuid": "ba3de408-dae7-40f2-a2a6-3be6560265c3",
+      "guid": "http://nakedbiblepodcast.com/?p=1086",
+      "name": "Naked Bible 130: Conference Interviews Part 3",
+      "datePublished": 1479895227,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/nakedbiblepodcast.com/podcast-download/1086/naked-bible-130-conference-interviews-part-3.mp3",
+      "duration": 3041
+    }
+  ]
+}

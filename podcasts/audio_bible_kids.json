@@ -1,0 +1,1097 @@
+{
+  "podcastId": "audio_bible_kids",
+  "name": "1 Year Daily Audio Bible for Kids",
+  "host": "DAB Ministry",
+  "taddyUuid": "7916f7b2-687f-4c14-8d5c-bb9b072f45ee",
+  "totalEpisodes": 136,
+  "episodes": [
+    {
+      "uuid": "4faac776-7f8a-4fe8-824a-106f90f197a9",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222283",
+      "name": "DAB Kids May 18 - 2026",
+      "datePublished": 1779062400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+138+-+May+18%2C+2026.m4a",
+      "duration": 260
+    },
+    {
+      "uuid": "4d579156-0c8b-4ad8-95c4-e33bdae1be1e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222282",
+      "name": "DAB Kids May 17 - 2026",
+      "datePublished": 1778976000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+137+-+May+17%2C+2026.m4a",
+      "duration": 339
+    },
+    {
+      "uuid": "d535ee8b-cc9c-460d-af64-2907bdcfadc9",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222281",
+      "name": "DAB Kids May 16 - 2026",
+      "datePublished": 1778889600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+136+-+May+16%2C+2026.m4a",
+      "duration": 325
+    },
+    {
+      "uuid": "312aac3a-08a0-45e4-9c29-5b5a66925547",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222280",
+      "name": "DAB Kids May 15 - 2026",
+      "datePublished": 1778803200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+135+-+May+15%2C+2026.m4a",
+      "duration": 199
+    },
+    {
+      "uuid": "0cdfb3b8-4a66-419a-a640-07c6a16a746b",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222279",
+      "name": "DAB Kids May 14 - 2026",
+      "datePublished": 1778716800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+134+-+May+14%2C+2026.m4a",
+      "duration": 306
+    },
+    {
+      "uuid": "f98101ea-62cd-4859-916d-bc23c36f3a60",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222278",
+      "name": "DAB Kids May 13 - 2026",
+      "datePublished": 1778630400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+133+-+May+13%2C+2026.m4a",
+      "duration": 433
+    },
+    {
+      "uuid": "ebc4d917-23c9-4da2-8c43-967f5a4167bb",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222277",
+      "name": "DAB Kids May 12 - 2026",
+      "datePublished": 1778544000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+132+-+May+12%2C+2026.m4a",
+      "duration": 290
+    },
+    {
+      "uuid": "96fb00f7-60e7-45fc-80ef-aba5af5e3f92",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222276",
+      "name": "DAB Kids May 11 - 2026",
+      "datePublished": 1778457600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+131+-+May+11%2C+2026.m4a",
+      "duration": 299
+    },
+    {
+      "uuid": "b2035608-029f-481e-a854-ce6e322c2daf",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222275",
+      "name": "DAB Kids May 10 - 2026",
+      "datePublished": 1778371200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+130+-+May+10%2C+2026.m4a",
+      "duration": 217
+    },
+    {
+      "uuid": "3179673c-ab70-4a3b-840a-e9af4c38a198",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222274",
+      "name": "DAB Kids May 09 - 2026",
+      "datePublished": 1778284800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+129+-+May+09%2C+2026.m4a",
+      "duration": 230
+    },
+    {
+      "uuid": "9cc1eb8b-8815-44d5-a823-d4ab7b4f9c62",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222273",
+      "name": "DAB Kids May 08 - 2026",
+      "datePublished": 1778198400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+128+-+May+08%2C+2026.m4a",
+      "duration": 264
+    },
+    {
+      "uuid": "9c88a6fb-b350-4953-ba7d-2f627b72b096",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222272",
+      "name": "DAB Kids May 07 - 2026",
+      "datePublished": 1778112000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+127+-+May+07%2C+2026.m4a",
+      "duration": 303
+    },
+    {
+      "uuid": "5c9fa74b-4abd-4ea8-ab69-3fa79b80ff0f",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222271",
+      "name": "DAB Kids May 06 - 2026",
+      "datePublished": 1778025600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+126+-+May+06%2C+2026.m4a",
+      "duration": 210
+    },
+    {
+      "uuid": "859ed07e-ff0a-455d-b2a9-bcf3b834db37",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222270",
+      "name": "DAB Kids May 05 - 2026",
+      "datePublished": 1777939200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+125+-+May+05%2C+2026.m4a",
+      "duration": 412
+    },
+    {
+      "uuid": "2475dcfc-10ee-4193-b06e-941e629d12ef",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222269",
+      "name": "DAB Kids May 04 - 2026",
+      "datePublished": 1777852800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+124+-+May+04%2C+2026.m4a",
+      "duration": 291
+    },
+    {
+      "uuid": "eb6c4fa9-cb46-40b9-8daf-414c1b890d01",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222268",
+      "name": "DAB Kids May 03 - 2026",
+      "datePublished": 1777766400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+123+-+May+03%2C+2026.m4a",
+      "duration": 260
+    },
+    {
+      "uuid": "8e323f5d-162e-4927-81aa-e2f972a70cf0",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222267",
+      "name": "DAB Kids May 02 - 2026",
+      "datePublished": 1777680000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+122+-+May+02%2C+2026.m4a",
+      "duration": 351
+    },
+    {
+      "uuid": "23569751-fb14-4913-b9c3-68d1af7caea3",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222265",
+      "name": "DAB Kids April 30 - 2026",
+      "datePublished": 1777507200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+120+-+April+30%2C+2026.m4a",
+      "duration": 258
+    },
+    {
+      "uuid": "54426c4b-6b72-48f4-a74f-2007b08519b3",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222264",
+      "name": "DAB Kids April 29 - 2026",
+      "datePublished": 1777420800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+119+-+April+29%2C+2026.m4a",
+      "duration": 384
+    },
+    {
+      "uuid": "f64239b4-c562-4488-9766-07dd9d73d05f",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222263",
+      "name": "DAB Kids April 28 - 2026",
+      "datePublished": 1777334400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+118+-+April+28%2C+2026.m4a",
+      "duration": 227
+    },
+    {
+      "uuid": "b4443546-8129-4967-9378-aae2e53b5610",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222262",
+      "name": "DAB Kids April 27 - 2026",
+      "datePublished": 1777248000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+117+-+April+27%2C+2026.m4a",
+      "duration": 345
+    },
+    {
+      "uuid": "7ab646ff-599c-4163-a57d-f6f29cc009f6",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222261",
+      "name": "DAB Kids April 26 - 2026",
+      "datePublished": 1777161600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+116+-+April+26%2C+2026.m4a",
+      "duration": 245
+    },
+    {
+      "uuid": "dfdc8ced-a516-426f-9bf2-5654fe5f4618",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222260",
+      "name": "DAB Kids April 25 - 2026",
+      "datePublished": 1777075200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+115+-+April+25%2C+2026.m4a",
+      "duration": 251
+    },
+    {
+      "uuid": "cb7bafeb-3c61-409b-b40e-a50706c90090",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222259",
+      "name": "DAB Kids April 24 - 2026",
+      "datePublished": 1776988800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+114+-+April+24%2C+2026.m4a",
+      "duration": 289
+    },
+    {
+      "uuid": "fe8a0d29-b416-465b-b24b-dd5b00043948",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222258",
+      "name": "DAB Kids April 23 - 2026",
+      "datePublished": 1776902400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+113+-+April+23%2C+2026.m4a",
+      "duration": 295
+    },
+    {
+      "uuid": "399adeee-f18f-4188-b15e-4453c8732427",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222257",
+      "name": "DAB Kids April 22 - 2026",
+      "datePublished": 1776816000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+112+-+April+22%2C+2026.m4a",
+      "duration": 419
+    },
+    {
+      "uuid": "b43b392c-05ca-4632-a86e-053215879718",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222256",
+      "name": "DAB Kids April 21 - 2026",
+      "datePublished": 1776729600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+111+-+April+21%2C+2026.m4a",
+      "duration": 216
+    },
+    {
+      "uuid": "57ef0901-898b-411c-a625-0e1d19d27934",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222255",
+      "name": "DAB Kids April 20 - 2026",
+      "datePublished": 1776643200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+110+-+April+20%2C+2026.m4a",
+      "duration": 285
+    },
+    {
+      "uuid": "47a18e81-6b25-43f8-8787-20e154b4a7a9",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222254",
+      "name": "DAB Kids April 19 - 2026",
+      "datePublished": 1776556800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+109+-+April+19%2C+2026.m4a",
+      "duration": 302
+    },
+    {
+      "uuid": "02cdbc4d-3cee-4a5f-9d55-7653c97fea48",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222253",
+      "name": "DAB Kids April 18 - 2026",
+      "datePublished": 1776470400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+108+-+April+18%2C+2026.m4a",
+      "duration": 382
+    },
+    {
+      "uuid": "eb045084-ce0a-486a-b235-946152af51c8",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222252",
+      "name": "DAB Kids April 17 - 2026",
+      "datePublished": 1776384000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+107+-+April+17%2C+2026.m4a",
+      "duration": 263
+    },
+    {
+      "uuid": "e39d0669-d267-446d-b4e2-36ad8abaa0ca",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222251",
+      "name": "DAB Kids April 16 - 2026",
+      "datePublished": 1776297600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+106+-+April+16%2C+2026.m4a",
+      "duration": 244
+    },
+    {
+      "uuid": "686f46a0-2d50-42c1-a621-c516ed74eada",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222250",
+      "name": "DAB Kids April 15 - 2026",
+      "datePublished": 1776211200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+105+-+April+15%2C+2026.m4a",
+      "duration": 224
+    },
+    {
+      "uuid": "927c24d4-0b8a-4d71-bcb3-c2be2b5271ad",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222249",
+      "name": "DAB Kids April 14 - 2026",
+      "datePublished": 1776124800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+104+-+April+14%2C+2026.m4a",
+      "duration": 316
+    },
+    {
+      "uuid": "b669d4eb-1a6c-43eb-8d49-6e86df2e8a50",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222248",
+      "name": "DAB Kids April 13 - 2026",
+      "datePublished": 1776038400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+103+-+April+13%2C+2026.m4a",
+      "duration": 356
+    },
+    {
+      "uuid": "7a44036a-4f90-40cd-98ba-1e349f4f66b4",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222247",
+      "name": "DAB Kids April 12 - 2026",
+      "datePublished": 1775952000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+102+-+April+12%2C+2026.m4a",
+      "duration": 295
+    },
+    {
+      "uuid": "31cddd87-a2ca-495f-948f-3e1234001e57",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222246",
+      "name": "DAB Kids April 11 - 2026",
+      "datePublished": 1775865600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+101+-+April+11%2C+2026.m4a",
+      "duration": 243
+    },
+    {
+      "uuid": "1434c497-89e6-4115-80b3-a0968c597e3d",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222245",
+      "name": "DAB Kids April 10 - 2026",
+      "datePublished": 1775779200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+100+-+April+10%2C+2026.m4a",
+      "duration": 255
+    },
+    {
+      "uuid": "876c3341-c9d3-4d0a-b85b-9827b2650e4e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222244",
+      "name": "DAB Kids April 09 - 2026",
+      "datePublished": 1775692800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+099+-+April+09%2C+2026.m4a",
+      "duration": 210
+    },
+    {
+      "uuid": "d0e58d00-53f5-4e4a-af2b-c9a085913f29",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222243",
+      "name": "DAB Kids April 08 - 2026",
+      "datePublished": 1775606400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+098+-+April+08%2C+2026.m4a",
+      "duration": 277
+    },
+    {
+      "uuid": "4ab7e663-4dda-4c70-ada6-619851699ff2",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222242",
+      "name": "DAB Kids April 07 - 2026",
+      "datePublished": 1775520000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+097+-+April+07%2C+2026.m4a",
+      "duration": 293
+    },
+    {
+      "uuid": "b852cd6c-5fea-4bf6-938b-036fa8af45fb",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222241",
+      "name": "DAB Kids April 06 - 2026",
+      "datePublished": 1775433600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+096+-+April+06%2C+2026.m4a",
+      "duration": 239
+    },
+    {
+      "uuid": "d330b7c8-cfdc-485b-b4fb-4cabab537d58",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222240",
+      "name": "DAB Kids April 05 - 2026",
+      "datePublished": 1775347200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+095+-+April+05%2C+2026.m4a",
+      "duration": 242
+    },
+    {
+      "uuid": "632f0b2c-f61d-4e98-adaa-2657ede370d6",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222239",
+      "name": "DAB Kids April 04 - 2026",
+      "datePublished": 1775260800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+094+-+April+04%2C+2026.m4a",
+      "duration": 298
+    },
+    {
+      "uuid": "d118b641-67cb-42ff-b679-225cb198d05d",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222238",
+      "name": "DAB Kids April 03 - 2026",
+      "datePublished": 1775174400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+093+-+April+03%2C+2026.m4a",
+      "duration": 298
+    },
+    {
+      "uuid": "a82d28fb-3398-4457-9af3-cd8791a0af72",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222237",
+      "name": "DAB Kids April 02 - 2026",
+      "datePublished": 1775088000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+092+-+April+02%2C+2026.m4a",
+      "duration": 355
+    },
+    {
+      "uuid": "b4db0b7f-50dc-4bd6-8650-86ef8920dcc3",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222236",
+      "name": "DAB Kids April 01 - 2026",
+      "datePublished": 1775001600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+091+-+April+01%2C+2026.m4a",
+      "duration": 386
+    },
+    {
+      "uuid": "fea10a16-4af6-49be-9cf0-e9374637fc32",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222235",
+      "name": "DAB Kids March 31 - 2026",
+      "datePublished": 1774915200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+090+-+March+31%2C+2026.m4a",
+      "duration": 295
+    },
+    {
+      "uuid": "b93df53d-d18f-47b9-874b-04caf28766ad",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222234",
+      "name": "DAB Kids March 30 - 2026",
+      "datePublished": 1774828800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+089+-+March+30%2C+2026.m4a",
+      "duration": 278
+    },
+    {
+      "uuid": "9039cbc2-603f-42ec-a9f1-5a4841da7ccf",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222233",
+      "name": "DAB Kids March 29 - 2026",
+      "datePublished": 1774742400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+088+-+March+29%2C+2026.m4a",
+      "duration": 394
+    },
+    {
+      "uuid": "cbf13010-bcda-441b-9191-62bffbb1a6a1",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222232",
+      "name": "DAB Kids March 28 - 2026",
+      "datePublished": 1774656000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+087+-+March+28%2C+2026.m4a",
+      "duration": 278
+    },
+    {
+      "uuid": "501f94ee-9234-46db-9aad-c1e54f7a29a0",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222231",
+      "name": "DAB Kids March 27 - 2026",
+      "datePublished": 1774569600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+086+-+March+27%2C+2026.m4a",
+      "duration": 356
+    },
+    {
+      "uuid": "2aa57963-2ab8-4453-9352-499ceb67fef5",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222230",
+      "name": "DAB Kids March 26 - 2026",
+      "datePublished": 1774483200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+085+-+March+26%2C+2026.m4a",
+      "duration": 288
+    },
+    {
+      "uuid": "638d8751-257c-47dd-91c5-c912b6bb3191",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222229",
+      "name": "DAB Kids March 25 - 2026",
+      "datePublished": 1774396800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+084+-+March+25%2C+2026.m4a",
+      "duration": 330
+    },
+    {
+      "uuid": "b0ad1260-a02c-4f4f-b2c0-f36bb6891619",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222228",
+      "name": "DAB Kids March 24 - 2026",
+      "datePublished": 1774310400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+083+-+March+24%2C+2026.m4a",
+      "duration": 373
+    },
+    {
+      "uuid": "4589f824-9450-4fa3-b79e-03daee9ab363",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222227",
+      "name": "DAB Kids March 23 - 2026",
+      "datePublished": 1774224000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+082+-+March+23%2C+2026.m4a",
+      "duration": 330
+    },
+    {
+      "uuid": "8ecd8fa7-b451-4bfb-85cd-a1dee7d8866e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222226",
+      "name": "DAB Kids March 22 - 2026",
+      "datePublished": 1774137600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+081+-+March+22%2C+2026.m4a",
+      "duration": 251
+    },
+    {
+      "uuid": "b2a4d514-726b-4713-8cd5-1ed90fdd5583",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222225",
+      "name": "DAB Kids March 21 - 2026",
+      "datePublished": 1774051200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+080+-+March+21%2C+2026.m4a",
+      "duration": 321
+    },
+    {
+      "uuid": "91ae039d-125e-4eb9-8ec0-704ccf033ffb",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222224",
+      "name": "DAB Kids March 20 - 2026",
+      "datePublished": 1773964800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+079+-+March+20%2C+2026.m4a",
+      "duration": 307
+    },
+    {
+      "uuid": "0fd1069d-08b5-4f41-93cf-c590309f842a",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222223",
+      "name": "DAB Kids March 19 - 2026",
+      "datePublished": 1773878400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+078+-+March+19%2C+2026.m4a",
+      "duration": 333
+    },
+    {
+      "uuid": "3e059264-4492-4746-9de2-e1b8e5020114",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222222",
+      "name": "DAB Kids March 18 - 2026",
+      "datePublished": 1773792000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+077+-+March+18%2C+2026.m4a",
+      "duration": 390
+    },
+    {
+      "uuid": "47f079e1-997a-458f-9cce-cbf1c974818b",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222221",
+      "name": "DAB Kids March 17 - 2026",
+      "datePublished": 1773705600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+076+-+March+17%2C+2026.m4a",
+      "duration": 160
+    },
+    {
+      "uuid": "66df444f-5a4a-4273-98f2-4209c23d9d3a",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222220",
+      "name": "DAB Kids March 16 - 2026",
+      "datePublished": 1773619200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+075+-+March+16%2C+2026.m4a",
+      "duration": 402
+    },
+    {
+      "uuid": "80120b5e-cf35-44bf-8308-422b7a5a2e82",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222219",
+      "name": "DAB Kids March 15 - 2026",
+      "datePublished": 1773532800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+074+-+March+15%2C+2026.m4a",
+      "duration": 222
+    },
+    {
+      "uuid": "c164f2f8-fe96-44a3-a0ef-4ee8ebb370d3",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222218",
+      "name": "DAB Kids March 14 - 2026",
+      "datePublished": 1773446400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+073+-+March+14%2C+2026.m4a",
+      "duration": 241
+    },
+    {
+      "uuid": "a5ef2659-5524-4b3c-ab4c-c49b18a8c51c",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222217",
+      "name": "DAB Kids March 13 - 2026",
+      "datePublished": 1773360000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+072+-+March+13%2C+2026.m4a",
+      "duration": 360
+    },
+    {
+      "uuid": "ee86b82e-6b42-4ff2-8384-65d65df68612",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222216",
+      "name": "DAB Kids March 12 - 2026",
+      "datePublished": 1773273600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+071+-+March+12%2C+2026.m4a",
+      "duration": 282
+    },
+    {
+      "uuid": "91cd9043-fd51-4f88-8b8a-dd2babb75d8c",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222215",
+      "name": "DAB Kids March 11 - 2026",
+      "datePublished": 1773187200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+070+-+March+11%2C+2026.m4a",
+      "duration": 343
+    },
+    {
+      "uuid": "2c75ff59-b73d-4e62-a493-267de932a2e0",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222214",
+      "name": "DAB Kids March 10 - 2026",
+      "datePublished": 1773100800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+069+-+March+10%2C+2026.m4a",
+      "duration": 279
+    },
+    {
+      "uuid": "dafcb56e-b23b-4f6b-b1b3-124c3a436717",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222213",
+      "name": "DAB Kids March 09 - 2026",
+      "datePublished": 1773014400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+068+-+March+09%2C+2026.m4a",
+      "duration": 265
+    },
+    {
+      "uuid": "4c170786-b290-4edd-9cad-3fe1411f69d7",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222212",
+      "name": "DAB Kids March 08 - 2026",
+      "datePublished": 1772928000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+067+-+March+08%2C+2026.m4a",
+      "duration": 282
+    },
+    {
+      "uuid": "4c0f8f59-a2ce-4183-b8bb-2f92f4ee7699",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222211",
+      "name": "DAB Kids March 07 - 2026",
+      "datePublished": 1772841600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+066+-+March+07%2C+2026.m4a",
+      "duration": 295
+    },
+    {
+      "uuid": "2f17e65b-0fad-4bf7-b533-91a5ff553abb",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222210",
+      "name": "DAB Kids March 06 - 2026",
+      "datePublished": 1772755200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+065+-+March+06%2C+2026.m4a",
+      "duration": 248
+    },
+    {
+      "uuid": "d3a6aa32-6641-463b-8951-11163a267999",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222209",
+      "name": "DAB Kids March 05 - 2026",
+      "datePublished": 1772668800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+064+-+March+05%2C+2026.m4a",
+      "duration": 204
+    },
+    {
+      "uuid": "c85cee9b-bd24-4c7b-8c8a-31344bb1c50f",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222208",
+      "name": "DAB Kids March 04 - 2026",
+      "datePublished": 1772582400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+063+-+March+04%2C+2026.m4a",
+      "duration": 350
+    },
+    {
+      "uuid": "058143c2-4ea2-421a-b94a-93acb078e8cf",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222206",
+      "name": "DAB Kids March 02 - 2026",
+      "datePublished": 1772409600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+061+-+March+02%2C+2026.m4a",
+      "duration": 333
+    },
+    {
+      "uuid": "a0f41d3a-10ca-4f7f-8b96-b86d20ae5de5",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222205",
+      "name": "DAB Kids March 01 - 2026",
+      "datePublished": 1772323200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+060+-+March+01%2C+2026.m4a",
+      "duration": 363
+    },
+    {
+      "uuid": "7596c886-0661-450f-aeee-691bf6be67ce",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222204",
+      "name": "DAB Kids February 28 - 2026",
+      "datePublished": 1772236800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+059+-+February+28%2C+2026.m4a",
+      "duration": 351
+    },
+    {
+      "uuid": "7456cedd-2bf4-40b8-99fa-614bb474140e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222203",
+      "name": "DAB Kids February 27 - 2026",
+      "datePublished": 1772150400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+058+-+February+27%2C+2026.m4a",
+      "duration": 339
+    },
+    {
+      "uuid": "e26fe869-7bc5-44ed-99f6-6b5b5f21d290",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222202",
+      "name": "DAB Kids February 26 - 2026",
+      "datePublished": 1772064000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+057+-+February+26%2C+2026.m4a",
+      "duration": 273
+    },
+    {
+      "uuid": "9e8db306-7b7c-4a62-9335-1f9061876d2b",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222201",
+      "name": "DAB Kids February 25 - 2026",
+      "datePublished": 1771977600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+056+-+February+25%2C+2026.m4a",
+      "duration": 298
+    },
+    {
+      "uuid": "77f082f0-ba40-4490-a4c0-ba7876ccbf6f",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222200",
+      "name": "DAB Kids February 24 - 2026",
+      "datePublished": 1771891200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+055+-+February+24%2C+2026.m4a",
+      "duration": 329
+    },
+    {
+      "uuid": "024a7cf5-948b-4dff-acae-b6ea50d94ffb",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222199",
+      "name": "DAB Kids February 23 - 2026",
+      "datePublished": 1771804800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+054+-+February+23%2C+2026.m4a",
+      "duration": 303
+    },
+    {
+      "uuid": "7233b877-1b18-45af-8675-5234a45738d0",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222198",
+      "name": "DAB Kids February 22 - 2026",
+      "datePublished": 1771718400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+053+-+February+22%2C+2026.m4a",
+      "duration": 310
+    },
+    {
+      "uuid": "009a1db6-dc07-4b33-9a69-2899d5db3953",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222197",
+      "name": "DAB Kids February 21 - 2026",
+      "datePublished": 1771632000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+052+-+February+21%2C+2026.m4a",
+      "duration": 215
+    },
+    {
+      "uuid": "c97e85a1-c7f6-4ef4-986a-bd27d2e2d672",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222196",
+      "name": "DAB Kids February 20 - 2026",
+      "datePublished": 1771545600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+051+-+February+20%2C+2026.m4a",
+      "duration": 327
+    },
+    {
+      "uuid": "fe6269bd-f932-4baf-a48b-8bf36bd2d810",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222195",
+      "name": "DAB Kids February 19 - 2026",
+      "datePublished": 1771459200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+050+-+February+19%2C+2026.m4a",
+      "duration": 360
+    },
+    {
+      "uuid": "37e46b53-00ff-4dd6-a9d1-1e5575f40bda",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222194",
+      "name": "DAB Kids February 18 - 2026",
+      "datePublished": 1771372800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+049+-+February+18%2C+2026.m4a",
+      "duration": 286
+    },
+    {
+      "uuid": "09db902d-a8f4-48f4-9625-059352ab52b6",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222193",
+      "name": "DAB Kids February 17 - 2026",
+      "datePublished": 1771286400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+048+-+February+17%2C+2026.m4a",
+      "duration": 314
+    },
+    {
+      "uuid": "f66c8275-5bb3-49c7-8414-2678ae0ad182",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222192",
+      "name": "DAB Kids February 16 - 2026",
+      "datePublished": 1771200000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+047+-+February+16%2C+2026.m4a",
+      "duration": 321
+    },
+    {
+      "uuid": "917757ad-8e05-4f76-a78e-7efc3f6abce8",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222191",
+      "name": "DAB Kids February 15 - 2026",
+      "datePublished": 1771113600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+046+-+February+15%2C+2026.m4a",
+      "duration": 235
+    },
+    {
+      "uuid": "9b85f504-ec94-4924-aa25-7b439c833e9e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222190",
+      "name": "DAB Kids February 14 - 2026",
+      "datePublished": 1771027200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+045+-+February+14%2C+2026.m4a",
+      "duration": 209
+    },
+    {
+      "uuid": "e6cb53f7-0863-42e1-b140-248832666fcf",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222189",
+      "name": "DAB Kids February 13 - 2026",
+      "datePublished": 1770940800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+044+-+February+13%2C+2026.m4a",
+      "duration": 410
+    },
+    {
+      "uuid": "45cd908a-8562-45b9-975a-8355693e9db3",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222188",
+      "name": "DAB Kids February 12 - 2026",
+      "datePublished": 1770854400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+043+-+February+12%2C+2026.m4a",
+      "duration": 265
+    },
+    {
+      "uuid": "3da92f05-92d7-4a53-a56f-bdeb7d8a1244",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222187",
+      "name": "DAB Kids February 11 - 2026",
+      "datePublished": 1770768000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+042+-+February+11%2C+2026.m4a",
+      "duration": 234
+    },
+    {
+      "uuid": "2c8cdfd9-0963-40e9-b067-ffc8aeff679b",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222186",
+      "name": "DAB Kids February 10 - 2026",
+      "datePublished": 1770681600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+041+-+February+10%2C+2026.m4a",
+      "duration": 300
+    },
+    {
+      "uuid": "0dfa625e-5342-4c72-bbc4-031773c22504",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222185",
+      "name": "DAB Kids February 09 - 2026",
+      "datePublished": 1770595200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+040+-+February+09%2C+2026.m4a",
+      "duration": 300
+    },
+    {
+      "uuid": "c9922569-a931-44df-8ad5-1fec0c4bac33",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222184",
+      "name": "DAB Kids February 08 - 2026",
+      "datePublished": 1770508800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+039+-+February+08%2C+2026.m4a",
+      "duration": 340
+    },
+    {
+      "uuid": "ac1433fa-bd8a-4801-b589-d7468dc342b6",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222183",
+      "name": "DAB Kids February 07 - 2026",
+      "datePublished": 1770422400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+038+-+February+07%2C+2026.m4a",
+      "duration": 356
+    },
+    {
+      "uuid": "db0583af-895f-41e4-a625-7310ebb95d02",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222182",
+      "name": "DAB Kids February 06 - 2026",
+      "datePublished": 1770336000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+037+-+February+06%2C+2026.m4a",
+      "duration": 234
+    },
+    {
+      "uuid": "0e1bc906-fb61-4b5a-8b58-5b295b53c2d5",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222181",
+      "name": "DAB Kids February 05 - 2026",
+      "datePublished": 1770249600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+036+-+February+05%2C+2026.m4a",
+      "duration": 250
+    },
+    {
+      "uuid": "da9952e1-733c-4a86-8033-7a18ccb0e6b2",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222180",
+      "name": "DAB Kids February 04 - 2026",
+      "datePublished": 1770163200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+035+-+February+04%2C+2026.m4a",
+      "duration": 390
+    },
+    {
+      "uuid": "4ef2e9da-a2ae-4e12-a02e-1dd8aec92190",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222179",
+      "name": "DAB Kids February 03 - 2026",
+      "datePublished": 1770076800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+034+-+February+03%2C+2026.m4a",
+      "duration": 254
+    },
+    {
+      "uuid": "1c050c03-00d1-40c8-a159-427b7934f7a5",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222178",
+      "name": "DAB Kids February 02 - 2026",
+      "datePublished": 1769990400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+033+-+February+02%2C+2026.m4a",
+      "duration": 375
+    },
+    {
+      "uuid": "6f219305-8520-43c1-accc-e5d367f61a8e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222177",
+      "name": "DAB Kids February 01 - 2026",
+      "datePublished": 1769904000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+032+-+February+01%2C+2026.m4a",
+      "duration": 364
+    },
+    {
+      "uuid": "7a3fc4df-9233-4925-8c43-b02b7a274aae",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222176",
+      "name": "DAB Kids January 31 - 2026",
+      "datePublished": 1769817600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+031+-+January+31%2C+2026.m4a",
+      "duration": 321
+    },
+    {
+      "uuid": "589bd48b-6d22-42e4-98ee-8ef0cf37a5db",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222175",
+      "name": "DAB Kids January 30 - 2026",
+      "datePublished": 1769731200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+030+-+January+30%2C+2026.m4a",
+      "duration": 281
+    },
+    {
+      "uuid": "b33be84f-9946-4caf-b21c-08350494f6bd",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222174",
+      "name": "DAB Kids January 29 - 2026",
+      "datePublished": 1769644800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+029+-+January+29%2C+2026.m4a",
+      "duration": 356
+    },
+    {
+      "uuid": "4b7eddad-cff3-4a38-8bad-d91b3db8446c",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222173",
+      "name": "DAB Kids January 28 - 2026",
+      "datePublished": 1769558400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+028+-+January+28%2C+2026.m4a",
+      "duration": 260
+    },
+    {
+      "uuid": "9fc03deb-d2ed-473c-a6c1-9890e33f07b8",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222172",
+      "name": "DAB Kids January 27 - 2026",
+      "datePublished": 1769472000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+027+-+January+27%2C+2026.m4a",
+      "duration": 333
+    },
+    {
+      "uuid": "803ff2f8-4d48-4836-ade7-89ed1780654e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222171",
+      "name": "DAB Kids January 26 - 2026",
+      "datePublished": 1769385600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+026+-+January+26%2C+2026.m4a",
+      "duration": 199
+    },
+    {
+      "uuid": "40f72ca2-f944-4a88-a240-0742982ce6fc",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222170",
+      "name": "DAB Kids January 25 - 2026",
+      "datePublished": 1769299200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+025+-+January+25%2C+2026.m4a",
+      "duration": 329
+    },
+    {
+      "uuid": "97a98c75-cf7a-4590-8e32-9eb2a5f7e58c",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222169",
+      "name": "DAB Kids January 24 - 2026",
+      "datePublished": 1769212800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+024+-+January+24%2C+2026.m4a",
+      "duration": 353
+    },
+    {
+      "uuid": "057ecc59-d764-4be3-9e26-8312778f06f8",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222168",
+      "name": "DAB Kids January 23 - 2026",
+      "datePublished": 1769126400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+023+-+January+23%2C+2026.m4a",
+      "duration": 330
+    },
+    {
+      "uuid": "bcb8299f-23c6-4795-8d7f-48657b1efb7b",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222167",
+      "name": "DAB Kids January 22 - 2026",
+      "datePublished": 1769040000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+022+-+January+22%2C+2026.m4a",
+      "duration": 305
+    },
+    {
+      "uuid": "c41a7dd6-c7ee-4f73-8cce-19ffb529365e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222166",
+      "name": "DAB Kids January 21 - 2026",
+      "datePublished": 1768953600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+021+-+January+21%2C+2026.m4a",
+      "duration": 218
+    },
+    {
+      "uuid": "351fce40-0e3a-4a4b-800a-6db709d29515",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222165",
+      "name": "DAB Kids January 20 - 2026",
+      "datePublished": 1768867200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+020+-+January+20%2C+2026.m4a",
+      "duration": 281
+    },
+    {
+      "uuid": "ef6c6447-9fcb-420a-849b-03af7d0b1255",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222164",
+      "name": "DAB Kids January 19 - 2026",
+      "datePublished": 1768780800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+019+-+January+19%2C+2026.m4a",
+      "duration": 372
+    },
+    {
+      "uuid": "3c481410-4e6a-4b12-88a7-26f5fac4eeba",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222163",
+      "name": "DAB Kids January 18 - 2026",
+      "datePublished": 1768694400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+018+-+January+18%2C+2026.m4a",
+      "duration": 385
+    },
+    {
+      "uuid": "e423ae1b-4c1c-45b1-ae8f-6174cb582dfb",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222162",
+      "name": "DAB Kids January 17 - 2026",
+      "datePublished": 1768608000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+017+-+January+17%2C+2026.m4a",
+      "duration": 203
+    },
+    {
+      "uuid": "565e38bc-8e93-47ae-adba-cf106cd09d0a",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222161",
+      "name": "DAB Kids January 16 - 2026",
+      "datePublished": 1768521600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+016+-+January+16%2C+2026.m4a",
+      "duration": 291
+    },
+    {
+      "uuid": "d74b5851-65d2-42f2-b829-410867dc05e4",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222160",
+      "name": "DAB Kids January 15 - 2026",
+      "datePublished": 1768435200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+015+-+January+15%2C+2026.m4a",
+      "duration": 229
+    },
+    {
+      "uuid": "1699e667-3846-4d9b-97b9-2e78a9c8f600",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222159",
+      "name": "DAB Kids January 14 - 2026",
+      "datePublished": 1768348800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+014+-+January+14%2C+2026.m4a",
+      "duration": 210
+    },
+    {
+      "uuid": "000413da-c25e-4dd6-8e72-06232db3f894",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222158",
+      "name": "DAB Kids January 13 - 2026",
+      "datePublished": 1768262400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+013+-+January+13%2C+2026.m4a",
+      "duration": 363
+    },
+    {
+      "uuid": "4d6ca2f2-b768-4613-8277-9f3c81340bbd",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222157",
+      "name": "DAB Kids January 12 - 2026",
+      "datePublished": 1768176000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+012+-+January+12%2C+2026.m4a",
+      "duration": 278
+    },
+    {
+      "uuid": "8efc125d-e948-480d-be95-d884969d849b",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222156",
+      "name": "DAB Kids January 11 - 2026",
+      "datePublished": 1768089600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+011+-+January+11%2C+2026.m4a",
+      "duration": 226
+    },
+    {
+      "uuid": "45b4d7bb-fef0-410b-be7f-dbe93fb9dc29",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222155",
+      "name": "DAB Kids January 10 - 2026",
+      "datePublished": 1768003200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+010+-+January+10%2C+2026.m4a",
+      "duration": 325
+    },
+    {
+      "uuid": "71348f49-03cb-4c8f-a0b7-eb39f88a267c",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222154",
+      "name": "DAB Kids January 09 - 2026",
+      "datePublished": 1767916800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+009+-+January+09%2C+2026.m4a",
+      "duration": 214
+    },
+    {
+      "uuid": "b2632a2b-93ae-4f2f-8330-4f85d23460cb",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222153",
+      "name": "DAB Kids January 08 - 2026",
+      "datePublished": 1767830400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+008+-+January+08%2C+2026.m4a",
+      "duration": 333
+    },
+    {
+      "uuid": "8013f340-4c5f-4d25-9348-604584c4cc17",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222152",
+      "name": "DAB Kids January 07 - 2026",
+      "datePublished": 1767744000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+007+-+January+07%2C+2026.m4a",
+      "duration": 357
+    },
+    {
+      "uuid": "9a24b5da-f234-43de-af89-d6591ff02f0c",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222151",
+      "name": "DAB Kids January 06 - 2026",
+      "datePublished": 1767657600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+006+-+January+06%2C+2026.m4a",
+      "duration": 277
+    },
+    {
+      "uuid": "c82d6245-1079-4325-8c93-ca3fcdd51214",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222150",
+      "name": "DAB Kids January 05 - 2026",
+      "datePublished": 1767571200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+005+-+January+05%2C+2026.m4a",
+      "duration": 316
+    },
+    {
+      "uuid": "e4acf546-fcba-45a2-b362-6f0f28a342f4",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222149",
+      "name": "DAB Kids January 04 - 2026",
+      "datePublished": 1767484800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+004+-+January+04%2C+2026.m4a",
+      "duration": 304
+    },
+    {
+      "uuid": "5aaa57f1-abe1-4b97-9982-2277a082c654",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222148",
+      "name": "DAB Kids January 03 - 2026",
+      "datePublished": 1767398400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+003+-+January+03%2C+2026.m4a",
+      "duration": 224
+    },
+    {
+      "uuid": "08a01779-0072-4184-aa42-2f3bebb3e630",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222147",
+      "name": "DAB Kids January 02 - 2026",
+      "datePublished": 1767312000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+002+-+January+02%2C+2026.m4a",
+      "duration": 352
+    },
+    {
+      "uuid": "7b021329-685a-42db-b8f0-79354a471a1f",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=222146",
+      "name": "DAB Kids January 01 - 2026",
+      "datePublished": 1767225600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Kids+-+01+-+001+-+January+01%2C+2026.m4a",
+      "duration": 537
+    }
+  ]
+}

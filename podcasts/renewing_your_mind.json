@@ -1,0 +1,969 @@
+{
+  "podcastId": "renewing_your_mind",
+  "name": "Renewing Your Mind",
+  "host": "R.C. Sproul",
+  "taddyUuid": "d7d297d7-0d88-4f0f-8a07-3807e80cb3b0",
+  "totalEpisodes": 120,
+  "episodes": [
+    {
+      "uuid": "2dff7656-bd44-4bc2-9b8d-a9442f6090b3",
+      "guid": "43735155-8e90-4cd9-8b88-2d93d5aeef36",
+      "name": "The Presence of God",
+      "datePublished": 1779422460,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260522.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "791853ec-8a7b-4a1d-a423-6b3bec41fe56",
+      "guid": "97567410-b0e9-44be-94ed-9b65813bbf99",
+      "name": "Preserved by God",
+      "datePublished": 1779336060,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260521.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "6ab6232c-5810-4155-bd3c-3a63c3af0fd2",
+      "guid": "50b34813-242d-4282-8ebb-018ec3dce51b",
+      "name": "Equipped by God",
+      "datePublished": 1779249660,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260520.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "4f35c6f1-dffa-49af-93d2-5b8514be184b",
+      "guid": "d0899edf-c2d5-43fc-8715-4f0324ab0e6f",
+      "name": "The Ability of God",
+      "datePublished": 1779163260,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260519.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "23ebb00e-6a1f-4d34-8919-38f307b13c38",
+      "guid": "99707c43-f3f8-410e-84fb-d5b56e9e2dc9",
+      "name": "A Happy Marriage",
+      "datePublished": 1779076860,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260518.mp3?dest-id=668712",
+      "duration": 1861
+    },
+    {
+      "uuid": "b06e29c7-e043-4870-9c6e-74489fbe84c6",
+      "guid": "8335ba08-4a1f-4f05-b605-f1dc2c14a9c1",
+      "name": "God's Wrath on Unrighteousness",
+      "datePublished": 1778990460,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260517.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "e79a3f7b-040c-415f-ac60-c162c70a4d50",
+      "guid": "bf8bed2f-0b37-4dd1-b1b7-1162785a943f",
+      "name": "Faith Alone",
+      "datePublished": 1778904060,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260516.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "4a015f49-1a26-47f4-8812-0aee58be1130",
+      "guid": "0b817d71-1c26-44dd-80dc-ce4004196f2b",
+      "name": "Communion with God",
+      "datePublished": 1778817660,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260515.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "adc57d55-c2f5-4992-8eaa-212f9d1bb2b1",
+      "guid": "9c7cbfb5-0655-4f49-9645-d85fd5f68e3c",
+      "name": "The Marks of a True Church",
+      "datePublished": 1778731260,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260514.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "7bd2fa1a-86a9-4ad2-b7cc-8a6207f92421",
+      "guid": "faa57a6b-ee9c-49bf-88f7-3af9e8f262e7",
+      "name": "Doctrine Divides",
+      "datePublished": 1778644860,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260513.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "86c9dac6-1d51-4980-9d28-03c28850aa01",
+      "guid": "21bb7b02-ebf0-4dfa-937a-dbb00f11fa84",
+      "name": "United in the Truth",
+      "datePublished": 1778558460,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260512.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "481795f2-d95e-44b0-af7c-8bc22f2d2e0d",
+      "guid": "670e840c-8457-4a32-85eb-71da160675bc",
+      "name": "The Church Is One",
+      "datePublished": 1778472060,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260511.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "e8325e26-60db-47ce-8fcf-562fee1e36bf",
+      "guid": "45d19421-c9cf-47f6-b54c-279a316a146a",
+      "name": "Sermon on the Mount",
+      "datePublished": 1778385660,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260510.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "b051803f-cadf-418b-b54c-7f72b4c69988",
+      "guid": "8d37385e-a0d4-42b5-a615-b1dd2d0f72ca",
+      "name": "The Knight's Map",
+      "datePublished": 1778299260,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260509.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "14cb67db-b69a-4ae0-906e-16c8f2642500",
+      "guid": "fdd5d759-9bc2-4bba-a6c1-f403c3956dc4",
+      "name": "Sacraments",
+      "datePublished": 1778212860,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260508.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "26c2751a-0fa8-4fcb-a68f-a31489cfe486",
+      "guid": "11f0c1c2-5a57-4537-abe0-1da3a9fd19fb",
+      "name": "The Church and Salvation",
+      "datePublished": 1778126460,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260507.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "ac40b71e-899d-4ee6-a210-d3f5c9395283",
+      "guid": "6b2f206d-3065-4874-8aed-09b588655054",
+      "name": "Papal Infallibility",
+      "datePublished": 1778040060,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260506.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "aa2a36ff-605d-40c6-aecf-264b7a44821f",
+      "guid": "5d7e7d6c-a36f-47af-9bc3-9d0f292f717f",
+      "name": "The Trust of a Man",
+      "datePublished": 1777953660,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260505.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "fc7c0c52-76f5-4c88-8c2a-d2c5a96843f8",
+      "guid": "949083c4-67f6-406d-95d4-91b5e0721b8b",
+      "name": "The Word of a Man",
+      "datePublished": 1777867260,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260504.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "6facb7bd-4603-4c84-880c-e517686faf91",
+      "guid": "06f65652-45d8-4fd5-bde7-c55579a04bdd",
+      "name": "The Beatitudes: Blessed Are the Persecuted",
+      "datePublished": 1777780860,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260503.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "632afe01-0de5-48c1-9b96-be6147619ced",
+      "guid": "4c32e6d5-e96a-4009-8807-5c18b0267073",
+      "name": "The Believer's Final Rest",
+      "datePublished": 1777694460,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260502.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "c2bfdf28-8d31-4c59-b6bf-a5aa3d6e4122",
+      "guid": "c96342ba-1320-4d38-9126-0dd6d8512b2e",
+      "name": "Psalm 145: God Is All",
+      "datePublished": 1777608060,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260501.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "ed8898b2-8781-41f7-b670-eab4b03f91f3",
+      "guid": "92137580-b908-476b-acd5-686f054662ee",
+      "name": "Psalm 127: The Lord's Beloved",
+      "datePublished": 1777521660,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260430.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "385fdab4-b1cc-4f93-bb08-1865376de3e0",
+      "guid": "0eb3f565-b34b-449f-badd-fb016a3526e2",
+      "name": "The Indwelling of the Spirit",
+      "datePublished": 1777435260,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260429.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "f28188c2-220f-42d8-84f4-907c7d3a2d2e",
+      "guid": "7afdf395-e46e-4f7a-a93e-2cbda4e27469",
+      "name": "A New Mind-Set",
+      "datePublished": 1777348860,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260428.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "93cc040e-287c-4cb7-b8d7-a049c6082ae8",
+      "guid": "13f56609-421b-41cc-ae15-3fa831953c82",
+      "name": "No Condemnation",
+      "datePublished": 1777262460,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260427.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "6edcdab5-7a19-4a0c-91fd-ff84a9a4de84",
+      "guid": "a165d812-4deb-47dc-bd90-db696ae6426d",
+      "name": "The Beatitudes: Blessed Are the Pure in Heart",
+      "datePublished": 1777176060,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260426.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "f2065e8d-ef9b-4920-b796-d644a95ef1c1",
+      "guid": "1b08e3c5-fdf2-4f97-bc47-6280aafa1ffb",
+      "name": "Eternal Punishment",
+      "datePublished": 1777089660,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260425.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "acd40a03-46ad-40c2-b011-11525f0967c6",
+      "guid": "b84459c3-94b6-4a89-9b52-fea2b3990040",
+      "name": "The Battle with the Devil",
+      "datePublished": 1777003260,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260424.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "9fb40fbe-f717-4aed-876f-8ebd81abbbcf",
+      "guid": "9aac0784-a9d7-4473-b55d-ad6553ddb04d",
+      "name": "The Battle with the Flesh",
+      "datePublished": 1776916860,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260423.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "b5e36f6e-d856-41e8-a19b-0ab0620e863d",
+      "guid": "cb4d0c47-429b-4dfc-9506-a8c8a76d63e6",
+      "name": "The Battle with the World",
+      "datePublished": 1776830460,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260422.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "9f7e4182-2e49-46fc-bbec-97bedad5ab24",
+      "guid": "ed15e992-3c62-4a60-a6c1-5bf93f0348f8",
+      "name": "Beware of the Leaven of the Pharisees",
+      "datePublished": 1776744060,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260421.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "0c4b9905-5fb3-4249-9007-9bb0c0135a5c",
+      "guid": "72f986ca-3b26-475a-8126-2edda312f953",
+      "name": "The Goal of Christian Living",
+      "datePublished": 1776657660,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260420.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "a6a86216-0cfb-476e-870d-b7a75ce07016",
+      "guid": "a5d66460-5c40-4289-adfd-e08cb1519642",
+      "name": "The Beatitudes: Blessed Are Those Who Mourn",
+      "datePublished": 1776571260,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260419.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "8db2f877-f4f3-4602-876d-9348b685155d",
+      "guid": "2bdcf902-b081-46f1-82cd-cf768fe2f075",
+      "name": "The Final Judgment",
+      "datePublished": 1776484860,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260418.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "ba1a6e9a-4800-4cd2-8f3e-721829906ffa",
+      "guid": "58938bf9-1bfd-4aee-bf0a-281af24feffb",
+      "name": "Parable of the Talents",
+      "datePublished": 1776398460,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260417.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "d6a40759-e8dd-4170-9f50-90b98ad4115d",
+      "guid": "75fcac89-b608-443e-9641-14b73aad8b54",
+      "name": "The Good Shepherd",
+      "datePublished": 1776312060,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260416.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "0a4929b8-bf7b-4d03-ab7f-86beae667d9d",
+      "guid": "5912a136-343a-44af-baad-1bf9e1eb9817",
+      "name": "The Sheep Gate",
+      "datePublished": 1776225660,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260415.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "cc2ab90b-ce43-430b-8123-99be63ca95c8",
+      "guid": "2257ea10-cf8c-4725-bf3d-d29697f417fd",
+      "name": "Why Didn't Jesus Know?",
+      "datePublished": 1776139260,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260414.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "dcc6eeb0-a86e-4745-97db-9880d953d142",
+      "guid": "c0e6141c-0e6c-46a3-8737-7575a56db1f3",
+      "name": "When Towers Fall",
+      "datePublished": 1776052860,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260413.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "5b6d0d37-0c75-4fac-8aa1-5b185da8e921",
+      "guid": "5df86925-61da-4928-bde9-18376716f81a",
+      "name": "The Beatitudes: Blessed Are the Poor in Spirit",
+      "datePublished": 1775966460,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260412.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "269ab8b6-12dd-4920-ba9c-1f141c62194d",
+      "guid": "02fa63ff-43be-46ca-97d9-a90dfd6ed31b",
+      "name": "The Return of Christ",
+      "datePublished": 1775880060,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260411.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "f9beedf1-1af6-4bd8-938d-6d8558c3b2d9",
+      "guid": "0c5c3537-3f30-4f25-a044-4c7e08c84d61",
+      "name": "Take Me Back to Canaan",
+      "datePublished": 1775793660,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260410.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "427ff3e2-03c2-4618-b7bd-ef26a5ae0a4c",
+      "guid": "8fe111da-adbc-4811-980e-762f9d741abc",
+      "name": "The Meeting",
+      "datePublished": 1775707260,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260409.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "37776098-44f7-403b-b001-e889f5e53034",
+      "guid": "bc3cf34c-7883-43c2-9d84-121ddf187bcf",
+      "name": "Feast and Famine",
+      "datePublished": 1775620860,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260408.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "b44ada53-5f84-4830-a51a-d27ab47c2ed8",
+      "guid": "70449e6d-61d1-4260-8529-d8928af9c8ab",
+      "name": "From Prison to Prominence",
+      "datePublished": 1775534460,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260407.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "ac9a5687-9b8c-4fb3-a2d5-1a247d7d91f7",
+      "guid": "95f44985-d311-497d-bf90-73c7779d9539",
+      "name": "The Timing of God's Providence",
+      "datePublished": 1775448060,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260406.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "d43e5cbc-be61-4bd2-8bc7-5c7fa6bcbfc8",
+      "guid": "4abfd3e9-1a50-4579-91b9-247c57b53c33",
+      "name": "The Resurrection",
+      "datePublished": 1775361660,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260405.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "b1b9ce31-e30b-45de-80cf-7d9ed1e88403",
+      "guid": "b2602eef-9055-43ba-a611-b81222ac54a0",
+      "name": "Future Hope: The Resurrection of Everything",
+      "datePublished": 1775275260,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260404.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "dab14ef7-4af5-4d1e-8e16-3983ae458eca",
+      "guid": "64b971e2-4084-469c-8698-856485246084",
+      "name": "The Donkey Who Carried a King",
+      "datePublished": 1775188860,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260403.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "9cab8561-64d0-4060-a396-4ac1f733ada7",
+      "guid": "181d612d-454d-4316-a8bb-92df0558e5b2",
+      "name": "Blessing or Curse?",
+      "datePublished": 1775102460,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260402.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "568990e7-5421-487e-94e0-c7e70ab58ae4",
+      "guid": "c49a8cd4-ede8-4454-87a5-472a6ab4443f",
+      "name": "Christ Our Ransom",
+      "datePublished": 1775016060,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260401.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "f2f86082-b058-4e52-9a00-9a5d04f90d32",
+      "guid": "7857ab78-340b-4670-a881-1a0c4856323e",
+      "name": "The Drama of Redemption",
+      "datePublished": 1774929660,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260331.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "4a0efc69-ed43-4e2a-ab1b-8b72488e088a",
+      "guid": "721fa209-efdc-461f-ba85-e6d396af3549",
+      "name": "The Need for an Atonement",
+      "datePublished": 1774843260,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260330.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "8bb36d4c-5c68-4c1d-a24c-5478730f228f",
+      "guid": "47771cd1-d367-424d-8a10-07532b27e29f",
+      "name": "Remember These Things",
+      "datePublished": 1774756860,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260329.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "b443e26d-eb75-4f36-be68-fabbf21dfe27",
+      "guid": "86527c58-12d2-4082-ad08-bada66010e5a",
+      "name": "Firm Foundation: The Resurrection and Daily Life",
+      "datePublished": 1774670460,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260328.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "0f11da24-4a16-4ada-a8f0-7c3be5e92e73",
+      "guid": "529ebb27-a198-405b-b125-dd12bb249abb",
+      "name": "A Word Fitly Spoken",
+      "datePublished": 1774584060,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260327.mp3?dest-id=668712",
+      "duration": 2644
+    },
+    {
+      "uuid": "8ade5cd7-f59a-4ed7-bf28-3264dac65186",
+      "guid": "63de0673-d1dc-4736-ae12-139cb99036a6",
+      "name": "Laws About Loving God",
+      "datePublished": 1774497660,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260326.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "c30802ea-747c-420b-a071-c82e15211184",
+      "guid": "154b9f15-9d51-45fd-a04a-f41cc173c861",
+      "name": "Called to Believe and Obey",
+      "datePublished": 1774411260,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260325.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "ad82745d-1e0c-4f6a-b67a-eb52ac80a38d",
+      "guid": "e75ece99-49b3-4c64-8a62-c9031463f748",
+      "name": "Blessed Above All Peoples",
+      "datePublished": 1774324860,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260324.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "18d02b1b-f75b-4a94-9884-dce00f92351e",
+      "guid": "b2abe1bd-b2d9-4338-8d54-6552cc3f34a7",
+      "name": "The God of Deuteronomy",
+      "datePublished": 1774238460,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260323.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "677bd88e-b5e1-497b-ba7c-6220ed783a8c",
+      "guid": "b1b6564a-3d64-4043-8319-fa2631933712",
+      "name": "Due Diligence",
+      "datePublished": 1774152060,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260322.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "13daa728-ef27-4c40-a3b7-0bef556e040c",
+      "guid": "fa1e69de-0d7f-4b23-8f72-a22d77b7ee5e",
+      "name": "For Sure: The Evidence for the Resurrection",
+      "datePublished": 1774065660,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260321.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "1ea6df18-cbc4-4f76-aebc-8024b534b825",
+      "guid": "8eb3e002-6c81-43d0-b443-f9a187a1d578",
+      "name": "BONUS: Live from the Studio with Derek Thomas",
+      "datePublished": 1773979260,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rymbonus20260320.mp3?dest-id=668712",
+      "duration": 4102
+    },
+    {
+      "uuid": "1b7cf577-302f-4736-8ffb-452f5ce046e7",
+      "guid": "8ff9f4e6-27fc-4fbe-9156-c975d1108f89",
+      "name": "Nietzsche",
+      "datePublished": 1773979260,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260320a.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "a4b7d101-1e4c-4178-8c4e-bf7753aa2d3d",
+      "guid": "42ce69ea-2d4d-41a1-b7c0-99331e4dac11",
+      "name": "Marx",
+      "datePublished": 1773892860,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260319.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "aca4786a-1b11-496f-b1d7-7b1c925c31af",
+      "guid": "b3b7adfb-cc0a-4ff5-9c58-3f8410a9ee7c",
+      "name": "Hegel",
+      "datePublished": 1773806460,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260318.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "03ba73f7-67ab-4531-a6ae-9875331e1e15",
+      "guid": "bb56851b-88dd-419f-8222-c2a312a6236e",
+      "name": "Kant's Moral Argument",
+      "datePublished": 1773720060,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260317.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "e09bf996-8cd8-4097-822e-49556ba5a86a",
+      "guid": "54b1f240-039d-47cd-b536-81b4d68bec74",
+      "name": "Immanuel Kant",
+      "datePublished": 1773633660,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260316.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "f3136ffe-d64b-435a-825e-309742f32fa8",
+      "guid": "c3485f90-f400-4e69-b720-222b0ac82a79",
+      "name": "More Precious Than Gold",
+      "datePublished": 1773547260,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260315.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "d2fc14a5-0d93-44aa-8da0-b07939374a36",
+      "guid": "196be697-3bf1-447b-92c5-4e81f819d6bf",
+      "name": "Finding Faith: Why the Resurrection of Christ Matters",
+      "datePublished": 1773460860,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260314.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "b6069681-6f39-4d1d-97fe-4276c689af2d",
+      "guid": "ef0ec129-d3a3-4284-8811-79427b208660",
+      "name": "God the Creator",
+      "datePublished": 1773374460,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260313.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "a00acdf0-f2bb-46ae-b7a2-eca6f4e4c488",
+      "guid": "c3c69585-96ea-4d46-af85-1393ec75dfb4",
+      "name": "God the Lord",
+      "datePublished": 1773288060,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260312.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "546a5d09-743b-4828-963d-18b8f82f1974",
+      "guid": "4f6ebd2a-4a34-4386-8850-0dd539007fe9",
+      "name": "God the Trinity",
+      "datePublished": 1773201660,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260311.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "1d0c4f2d-16d4-4c1f-affc-2b50e16443e1",
+      "guid": "ddfc2dd2-8d7c-49de-ae7c-e8b1df3b7da5",
+      "name": "The True and Living God",
+      "datePublished": 1773115260,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260310.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "bc45aced-5c79-4436-847c-909b5409f3ad",
+      "guid": "7b52ae8e-d9f8-440f-900b-205f9a5ffe3c",
+      "name": "Why Theology Is Important",
+      "datePublished": 1773028860,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260309.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "65a09b26-6bb8-40ad-8761-9083a99f14d9",
+      "guid": "bda64989-4533-4942-b746-0fad8116fba1",
+      "name": "Make Your Calling Sure",
+      "datePublished": 1772946060,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260308.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "5f33531e-52be-49b5-8f4f-fb75457545c4",
+      "guid": "93b0cef9-dbfe-4594-a8e3-fcb1dca4b24b",
+      "name": "Angels as Messengers",
+      "datePublished": 1772859660,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260307.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "aa1a8a2f-e8f2-4034-af66-166fa9872849",
+      "guid": "fe9bf0a0-2ee3-4db2-8d4c-843821c08f94",
+      "name": "The Divine Initiative",
+      "datePublished": 1772773260,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260306.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "f7791e69-f23c-4eb7-868e-ced85bdc61a9",
+      "guid": "140c3c1c-a25d-4e40-9e1b-2ca38c9194a6",
+      "name": "Man's Radical Fallenness",
+      "datePublished": 1772686860,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260305.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "00ac9b84-0296-4d4a-a178-22db294e164c",
+      "guid": "00086627-e128-4b64-9987-b78222d03dc8",
+      "name": "What Is Free Will?",
+      "datePublished": 1772600460,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260304.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "91ccbc78-d55b-4028-a011-3394ed6a22c8",
+      "guid": "bbb9c3f3-dd47-4db4-98db-1cc78178396c",
+      "name": "God's Sovereignty",
+      "datePublished": 1772514060,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260303.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "190ca3cc-c791-4f2a-bdfb-aa15256d1cb4",
+      "guid": "55c827a9-0617-4368-b748-1401e4008dbb",
+      "name": "Everyone Believes This Doctrine",
+      "datePublished": 1772427660,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260302.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "5f71f709-9f30-480a-bea2-a88dc1ec9b2a",
+      "guid": "3c1bcc79-d78a-4c5e-8b87-3940b3212e0b",
+      "name": "The Great Commandment",
+      "datePublished": 1772341260,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260301.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "872ebf01-9f22-47ef-bcf8-c5ecc0b989b1",
+      "guid": "08dfafd6-97a4-4abd-ac19-624fb90ec4d5",
+      "name": "Angels as Ministers",
+      "datePublished": 1772254860,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260228.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "5bbb62e5-2465-4996-89c3-e458eff4cc25",
+      "guid": "a2d472e1-6277-4d04-b978-8f2d061def64",
+      "name": "The Great Commission",
+      "datePublished": 1772168460,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260227.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "da85e11c-e26c-40c5-aa6c-547998f7f245",
+      "guid": "ee1f7476-574a-48ae-99e6-9ea4bdc30602",
+      "name": "The Triunity of God",
+      "datePublished": 1772082060,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260226.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "05bc9f68-274d-4db2-98f7-64723a5de663",
+      "guid": "9ef00381-0804-4ae9-825c-0d3d6802b116",
+      "name": "Finding a Job That Fits",
+      "datePublished": 1771995660,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260225.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "e0f580ad-b456-4926-b9d0-f1289c8bc2f9",
+      "guid": "e307ce68-f77c-4be5-8f46-ce2a4ea220c7",
+      "name": "God's Will and Your Vocation",
+      "datePublished": 1771909260,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260224.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "696c928e-803e-4fc4-ad48-abb6747c5f92",
+      "guid": "425c085d-d949-416d-a8e4-997df4266525",
+      "name": "Looking for God's Will",
+      "datePublished": 1771822860,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260223.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "daff9296-5aad-4937-8c66-e669b3e55047",
+      "guid": "9eda960b-e580-4c55-b22b-bb10f1f58f58",
+      "name": "The Resurrection",
+      "datePublished": 1771736460,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260222.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "470404b3-b669-409b-a9c7-64fb03499dd5",
+      "guid": "ec76eb5f-362e-4411-a489-ccf0ca97f757",
+      "name": "The Need for Samson",
+      "datePublished": 1771650060,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260221.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "f2502ac4-45fd-45cf-be67-716194a593ca",
+      "guid": "c64fc8bb-eb64-4a05-892a-13afbf528a33",
+      "name": "How to Study the Bible",
+      "datePublished": 1771563660,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260220.mp3?dest-id=668712",
+      "duration": 2366
+    },
+    {
+      "uuid": "9dad8345-cb39-419a-a41f-48e724b72dc0",
+      "guid": "ed14c280-0fad-4865-8584-fea5715b81ab",
+      "name": "The Uniqueness of Christ",
+      "datePublished": 1771477260,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260219.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "82c1b9dc-e319-48ac-b305-78e7d53cbb78",
+      "guid": "d4d81992-007c-46c6-a623-2023dd16f0cd",
+      "name": "The Problem of Evil",
+      "datePublished": 1771390860,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260218.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "f21d0a51-8301-4b90-ac10-00095fa4c6ec",
+      "guid": "f250e411-3b49-418b-b951-798bc5a0e130",
+      "name": "Are There Absolutes?",
+      "datePublished": 1771304460,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260217.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "75e14bb1-441a-446b-a862-9b4f3f6e968f",
+      "guid": "27130801-569f-42b7-bfc2-cec8100d3cb0",
+      "name": "Does God Exist?",
+      "datePublished": 1771218060,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260216.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "3d60e64a-59d5-401b-aec9-dd362eba097f",
+      "guid": "8f34d99c-ad81-4208-ba58-2e28e630dbe1",
+      "name": "God and Caesar",
+      "datePublished": 1771131660,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260215.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "4ef92741-c273-44ec-9dcf-8563279001d3",
+      "guid": "2573fb6d-69ec-435d-a28b-f22c53937fea",
+      "name": "The Need for Judges",
+      "datePublished": 1771045260,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260214.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "8ce63d94-f6e9-4caf-9a04-2ffabbd04ce2",
+      "guid": "53553687-d37a-4ead-bd52-f92406ef3382",
+      "name": "Agape Love",
+      "datePublished": 1770958860,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260213.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "51443e46-c638-43c3-b578-0c24948f6b8b",
+      "guid": "2c0b379c-c191-4793-9220-b921e38e16eb",
+      "name": "God's Electing Love",
+      "datePublished": 1770872460,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260212.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "45ea7163-1b44-4919-94c2-fe65b6f459c6",
+      "guid": "5d2c54d5-beb3-4165-aa96-cb07f8e5d241",
+      "name": "The Lovingkindness of God",
+      "datePublished": 1770786060,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260211.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "bca10524-0725-4566-b7b8-2c3c63bb8958",
+      "guid": "0ece629b-3bb3-4cf9-81d2-f7b5a7818c70",
+      "name": "God's Eternal Love",
+      "datePublished": 1770699660,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260210.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "3f159464-5027-4296-a0e1-81449261abea",
+      "guid": "6b0069c4-f3d0-4697-a64a-79685907f749",
+      "name": "God Is Love",
+      "datePublished": 1770613260,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260209.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "a16758d4-dd9f-408b-a321-d4265a46fc5a",
+      "guid": "7ec09dfa-ab56-435c-ab2c-8f0ba5c14228",
+      "name": "Hagar and Sarah",
+      "datePublished": 1770526860,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260208.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "f0304f2b-09b9-49ca-a470-9df315c64842",
+      "guid": "1daafc08-aaaf-4d96-90d9-c453f93dfc56",
+      "name": "The Riddle of Samson",
+      "datePublished": 1770440460,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260207.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "78ff5414-7c0e-4683-9949-65e79ddc8b15",
+      "guid": "0817db8b-2006-450e-89aa-49c56d06024c",
+      "name": "Cures for Antinomianism",
+      "datePublished": 1770354060,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260206.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "84bcdfd4-e36c-40ae-a2cf-397e694a2c8c",
+      "guid": "fdc3f594-e479-4983-bed7-2b0a8c54fc43",
+      "name": "The Source of Joy",
+      "datePublished": 1770267660,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260205.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "e8faec4b-1f89-4440-8b03-7e24821059bf",
+      "guid": "b3a298e0-517b-4e9b-9f0a-484947ddbc8d",
+      "name": "How Do You Spell \"JOY\"?",
+      "datePublished": 1770181260,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260204.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "c1be93e8-f485-445b-b076-cd283dfd1df9",
+      "guid": "cfb844b4-5839-4fc8-8f02-762a912f0077",
+      "name": "Dealing with Anger",
+      "datePublished": 1770094860,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260203.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "08c2f2da-6f68-453c-9b56-216a06d74466",
+      "guid": "7faaa8ea-65db-4a54-aa46-861da75efef9",
+      "name": "Be Angry, but Don't Sin",
+      "datePublished": 1770008460,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260202.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "9e5eeaab-8991-44d2-8fd9-78ace67ed61b",
+      "guid": "daccd0d1-f08e-4063-a7b1-6906b6421cc1",
+      "name": "Days and Seasons",
+      "datePublished": 1769922060,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260201.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "699e0cd2-cd07-435b-8d3a-6375374a19de",
+      "guid": "b84cc577-1e3b-470a-9034-296bdd032d43",
+      "name": "Blazing with Glory",
+      "datePublished": 1769835660,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260131.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "c8b75561-dcc3-4cda-b66a-60d25a98efb0",
+      "guid": "895c3101-e547-4909-bdd2-53657bcaca08",
+      "name": "The First Promise of Grace",
+      "datePublished": 1769749260,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260130.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "4d1382b1-a0bf-41fb-ad54-bf6fec8432c1",
+      "guid": "337aaf31-f5bf-4fa4-917c-52add108e76a",
+      "name": "Dead in Adam, Alive in Christ",
+      "datePublished": 1769662860,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260129.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "a99fd77e-8fa1-43c9-a0f8-6848ff15803c",
+      "guid": "629d5110-584a-4db2-90eb-bf10fe7b9cab",
+      "name": "Creation Covenant",
+      "datePublished": 1769576460,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260128.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "5da29d68-f627-4233-90bd-5700bfb8e1af",
+      "guid": "690ec471-8618-448c-8839-83846c083d36",
+      "name": "The Meaning of Covenant",
+      "datePublished": 1769490060,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260127.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "5faff76d-8002-43de-86f6-ff067d21ae8b",
+      "guid": "5ae35a6e-1f59-4639-8b6e-510fa7869c5b",
+      "name": "The Covenant of Redemption",
+      "datePublished": 1769403660,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260126.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "b26e7afa-df5a-4043-bc40-9f7c3b5fe224",
+      "guid": "661b8c4c-4b40-4b8f-add8-5c01f4c422fa",
+      "name": "Adopted Heirs",
+      "datePublished": 1769317260,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260125.mp3?dest-id=668712",
+      "duration": 1584
+    },
+    {
+      "uuid": "70201200-9f8f-4e2d-b904-7754c58cc0fd",
+      "guid": "4c658b7c-1d35-4e02-bd8c-2f1ab09ed3ae",
+      "name": "The Fall of a Hero",
+      "datePublished": 1769230860,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/renewingyourmind/rym20260124.mp3?dest-id=668712",
+      "duration": 1584
+    }
+  ]
+}

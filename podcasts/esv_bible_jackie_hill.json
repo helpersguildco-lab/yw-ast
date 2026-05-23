@@ -1,0 +1,249 @@
+{
+  "podcastId": "esv_bible_jackie_hill",
+  "name": "Through the ESV Bible in a Year with Jackie Hill Perry",
+  "host": "Jackie Hill Perry",
+  "taddyUuid": "f01dc36e-552b-4e42-881e-66f528dc0ecc",
+  "totalEpisodes": 30,
+  "episodes": [
+    {
+      "uuid": "5d671687-07e3-4edb-9cf6-bd7facc84aa5",
+      "guid": "756135d6-54f3-11f1-a25c-ab93d723eba5",
+      "name": "May 22 (1 Samuel 29–31; Psalm 119:97–104; Ephesians 2–3)",
+      "datePublished": 1779433200,
+      "audioUrl": "https://traffic.megaphone.fm/CXW1463943868.mp3",
+      "duration": 794
+    },
+    {
+      "uuid": "90eb8c85-4771-4738-8f58-74d436b2890e",
+      "guid": "4ae8856c-542a-11f1-8646-fb8d98dd2325",
+      "name": "May 21 (1 Samuel 26–28; Psalm 119:89–96; Ephesians 1)",
+      "datePublished": 1779346800,
+      "audioUrl": "https://traffic.megaphone.fm/CXW7343068376.mp3",
+      "duration": 785
+    },
+    {
+      "uuid": "53ff8b81-273a-43d5-9e18-28c0d25e10f5",
+      "guid": "217d31d8-5361-11f1-bf5d-63e3518e8d85",
+      "name": "May 20 (1 Samuel 24–25; Psalm 119:81–88; Galatians 5–6)",
+      "datePublished": 1779260400,
+      "audioUrl": "https://traffic.megaphone.fm/CXW8492488633.mp3",
+      "duration": 894
+    },
+    {
+      "uuid": "ed4bb7c0-cdd9-49a6-b996-c83112a4861e",
+      "guid": "f6a3d346-5297-11f1-bdd2-57d533e9e1c8",
+      "name": "May 19 (1 Samuel 22–23; Psalm 119:73–80; Galatians 3–4)",
+      "datePublished": 1779174000,
+      "audioUrl": "https://traffic.megaphone.fm/CXW2538731281.mp3",
+      "duration": 910
+    },
+    {
+      "uuid": "a7333370-ca47-421a-bf74-513894a05f15",
+      "guid": "cc405274-51ce-11f1-9566-cb46e483d580",
+      "name": "May 18 (1 Samuel 20–21; Psalm 119:65–72; Galatians 1–2)",
+      "datePublished": 1779087600,
+      "audioUrl": "https://traffic.megaphone.fm/CXW5874731947.mp3",
+      "duration": 858
+    },
+    {
+      "uuid": "ff950b10-773d-4205-9264-965d5e1f3397",
+      "guid": "a260c002-5105-11f1-905f-170703f27f5b",
+      "name": "May 17 (1 Samuel 18–19; Psalm 119:57–64; 2 Corinthians 11–13)",
+      "datePublished": 1779001200,
+      "audioUrl": "https://traffic.megaphone.fm/CXW3076813322.mp3",
+      "duration": 1002
+    },
+    {
+      "uuid": "967a14ae-c146-4139-aa69-84756ece446c",
+      "guid": "77221cca-503c-11f1-b70e-d7d5197e9f77",
+      "name": "May 16 (1 Samuel 17; Psalm 119:49–56; 2 Corinthians 9–10)",
+      "datePublished": 1778914800,
+      "audioUrl": "https://traffic.megaphone.fm/CXW3213791488.mp3",
+      "duration": 776
+    },
+    {
+      "uuid": "cff89ef0-2aec-4da3-b1c1-62ba43abbae4",
+      "guid": "4ed73cb0-4f73-11f1-aea0-8b1c8aff3492",
+      "name": "May 15 (1 Samuel 15–16; Psalm 119:41–48; 2 Corinthians 7–8)",
+      "datePublished": 1778828400,
+      "audioUrl": "https://traffic.megaphone.fm/CXW5760691350.mp3",
+      "duration": 864
+    },
+    {
+      "uuid": "8a279baf-6fc4-49a3-ab19-867ab7633628",
+      "guid": "21f46688-4eaa-11f1-806f-6f8e5f5c8152",
+      "name": "May 14 (1 Samuel 14; Psalm 119:33–40; 2 Corinthians 5–6)",
+      "datePublished": 1778742000,
+      "audioUrl": "https://traffic.megaphone.fm/CXW1511208232.mp3",
+      "duration": 803
+    },
+    {
+      "uuid": "ef803678-1a56-4cd2-8a8a-22df0934fd57",
+      "guid": "f7b9f118-4de0-11f1-bd41-837648e1b657",
+      "name": "May 13 (1 Samuel 11–13; Psalm 119:25–32; 2 Corinthians 3–4)",
+      "datePublished": 1778655600,
+      "audioUrl": "https://traffic.megaphone.fm/CXW2236644633.mp3",
+      "duration": 888
+    },
+    {
+      "uuid": "4b73f00f-4d79-46d7-926a-7f73cd0baa93",
+      "guid": "d2ce6434-4d17-11f1-b3b4-df9a88fb42ba",
+      "name": "May 12 (1 Samuel 9–10; Psalm 119:17–24; 2 Corinthians 1–2)",
+      "datePublished": 1778569200,
+      "audioUrl": "https://traffic.megaphone.fm/CXW5775551251.mp3",
+      "duration": 869
+    },
+    {
+      "uuid": "124fb41a-903a-427a-a654-399d7b016222",
+      "guid": "a3df4cac-4c4e-11f1-b50b-4fb130270eb5",
+      "name": "May 11 (1 Samuel 6–8; Psalm 119:9–16; 1 Corinthians 15–16)",
+      "datePublished": 1778482800,
+      "audioUrl": "https://traffic.megaphone.fm/CXW9622554145.mp3",
+      "duration": 1056
+    },
+    {
+      "uuid": "aeb708cb-9aa0-4813-bbdd-1f20c392b544",
+      "guid": "793eef3a-4b85-11f1-abe0-af7fbea7d43a",
+      "name": "May 10 (1 Samuel 3–5; Psalm 119:1–8; 1 Corinthians 14)",
+      "datePublished": 1778396400,
+      "audioUrl": "https://traffic.megaphone.fm/CXW5054689513.mp3",
+      "duration": 817
+    },
+    {
+      "uuid": "5fcbe423-6160-4806-a4cd-80fcc3b7627f",
+      "guid": "4e565ea8-4abc-11f1-9388-dbe28ebd29c5",
+      "name": "May 9 (1 Samuel 1–2; Psalm 118; 1 Corinthians 12–13)",
+      "datePublished": 1778310000,
+      "audioUrl": "https://traffic.megaphone.fm/CXW1977662871.mp3",
+      "duration": 993
+    },
+    {
+      "uuid": "98639a5e-fa43-4c7b-ba98-2e5c746bd967",
+      "guid": "242a5f54-49f3-11f1-b3e7-5bf556ed74ef",
+      "name": "May 8 (Ruth 2–4; Psalm 117; 1 Corinthians 11)",
+      "datePublished": 1778223600,
+      "audioUrl": "https://traffic.megaphone.fm/CXW5676767257.mp3",
+      "duration": 816
+    },
+    {
+      "uuid": "5cc1c7a6-5703-453d-a60b-fd3ce740d1d2",
+      "guid": "f947dd80-4929-11f1-a249-8b2be86d5df2",
+      "name": "May 7 (Ruth 1; Psalm 116; 1 Corinthians 10)",
+      "datePublished": 1778137200,
+      "audioUrl": "https://traffic.megaphone.fm/CXW8505092187.mp3",
+      "duration": 501
+    },
+    {
+      "uuid": "769b2fe2-170a-4e95-add8-a1e3b13988c5",
+      "guid": "cf62b5c2-4860-11f1-985c-2f7e383d2241",
+      "name": "May 6 (Judges 19–21; Psalm 115; 1 Corinthians 8–9)",
+      "datePublished": 1778050800,
+      "audioUrl": "https://traffic.megaphone.fm/CXW6177446976.mp3",
+      "duration": 1325
+    },
+    {
+      "uuid": "e75eebe8-1b41-4396-8d1d-5f1960a1c836",
+      "guid": "80373812-47c3-11f1-a22c-cb9c4cdbaddd",
+      "name": "May 5 (Judges 17–18; Psalm 114; 1 Corinthians 6–7)",
+      "datePublished": 1777964400,
+      "audioUrl": "https://traffic.megaphone.fm/CXW9492861788.mp3",
+      "duration": 897
+    },
+    {
+      "uuid": "551f2c94-e745-4b9e-9b0d-22af6dc48a4c",
+      "guid": "0a8f0fe4-473d-11f1-b858-bf6c48ec8d64",
+      "name": "May 4 (Judges 15–16; Psalm 113; 1 Corinthians 4–5)",
+      "datePublished": 1777878000,
+      "audioUrl": "https://traffic.megaphone.fm/CXW1676213784.mp3",
+      "duration": 832
+    },
+    {
+      "uuid": "33cb166a-913d-4044-8d77-4297269c03db",
+      "guid": "00292844-469a-11f1-81da-7b2d1f58e2e2",
+      "name": "May 3 (Judges 12–14; Psalm 112; 1 Corinthians 2–3)",
+      "datePublished": 1777791600,
+      "audioUrl": "https://traffic.megaphone.fm/CXW1219247626.mp3",
+      "duration": 881
+    },
+    {
+      "uuid": "46f0c8a5-6c00-432b-b097-2b37c35e540f",
+      "guid": "ef2683b8-4561-11f1-844f-f742b63d666d",
+      "name": "May 2 (Judges 10–11; Psalm 111; 1 Corinthians 1)",
+      "datePublished": 1777698000,
+      "audioUrl": "https://traffic.megaphone.fm/CXW5961182233.mp3",
+      "duration": 789
+    },
+    {
+      "uuid": "3b9be3cb-9880-40ab-a626-4b869e042542",
+      "guid": "baf14a92-4561-11f1-91e7-27545d02949b",
+      "name": "May 1 (Judges 9; Psalm 110; Romans 16)",
+      "datePublished": 1777642140,
+      "audioUrl": "https://traffic.megaphone.fm/CXW1370174768.mp3",
+      "duration": 719
+    },
+    {
+      "uuid": "1c273281-a56d-42b2-8e27-bdd306446e43",
+      "guid": "d1058ff0-43a9-11f1-a040-13f192ef07fb",
+      "name": "April 30 (Judges 8; Psalm 109; Romans 14–15)",
+      "datePublished": 1777532400,
+      "audioUrl": "https://traffic.megaphone.fm/CXW4918414162.mp3",
+      "duration": 863
+    },
+    {
+      "uuid": "7f42d9a8-4d1e-4654-ac77-fc3534720abe",
+      "guid": "a5fa360e-42e0-11f1-8485-b73a1fdd6b37",
+      "name": "April 29 (Judges 6–7; Psalm 108; Romans 12–13)",
+      "datePublished": 1777446000,
+      "audioUrl": "https://traffic.megaphone.fm/CXW7980190168.mp3",
+      "duration": 998
+    },
+    {
+      "uuid": "eaa7f295-466d-4ce5-8a6e-27cf07d52d36",
+      "guid": "7be80d10-4217-11f1-9222-af70cc528732",
+      "name": "April 28 (Judges 4–5; Psalm 107:23–43; Romans 9–11)",
+      "datePublished": 1777359600,
+      "audioUrl": "https://traffic.megaphone.fm/CXW8744788940.mp3",
+      "duration": 1209
+    },
+    {
+      "uuid": "52750775-1652-4346-8239-76456bbd74f0",
+      "guid": "512d40a0-414e-11f1-bf2a-d7f3905f9dfd",
+      "name": "April 27 (Judges 2–3; Psalm 107:1–22; Romans 8)",
+      "datePublished": 1777273200,
+      "audioUrl": "https://traffic.megaphone.fm/CXW4066038979.mp3",
+      "duration": 852
+    },
+    {
+      "uuid": "8a44ddf8-bb03-4b39-95d1-517e851a696d",
+      "guid": "27333382-4085-11f1-ac6a-33a00d18facb",
+      "name": "April 26 (Judges 1; Psalm 106:24–48; Romans 7)",
+      "datePublished": 1777186800,
+      "audioUrl": "https://traffic.megaphone.fm/CXW7799960404.mp3",
+      "duration": 625
+    },
+    {
+      "uuid": "de43e18a-386a-4af7-b785-fd5b492af3a3",
+      "guid": "fcb28eec-3fbb-11f1-95f3-7b8a070e8278",
+      "name": "April 25 (Joshua 23–24; Psalm 106:1–23; Romans 5–6)",
+      "datePublished": 1777100400,
+      "audioUrl": "https://traffic.megaphone.fm/CXW4223255986.mp3",
+      "duration": 928
+    },
+    {
+      "uuid": "a3db3fa5-22fb-45bd-b963-6988e1a8b123",
+      "guid": "d1d96bf6-3ef2-11f1-ae63-97a43c8300b0",
+      "name": "April 24 (Joshua 21–22; Psalm 105:26–45; Romans 3–4)",
+      "datePublished": 1777014000,
+      "audioUrl": "https://traffic.megaphone.fm/CXW7399986648.mp3",
+      "duration": 1189
+    },
+    {
+      "uuid": "ebd336bb-c4f2-46c6-847c-96763ab648d2",
+      "guid": "a7d789ec-3e29-11f1-b1a4-4f3bcafd3aec",
+      "name": "April 23 (Joshua 19–20; Psalm 105:1–25; Romans 2)",
+      "datePublished": 1776927600,
+      "audioUrl": "https://traffic.megaphone.fm/CXW2473681635.mp3",
+      "duration": 737
+    }
+  ]
+}

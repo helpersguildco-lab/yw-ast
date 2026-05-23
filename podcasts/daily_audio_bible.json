@@ -1,0 +1,3665 @@
+{
+  "podcastId": "daily_audio_bible",
+  "name": "Daily Audio Bible",
+  "host": "Brian Hardin",
+  "taddyUuid": "bd7bc613-bb99-44c4-9952-634c7c826f13",
+  "totalEpisodes": 457,
+  "episodes": [
+    {
+      "uuid": "d8e4a71c-7cb1-46ed-b29f-12c38305ef25",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221557",
+      "name": "DAB May 22 - 2026",
+      "datePublished": 1779408000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+142+-+May+22%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "96fcee4e-79ef-4de8-b8ac-771be1abc90c",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221556",
+      "name": "DAB May 21 - 2026",
+      "datePublished": 1779321600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+141+-+May+21%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "e4f57e2b-751e-44c1-acbe-51d437517a42",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221555",
+      "name": "DAB May 20 - 2026",
+      "datePublished": 1779235200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+140+-+May+20%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "a74440f8-bf10-4bc7-8efb-7e20ed18c310",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221554",
+      "name": "DAB May 19 - 2026",
+      "datePublished": 1779148800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+139+-+May+19%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "6d65ec2b-9d89-4e25-b325-0f4f9e6888b5",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221553",
+      "name": "DAB May 18 - 2026",
+      "datePublished": 1779062400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+138+-+May+18%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "f944ca59-2695-40e1-9431-1a8b39b1f9d6",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221552",
+      "name": "DAB May 17 - 2026",
+      "datePublished": 1778976000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+137+-+May+17%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "eb6b0900-46fc-43d7-b2dd-6ade9936734c",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221551",
+      "name": "DAB May 16 - 2026",
+      "datePublished": 1778889600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+136+-+May+16%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "615343cd-5eb1-41d2-a7ed-6518af27c853",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=226180",
+      "name": "Community Prayer May16-2026",
+      "datePublished": 1778889600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+Community+Prayer+-+May+16%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "8d80611c-8aa3-48d2-9a81-625b16acfde6",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221550",
+      "name": "DAB May 15 - 2026",
+      "datePublished": 1778803200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+135+-+May+15%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "6f4e2e9f-4852-4a06-96bf-7c4e374d4366",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221549",
+      "name": "DAB May 14 - 2026",
+      "datePublished": 1778716800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+134+-+May+14%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "452df8c1-a0fb-4004-ae03-1a9831001592",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221548",
+      "name": "DAB May 13 - 2026",
+      "datePublished": 1778630400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+133+-+May+13%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "4e9639f1-0186-43a7-93aa-2e988f7608fc",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221547",
+      "name": "DAB May 12 - 2026",
+      "datePublished": 1778544000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+132+-+May+12%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "22f9213e-7484-4fb2-95bc-313c16cbd163",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221546",
+      "name": "DAB May 11 - 2026",
+      "datePublished": 1778457600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+131+-+May+11%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "35eeae3a-1a34-4432-8742-0d5fc48f5157",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221545",
+      "name": "DAB May 10 - 2026",
+      "datePublished": 1778371200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+130+-+May+10%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "ecc8d0b7-f9e7-4725-9dd6-1360bb989bc7",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221544",
+      "name": "DAB May 09 - 2026",
+      "datePublished": 1778284800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+129+-+May+09%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "671e51f5-b608-4b2c-bffb-1b95536deceb",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=226179",
+      "name": "Community Prayer May09-2026",
+      "datePublished": 1778284800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+Community+Prayer+-+May+09%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "e3d79747-0a92-4553-a01e-d7bce2bb54ed",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221543",
+      "name": "DAB May 08 - 2026",
+      "datePublished": 1778198400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+128+-+May+08%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "bf139342-15c8-4c20-b5d1-b899dba17c25",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221542",
+      "name": "DAB May 07 - 2026",
+      "datePublished": 1778112000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+127+-+May+07%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "e6ac46c2-8157-4a3c-a26b-2072b461a9e1",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221541",
+      "name": "DAB May 06 - 2026",
+      "datePublished": 1778025600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+126+-+May+06%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "f3de0531-3e16-4fcf-b7af-4e95acd85d90",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221540",
+      "name": "DAB May 05 - 2026",
+      "datePublished": 1777939200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+125+-+May+05%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "763d2b49-e6b9-4be6-989d-ec4bfb0a013d",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221539",
+      "name": "DAB May 04 - 2026",
+      "datePublished": 1777852800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+124+-+May+04%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "f5b3133c-2da5-4f08-8a80-9d3b4291100f",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221538",
+      "name": "DAB May 03 - 2026",
+      "datePublished": 1777766400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+123+-+May+03%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "ea0cdb41-1f41-4ecd-83b0-3f93627bc40e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=226178",
+      "name": "Community Prayer May02-2026",
+      "datePublished": 1777680000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+Community+Prayer+-+May+02%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "e10a6c26-80f4-40fc-9b2f-97ef9b618bf1",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221537",
+      "name": "DAB May 02 - 2026",
+      "datePublished": 1777680000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+122+-+May+02%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "4c95de6a-e9bb-452f-92c3-3c4b25ea5751",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221536",
+      "name": "DAB May 01 - 2026",
+      "datePublished": 1777593600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+121+-+May+01%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "b75a4ee6-9842-484f-bfe7-dc2d75e6cf79",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221535",
+      "name": "DAB April 30 - 2026",
+      "datePublished": 1777507200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+120+-+April+30%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "c621fc79-0b4d-495e-be41-57e6cde10d08",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221534",
+      "name": "DAB April 29 - 2026",
+      "datePublished": 1777420800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+119+-+April+29%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "502ee3cc-6441-4280-ae41-6879ca7e1f3c",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221533",
+      "name": "DAB April 28 - 2026",
+      "datePublished": 1777334400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+118+-+April+28%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "64e1d5e7-2c79-4916-9466-c14e946dcf72",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221532",
+      "name": "DAB April 27 - 2026",
+      "datePublished": 1777248000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+117+-+April+27%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "4f78a054-7dcb-4acd-93cf-45fa8f53dd8f",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221531",
+      "name": "DAB April 26 - 2026",
+      "datePublished": 1777161600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+116+-+April+26%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "a0fb0249-dc89-4b41-99c7-7cc78229a1fe",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221530",
+      "name": "DAB April 25 - 2026",
+      "datePublished": 1777075200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+115+-+April+25%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "3e64b534-1555-489e-84df-a349e0cb6d4e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=226177",
+      "name": "Community Prayer April25-2026",
+      "datePublished": 1777075200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+Community+Prayer+-+April+25%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "37ebaed0-9019-4f68-b4e4-8ed68cc20552",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221529",
+      "name": "DAB April 24 - 2026",
+      "datePublished": 1776988800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+114+-+April+24%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "4f25d92f-34f9-4d43-8782-66bf16057060",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221528",
+      "name": "DAB April 23 - 2026",
+      "datePublished": 1776902400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+113+-+April+23%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "13758b03-360d-478f-9afb-592e8336e7f6",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221527",
+      "name": "DAB April 22 - 2026",
+      "datePublished": 1776816000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+112+-+April+22%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "61c1be1c-bc9d-4505-b576-c16b48781b87",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221526",
+      "name": "DAB April 21 - 2026",
+      "datePublished": 1776729600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+111+-+April+21%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "4ea52364-704d-4348-8097-f464eeceec92",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221525",
+      "name": "DAB April 20 - 2026",
+      "datePublished": 1776643200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+110+-+April+20%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "a61871b2-d599-4a66-b836-1920442beaa5",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221524",
+      "name": "DAB April 19 - 2026",
+      "datePublished": 1776556800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+109+-+April+19%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "7f7d612a-b792-4415-9e01-368c49fef7c7",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=226176",
+      "name": "Community Prayer April18-2026",
+      "datePublished": 1776470400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+Community+Prayer+-+April+18%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "430ba0b3-3099-43e5-a99d-00e474cbb54d",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221523",
+      "name": "DAB April 18 - 2026",
+      "datePublished": 1776470400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+108+-+April+18%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "3920a9dd-9a77-4c53-9ee3-3e8decd56db8",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221522",
+      "name": "DAB April 17 - 2026",
+      "datePublished": 1776384000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+107+-+April+17%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "5505f72f-86af-42ab-aa76-27ed3043d2fe",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221521",
+      "name": "DAB April 16 - 2026",
+      "datePublished": 1776297600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+106+-+April+16%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "e4ad072d-e2bc-4180-b1ee-724ea37c59e0",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221520",
+      "name": "DAB April 15 - 2026",
+      "datePublished": 1776211200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+105+-+April+15%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "0e1134dd-b6ac-4633-8d01-98d592e76fab",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221519",
+      "name": "DAB April 14 - 2026",
+      "datePublished": 1776124800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+104+-+April+14%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "4a86fb32-c779-485a-b52d-92a817380eec",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221518",
+      "name": "DAB April 13 - 2026",
+      "datePublished": 1776038400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+103+-+April+13%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "e335caeb-d970-4ad8-86f9-8a874fed3390",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221517",
+      "name": "DAB April 12 - 2026",
+      "datePublished": 1775952000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+102+-+April+12%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "c372190e-5d2d-461f-acf3-88cca53c5fc2",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=226175",
+      "name": "Community Prayer April11-2026",
+      "datePublished": 1775865600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+Community+Prayer+-+April+11%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "42f3c117-2b9a-4e80-b73d-7161c3f7c35b",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221516",
+      "name": "DAB April 11 - 2026",
+      "datePublished": 1775865600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+101+-+April+11%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "b1a7acf3-2619-4d45-89b2-1c545c262268",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221515",
+      "name": "DAB April 10 - 2026",
+      "datePublished": 1775779200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+100+-+April+10%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "cf9ffedd-0e28-427c-8a6b-59700edbbe9a",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221514",
+      "name": "DAB April 09 - 2026",
+      "datePublished": 1775692800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+099+-+April+09%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "99e258ea-aa2d-4af8-a29b-d28332c4f324",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221513",
+      "name": "DAB April 08 - 2026",
+      "datePublished": 1775606400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+098+-+April+08%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "bef86f75-e986-40d4-9f32-a8b7a29e4597",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221512",
+      "name": "DAB April 07 - 2026",
+      "datePublished": 1775520000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+097+-+April+07%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "914c1b8b-6e3d-46a0-a4c8-b02b3e0bbac3",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221511",
+      "name": "DAB April 06 - 2026",
+      "datePublished": 1775433600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+096+-+April+06%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "514ced63-b0cc-42e1-9df1-9e076b75c1a6",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221510",
+      "name": "DAB April 05 - 2026",
+      "datePublished": 1775347200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+095+-+April+05%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "e4036fc6-0896-47c2-8512-8722d016dd9f",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=226174",
+      "name": "Community Prayer April04-2026",
+      "datePublished": 1775260800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+Community+Prayer+-+April+04%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "10fd24c3-7592-4d08-9998-0bd5a163d245",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221509",
+      "name": "DAB April 04 - 2026",
+      "datePublished": 1775260800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+094+-+April+04%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "96955f08-439f-4062-8272-5ffd8e6239d8",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221508",
+      "name": "DAB April 03 - 2026",
+      "datePublished": 1775174400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+093+-+April+03%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "4d5fd2ef-ee67-4778-b137-ff098b91cbda",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221507",
+      "name": "DAB April 02 - 2026",
+      "datePublished": 1775088000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+092+-+April+02%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "1aaef989-2aa2-4309-869e-4e5f8257ea08",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221506",
+      "name": "DAB April 01 - 2026",
+      "datePublished": 1775001600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+091+-+April+01%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "fa487527-0070-4fdc-a22f-0113767b9b44",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221505",
+      "name": "DAB March 31 - 2026",
+      "datePublished": 1774915200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+090+-+March+31%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "2526d3de-3dba-4c25-856a-05d4b2d65472",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221504",
+      "name": "DAB March 30 - 2026",
+      "datePublished": 1774828800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+089+-+March+30%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "ea037c84-9e46-47f1-9bc1-1f4ed9637395",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221503",
+      "name": "DAB March 29 - 2026",
+      "datePublished": 1774742400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+088+-+March+29%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "bcfff1d8-70e3-480b-b159-4cbff6995b6c",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=226173",
+      "name": "Community Prayer March28-2026",
+      "datePublished": 1774656000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+Community+Prayer+-+March+28%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "9144d17e-32e9-4eea-8378-170ff8394b63",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221502",
+      "name": "DAB March 28 - 2026",
+      "datePublished": 1774656000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+087+-+March+28%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "95188d90-cad4-48d7-bb77-20cfd6c3c198",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221501",
+      "name": "DAB March 27 - 2026",
+      "datePublished": 1774569600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+086+-+March+27%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "c5c53192-c718-4f20-8ac6-a4af973b1eac",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221500",
+      "name": "DAB March 26 - 2026",
+      "datePublished": 1774483200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+085+-+March+26%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "a7aac155-521d-4972-bad1-00fb1082fc56",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221499",
+      "name": "DAB March 25 - 2026",
+      "datePublished": 1774396800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+084+-+March+25%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "57ce3812-f505-4108-aebe-4fb3265b83a4",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221498",
+      "name": "DAB March 24 - 2026",
+      "datePublished": 1774310400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+083+-+March+24%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "817aa1cc-9c47-47bc-bd54-9fdf2f4d2191",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221497",
+      "name": "DAB March 23 - 2026",
+      "datePublished": 1774224000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+082+-+March+23%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "d53d9c33-f409-48fe-adff-251e63cb06e4",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221496",
+      "name": "DAB March 22 - 2026",
+      "datePublished": 1774137600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+081+-+March+22%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "b6c4024c-ec72-4c16-98df-c7720076a436",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221495",
+      "name": "DAB March 21 - 2026",
+      "datePublished": 1774051200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+080+-+March+21%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "a9f7f97d-498a-406b-9f78-128522852ac0",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=226172",
+      "name": "Community Prayer March21-2026",
+      "datePublished": 1774051200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+Community+Prayer+-+March+21%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "ec08bc4d-7876-49c0-b421-104e41275de3",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221494",
+      "name": "DAB March 20 - 2026",
+      "datePublished": 1773964800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+079+-+March+20%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "d2e97cca-c6ec-438d-b6c1-78a791d932f2",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221493",
+      "name": "DAB March 19 - 2026",
+      "datePublished": 1773878400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+078+-+March+19%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "34ce224b-7420-46bc-b20a-e06a5cec71c4",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221492",
+      "name": "DAB March 18 - 2026",
+      "datePublished": 1773792000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+077+-+March+18%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "18125d51-8a21-46e4-88e4-bd6556fe98b8",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221491",
+      "name": "DAB March 17 - 2026",
+      "datePublished": 1773705600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+076+-+March+17%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "07832b6c-1aab-4092-9d5e-b833274dd69e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221490",
+      "name": "DAB March 16 - 2026",
+      "datePublished": 1773619200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+075+-+March+16%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "51e36926-04d8-4b2d-b475-2cbb5f2b837b",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221489",
+      "name": "DAB March 15 - 2026",
+      "datePublished": 1773532800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+074+-+March+15%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "899ada19-d1b3-46b3-9818-fa2306f6ecbf",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221488",
+      "name": "DAB March 14 - 2026",
+      "datePublished": 1773446400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+073+-+March+14%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "5d1fe01f-55e1-472a-be5f-4d5a995c002b",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=226171",
+      "name": "Community Prayer March14-2026",
+      "datePublished": 1773446400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+Community+Prayer+-+March+14%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "5fef1238-08e9-48e9-953e-5f8ae81ef97e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221487",
+      "name": "DAB March 13 - 2026",
+      "datePublished": 1773360000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+072+-+March+13%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "c59f7da1-8631-400e-8af9-3d4df4df35c9",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221486",
+      "name": "DAB March 12 - 2026",
+      "datePublished": 1773273600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+071+-+March+12%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "74611f8e-a6dc-42f0-a177-59119adc7c55",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221485",
+      "name": "DAB March 11 - 2026",
+      "datePublished": 1773187200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+070+-+March+11%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "857fc6f9-e60d-4e8d-a4b0-5f4209d18a1c",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221484",
+      "name": "DAB March 10 - 2026",
+      "datePublished": 1773100800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+069+-+March+10%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "463fb071-724c-4389-a611-7ee220a8329d",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221483",
+      "name": "DAB March 09 - 2026",
+      "datePublished": 1773014400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+068+-+March+09%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "b55f3c76-0a99-49e7-a518-fb5433b478dd",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221482",
+      "name": "DAB March 08 - 2026",
+      "datePublished": 1772928000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+067+-+March+08%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "c18ed058-df3a-4753-9a35-aa5322f813a8",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=226170",
+      "name": "Community Prayer March07-2026",
+      "datePublished": 1772841600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+Community+Prayer+-+March+07%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "3826659d-4a94-490e-8676-0882393c392c",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221481",
+      "name": "DAB March 07 - 2026",
+      "datePublished": 1772841600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+066+-+March+07%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "7e2874c1-6713-416e-9f4e-111979964e8e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221480",
+      "name": "DAB March 06 - 2026",
+      "datePublished": 1772755200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+065+-+March+06%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "f23a795e-1a68-49de-b9fd-96438169c4f1",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221479",
+      "name": "DAB March 05 - 2026",
+      "datePublished": 1772668800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+064+-+March+05%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "d941e459-3b44-4f58-ab09-dc6690ab5ac7",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221478",
+      "name": "DAB March 04 - 2026",
+      "datePublished": 1772582400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+063+-+March+04%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "9397a151-af1f-495e-8af3-a8825af803ff",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221477",
+      "name": "DAB March 03 - 2026",
+      "datePublished": 1772496000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+062+-+March+03%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "7ffea4ff-95f5-4eba-bf95-1cf7b8151efb",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221476",
+      "name": "DAB March 02 - 2026",
+      "datePublished": 1772409600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+061+-+March+02%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "d7b1cec6-da3d-4535-84ef-e0a39d0ba8d8",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221475",
+      "name": "DAB March 01 - 2026",
+      "datePublished": 1772323200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+060+-+March+01%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "d388b8e0-fd0a-4182-bf83-b50a4d19de0f",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=226169",
+      "name": "Community Prayer February28-2026",
+      "datePublished": 1772236800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+Community+Prayer+-+February+28%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "ad53ad93-0fb4-4dd8-8f1d-1a616c084de1",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221474",
+      "name": "DAB February 28 - 2026",
+      "datePublished": 1772236800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+059+-+February+28%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "6b966f8c-9661-41f9-918b-6c75095d94d8",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221473",
+      "name": "DAB February 27 - 2026",
+      "datePublished": 1772150400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+058+-+February+27%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "bdcf6541-34a6-4e5e-9f80-dd8fa2937a85",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221472",
+      "name": "DAB February 26 - 2026",
+      "datePublished": 1772064000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+057+-+February+26%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "f46193b6-b58c-4022-b96a-83bb3ca68c80",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221471",
+      "name": "DAB February 25 - 2026",
+      "datePublished": 1771977600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+056+-+February+25%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "508fcf75-e6d6-4ec3-a684-362ba3fe1214",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221470",
+      "name": "DAB February 24 - 2026",
+      "datePublished": 1771891200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+055+-+February+24%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "e23e37d6-58e3-40f9-b8d5-32524185d999",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221469",
+      "name": "DAB February 23 - 2026",
+      "datePublished": 1771804800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+054+-+February+23%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "6ab5d98a-edd8-4715-8630-e4305e755c03",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221468",
+      "name": "DAB February 22 - 2026",
+      "datePublished": 1771718400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+053+-+February+22%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "bdf3ba27-9488-4ed0-8fc8-a228b3595af7",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=226168",
+      "name": "Community Prayer February21-2026",
+      "datePublished": 1771632000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+Community+Prayer+-+February+21%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "3f239dd7-c784-43f4-93d8-fdf245c7ecf9",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221467",
+      "name": "DAB February 21 - 2026",
+      "datePublished": 1771632000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+052+-+February+21%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "019cd9a8-e626-42d2-9560-18b2a3591a87",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221466",
+      "name": "DAB February 20 - 2026",
+      "datePublished": 1771545600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+051+-+February+20%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "fff1c657-18e9-4710-8b77-322542441071",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221465",
+      "name": "DAB February 19 - 2026",
+      "datePublished": 1771459200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+050+-+February+19%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "e76a7b06-3ac3-483d-a78d-28f2a8310852",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221464",
+      "name": "DAB February 18 - 2026",
+      "datePublished": 1771372800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+049+-+February+18%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "504352a1-0991-4e79-8e5c-06ff05ba19e1",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221463",
+      "name": "DAB February 17 - 2026",
+      "datePublished": 1771286400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+048+-+February+17%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "d6eaeb1d-1be1-4764-bda4-a3cd68a6c941",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221462",
+      "name": "DAB February 16 - 2026",
+      "datePublished": 1771200000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+047+-+February+16%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "977a49d1-7b43-4ca2-b7f6-cbc4ce574388",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221461",
+      "name": "DAB February 15 - 2026",
+      "datePublished": 1771113600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+046+-+February+15%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "9801a824-b068-48b3-ac39-062708fd5ff2",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221460",
+      "name": "DAB February 14 - 2026",
+      "datePublished": 1771027200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+045+-+February+14%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "40f2c3aa-baf1-436e-ae76-72fbeea1f8e0",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=226167",
+      "name": "Community Prayer February14-2026",
+      "datePublished": 1771027200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+Community+Prayer+-+February+14%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "51cc1c0c-2ff2-4a2e-9281-44e0536f1532",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221459",
+      "name": "DAB February 13 - 2026",
+      "datePublished": 1770940800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+044+-+February+13%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "00fea9d8-981c-4c8d-a755-37ed978600b0",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221458",
+      "name": "DAB February 12 - 2026",
+      "datePublished": 1770854400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+043+-+February+12%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "e736a1b9-2378-49cf-b78c-8e1cc14b7e9e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221457",
+      "name": "DAB February 11 - 2026",
+      "datePublished": 1770768000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+042+-+February+11%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "f2c2f358-e8cf-4afc-a5bc-bf0300a156a3",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221456",
+      "name": "DAB February 10 - 2026",
+      "datePublished": 1770681600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+041+-+February+10%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "a7767ce9-ad6f-4ebb-b632-593ca9399a62",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221455",
+      "name": "DAB February 09 - 2026",
+      "datePublished": 1770595200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+040+-+February+09%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "980196f8-9077-442b-a5b8-c5d9992054a5",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221454",
+      "name": "DAB February 08 - 2026",
+      "datePublished": 1770508800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+039+-+February+08%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "b0fe49bb-2d6d-4a60-a5c5-441eda677fde",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=226166",
+      "name": "Community Prayer February07-2026",
+      "datePublished": 1770422400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+Community+Prayer+-+February+07%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "0da8a3a7-eb2b-4b48-bca7-406c1da81889",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221453",
+      "name": "DAB February 07 - 2026",
+      "datePublished": 1770422400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+038+-+February+07%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "03e3f1d6-2e37-468e-b5f4-2f0307d5203e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221452",
+      "name": "DAB February 06 - 2026",
+      "datePublished": 1770336000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+037+-+February+06%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "7d08ed75-481f-4eae-8b4b-a6671035e6e2",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221451",
+      "name": "DAB February 05 - 2026",
+      "datePublished": 1770249600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+036+-+February+05%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "0b8a310c-44d0-47c5-a713-a945b56cb04c",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221450",
+      "name": "DAB February 04 - 2026",
+      "datePublished": 1770163200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+035+-+February+04%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "e85bf373-e210-45ed-9dec-ea02af5bd667",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221449",
+      "name": "DAB February 03 - 2026",
+      "datePublished": 1770076800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+034+-+February+03%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "431a6f63-b71f-4830-8c36-062d586e7755",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221448",
+      "name": "DAB February 02 - 2026",
+      "datePublished": 1769990400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+033+-+February+02%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "67cd360f-bd29-4799-b34d-a709c06b19cd",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221447",
+      "name": "DAB February 01 - 2026",
+      "datePublished": 1769904000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+032+-+February+01%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "fa408e0f-1031-42b0-a72b-fbe1e00a56c2",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221446",
+      "name": "DAB January 31 - 2026",
+      "datePublished": 1769817600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+031+-+January+31%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "bd289980-beaa-4797-a823-6535b83f4d18",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=226165",
+      "name": "Community Prayer January31-2026",
+      "datePublished": 1769817600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+Community+Prayer+-+January+31%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "c0e221b1-1a82-4230-9cc0-149a7a951cb6",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221445",
+      "name": "DAB January 30 - 2026",
+      "datePublished": 1769731200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+030+-+January+30%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "1e04f60c-99dc-4ce3-a73f-d831ac17f372",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221444",
+      "name": "DAB January 29 - 2026",
+      "datePublished": 1769644800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+029+-+January+29%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "d4295c8c-be25-4d71-b475-18b778f013f4",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221443",
+      "name": "DAB January 28 - 2026",
+      "datePublished": 1769558400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+028+-+January+28%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "b09af889-8cf2-4bd7-b4ab-ef0196fcf6cb",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221442",
+      "name": "DAB January 27 - 2026",
+      "datePublished": 1769472000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+027+-+January+27%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "20c4298d-3f32-4803-bcfd-8d92b549b74f",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221441",
+      "name": "DAB January 26 - 2026",
+      "datePublished": 1769385600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+026+-+January+26%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "f42ac8d6-62d8-479c-a3c2-56ed96a9e2c2",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221440",
+      "name": "DAB January 25 - 2026",
+      "datePublished": 1769299200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+025+-+January+25%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "16c1eccf-6f3e-457e-9632-1640091a1b4b",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=226164",
+      "name": "Community Prayer January24-2026",
+      "datePublished": 1769212800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+Community+Prayer+-+January+24%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "1151367c-98ef-4c0f-9c89-671ab5c6faf8",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221439",
+      "name": "DAB January 24 - 2026",
+      "datePublished": 1769212800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+024+-+January+24%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "317a9627-cd49-41d0-8d68-8a7b3853e9b8",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221438",
+      "name": "DAB January 23 - 2026",
+      "datePublished": 1769126400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+023+-+January+23%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "ffef18e7-47e3-47fe-b697-d0d5fa6265b9",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221437",
+      "name": "DAB January 22 - 2026",
+      "datePublished": 1769040000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+022+-+January+22%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "8763c82e-8c99-498a-8010-7a41e546164d",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221436",
+      "name": "DAB January 21 - 2026",
+      "datePublished": 1768953600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+021+-+January+21%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "c3f2595a-993d-4f62-b110-87ffbd026456",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221435",
+      "name": "DAB January 20 - 2026",
+      "datePublished": 1768867200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+020+-+January+20%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "0c7e3012-57a1-4dc8-884f-40a3cdbc18e7",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221434",
+      "name": "DAB January 19 - 2026",
+      "datePublished": 1768780800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+019+-+January+19%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "b9c0b39f-3abb-4576-8ab3-d98a46c1fac2",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221433",
+      "name": "DAB January 18 - 2026",
+      "datePublished": 1768694400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+018+-+January+18%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "a5058972-d006-4521-b8df-6b11c4b8b6c3",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=226163",
+      "name": "Community Prayer January17-2026",
+      "datePublished": 1768608000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+Community+Prayer+-+January+17%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "94c50a0c-87f3-473d-b962-fa0d15bcaecf",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221432",
+      "name": "DAB January 17 - 2026",
+      "datePublished": 1768608000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+017+-+January+17%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "ab7d269f-4c7c-4728-a064-2409478efab9",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221431",
+      "name": "DAB January 16 - 2026",
+      "datePublished": 1768521600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+016+-+January+16%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "f43c2bdc-31d6-40f1-8433-0a821f50c27e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221430",
+      "name": "DAB January 15 - 2026",
+      "datePublished": 1768435200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+015+-+January+15%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "c9a70ea4-9331-4b42-81e5-07b966c52db8",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221429",
+      "name": "DAB January 14 - 2026",
+      "datePublished": 1768348800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+014+-+January+14%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "b4ab7c9c-43b0-42f7-87e4-c55ce2b0eaef",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221428",
+      "name": "DAB January 13 - 2026",
+      "datePublished": 1768262400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+013+-+January+13%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "8f1fa1d0-5db0-452a-8ad4-63f6875c8666",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221427",
+      "name": "DAB January 12 - 2026",
+      "datePublished": 1768176000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+012+-+January+12%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "b6903515-4ae6-40f1-8357-8b794bf51434",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221426",
+      "name": "DAB January 11 - 2026",
+      "datePublished": 1768089600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+011+-+January+11%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "c7a20ac2-6398-47d3-b862-626b2328c643",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221425",
+      "name": "DAB January 10 - 2026",
+      "datePublished": 1768003200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+010+-+January+10%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "7719c9a3-d14f-452d-bd05-85f82f334b33",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=226162",
+      "name": "Community Prayer January10-2026",
+      "datePublished": 1768003200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+Community+Prayer+-+January+10%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "7854a244-1bbd-47e3-99ac-d590c4ba7890",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221424",
+      "name": "DAB January 09 - 2026",
+      "datePublished": 1767916800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+009+-+January+09%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "bf096b8b-d483-4a33-a869-656d75b22185",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221423",
+      "name": "DAB January 08 - 2026",
+      "datePublished": 1767830400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+008+-+January+08%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "92ff3954-3816-407f-8a39-ddfb557f22d1",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221422",
+      "name": "DAB January 07 - 2026",
+      "datePublished": 1767744000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+007+-+January+07%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "81659b5c-5c42-4012-877b-d741787fb5b7",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221421",
+      "name": "DAB January 06 - 2026",
+      "datePublished": 1767657600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+006+-+January+06%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "5954e9e9-4380-43b3-bec8-ef4b70dc5d05",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=226665",
+      "name": "Move In Week w/ Brian & Jill",
+      "datePublished": 1767657600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+Move+In+Week+w/+Brian+&+Jill+-+January+06%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "7c987b84-293d-49ad-a894-9ca79fb30eba",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221420",
+      "name": "DAB January 05 - 2026",
+      "datePublished": 1767571200,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+005+-+January+05%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "8ca8c0c7-7a4c-4a50-80bf-16ff4902452f",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221419",
+      "name": "DAB January 04 - 2026",
+      "datePublished": 1767484800,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+004+-+January+04%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "a0ffc195-3b6c-4318-b58b-b679b7957a72",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=226161",
+      "name": "Community Prayer January03-2026",
+      "datePublished": 1767398400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+Community+Prayer+-+January+03%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "506faa96-4d37-4aec-a3e2-8d1654cb8782",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221418",
+      "name": "DAB January 03 - 2026",
+      "datePublished": 1767398400,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+003+-+January+03%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "9b791c76-25a9-418d-8ffb-58b23a2de0b6",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221417",
+      "name": "DAB January 02 - 2026",
+      "datePublished": 1767312000,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+002+-+January+02%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "0991f32c-3be6-4dd1-8496-4109d8cfedc7",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=221416",
+      "name": "DAB January 01 - 2026",
+      "datePublished": 1767225600,
+      "audioUrl": "https://media.dailyaudiobible.com/2026/Daily+Audio+Bible+-+001+-+January+01%2C+2026.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "c1221d16-7ff9-49af-88c9-dcaa3e1437df",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217078",
+      "name": "DAB December 31 - 2025",
+      "datePublished": 1767139200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+365+-+December+31%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "730ed3db-e57b-48b5-bad6-7785d0ca7b2c",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217077",
+      "name": "DAB December 30 - 2025",
+      "datePublished": 1767052800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+364+-+December+30%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "7b68ddbc-47cc-49ce-9385-396d8b029581",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217076",
+      "name": "DAB December 29 - 2025",
+      "datePublished": 1766966400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+363+-+December+29%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "0a15fd77-2715-46de-aa9b-890f56d2d7e6",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217075",
+      "name": "DAB December 28 - 2025",
+      "datePublished": 1766880000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+362+-+December+28%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "da89c18b-eaa2-4e0c-9759-87e8c95209d1",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217074",
+      "name": "DAB December 27 - 2025",
+      "datePublished": 1766793600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+361+-+December+27%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "6b8c2f84-6798-482e-8ac8-60dd7311ccfd",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217138",
+      "name": "Community Prayer December27-2025",
+      "datePublished": 1766793600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+December+27%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "58016ec9-4c6d-4b84-8456-d4abf01d2b4f",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217073",
+      "name": "DAB December 26 - 2025",
+      "datePublished": 1766707200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+360+-+December+26%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "c41e069b-8a81-4839-94de-9b27875b8efa",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217072",
+      "name": "DAB December 25 - 2025",
+      "datePublished": 1766620800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+359+-+December+25%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "df30c100-f6fe-4312-91b7-2873ff028777",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=226216",
+      "name": "Blue Christmas",
+      "datePublished": 1766534400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Blue+Christmas+-+December+24%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "a4b0b15a-a918-4493-903a-d29e0304b004",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217071",
+      "name": "DAB December 24 - 2025",
+      "datePublished": 1766534400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+358+-+December+24%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "82aa88b8-af49-4177-8391-70dacc73d8e8",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217070",
+      "name": "DAB December 23 - 2025",
+      "datePublished": 1766448000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+357+-+December+23%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "d774eb24-082c-4505-9bef-5fa77bee693f",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217069",
+      "name": "DAB December 22 - 2025",
+      "datePublished": 1766361600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+356+-+December+22%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "31807b69-b4d2-4f57-a29d-fafde6ad8bc1",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=219154",
+      "name": "DAB Family Christmas 2025",
+      "datePublished": 1766361600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+DAB+Family+Christmas+2025+-+December+22%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "41c33394-70c2-4090-9f92-cfec88e67e2b",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217068",
+      "name": "DAB December 21 - 2025",
+      "datePublished": 1766275200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+355+-+December+21%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "62390bbe-61f2-4161-8a62-af5356af509c",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217137",
+      "name": "Community Prayer December20-2025",
+      "datePublished": 1766188800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+December+20%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "0ee5fd9d-e8b8-4e3a-bced-8e9b805a246e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217067",
+      "name": "DAB December 20 - 2025",
+      "datePublished": 1766188800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+354+-+December+20%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "7e6e3df9-7b9e-43d7-9995-99e5c3d505dc",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217066",
+      "name": "DAB December 19 - 2025",
+      "datePublished": 1766102400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+353+-+December+19%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "9e434ace-7d98-47da-b347-0a0f60e21359",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217065",
+      "name": "DAB December 18 - 2025",
+      "datePublished": 1766016000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+352+-+December+18%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "1b2b7446-d773-4459-8456-7bedf8cc473f",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217064",
+      "name": "DAB December 17 - 2025",
+      "datePublished": 1765929600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+351+-+December+17%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "556c2fb6-b0dc-425a-ac83-45cd96dfad93",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217063",
+      "name": "DAB December 16 - 2025",
+      "datePublished": 1765843200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+350+-+December+16%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "0d7d48e2-9850-4252-b122-c9880e600eea",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217062",
+      "name": "DAB December 15 - 2025",
+      "datePublished": 1765756800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+349+-+December+15%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "0bc3e526-b99e-4b53-82bd-3f45fcec4ed1",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217061",
+      "name": "DAB December 14 - 2025",
+      "datePublished": 1765670400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+348+-+December+14%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "e5e4aab3-fce9-4727-b11d-4b78175239d3",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217060",
+      "name": "DAB December 13 - 2025",
+      "datePublished": 1765584000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+347+-+December+13%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "60a456d8-fd65-4c79-bae0-7b9aa5e48799",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217136",
+      "name": "Community Prayer December13-2025",
+      "datePublished": 1765584000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+December+13%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "96f1d1db-c10e-49d9-a16e-48a18677f5a7",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217059",
+      "name": "DAB December 12 - 2025",
+      "datePublished": 1765497600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+346+-+December+12%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "4425dacc-3da7-4b87-b9e1-c0bf587cdaea",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217058",
+      "name": "DAB December 11 - 2025",
+      "datePublished": 1765411200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+345+-+December+11%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "09f0d003-a169-4370-a870-2f4ba936b1a9",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217057",
+      "name": "DAB December 10 - 2025",
+      "datePublished": 1765324800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+344+-+December+10%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "d27cb012-89df-43b2-93a2-ef7af123d47c",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217056",
+      "name": "DAB December 09 - 2025",
+      "datePublished": 1765238400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+343+-+December+09%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "84f6a253-f56c-4a37-8f23-1f1a1854c455",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217055",
+      "name": "DAB December 08 - 2025",
+      "datePublished": 1765152000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+342+-+December+08%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "28fc696c-38dd-4907-9868-96be15600fbe",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217054",
+      "name": "DAB December 07 - 2025",
+      "datePublished": 1765065600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+341+-+December+07%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "388ad160-3038-43ee-8e77-52dc26194dc2",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217053",
+      "name": "DAB December 06 - 2025",
+      "datePublished": 1764979200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+340+-+December+06%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "2af8d54b-4125-463f-a2fc-473e56b1f32c",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217135",
+      "name": "Community Prayer December06-2025",
+      "datePublished": 1764979200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+December+06%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "41efa84d-f971-4a07-9ed0-604c01d6577e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217052",
+      "name": "DAB December 05 - 2025",
+      "datePublished": 1764892800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+339+-+December+05%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "65d9930f-f272-462d-b30c-83e0a4c002a3",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217051",
+      "name": "DAB December 04 - 2025",
+      "datePublished": 1764806400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+338+-+December+04%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "9e8aa92b-f3d3-4918-bfd1-3317871df52f",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217050",
+      "name": "DAB December 03 - 2025",
+      "datePublished": 1764720000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+337+-+December+03%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "3a2d004e-b8c5-415d-ad21-f34b5a5323c9",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217049",
+      "name": "DAB December 02 - 2025",
+      "datePublished": 1764633600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+336+-+December+02%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "2d394dee-a369-4b72-85d8-2eeb2d38ea60",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217048",
+      "name": "DAB December 01 - 2025",
+      "datePublished": 1764547200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+335+-+December+01%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "09657bb8-9d16-457a-b019-00c0922fba19",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=219032",
+      "name": "DAB Campfire Stories 2025",
+      "datePublished": 1764547200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+DAB+Campfire+Stories+2025+-+December+01%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "9738b0ce-4fbc-4f7b-a98f-25e93e42f9de",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217047",
+      "name": "DAB November 30 - 2025",
+      "datePublished": 1764460800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+334+-+November+30%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "dc829a69-eeb3-439a-b1c4-66bd07b611ce",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217046",
+      "name": "DAB November 29 - 2025",
+      "datePublished": 1764374400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+333+-+November+29%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "d0978e51-8b36-478f-8688-6d054143e468",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217134",
+      "name": "Community Prayer November29-2025",
+      "datePublished": 1764374400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+November+29%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "7e5cff75-b3d7-4599-8b63-d8300c680601",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217045",
+      "name": "DAB November 28 - 2025",
+      "datePublished": 1764288000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+332+-+November+28%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "32184ef3-cfe3-4a38-95e4-8be792a41eaa",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217044",
+      "name": "DAB November 27 - 2025",
+      "datePublished": 1764201600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+331+-+November+27%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "e0dde7ba-8bf5-49c5-99bb-6fe33bdf6e5f",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217043",
+      "name": "DAB November 26 - 2025",
+      "datePublished": 1764115200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+330+-+November+26%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "53b7decd-2c33-4ca4-b4dd-49d5a1af2160",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217042",
+      "name": "DAB November 25 - 2025",
+      "datePublished": 1764028800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+329+-+November+25%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "65fbf53b-648c-44b7-8acd-c32b30d4e7c5",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217041",
+      "name": "DAB November 24 - 2025",
+      "datePublished": 1763942400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+328+-+November+24%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "8e0b28f7-ef4d-42fa-a0ce-28c08d77991a",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217040",
+      "name": "DAB November 23 - 2025",
+      "datePublished": 1763856000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+327+-+November+23%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "3d6d2cfd-a5f2-4e40-b30c-29da3c966129",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217133",
+      "name": "Community Prayer November22-2025",
+      "datePublished": 1763769600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+November+22%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "35eb8a21-c118-46a3-8cfd-2ef866a6bdd4",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217039",
+      "name": "DAB November 22 - 2025",
+      "datePublished": 1763769600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+326+-+November+22%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "9253089c-21ed-4259-bfca-d4e52ed6ae47",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217038",
+      "name": "DAB November 21 - 2025",
+      "datePublished": 1763683200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+325+-+November+21%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "e237641b-83f8-4ba1-8fcb-7d912daf4fd2",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217037",
+      "name": "DAB November 20 - 2025",
+      "datePublished": 1763596800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+324+-+November+20%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "1c16353b-e276-48ab-a652-32729324fcb8",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217036",
+      "name": "DAB November 19 - 2025",
+      "datePublished": 1763510400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+323+-+November+19%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "064fd07a-8253-42cb-a930-606163321f7d",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217035",
+      "name": "DAB November 18 - 2025",
+      "datePublished": 1763424000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+322+-+November+18%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "b7aa4405-dd08-4acc-80b7-7b4ed19d2d18",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217034",
+      "name": "DAB November 17 - 2025",
+      "datePublished": 1763337600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+321+-+November+17%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "f81ac5cf-6cf0-44e1-b6a4-971e892eba3e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217033",
+      "name": "DAB November 16 - 2025",
+      "datePublished": 1763251200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+320+-+November+16%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "4aabb324-b68e-49af-8d02-76944ee5e969",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217032",
+      "name": "DAB November 15 - 2025",
+      "datePublished": 1763164800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+319+-+November+15%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "3f449268-0692-402a-92c2-166f7244c974",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217132",
+      "name": "Community Prayer November15-2025",
+      "datePublished": 1763164800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+November+15%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "5ba737b7-ae16-4d80-aa32-428bf63c15b0",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217031",
+      "name": "DAB November 14 - 2025",
+      "datePublished": 1763078400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+318+-+November+14%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "8f026d6a-db92-40da-915b-fdd3c9bc5f48",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217030",
+      "name": "DAB November 13 - 2025",
+      "datePublished": 1762992000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+317+-+November+13%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "c8b44570-517d-45af-9756-9aaace7116db",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217029",
+      "name": "DAB November 12 - 2025",
+      "datePublished": 1762905600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+316+-+November+12%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "dcc86153-32bc-4319-8fe7-6a84e7ba51c0",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217028",
+      "name": "DAB November 11 - 2025",
+      "datePublished": 1762819200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+315+-+November+11%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "e0e0c6c2-ea74-44e6-9064-fb1814d1446b",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217027",
+      "name": "DAB November 10 - 2025",
+      "datePublished": 1762732800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+314+-+November+10%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "ebd02967-7ec7-41fc-80ed-638a15203b47",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217026",
+      "name": "DAB November 09 - 2025",
+      "datePublished": 1762646400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+313+-+November+09%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "c0d43247-37aa-46f6-8dae-1e3892d762a2",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217025",
+      "name": "DAB November 08 - 2025",
+      "datePublished": 1762560000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+312+-+November+08%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "3778e09e-a096-4269-8353-4bad751c5882",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217131",
+      "name": "Community Prayer November08-2025",
+      "datePublished": 1762560000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+November+08%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "0b402ae0-c4c0-442c-86fd-6fd7fa125d4d",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217024",
+      "name": "DAB November 07 - 2025",
+      "datePublished": 1762473600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+311+-+November+07%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "f3f892e7-01f9-4160-841e-d042493b955e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217023",
+      "name": "DAB November 06 - 2025",
+      "datePublished": 1762387200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+310+-+November+06%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "89fa7c61-f164-4975-b235-740c5395f5f0",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217022",
+      "name": "DAB November 05 - 2025",
+      "datePublished": 1762300800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+309+-+November+05%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "be0f8d1f-0c1f-44fe-8a9a-1ca90fc0fcf1",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217021",
+      "name": "DAB November 04 - 2025",
+      "datePublished": 1762214400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+308+-+November+04%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "adace2e0-b0dd-434b-9c2d-f09d613346d7",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217020",
+      "name": "DAB November 03 - 2025",
+      "datePublished": 1762128000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+307+-+November+03%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "b703b54e-aab6-42d3-b78c-fe703a6fbd4f",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217019",
+      "name": "DAB November 02 - 2025",
+      "datePublished": 1762041600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+306+-+November+02%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "54e2c7f0-20c6-4484-b8ac-f17c4ca51d31",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217130",
+      "name": "Community Prayer November01-2025",
+      "datePublished": 1761955200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+November+01%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "4f865aa3-473a-4676-885e-97107b4759fa",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217018",
+      "name": "DAB November 01 - 2025",
+      "datePublished": 1761955200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+305+-+November+01%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "260b8dee-b9d3-413f-a887-04ea3d3013cf",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217017",
+      "name": "DAB October 31 - 2025",
+      "datePublished": 1761868800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+304+-+October+31%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "fe4c5fb1-7ca5-4025-92cc-01d251ebe896",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217016",
+      "name": "DAB October 30 - 2025",
+      "datePublished": 1761782400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+303+-+October+30%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "f55bc3a3-1398-4d7e-b1d2-ccc79b5c5949",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217015",
+      "name": "DAB October 29 - 2025",
+      "datePublished": 1761696000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+302+-+October+29%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "f68a3c6a-5f5b-414b-b4a4-d3a2020d2dfd",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217014",
+      "name": "DAB October 28 - 2025",
+      "datePublished": 1761609600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+301+-+October+28%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "3bf9f398-1b06-4423-9d03-a884f6baa447",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217013",
+      "name": "DAB October 27 - 2025",
+      "datePublished": 1761523200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+300+-+October+27%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "714cb50f-4a1c-47be-b34e-47a4e8ce8130",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217012",
+      "name": "DAB October 26 - 2025",
+      "datePublished": 1761436800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+299+-+October+26%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "f1b11283-1f39-43f6-8465-79ebaa166541",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217011",
+      "name": "DAB October 25 - 2025",
+      "datePublished": 1761350400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+298+-+October+25%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "74fa3432-f70a-47ef-9db7-65da7f80fc4c",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217129",
+      "name": "Community Prayer October25-2025",
+      "datePublished": 1761350400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+October+25%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "b470a25c-cd24-42c4-aae3-9e2def993f09",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217010",
+      "name": "DAB October 24 - 2025",
+      "datePublished": 1761264000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+297+-+October+24%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "22c1e857-11eb-4759-bf29-7f6a1e90ad49",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217009",
+      "name": "DAB October 23 - 2025",
+      "datePublished": 1761177600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+296+-+October+23%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "c27676fd-103d-42d3-98a4-a77b76ab1df3",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217008",
+      "name": "DAB October 22 - 2025",
+      "datePublished": 1761091200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+295+-+October+22%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "2db11b5e-4889-478d-ade7-5bbaf3a1796f",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217007",
+      "name": "DAB October 21 - 2025",
+      "datePublished": 1761004800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+294+-+October+21%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "f7faf5d3-6e8b-4d28-a797-597dfa72d9c6",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217006",
+      "name": "DAB October 20 - 2025",
+      "datePublished": 1760918400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+293+-+October+20%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "ab87f1e3-41a7-4f04-b946-7b1081b57498",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217005",
+      "name": "DAB October 19 - 2025",
+      "datePublished": 1760832000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+292+-+October+19%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "eb466bbb-1266-402c-9300-313d2f120107",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217004",
+      "name": "DAB October 18 - 2025",
+      "datePublished": 1760745600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+291+-+October+18%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "95c21c19-10d9-48ec-ab5b-c9e1b1c96a73",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217128",
+      "name": "Community Prayer October18-2025",
+      "datePublished": 1760745600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+October+18%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "a797983e-e561-45b8-9c78-b2cbba4cac8e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217003",
+      "name": "DAB October 17 - 2025",
+      "datePublished": 1760659200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+290+-+October+17%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "af174c9b-96cc-4190-b304-c12892717931",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217002",
+      "name": "DAB October 16 - 2025",
+      "datePublished": 1760572800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+289+-+October+16%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "e6d6269a-8c58-45f7-ae24-93262b284205",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217001",
+      "name": "DAB October 15 - 2025",
+      "datePublished": 1760486400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+288+-+October+15%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "100034d7-e7f8-4b08-aa92-7c1d4647fa34",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217000",
+      "name": "DAB October 14 - 2025",
+      "datePublished": 1760400000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+287+-+October+14%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "1bdc3cc6-afe0-4dd4-b660-19da4e5b4f1a",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216999",
+      "name": "DAB October 13 - 2025",
+      "datePublished": 1760313600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+286+-+October+13%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "70e1d627-bd69-4e09-9254-347fac2be644",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216998",
+      "name": "DAB October 12 - 2025",
+      "datePublished": 1760227200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+285+-+October+12%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "8e3e2eed-f444-497f-9c0b-f74f78ff4219",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216997",
+      "name": "DAB October 11 - 2025",
+      "datePublished": 1760140800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+284+-+October+11%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "67274833-ed88-40a8-abf1-aded07b0fe45",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217127",
+      "name": "Community Prayer October11-2025",
+      "datePublished": 1760140800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+October+11%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "a2310469-123c-47cd-b85b-74663ea7e576",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216996",
+      "name": "DAB October 10 - 2025",
+      "datePublished": 1760054400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+283+-+October+10%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "c1681a2e-5d3a-4187-aaa1-808531fd447c",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216995",
+      "name": "DAB October 09 - 2025",
+      "datePublished": 1759968000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+282+-+October+09%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "d13b2b64-8a01-4170-883a-ce784a7f2f2b",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216994",
+      "name": "DAB October 08 - 2025",
+      "datePublished": 1759881600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+281+-+October+08%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "ccd58f38-0b12-4c68-a80b-71028ffde057",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216993",
+      "name": "DAB October 07 - 2025",
+      "datePublished": 1759795200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+280+-+October+07%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "ee08f919-29e3-4981-a0a7-120037b06e25",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216992",
+      "name": "DAB October 06 - 2025",
+      "datePublished": 1759708800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+279+-+October+06%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "28585265-fcf6-4b75-a189-aee19db36357",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216991",
+      "name": "DAB October 05 - 2025",
+      "datePublished": 1759622400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+278+-+October+05%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "ab7c8a5c-e476-4d69-bb40-8e13395aae84",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217126",
+      "name": "Community Prayer October04-2025",
+      "datePublished": 1759536000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+October+04%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "3f7e1348-fc86-4a5b-bbde-2c4a1c77b714",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216990",
+      "name": "DAB October 04 - 2025",
+      "datePublished": 1759536000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+277+-+October+04%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "acc77b72-2e7f-42ff-a109-4969a216c72d",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216989",
+      "name": "DAB October 03 - 2025",
+      "datePublished": 1759449600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+276+-+October+03%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "b8dadc23-653a-4c06-9937-07f697152bf9",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216988",
+      "name": "DAB October 02 - 2025",
+      "datePublished": 1759363200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+275+-+October+02%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "3578c912-145b-4385-a0a0-c5d99e4edd36",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216987",
+      "name": "DAB October 01 - 2025",
+      "datePublished": 1759276800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+274+-+October+01%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "606bb877-249d-4d08-88d2-6f430ad9ef89",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216986",
+      "name": "DAB September 30 - 2025",
+      "datePublished": 1759190400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+273+-+September+30%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "fd17e698-22f6-41cf-95b8-ecc37d352f99",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216985",
+      "name": "DAB September 29 - 2025",
+      "datePublished": 1759104000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+272+-+September+29%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "1b477802-7546-4ff4-89de-834cc139d7a0",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216984",
+      "name": "DAB September 28 - 2025",
+      "datePublished": 1759017600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+271+-+September+28%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "efcc8a3e-a863-4b69-85a2-ca0f8698c80c",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217125",
+      "name": "Community Prayer September27-2025",
+      "datePublished": 1758931200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+September+27%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "e74446c4-3b99-4182-9dbf-79362cf1d999",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216983",
+      "name": "DAB September 27 - 2025",
+      "datePublished": 1758931200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+270+-+September+27%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "57997d48-59af-4657-9240-2560a42c0f5c",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216982",
+      "name": "DAB September 26 - 2025",
+      "datePublished": 1758844800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+269+-+September+26%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "cc367003-177a-411e-9f5c-81b33cb4b7f6",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216981",
+      "name": "DAB September 25 - 2025",
+      "datePublished": 1758758400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+268+-+September+25%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "a4f3efd1-5e46-4999-b8fb-342a83ca1e1f",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216980",
+      "name": "DAB September 24 - 2025",
+      "datePublished": 1758672000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+267+-+September+24%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "37b4f93f-0360-4bb5-8e5a-5f13a3c313ed",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216979",
+      "name": "DAB September 23 - 2025",
+      "datePublished": 1758585600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+266+-+September+23%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "ea7dc693-a851-42dc-9ec9-923fcbe45ea4",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216978",
+      "name": "DAB September 22 - 2025",
+      "datePublished": 1758499200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+265+-+September+22%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "890a3df1-2140-497b-9e6b-f15338ff6167",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216977",
+      "name": "DAB September 21 - 2025",
+      "datePublished": 1758412800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+264+-+September+21%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "ebe5f03d-5679-4ef0-8a3e-591ad3fe735f",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216976",
+      "name": "DAB September 20 - 2025",
+      "datePublished": 1758326400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+263+-+September+20%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "6355814b-b728-44d1-b54f-9e014e0da82e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217124",
+      "name": "Community Prayer September20-2025",
+      "datePublished": 1758326400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+September+20%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "a45f716d-2308-4d8e-96c0-e0b57ce7a6fa",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216975",
+      "name": "DAB September 19 - 2025",
+      "datePublished": 1758240000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+262+-+September+19%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "1fc71ecc-f280-40b3-8363-3af2286d1e5e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216974",
+      "name": "DAB September 18 - 2025",
+      "datePublished": 1758153600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+261+-+September+18%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "81ec6287-3272-4af1-993b-4c837b670ea6",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216973",
+      "name": "DAB September 17 - 2025",
+      "datePublished": 1758067200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+260+-+September+17%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "4a45a387-7fed-43e3-868d-93f100e14954",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216972",
+      "name": "DAB September 16 - 2025",
+      "datePublished": 1757980800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+259+-+September+16%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "d402a8a7-fee1-4097-a40d-6a77e9210a9f",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216971",
+      "name": "DAB September 15 - 2025",
+      "datePublished": 1757894400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+258+-+September+15%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "f79a831e-cbb7-43e7-8472-583187b8543d",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216970",
+      "name": "DAB September 14 - 2025",
+      "datePublished": 1757808000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+257+-+September+14%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "8358e830-8a94-4343-94fb-5db54a76b46d",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217123",
+      "name": "Community Prayer September13-2025",
+      "datePublished": 1757721600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+September+13%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "806c77c2-7efd-4e15-98c2-d62cc06cb7b9",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216969",
+      "name": "DAB September 13 - 2025",
+      "datePublished": 1757721600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+256+-+September+13%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "a47c2e64-65e3-4e41-b690-c620584ba5fb",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216968",
+      "name": "DAB September 12 - 2025",
+      "datePublished": 1757635200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+255+-+September+12%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "73374e2c-a893-4447-97ea-81e3e59cd1f0",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216967",
+      "name": "DAB September 11 - 2025",
+      "datePublished": 1757548800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+254+-+September+11%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "9fcad039-8e81-4b8c-ad92-de8c93f1278c",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216966",
+      "name": "DAB September 10 - 2025",
+      "datePublished": 1757462400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+253+-+September+10%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "651e124c-86ae-44f2-a49e-ac7f742d2f4a",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216965",
+      "name": "DAB September 09 - 2025",
+      "datePublished": 1757376000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+252+-+September+09%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "54579b96-89b9-4754-88fa-d0557873c594",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216964",
+      "name": "DAB September 08 - 2025",
+      "datePublished": 1757289600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+251+-+September+08%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "821a9533-3bd7-4783-93e0-5ed7624f6896",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216963",
+      "name": "DAB September 07 - 2025",
+      "datePublished": 1757203200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+250+-+September+07%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "db757128-202b-4428-bf3d-76cf4bddca1c",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217122",
+      "name": "Community Prayer September06-2025",
+      "datePublished": 1757116800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+September+06%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "7eb9261b-336c-41a8-a4b7-0f14a31a5995",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216962",
+      "name": "DAB September 06 - 2025",
+      "datePublished": 1757116800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+249+-+September+06%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "f25b0c4e-90e9-4df8-a494-724c1dd0b65e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216961",
+      "name": "DAB September 05 - 2025",
+      "datePublished": 1757030400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+248+-+September+05%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "0a1755ef-c02f-4d80-b2c1-72d73e9b903a",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216960",
+      "name": "DAB September 04 - 2025",
+      "datePublished": 1756944000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+247+-+September+04%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "e0c96c9a-0c79-482e-89ad-162532e205de",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216959",
+      "name": "DAB September 03 - 2025",
+      "datePublished": 1756857600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+246+-+September+03%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "7177e351-a225-438c-af07-76f568eaba44",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216958",
+      "name": "DAB September 02 - 2025",
+      "datePublished": 1756771200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+245+-+September+02%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "e1b6354c-cdf4-49ad-8bb2-0f4f14cc6dc9",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216957",
+      "name": "DAB September 01 - 2025",
+      "datePublished": 1756684800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+244+-+September+01%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "947b548f-2f36-4c45-ac32-ee2dcbf7b3be",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216956",
+      "name": "DAB August 31 - 2025",
+      "datePublished": 1756598400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+243+-+August+31%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "872535b0-eed9-468e-90bf-fe33f7de7e61",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216955",
+      "name": "DAB August 30 - 2025",
+      "datePublished": 1756512000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+242+-+August+30%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "7f5422c6-9eeb-43e0-8786-a62a2daea4b4",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217121",
+      "name": "Community Prayer August30-2025",
+      "datePublished": 1756512000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+August+30%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "259baefa-c2f1-4f3e-aaeb-7e4cf88d5cf0",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216954",
+      "name": "DAB August 29 - 2025",
+      "datePublished": 1756425600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+241+-+August+29%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "ad45d79e-6f31-406a-9404-a479ace8c13a",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216953",
+      "name": "DAB August 28 - 2025",
+      "datePublished": 1756339200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+240+-+August+28%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "7c3e2f83-0968-4d7e-a294-2aeb2b8b528f",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216952",
+      "name": "DAB August 27 - 2025",
+      "datePublished": 1756252800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+239+-+August+27%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "5516d06b-43c8-4345-b5f9-47a8f28cb7cd",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216951",
+      "name": "DAB August 26 - 2025",
+      "datePublished": 1756166400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+238+-+August+26%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "daafdb8a-4420-445b-8b65-7510319c7f5b",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216950",
+      "name": "DAB August 25 - 2025",
+      "datePublished": 1756080000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+237+-+August+25%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "95855919-566f-4d1c-9ac1-08079dc1c6b7",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216949",
+      "name": "DAB August 24 - 2025",
+      "datePublished": 1755993600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+236+-+August+24%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "904ded79-dd72-4be5-b51f-6e70a16f4787",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216948",
+      "name": "DAB August 23 - 2025",
+      "datePublished": 1755907200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+235+-+August+23%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "18c56b9a-6db5-4c56-a517-2123b6cbbf81",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217120",
+      "name": "Community Prayer August23-2025",
+      "datePublished": 1755907200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+August+23%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "261b57b4-e5e2-427b-a7ea-22e1c20d3739",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216947",
+      "name": "DAB August 22 - 2025",
+      "datePublished": 1755820800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+234+-+August+22%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "40311075-2d97-4b8c-aee7-873f162b8ea1",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216946",
+      "name": "DAB August 21 - 2025",
+      "datePublished": 1755734400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+233+-+August+21%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "5e882fd3-1e3c-488c-8d2c-3b921e78d85f",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216945",
+      "name": "DAB August 20 - 2025",
+      "datePublished": 1755648000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+232+-+August+20%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "44a9d8e7-0eb1-4cdf-be80-c4dd90c64c78",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216944",
+      "name": "DAB August 19 - 2025",
+      "datePublished": 1755561600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+231+-+August+19%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "f95e0fd2-ba45-4453-9d44-1cc30709bf94",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216943",
+      "name": "DAB August 18 - 2025",
+      "datePublished": 1755475200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+230+-+August+18%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "c98cd407-a2a3-4ae7-b0af-a77122721677",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216942",
+      "name": "DAB August 17 - 2025",
+      "datePublished": 1755388800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+229+-+August+17%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "31b87acd-e7d5-41d6-b95e-1debf88286fc",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217119",
+      "name": "Community Prayer August16-2025",
+      "datePublished": 1755302400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+August+16%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "0eb38c01-6c83-4a82-8190-2f7c8528fec9",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216941",
+      "name": "DAB August 16 - 2025",
+      "datePublished": 1755302400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+228+-+August+16%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "4ad01672-7de3-431d-be67-8cf7a3fa97bc",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216940",
+      "name": "DAB August 15 - 2025",
+      "datePublished": 1755216000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+227+-+August+15%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "0eb86c38-3bb9-4661-8e41-7f5b42be4dd4",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216939",
+      "name": "DAB August 14 - 2025",
+      "datePublished": 1755129600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+226+-+August+14%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "e54edaa8-d384-4470-91d3-8f20a903c423",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216938",
+      "name": "DAB August 13 - 2025",
+      "datePublished": 1755043200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+225+-+August+13%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "0e39ddc4-a190-45f8-886d-ccf441906f42",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216937",
+      "name": "DAB August 12 - 2025",
+      "datePublished": 1754956800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+224+-+August+12%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "89ef7513-898a-4fa8-89aa-bf201b60beb2",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216936",
+      "name": "DAB August 11 - 2025",
+      "datePublished": 1754870400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+223+-+August+11%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "d251a6ee-3226-4b53-89f3-099b84a6ad5c",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216935",
+      "name": "DAB August 10 - 2025",
+      "datePublished": 1754784000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+222+-+August+10%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "61d7c9d5-377e-4b59-96e2-f4a5eb4144e1",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216934",
+      "name": "DAB August 09 - 2025",
+      "datePublished": 1754697600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+221+-+August+09%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "1a072d60-1ab8-459b-9873-aa72e890fb4e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217118",
+      "name": "Community Prayer August09-2025",
+      "datePublished": 1754697600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+August+09%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "b623d37b-090f-4520-ac3c-d626a1c19a00",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216933",
+      "name": "DAB August 08 - 2025",
+      "datePublished": 1754611200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+220+-+August+08%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "f41970a8-8919-45c9-9fed-ca76f1472a55",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216932",
+      "name": "DAB August 07 - 2025",
+      "datePublished": 1754524800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+219+-+August+07%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "00ad89cb-76ee-4c95-ba34-5173f9ed3885",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216931",
+      "name": "DAB August 06 - 2025",
+      "datePublished": 1754438400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+218+-+August+06%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "8fc8ac27-9ab4-467e-a3fa-0a0e054043a4",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216930",
+      "name": "DAB August 05 - 2025",
+      "datePublished": 1754352000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+217+-+August+05%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "9579dcd6-4b20-4f57-b59f-b85af2c103de",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216929",
+      "name": "DAB August 04 - 2025",
+      "datePublished": 1754265600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+216+-+August+04%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "e1a742cf-1fd2-4e78-9726-e53615952cd1",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216928",
+      "name": "DAB August 03 - 2025",
+      "datePublished": 1754179200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+215+-+August+03%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "d425ad28-c6e6-4278-a1ff-379259b57861",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216927",
+      "name": "DAB August 02 - 2025",
+      "datePublished": 1754092800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+214+-+August+02%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "688232c7-bcb5-4431-a658-9671c42f0f43",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217117",
+      "name": "Community Prayer August02-2025",
+      "datePublished": 1754092800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+August+02%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "fb6ad69d-4cc1-4822-9a17-e1e94ff27c3d",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216926",
+      "name": "DAB August 01 - 2025",
+      "datePublished": 1754006400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+213+-+August+01%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "4708cec2-2825-468d-8075-0f939c135a9a",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216925",
+      "name": "DAB July 31 - 2025",
+      "datePublished": 1753920000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+212+-+July+31%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "1bfb5014-f25a-40d0-b32e-bfdd5e35f0df",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216924",
+      "name": "DAB July 30 - 2025",
+      "datePublished": 1753833600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+211+-+July+30%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "9800b55f-e990-4491-9c88-d6960f402f5d",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216923",
+      "name": "DAB July 29 - 2025",
+      "datePublished": 1753747200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+210+-+July+29%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "57cc5684-b68a-4eaf-87c4-3aa395f10d21",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216922",
+      "name": "DAB July 28 - 2025",
+      "datePublished": 1753660800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+209+-+July+28%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "5bf24071-21a1-4b80-ba1f-8b77e7bc0917",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216921",
+      "name": "DAB July 27 - 2025",
+      "datePublished": 1753574400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+208+-+July+27%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "e4b8c914-1859-440c-b7b0-968a5a231ae8",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217116",
+      "name": "Community Prayer July26-2025",
+      "datePublished": 1753488000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+July+26%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "0f3bfd32-e203-4390-8628-deb8723b5e77",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216920",
+      "name": "DAB July 26 - 2025",
+      "datePublished": 1753488000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+207+-+July+26%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "d8def37d-4894-4085-9946-98660a65f4a3",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216919",
+      "name": "DAB July 25 - 2025",
+      "datePublished": 1753401600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+206+-+July+25%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "05abb955-9793-476b-931a-a378269dba84",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216918",
+      "name": "DAB July 24 - 2025",
+      "datePublished": 1753315200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+205+-+July+24%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "933fa8a5-7bcc-415f-9f51-30632edfc54e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216917",
+      "name": "DAB July 23 - 2025",
+      "datePublished": 1753228800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+204+-+July+23%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "2a7b0a28-d680-4df0-8c5d-d355f3008f02",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216916",
+      "name": "DAB July 22 - 2025",
+      "datePublished": 1753142400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+203+-+July+22%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "ef2a56a4-0575-4f69-b40f-473e38d2233b",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216915",
+      "name": "DAB July 21 - 2025",
+      "datePublished": 1753056000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+202+-+July+21%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "8327aec1-fe6f-4684-8d33-a1494104f8fb",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216914",
+      "name": "DAB July 20 - 2025",
+      "datePublished": 1752969600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+201+-+July+20%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "27912e0e-04ca-4d7a-aa72-1f8f76fcb4e7",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217115",
+      "name": "Community Prayer July19-2025",
+      "datePublished": 1752883200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+July+19%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "083fe6dc-c77e-49ef-b252-d338377190e8",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216913",
+      "name": "DAB July 19 - 2025",
+      "datePublished": 1752883200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+200+-+July+19%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "63f67e1f-2b09-4579-8bb9-0933acbe074e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216912",
+      "name": "DAB July 18 - 2025",
+      "datePublished": 1752796800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+199+-+July+18%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "22d05654-784d-40fc-afcd-682c40f4aa93",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216911",
+      "name": "DAB July 17 - 2025",
+      "datePublished": 1752710400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+198+-+July+17%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "2b8d3cfb-ebed-49f2-89bf-f82e3e536788",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216910",
+      "name": "DAB July 16 - 2025",
+      "datePublished": 1752624000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+197+-+July+16%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "992448ff-ab87-4f7b-b43c-38287ee4fbe8",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216909",
+      "name": "DAB July 15 - 2025",
+      "datePublished": 1752537600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+196+-+July+15%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "b8ccc381-f62e-4c5e-9b45-e81ac387fafb",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216908",
+      "name": "DAB July 14 - 2025",
+      "datePublished": 1752451200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+195+-+July+14%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "5feb5f52-5c34-4941-95d4-702278b3bba5",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216907",
+      "name": "DAB July 13 - 2025",
+      "datePublished": 1752364800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+194+-+July+13%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "fd160ca7-4500-4e6f-ac13-63f24c4eade6",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217114",
+      "name": "Community Prayer July12-2025",
+      "datePublished": 1752278400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+July+12%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "5c8675b0-0a58-4fb8-ab94-a93fb9c88391",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216906",
+      "name": "DAB July 12 - 2025",
+      "datePublished": 1752278400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+193+-+July+12%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "ec41ff68-08ea-4caa-9f3a-a374e784cc6f",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216905",
+      "name": "DAB July 11 - 2025",
+      "datePublished": 1752192000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+192+-+July+11%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "6465c526-1773-4922-ae77-f5947f1248c0",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216904",
+      "name": "DAB July 10 - 2025",
+      "datePublished": 1752105600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+191+-+July+10%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "c107efc2-febb-4b36-b0f2-2ae8e7905491",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216903",
+      "name": "DAB July 09 - 2025",
+      "datePublished": 1752019200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+190+-+July+09%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "f2fbd9fc-1975-48c4-835a-5e644e64212a",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216902",
+      "name": "DAB July 08 - 2025",
+      "datePublished": 1751932800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+189+-+July+08%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "d6e9b7a1-4d7e-4f01-af0c-1967ef992c37",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216901",
+      "name": "DAB July 07 - 2025",
+      "datePublished": 1751846400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+188+-+July+07%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "8aab6f07-4c7f-4b74-8d63-4964d87bca82",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216900",
+      "name": "DAB July 06 - 2025",
+      "datePublished": 1751760000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+187+-+July+06%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "ea966121-b03c-45b6-bc32-18c676749cff",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216899",
+      "name": "DAB July 05 - 2025",
+      "datePublished": 1751673600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+186+-+July+05%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "ea04b999-3b24-4798-8095-e2975ee34977",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217113",
+      "name": "Community Prayer July05-2025",
+      "datePublished": 1751673600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+July+05%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "f74cdc43-63b7-4ee5-958d-c338ccc93eef",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216898",
+      "name": "DAB July 04 - 2025",
+      "datePublished": 1751587200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+185+-+July+04%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "d6bfc9b2-e38b-460a-87e5-c6aefce57124",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216897",
+      "name": "DAB July 03 - 2025",
+      "datePublished": 1751500800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+184+-+July+03%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "830bddbb-726f-49f0-b71f-f9a424185e3e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216896",
+      "name": "DAB July 02 - 2025",
+      "datePublished": 1751414400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+183+-+July+02%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "623ff17d-732f-4dd2-9749-57f38dfca99e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216895",
+      "name": "DAB July 01 - 2025",
+      "datePublished": 1751328000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+182+-+July+01%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "9267bf47-5a42-4c86-a2f6-9c7bb5013149",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216894",
+      "name": "DAB June 30 - 2025",
+      "datePublished": 1751241600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+181+-+June+30%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "540868d3-2d44-4d81-82cc-f8fe89f9a214",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216893",
+      "name": "DAB June 29 - 2025",
+      "datePublished": 1751155200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+180+-+June+29%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "c57fa8f4-d23e-4523-9d6a-939e5ef052b6",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216892",
+      "name": "DAB June 28 - 2025",
+      "datePublished": 1751068800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+179+-+June+28%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "ac5a8ee1-eddf-46ba-80cf-304229c6ac3b",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217112",
+      "name": "Community Prayer June28-2025",
+      "datePublished": 1751068800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+June+28%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "4a29132c-12fe-4695-a2fc-ad8e75320d12",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216891",
+      "name": "DAB June 27 - 2025",
+      "datePublished": 1750982400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+178+-+June+27%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "f94e7291-b573-4ce7-bf2c-7a1aef074d08",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216890",
+      "name": "DAB June 26 - 2025",
+      "datePublished": 1750896000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+177+-+June+26%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "226d9030-643c-4a84-bb08-adbfe47b2292",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216889",
+      "name": "DAB June 25 - 2025",
+      "datePublished": 1750809600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+176+-+June+25%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "dcf8abf9-544f-49ef-a32c-92025fdbd791",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216888",
+      "name": "DAB June 24 - 2025",
+      "datePublished": 1750723200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+175+-+June+24%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "e6f8393c-46fb-43b6-b4cc-16bf141cab43",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216887",
+      "name": "DAB June 23 - 2025",
+      "datePublished": 1750636800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+174+-+June+23%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "e924fb38-9bb5-417c-9fbe-4533fa844456",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216886",
+      "name": "DAB June 22 - 2025",
+      "datePublished": 1750550400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+173+-+June+22%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "d51b1fe3-f8ec-4230-b649-93b775598857",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217111",
+      "name": "Community Prayer June21-2025",
+      "datePublished": 1750464000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+June+21%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "888a416e-0c24-4967-aad0-67256bc675dc",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216885",
+      "name": "DAB June 21 - 2025",
+      "datePublished": 1750464000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+172+-+June+21%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "b91ab812-924b-42b8-ba60-dcad4d0a8a77",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216884",
+      "name": "DAB June 20 - 2025",
+      "datePublished": 1750377600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+171+-+June+20%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "51c3fedd-d0a6-4a8b-af6e-c87377239179",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216883",
+      "name": "DAB June 19 - 2025",
+      "datePublished": 1750291200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+170+-+June+19%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "0b14f0bd-151a-433e-aa8d-36b132a0e004",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216882",
+      "name": "DAB June 18 - 2025",
+      "datePublished": 1750204800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+169+-+June+18%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "2bbff300-9b3a-4697-8d61-fe874e739f21",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216881",
+      "name": "DAB June 17 - 2025",
+      "datePublished": 1750118400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+168+-+June+17%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "ff3be74c-ecb6-4f2b-9736-cfa4a83ade9b",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216880",
+      "name": "DAB June 16 - 2025",
+      "datePublished": 1750032000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+167+-+June+16%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "9fb71c8e-aa04-462f-b812-b93f1ef218f6",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216879",
+      "name": "DAB June 15 - 2025",
+      "datePublished": 1749945600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+166+-+June+15%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "7edd91cd-be5f-45dd-b4b6-1944910363cc",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217110",
+      "name": "Community Prayer June14-2025",
+      "datePublished": 1749859200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+June+14%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "33c805e3-daa9-4b13-ab88-14331fa192d8",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216878",
+      "name": "DAB June 14 - 2025",
+      "datePublished": 1749859200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+165+-+June+14%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "984ec6a4-69eb-43fe-a871-293d126a6d43",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216877",
+      "name": "DAB June 13 - 2025",
+      "datePublished": 1749772800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+164+-+June+13%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "48e92cce-4a1d-4dc9-8c39-802a2cbea95e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216876",
+      "name": "DAB June 12 - 2025",
+      "datePublished": 1749686400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+163+-+June+12%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "ee6630b1-4772-4c72-8532-205dda5547fd",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216875",
+      "name": "DAB June 11 - 2025",
+      "datePublished": 1749600000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+162+-+June+11%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "b2989499-c525-4fd2-9549-69955e6c703b",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216874",
+      "name": "DAB June 10 - 2025",
+      "datePublished": 1749513600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+161+-+June+10%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "94818e3c-cbe3-4a7d-942b-5b5149332415",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216873",
+      "name": "DAB June 09 - 2025",
+      "datePublished": 1749427200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+160+-+June+09%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "d813c9e1-f9b8-45e9-b8ed-0647ef2979d0",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216872",
+      "name": "DAB June 08 - 2025",
+      "datePublished": 1749340800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+159+-+June+08%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "d5523231-7818-4c97-a223-fb7f30146380",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217109",
+      "name": "Community Prayer June07-2025",
+      "datePublished": 1749254400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+June+07%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "c79f6325-80e2-4011-a927-b4ca435f6c6d",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216871",
+      "name": "DAB June 07 - 2025",
+      "datePublished": 1749254400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+158+-+June+07%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "48ec68f2-256b-4531-a741-df6446b743b2",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216870",
+      "name": "DAB June 06 - 2025",
+      "datePublished": 1749168000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+157+-+June+06%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "aea12d66-06ae-465c-9b71-97d6eb72d4a3",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216869",
+      "name": "DAB June 05 - 2025",
+      "datePublished": 1749081600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+156+-+June+05%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "49567ca4-ddf7-4cfa-a2cb-43e15f21272e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216868",
+      "name": "DAB June 04 - 2025",
+      "datePublished": 1748995200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+155+-+June+04%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "86db2efe-f9af-44f8-bf29-bbc38e2f3d97",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216867",
+      "name": "DAB June 03 - 2025",
+      "datePublished": 1748908800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+154+-+June+03%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "c3545387-baa9-46fb-ae6b-7af744900013",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216866",
+      "name": "DAB June 02 - 2025",
+      "datePublished": 1748822400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+153+-+June+02%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "42485852-0372-444f-88de-e3baa9696c76",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216865",
+      "name": "DAB June 01 - 2025",
+      "datePublished": 1748736000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+152+-+June+01%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "e34fc2b3-63c1-451f-998f-d767335985c0",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216864",
+      "name": "DAB May 31 - 2025",
+      "datePublished": 1748649600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+151+-+May+31%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "d989f421-da99-4cff-97cd-6daa598e697f",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217108",
+      "name": "Community Prayer May31-2025",
+      "datePublished": 1748649600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+May+31%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "cec2b567-144e-40b4-b732-967e03db2c6c",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216863",
+      "name": "DAB May 30 - 2025",
+      "datePublished": 1748563200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+150+-+May+30%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "e08c73d0-f5b4-4e55-b487-0dd2d18c322d",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216862",
+      "name": "DAB May 29 - 2025",
+      "datePublished": 1748476800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+149+-+May+29%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "d8348e4a-2c4a-4887-b6ea-d858a3d795fe",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216861",
+      "name": "DAB May 28 - 2025",
+      "datePublished": 1748390400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+148+-+May+28%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "ca9f8f1e-d1f6-4a34-8c14-d15854234cdd",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216860",
+      "name": "DAB May 27 - 2025",
+      "datePublished": 1748304000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+147+-+May+27%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "bfdad6fe-c56a-44a5-93fe-b074a9724f51",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216859",
+      "name": "DAB May 26 - 2025",
+      "datePublished": 1748217600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+146+-+May+26%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "6263470b-b9b0-42af-bae5-0930740469cf",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216858",
+      "name": "DAB May 25 - 2025",
+      "datePublished": 1748131200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+145+-+May+25%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "eee4cd6f-c1b3-4cc4-a7cc-bc55bf1908c5",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217107",
+      "name": "Community Prayer May24-2025",
+      "datePublished": 1748044800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+May+24%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "1d1450cc-b04b-41a7-805e-423621aa67f6",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216857",
+      "name": "DAB May 24 - 2025",
+      "datePublished": 1748044800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+144+-+May+24%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "2572197a-b05e-4e94-be89-5880e27cce95",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216856",
+      "name": "DAB May 23 - 2025",
+      "datePublished": 1747958400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+143+-+May+23%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "d6b4c924-e8f1-417a-a7c6-a353f947c7ca",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216855",
+      "name": "DAB May 22 - 2025",
+      "datePublished": 1747872000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+142+-+May+22%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "15f00f42-f4ee-473d-8256-772387078ffa",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216854",
+      "name": "DAB May 21 - 2025",
+      "datePublished": 1747785600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+141+-+May+21%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "bfdfd879-552b-43b9-a517-a0a69258095e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216853",
+      "name": "DAB May 20 - 2025",
+      "datePublished": 1747699200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+140+-+May+20%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "c17adbfd-c9df-42c3-b62b-b3fe571db949",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216852",
+      "name": "DAB May 19 - 2025",
+      "datePublished": 1747612800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+139+-+May+19%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "507cbaf6-5a85-4504-b760-c31d862cb000",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216851",
+      "name": "DAB May 18 - 2025",
+      "datePublished": 1747526400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+138+-+May+18%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "a4fc4a88-99e8-4312-9c72-eae73ca30f25",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217106",
+      "name": "Community Prayer May17-2025",
+      "datePublished": 1747440000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+May+17%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "0c1215e2-8537-48d1-9368-232a5e8ae8c5",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216850",
+      "name": "DAB May 17 - 2025",
+      "datePublished": 1747440000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+137+-+May+17%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "061297f7-379a-4742-829d-2c79e8e98bca",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216849",
+      "name": "DAB May 16 - 2025",
+      "datePublished": 1747353600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+136+-+May+16%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "7bb2279b-6a1a-4d42-b1e1-3d98a00f05e3",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216848",
+      "name": "DAB May 15 - 2025",
+      "datePublished": 1747267200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+135+-+May+15%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "9abf9c2a-c9c4-48e3-a918-6d47654f22fd",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216847",
+      "name": "DAB May 14 - 2025",
+      "datePublished": 1747180800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+134+-+May+14%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "91cd0750-303b-4fa3-a5c0-f14b81c4bb45",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216846",
+      "name": "DAB May 13 - 2025",
+      "datePublished": 1747094400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+133+-+May+13%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "49c44b97-1e33-4547-9a05-4a39f0d517ae",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216845",
+      "name": "DAB May 12 - 2025",
+      "datePublished": 1747008000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+132+-+May+12%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "0b4d2b1d-3a10-45c0-9945-c38f6c8833b7",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216844",
+      "name": "DAB May 11 - 2025",
+      "datePublished": 1746921600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+131+-+May+11%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "b245e8d3-03d6-481c-ae23-45f891cebe0e",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216843",
+      "name": "DAB May 10 - 2025",
+      "datePublished": 1746835200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+130+-+May+10%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "0ff84e6a-8c4e-4f67-83dd-6730816952d9",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217105",
+      "name": "Community Prayer May10-2025",
+      "datePublished": 1746835200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+May+10%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "a1497d59-cb4d-4c3d-aef7-be25d5c57355",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216842",
+      "name": "DAB May 09 - 2025",
+      "datePublished": 1746748800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+129+-+May+09%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "164ef4e9-3e8b-4428-8798-24c153cd212c",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216841",
+      "name": "DAB May 08 - 2025",
+      "datePublished": 1746662400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+128+-+May+08%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "abb5b76f-1e4f-4d45-baa5-370e94b04d54",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216840",
+      "name": "DAB May 07 - 2025",
+      "datePublished": 1746576000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+127+-+May+07%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "468b420f-fa87-42f5-be2a-8e7bf819050d",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216839",
+      "name": "DAB May 06 - 2025",
+      "datePublished": 1746489600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+126+-+May+06%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "7cf8546e-6b8e-433c-aef1-ca4bd1d96237",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216838",
+      "name": "DAB May 05 - 2025",
+      "datePublished": 1746403200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+125+-+May+05%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "657f910a-e874-4c6e-8c42-183ac5054040",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216837",
+      "name": "DAB May 04 - 2025",
+      "datePublished": 1746316800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+124+-+May+04%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "bad2e9a7-0d85-42f8-a4a0-0fe6cdd872b6",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217104",
+      "name": "Community Prayer May03-2025",
+      "datePublished": 1746230400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+May+03%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "a990238b-b678-47f6-a3ff-011f991049b5",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216836",
+      "name": "DAB May 03 - 2025",
+      "datePublished": 1746230400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+123+-+May+03%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "9d3fad72-de57-49e5-a132-ddc90dbae21a",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216835",
+      "name": "DAB May 02 - 2025",
+      "datePublished": 1746144000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+122+-+May+02%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "2768c30d-facb-44e3-954e-9611fc2395e0",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216834",
+      "name": "DAB May 01 - 2025",
+      "datePublished": 1746057600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+121+-+May+01%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "71212e0a-dcc5-4282-8223-8accd5b40336",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216833",
+      "name": "DAB April 30 - 2025",
+      "datePublished": 1745971200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+120+-+April+30%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "8d25f9bc-f071-42df-967d-9f23fac6dcf6",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216832",
+      "name": "DAB April 29 - 2025",
+      "datePublished": 1745884800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+119+-+April+29%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "2c5ec0fb-efe6-4932-b78a-2557cda747bc",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216831",
+      "name": "DAB April 28 - 2025",
+      "datePublished": 1745798400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+118+-+April+28%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "242538cb-f99c-4087-9fd1-ba625ed6980b",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216830",
+      "name": "DAB April 27 - 2025",
+      "datePublished": 1745712000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+117+-+April+27%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "89a03e12-8486-44d0-9e89-fd00a34a20d3",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=217103",
+      "name": "Community Prayer April26-2025",
+      "datePublished": 1745625600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+Community+Prayer+-+April+26%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "71e9c420-aa29-42c2-a685-4c6af49ff26d",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216829",
+      "name": "DAB April 26 - 2025",
+      "datePublished": 1745625600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+116+-+April+26%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "b5941dae-2121-47e6-9d23-b5860811de39",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216828",
+      "name": "DAB April 25 - 2025",
+      "datePublished": 1745539200,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+115+-+April+25%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "8fe7084f-7686-4622-bfef-6b5bdb63d7d8",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216827",
+      "name": "DAB April 24 - 2025",
+      "datePublished": 1745452800,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+114+-+April+24%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "746c1ada-f891-4945-86b3-bb740050ccf2",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216826",
+      "name": "DAB April 23 - 2025",
+      "datePublished": 1745366400,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+113+-+April+23%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "78bb3e1a-3cd3-4c42-9429-156abf5e9069",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216825",
+      "name": "DAB April 22 - 2025",
+      "datePublished": 1745280000,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+112+-+April+22%2C+2025.m4a",
+      "duration": null
+    },
+    {
+      "uuid": "a65607ed-48eb-45a0-97c7-c251b9558d15",
+      "guid": "https://feed.dailyaudiobible.com/?post_type=episode&#038;p=216824",
+      "name": "DAB April 21 - 2025",
+      "datePublished": 1745193600,
+      "audioUrl": "https://media.dailyaudiobible.com/2025/Daily+Audio+Bible+-+111+-+April+21%2C+2025.m4a",
+      "duration": null
+    }
+  ]
+}
