@@ -51,7 +51,7 @@
       "id": "ten_minute_bible_talks",
       "name": "Ten Minute Bible Talks",
       "host": "Keith Simon & Patrick Miller",
-      "category": "Quick Pods",
+      "category": "Daily Bible Study & Reading",
       "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/6.webp",
       "totalEpisodes": 1488,
       "dataFile": "ten_minute_bible_talks.json"
@@ -87,7 +87,7 @@
       "id": "solid_joys_devotional",
       "name": "Solid Joys Daily Devotional",
       "host": "John Piper",
-      "category": "Quick Pods",
+      "category": "Daily Bible",
       "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/10.webp",
       "totalEpisodes": 163,
       "dataFile": "solid_joys_devotional.json"
