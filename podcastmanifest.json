@@ -6,7 +6,7 @@
       "id": "bible_in_a_year",
       "name": "The Bible in a Year (with Fr. Mike Schmitz)",
       "host": "Fr. Mike Schmitz",
-      "category": "Daily Bible Study & Reading",
+      "category": "Fr. Mike Schmitz",
       "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/1.webp",
       "totalEpisodes": 1690,
       "dataFile": "bible_in_a_year.json"
@@ -22,7 +22,7 @@
     },
     {
       "id": "catechism_in_a_year",
-      "name": "The Catechism in a Year",
+      "name": "Fr. Mike Schmitz",
       "host": "Fr. Mike Schmitz",
       "category": "Daily Bible Study & Reading",
       "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/3.webp",
@@ -42,7 +42,7 @@
       "id": "lets_read_the_gospels",
       "name": "Let's Read the Gospels",
       "host": "Annie F. Downs",
-      "category": "Daily Bible Study & Reading",
+      "category": "Daily Bible",
       "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/5.webp",
       "totalEpisodes": 1059,
       "dataFile": "lets_read_the_gospels.json"
@@ -51,7 +51,7 @@
       "id": "ten_minute_bible_talks",
       "name": "Ten Minute Bible Talks",
       "host": "Keith Simon & Patrick Miller",
-      "category": "Daily Bible Study & Reading",
+      "category": "Quick Pods",
       "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/6.webp",
       "totalEpisodes": 1488,
       "dataFile": "ten_minute_bible_talks.json"
@@ -59,7 +59,7 @@
     {
       "id": "audio_bible_kids",
       "name": "1 Year Daily Audio Bible for Kids",
-      "host": "DAB Ministry",
+      "host": "Daily Bible",
       "category": "Daily Bible Study & Reading",
       "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/7.webp",
       "totalEpisodes": 136,
@@ -68,7 +68,7 @@
     {
       "id": "hearing_jesus_daily",
       "name": "Hearing Jesus Daily Bible Study",
-      "host": "Rachael Carman",
+      "host": "Daily Bible",
       "category": "Daily Bible Study & Reading",
       "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/8.webp",
       "totalEpisodes": 1302,
@@ -87,7 +87,7 @@
       "id": "solid_joys_devotional",
       "name": "Solid Joys Daily Devotional",
       "host": "John Piper",
-      "category": "Daily Bible Study & Reading",
+      "category": "Quick Pods",
       "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/10.webp",
       "totalEpisodes": 163,
       "dataFile": "solid_joys_devotional.json"
