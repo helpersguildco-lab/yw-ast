@@ -6,43 +6,70 @@
       "id": "bible_in_a_year",
       "name": "The Bible in a Year (with Fr. Mike Schmitz)",
       "host": "Fr. Mike Schmitz",
-      "category": "Fr. Mike Schmitz",
+      "category": "Year-Long Reading",
       "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/1.webp",
       "totalEpisodes": 1690,
       "dataFile": "bible_in_a_year.json"
     },
     {
-      "id": "bible_recap",
-      "name": "The Bible Recap",
-      "host": "Tara-Leigh Cobble",
-      "category": "Daily Bible Study & Reading",
-      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/2.webp",
-      "totalEpisodes": 999,
-      "dataFile": "bible_recap.json"
-    },
-    {
       "id": "catechism_in_a_year",
       "name": "Fr. Mike Schmitz",
-      "host": "Fr. Mike Schmitz",
-      "category": "Daily Bible Study & Reading",
+      "host": "Bible 365",
+      "category": "Year-Long Reading",
       "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/3.webp",
       "totalEpisodes": 1249,
       "dataFile": "catechism_in_a_year.json"
     },
     {
+      "id": "esv_bible_jackie_hill",
+      "name": "Through the ESV Bible in a Year with Jackie Hill Perry",
+      "host": "Jackie Hill Perry",
+      "category": "Year-Long Reading",
+      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/9.webp",
+      "totalEpisodes": 30,
+      "dataFile": "esv_bible_jackie_hill.json"
+    },
+    {
       "id": "daily_audio_bible",
       "name": "Daily Audio Bible",
       "host": "Brian Hardin",
-      "category": "Daily Bible Study & Reading",
+      "category": "Daily Devotionals",
       "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/4.webp",
       "totalEpisodes": 457,
       "dataFile": "daily_audio_bible.json"
     },
     {
+      "id": "hearing_jesus_daily",
+      "name": "Hearing Jesus Daily Bible Study",
+      "host": "Daily Bible",
+      "category": "Daily Devotionals",
+      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/8.webp",
+      "totalEpisodes": 1302,
+      "dataFile": "hearing_jesus_daily.json"
+    },
+    {
+      "id": "solid_joys_devotional",
+      "name": "Solid Joys Daily Devotional",
+      "host": "John Piper",
+      "category": "Daily Devotionals",
+      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/10.webp",
+      "totalEpisodes": 163,
+      "dataFile": "solid_joys_devotional.json"
+    },
+    {
+      "id": "bible_recap",
+      "name": "The Bible Recap",
+      "host": "Tara-Leigh Cobble",
+      "category": "Bible Study Summaries",
+      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/2.webp",
+      "totalEpisodes": 999,
+      "dataFile": "bible_recap.json"
+    },
+    {
       "id": "lets_read_the_gospels",
       "name": "Let's Read the Gospels",
       "host": "Annie F. Downs",
-      "category": "Daily Bible",
+      "category": "Bible Study Summaries",
       "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/5.webp",
       "totalEpisodes": 1059,
       "dataFile": "lets_read_the_gospels.json"
@@ -51,52 +78,16 @@
       "id": "ten_minute_bible_talks",
       "name": "Ten Minute Bible Talks",
       "host": "Keith Simon & Patrick Miller",
-      "category": "Daily Bible Study & Reading",
+      "category": "Bible Study Summaries",
       "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/6.webp",
       "totalEpisodes": 1488,
       "dataFile": "ten_minute_bible_talks.json"
     },
     {
-      "id": "audio_bible_kids",
-      "name": "1 Year Daily Audio Bible for Kids",
-      "host": "Daily Bible",
-      "category": "Daily Bible Study & Reading",
-      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/7.webp",
-      "totalEpisodes": 136,
-      "dataFile": "audio_bible_kids.json"
-    },
-    {
-      "id": "hearing_jesus_daily",
-      "name": "Hearing Jesus Daily Bible Study",
-      "host": "Daily Bible",
-      "category": "Daily Bible Study & Reading",
-      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/8.webp",
-      "totalEpisodes": 1302,
-      "dataFile": "hearing_jesus_daily.json"
-    },
-    {
-      "id": "esv_bible_jackie_hill",
-      "name": "Through the ESV Bible in a Year with Jackie Hill Perry",
-      "host": "Jackie Hill Perry",
-      "category": "Daily Bible Study & Reading",
-      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/9.webp",
-      "totalEpisodes": 30,
-      "dataFile": "esv_bible_jackie_hill.json"
-    },
-    {
-      "id": "solid_joys_devotional",
-      "name": "Solid Joys Daily Devotional",
-      "host": "John Piper",
-      "category": "Daily Bible",
-      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/10.webp",
-      "totalEpisodes": 163,
-      "dataFile": "solid_joys_devotional.json"
-    },
-    {
       "id": "bible_project",
       "name": "BibleProject Podcast",
       "host": "Tim Mackie & Jon Collins",
-      "category": "Deep Theology & Academic Teaching",
+      "category": "Theological Foundations",
       "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/11.webp",
       "totalEpisodes": 121,
       "dataFile": "bible_project.json"
@@ -105,7 +96,7 @@
       "id": "ask_pastor_john",
       "name": "Ask Pastor John",
       "host": "John Piper",
-      "category": "Deep Theology & Academic Teaching",
+      "category": "Theological Foundations",
       "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/12.webp",
       "totalEpisodes": 2290,
       "dataFile": "ask_pastor_john.json"
@@ -114,16 +105,25 @@
       "id": "renewing_your_mind",
       "name": "Renewing Your Mind",
       "host": "R.C. Sproul",
-      "category": "Deep Theology & Academic Teaching",
+      "category": "Theological Foundations",
       "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/13.webp",
       "totalEpisodes": 120,
       "dataFile": "renewing_your_mind.json"
     },
     {
+      "id": "audio_bible_kids",
+      "name": "1 Year Daily Audio Bible for Kids",
+      "host": "Daily Bible",
+      "category": "Specialty & Deep Dives",
+      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/7.webp",
+      "totalEpisodes": 136,
+      "dataFile": "audio_bible_kids.json"
+    },
+    {
       "id": "naked_bible",
       "name": "The Naked Bible Podcast",
       "host": "Dr. Michael S. Heiser",
-      "category": "Deep Theology & Academic Teaching",
+      "category": "Specialty & Deep Dives",
       "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/14.webp",
       "totalEpisodes": 350,
       "dataFile": "naked_bible.json"
