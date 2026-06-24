@@ -127,6 +127,60 @@
       "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/14.webp",
       "totalEpisodes": 350,
       "dataFile": "naked_bible.json"
+    },
+    {
+      "id": "timothy_keller_sermons_podcast_by_gospel_in_life",
+      "name": "Timothy Keller Sermons Podcast by Gospel in Life",
+      "host": "Tim Keller",
+      "category": "PODCASTSERIES_RELIGION_AND_SPIRITUALITY",
+      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/15.webp",
+      "totalEpisodes": 100,
+      "dataFile": "timothy_keller_sermons_podcast_by_gospel_in_life.json"
+    },
+    {
+      "id": "the_alisa_childers_podcast",
+      "name": "The Alisa Childers Podcast",
+      "host": "Alisa Childers",
+      "category": "PODCASTSERIES_RELIGION_AND_SPIRITUALITY",
+      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/16.webp",
+      "totalEpisodes": 300,
+      "dataFile": "the_alisa_childers_podcast.json"
+    },
+    {
+      "id": "verity_by_phylicia_masonheimer",
+      "name": "Verity by Phylicia Masonheimer",
+      "host": "Phylicia Masonheimer",
+      "category": "PODCASTSERIES_RELIGION_AND_SPIRITUALITY",
+      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/17.webp",
+      "totalEpisodes": 194,
+      "dataFile": "verity_by_phylicia_masonheimer.json"
+    },
+    {
+      "id": "the_bema_podcast",
+      "name": "The BEMA Podcast",
+      "host": "BEMA Discipleship",
+      "category": "PODCASTSERIES_RELIGION_AND_SPIRITUALITY_CHRISTIANITY",
+      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/18.webp",
+      "totalEpisodes": 511,
+      "dataFile": "the_bema_podcast.json"
+    },
+    {
+      "id": "the_holy_post",
+      "name": "The Holy Post",
+      "host": "Phil Vischer",
+      "category": "PODCASTSERIES_RELIGION_AND_SPIRITUALITY",
+      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/19.webp",
+      "totalEpisodes": 792,
+      "dataFile": "the_holy_post.json"
+    },
+    {
+      "id": "passion_city_church_podcast",
+      "name": "Passion City Church Podcast",
+      "host": "Passion City Church",
+      "category": "PODCASTSERIES_RELIGION_AND_SPIRITUALITY_CHRISTIANITY",
+      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/20.webp",
+      "totalEpisodes": 600,
+      "dataFile": "passion_city_church_podcast.json"
     }
   ]
 }
