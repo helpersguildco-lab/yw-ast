@@ -1,0 +1,809 @@
+{
+  "podcastId": "timothy_keller_sermons_podcast_by_gospel_in_life",
+  "name": "Timothy Keller Sermons Podcast by Gospel in Life",
+  "host": "Tim Keller",
+  "taddyUuid": "80d60113-63fb-4da0-b5cf-551b3b6c00d9",
+  "totalEpisodes": 100,
+  "episodes": [
+    {
+      "uuid": "2be0289b-6123-41a7-8075-6a6dc23df6a8",
+      "guid": "ginl.podbean.com/88eb77a7-0aba-3c0e-8046-7c1afdda1256",
+      "name": "God Our King",
+      "datePublished": 1782295200,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/gtuk7qvk3q8phnfs/260624_GodOurKing.mp3",
+      "duration": 2323
+    },
+    {
+      "uuid": "0dd4fd61-769d-468c-80b6-c60042e69d57",
+      "guid": "ginl.podbean.com/f5f7bb2b-0c6a-306b-87c1-1f1dad611dbd",
+      "name": "God Our Lover",
+      "datePublished": 1782122400,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/guhfgt3a9bm8h77g/260622_GodOurLover.mp3",
+      "duration": 2791
+    },
+    {
+      "uuid": "f33c74ac-e324-4760-a1c3-1910a9a24f93",
+      "guid": "ginl.podbean.com/433934e7-be32-3a90-832f-91092e643243",
+      "name": "God Our Friend",
+      "datePublished": 1781863200,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/qc6q2wm3fvt7nw44/260619_GodOurFriend.mp3",
+      "duration": 2182
+    },
+    {
+      "uuid": "50ae4000-1ac2-4d83-b6d5-0705456b4b21",
+      "guid": "ginl.podbean.com/bd43ba3c-9f4b-3e12-83bc-3bcd8781694f",
+      "name": "God Our Father",
+      "datePublished": 1781690400,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/acxmbdbncrm9c74c/260617_GodOurFather.mp3",
+      "duration": 2861
+    },
+    {
+      "uuid": "8ffc8516-3214-4f68-a82c-1b8f1559d502",
+      "guid": "ginl.podbean.com/216ccf9f-8853-36aa-aeba-6d331b655725",
+      "name": "Considering the Great Love of God",
+      "datePublished": 1781517600,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/93ieiv2h6m8ee4k9/260615_ConsideringTheGreatLoveOfGod.mp3",
+      "duration": 2620
+    },
+    {
+      "uuid": "f75c4444-666d-4fcb-828f-60ed9e3af9a1",
+      "guid": "ginl.podbean.com/0df319ea-8a0a-3cde-bdcb-b6f717e4c776",
+      "name": "Heaven, a World of Love",
+      "datePublished": 1781258400,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/ewyngcy933n2t3u9/260612_HeavenAWorldOfLove.mp3",
+      "duration": 2759
+    },
+    {
+      "uuid": "7ac0b78b-b42c-4635-9f0c-7a8f891c7be1",
+      "guid": "ginl.podbean.com/94b7081c-0827-38d4-9b43-9826ccbf2745",
+      "name": "Love’s Way to Grow Up",
+      "datePublished": 1781085600,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/f2tn9zqxcuq65wap/260610_LovesWayToGrowUp.mp3",
+      "duration": 2145
+    },
+    {
+      "uuid": "f4f95723-8f35-4f0a-a992-ae2990bd0d8b",
+      "guid": "ginl.podbean.com/b48a44d3-b6a7-35aa-9b91-6235566ead7b",
+      "name": "Love’s Way With Others",
+      "datePublished": 1780912800,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/yuuu4q784q2qsd67/260608_LovesWayWithOthers.mp3",
+      "duration": 1956
+    },
+    {
+      "uuid": "ce2dc5c5-ba90-4084-ab06-6742ec12e116",
+      "guid": "ginl.podbean.com/1138139f-7c72-3c15-afa7-4efa4bc4b8e0",
+      "name": "Love’s Way With God",
+      "datePublished": 1780653600,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/ddr3mihtmgh45q6c/260605_LovesWayWithGod.mp3",
+      "duration": 1886
+    },
+    {
+      "uuid": "929d99a3-6525-46f4-9dd9-c1e36bc89d1b",
+      "guid": "ginl.podbean.com/72cb6085-ae20-3e8e-a8c1-d039c8e81d64",
+      "name": "Love’s Way With the Self",
+      "datePublished": 1780480800,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/fhrczb54phbvzjak/260603_LovesWayWithTheSelf.mp3",
+      "duration": 2234
+    },
+    {
+      "uuid": "d668bb67-c2a8-4787-a7f2-8e6b13cf470a",
+      "guid": "ginl.podbean.com/dafd960e-3f8f-3e1c-b2dd-3189e8ad7eae",
+      "name": "Better Than Miracles",
+      "datePublished": 1780308000,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/8hpqzj55ddmzpd5f/260601_BetterThanMiracles.mp3",
+      "duration": 2360
+    },
+    {
+      "uuid": "28f72c6c-b2cb-49ff-8d9e-2c54bef71c02",
+      "guid": "ginl.podbean.com/84740c1e-1cba-3222-9d94-adfcaa95c886",
+      "name": "Letter to the Church in Laodicea",
+      "datePublished": 1780048800,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/7exewa38q79jmv57/260529_LetterToTheChurchInLaodicea.mp3",
+      "duration": 2121
+    },
+    {
+      "uuid": "6eaedc15-1c89-44c4-b1ef-d46adb454d20",
+      "guid": "ginl.podbean.com/ed41cf48-d371-34ba-9d4a-c776aa11258d",
+      "name": "The First and the Last",
+      "datePublished": 1779876000,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/abgwimmd946tnqt5/260527_TheFirstAndTheLast.mp3",
+      "duration": 2132
+    },
+    {
+      "uuid": "7bca139c-cb50-42c2-9830-6bf4385a25db",
+      "guid": "ginl.podbean.com/2f5d463d-000a-3749-a881-fc6619acecfd",
+      "name": "How To Find Faith",
+      "datePublished": 1779703200,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/a6hechtbdyiju9qr/260525_HowToFindFaith.mp3",
+      "duration": 2404
+    },
+    {
+      "uuid": "579f5a8e-e40e-483c-853b-57adfdfdf928",
+      "guid": "ginl.podbean.com/be242294-b6a6-393f-9a5d-acc3ba542c41",
+      "name": "How To Find Real Treasure",
+      "datePublished": 1779465462,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/ru6ks37rn9zrabbm/260522_HowToFindRealTreasure.mp3",
+      "duration": 2449
+    },
+    {
+      "uuid": "b9517686-ef8c-4d28-ba5e-9d82ad6353ad",
+      "guid": "ginl.podbean.com/297d48d1-560c-3696-9235-50a2bdb38a9a",
+      "name": "How To Find Your Self",
+      "datePublished": 1779271200,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/k652eu6nx669iz68/260520_HowToFindYourSelf.mp3",
+      "duration": 2910
+    },
+    {
+      "uuid": "a6df6c5c-47b0-4f21-b052-9df0a3a6c1ae",
+      "guid": "ginl.podbean.com/4ef046d8-bba8-31f7-88e0-d8da474fd682",
+      "name": "How To Find the Way",
+      "datePublished": 1779107607,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/5ecjsyzdidjt7xhd/260518_HowToFindTheWay.mp3",
+      "duration": 1417
+    },
+    {
+      "uuid": "c787dcdf-f5ee-463d-afb2-a2b74b1a8277",
+      "guid": "ginl.podbean.com/51ad4998-1b9f-3baf-b152-97647a535497",
+      "name": "The Girl Nobody Wanted",
+      "datePublished": 1778839200,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/gz4i5xt7zsgnr6pk/260515_TheGirlNobodyWanted.mp3",
+      "duration": 2621
+    },
+    {
+      "uuid": "9772d7b8-7a5c-4896-80b3-dcd1a1281468",
+      "guid": "ginl.podbean.com/9a14439e-4e6c-3a52-93b0-fe8952233355",
+      "name": "Should I Not Love That Great City?",
+      "datePublished": 1778666400,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/uhs72x7aewpn3x26/260513_ShouldINotLoveThatGreatCity.mp3",
+      "duration": 2444
+    },
+    {
+      "uuid": "5fcedfb4-74aa-4ec4-9c5f-26fd9a93389b",
+      "guid": "ginl.podbean.com/275cc2ff-1575-35ba-a8f7-7ead63ae030a",
+      "name": "Let Them Give Up Their Violence",
+      "datePublished": 1778493600,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/fyix3shgkqdd4yyz/260511_LetThemGiveUpTheirViolence.mp3",
+      "duration": 2512
+    },
+    {
+      "uuid": "d96d11c7-0f21-42c9-a439-1165c1bb86c0",
+      "guid": "ginl.podbean.com/cd78067d-44e7-3e04-80f0-19419b646645",
+      "name": "Those Who Cling… Forfeit the Grace",
+      "datePublished": 1778248030,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/z7qd75rc8ufehvq8/260508_ThoseWhoClingForfeitTheGrace.mp3",
+      "duration": 2852
+    },
+    {
+      "uuid": "3dd92786-5c2b-4c57-a102-8d0622b98b0f",
+      "guid": "ginl.podbean.com/666c0486-9350-3ac1-bec7-3c7e13929b1b",
+      "name": "They Greatly Feared",
+      "datePublished": 1778061600,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/n2ej9nzxrbds8x43/260506_TheyGreatlyFeared.mp3",
+      "duration": 2578
+    },
+    {
+      "uuid": "baeb411e-8090-4104-8e69-624eedf0ebf9",
+      "guid": "ginl.podbean.com/a6ba907a-c4eb-36b3-9c90-396debc67a68",
+      "name": "Running From God",
+      "datePublished": 1777888800,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/6cbsqwfx85rvccxv/260504_RunningFromGod.mp3",
+      "duration": 2807
+    },
+    {
+      "uuid": "4573ba03-a200-4a9a-9722-8934668c74e1",
+      "guid": "ginl.podbean.com/bf2b0249-ec98-39ce-b40f-e59a0a420948",
+      "name": "Confident in the Advocate",
+      "datePublished": 1777639085,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/5qkx6t43ga8eqn8b/260501_ConfidentInTheAdvocate.mp3",
+      "duration": 2435
+    },
+    {
+      "uuid": "20fcd5c1-8499-466b-ac4f-6899aaf4142a",
+      "guid": "ginl.podbean.com/bc25d106-045d-3a2c-9cf0-0e5705ba798e",
+      "name": "Confident in Prayer",
+      "datePublished": 1777456800,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/m5izygtqmn6putbx/260429_ConfidentInPrayer.mp3",
+      "duration": 2243
+    },
+    {
+      "uuid": "5b04f8f9-b9f1-411b-a9db-53382b3082bd",
+      "guid": "ginl.podbean.com/0ba1d634-e6ef-39e5-8a29-03f33e70d87f",
+      "name": "Confident in Love",
+      "datePublished": 1777284000,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/2pu8jtfthh56w366/260427_ConfidentInLove.mp3",
+      "duration": 2330
+    },
+    {
+      "uuid": "9bacc849-5228-44e7-a55a-5f932b8d748e",
+      "guid": "ginl.podbean.com/a7d574ec-9216-33f7-b117-380fcefcd99a",
+      "name": "Confident in Hope",
+      "datePublished": 1777024800,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/gjm6svcsisqake8k/260424_ConfidentInHope.mp3",
+      "duration": 1995
+    },
+    {
+      "uuid": "f7581c14-6ebf-4c8e-9275-9767d4404067",
+      "guid": "ginl.podbean.com/07513c40-fb6b-3025-ba18-17169f2db726",
+      "name": "Our Vocation: Lay Ministry",
+      "datePublished": 1776852000,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/s98r3jyre9xfc8bg/260422_OurVocationLayMinistry.mp3",
+      "duration": 2469
+    },
+    {
+      "uuid": "e53f62bd-1237-4cb1-b401-07047db56fe6",
+      "guid": "ginl.podbean.com/8dc6990c-2341-3184-97a2-7e863bfdda38",
+      "name": "Our Walk: The Freedom of Submission",
+      "datePublished": 1776679200,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/m4c3prmeb94xf4ak/260420_OurWalkTheFreedomOfSubmission.mp3",
+      "duration": 2581
+    },
+    {
+      "uuid": "4761e4b3-e7ae-4e5d-95c6-d4897c1231a1",
+      "guid": "ginl.podbean.com/700a87d2-f6c9-33de-b479-e416b8abc916",
+      "name": "Our Power: Spirit-Filled Living",
+      "datePublished": 1776420000,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/uiugwyrdr4vuzrhe/260417_OurPowerSpiritFilledLiving.mp3",
+      "duration": 2464
+    },
+    {
+      "uuid": "9a6991f9-9b64-4632-9d6b-ec6868155239",
+      "guid": "ginl.podbean.com/3d364939-cfba-38cf-96bd-ac36f1c1d805",
+      "name": "Our Cross: Path of Suffering",
+      "datePublished": 1776247200,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/z86zzijhrpzkehpg/260415_OurCrossPathOfSuffering.mp3",
+      "duration": 2089
+    },
+    {
+      "uuid": "a7e86b3d-647c-42e6-ac3a-eeacfd9ea425",
+      "guid": "ginl.podbean.com/31116e0f-5e93-3927-bd96-3abe04f815ae",
+      "name": "Our Call: Holy Living",
+      "datePublished": 1776074400,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/ik8wqjezwmprcj9g/260413_OurCallHolyLiving.mp3",
+      "duration": 2320
+    },
+    {
+      "uuid": "11dcc8b2-e789-4b30-bd57-c41065cdc770",
+      "guid": "ginl.podbean.com/0ea2e531-3269-3edb-a8bd-92beab1ccd40",
+      "name": "Our Identity: Joyful Exiles",
+      "datePublished": 1775815200,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/dm5iuqaredt35t4i/260410_OurIdentityJoyfulExiles.mp3",
+      "duration": 2593
+    },
+    {
+      "uuid": "13343c68-47b2-4e1a-8e6b-2df896761619",
+      "guid": "ginl.podbean.com/1baabd88-3d72-3a9f-afd2-6f618c975a08",
+      "name": "Our Birth: Cosmic",
+      "datePublished": 1775642400,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/dhb2fs5r834idvxk/260408_OurBirthCosmic.mp3",
+      "duration": 2200
+    },
+    {
+      "uuid": "82710ed6-d9a2-4138-9bb8-f697eaae4318",
+      "guid": "ginl.podbean.com/36c70569-3ab9-317f-8474-cc15dd51eb36",
+      "name": "Encountering the Risen Jesus",
+      "datePublished": 1775469600,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/nk52zgjfx9cakr8f/260406_EncounteringTheRisenJesus.mp3",
+      "duration": 2731
+    },
+    {
+      "uuid": "8626e4c4-e474-4566-94fd-fd4023465434",
+      "guid": "ginl.podbean.com/cf5afbf0-e537-3daf-9775-029566fa52cf",
+      "name": "Clothed With Power (Easter)",
+      "datePublished": 1775210400,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/wfrrgktxxahegjuh/260403_ClothedWithPower.mp3",
+      "duration": 1852
+    },
+    {
+      "uuid": "e1c0e3bf-bbe5-4ed8-a05a-2df9f37d7a72",
+      "guid": "ginl.podbean.com/1e02a0e0-d2d1-30fc-bc22-ed0f6f06187d",
+      "name": "Worship (Palm Sunday)",
+      "datePublished": 1775037600,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/8byyh49f3c8b9muu/260401_WorshipPalmSunday.mp3",
+      "duration": 2323
+    },
+    {
+      "uuid": "e7fb4c59-9a52-428b-b2fe-5af7950db287",
+      "guid": "ginl.podbean.com/4227a902-e7e0-3efb-9173-a7b68a5dd1c0",
+      "name": "Mission",
+      "datePublished": 1774864800,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/2zq8jxqybz6sqb8p/260330_Mission.mp3",
+      "duration": 2540
+    },
+    {
+      "uuid": "09cb10a5-d73c-4123-9bd4-bed14430df3f",
+      "guid": "ginl.podbean.com/34a693f9-38cc-3f3f-bf92-e59b1e25c5a0",
+      "name": "Scripture",
+      "datePublished": 1774605600,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/mredhehyvne3t8h8/260327_Scripture.mp3",
+      "duration": 2235
+    },
+    {
+      "uuid": "8addc74c-7b2d-4b38-8624-d72dda2ced15",
+      "guid": "ginl.podbean.com/2e8bf374-8d95-39c6-a0ec-5baa263b7b51",
+      "name": "Out From the Grave",
+      "datePublished": 1774432800,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/juz892ek8jipvh3k/260325_OutFromTheGrave.mp3",
+      "duration": 2313
+    },
+    {
+      "uuid": "505f4993-effb-4a3d-99c2-fa687d9f0659",
+      "guid": "ginl.podbean.com/6d37d7d4-77be-31c8-a965-753fb7fddb4a",
+      "name": "The Man Born Blind",
+      "datePublished": 1774260000,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/v2x9svbqpqba8mqt/260323_TheManBornBlind.mp3",
+      "duration": 2405
+    },
+    {
+      "uuid": "425c5675-52a7-4347-9242-18f1c45c13a1",
+      "guid": "ginl.podbean.com/0465fdb7-37fe-3f5f-9517-50311e0523e3",
+      "name": "The Feeding",
+      "datePublished": 1774012648,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/j57cheznvt84aani/260320_TheFeeding.mp3",
+      "duration": 2602
+    },
+    {
+      "uuid": "345a146b-9f95-45cf-9506-7e1ea9807e81",
+      "guid": "ginl.podbean.com/64f90d22-a125-35a4-b7a9-c42ea134fb74",
+      "name": "The Pool",
+      "datePublished": 1773840261,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/n4vsqtnz4rwwjp5j/260318_ThePool.mp3",
+      "duration": 2497
+    },
+    {
+      "uuid": "cf06eadc-86c7-4068-bf7a-a6209f4d5865",
+      "guid": "ginl.podbean.com/e4af685a-cca8-3603-bb7b-3aebdedae0e3",
+      "name": "The Healing",
+      "datePublished": 1773655200,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/8gewbdgfch2js6re/260316_TheHealing.mp3",
+      "duration": 2451
+    },
+    {
+      "uuid": "d8f01233-efb9-4efb-94b1-b1e4aeca81ee",
+      "guid": "ginl.podbean.com/46f16d36-fc20-3736-8948-277c201cc1ec",
+      "name": "The Feast",
+      "datePublished": 1773396000,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/mncy6adb2m5wtkbg/260313_TheFeast.mp3",
+      "duration": 2412
+    },
+    {
+      "uuid": "b5e633d6-d660-4448-8560-5f1a8640e3da",
+      "guid": "ginl.podbean.com/b924c8c7-264b-3189-969e-3f946c2d5388",
+      "name": "The Lamb",
+      "datePublished": 1773223200,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/sxryxmgezwcb3ssq/260311_TheLamb.mp3",
+      "duration": 2535
+    },
+    {
+      "uuid": "0a1e0c52-ddee-43e5-8a70-99b41e934504",
+      "guid": "ginl.podbean.com/2204cb9e-b568-3d16-9595-8b3c45e47706",
+      "name": "In the Beginning",
+      "datePublished": 1773050400,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/8n9ewc3hcf2ajs3c/260309_InTheBeginning.mp3",
+      "duration": 2229
+    },
+    {
+      "uuid": "f08bcc80-35ca-44ff-82b4-c0f029e056f5",
+      "guid": "ginl.podbean.com/c96176d8-2db0-3d7a-b398-70add58deb41",
+      "name": "The Cornerstone",
+      "datePublished": 1772794800,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/vex4jr5mua83qpsh/260306_TheCornerstone.mp3",
+      "duration": 1742
+    },
+    {
+      "uuid": "f136d033-39b6-4aca-b2e3-60939420b50e",
+      "guid": "ginl.podbean.com/3900385c-4634-34fe-a136-989682d53ea9",
+      "name": "Principles of Christian Growth, Part 2",
+      "datePublished": 1772622000,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/mpfpfnitv63mhtfd/260304_PrinciplesOfChristianGrowthPart2.mp3",
+      "duration": 2433
+    },
+    {
+      "uuid": "6dfeadab-5877-4e33-9ca3-dea1f9bfb3b5",
+      "guid": "ginl.podbean.com/c69d3f72-0dba-31ac-9b10-dd5ff699fc95",
+      "name": "Principles of Christian Growth, Part 1",
+      "datePublished": 1772449200,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/e4awcwr4xn8zq5sf/260302_PrinciplesOfChristianGrowthPart1.mp3",
+      "duration": 2885
+    },
+    {
+      "uuid": "7aac084f-841f-4219-ba1d-bab349f57219",
+      "guid": "ginl.podbean.com/94796df0-27df-388d-bbe9-2e7ad435974e",
+      "name": "Loving Deeply",
+      "datePublished": 1772190000,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/ut4exn5yg4km934n/260227_LovingDeeply.mp3",
+      "duration": 2081
+    },
+    {
+      "uuid": "1591a2df-54cf-492f-8658-75f88ee59d1e",
+      "guid": "ginl.podbean.com/840529c9-c059-3415-a5b9-cbb2c00b4176",
+      "name": "Born Again",
+      "datePublished": 1772017200,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/p2eu24xrvcm5vtkz/260225_BornAgain.mp3",
+      "duration": 2511
+    },
+    {
+      "uuid": "d0db1f05-b5ea-474f-95da-c1e133b19df5",
+      "guid": "ginl.podbean.com/16acda9c-1214-304d-ac61-22e23f424354",
+      "name": "The Battle For the Will",
+      "datePublished": 1771844400,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/rmjg4p3jgcmu2wbv/260223_TheBattleForTheWill.mp3",
+      "duration": 2577
+    },
+    {
+      "uuid": "f2ad268e-babd-44f6-8a37-0e3fcc9d21ec",
+      "guid": "ginl.podbean.com/1494814c-9264-334b-b561-d3ae82a05aa2",
+      "name": "The Battle for the Heart",
+      "datePublished": 1771598051,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/e6r9rbrysfywkdrd/260220_TheBattleForTheHeart.mp3",
+      "duration": 2647
+    },
+    {
+      "uuid": "39e2447f-75d9-4cb7-b8fd-47be4ea3444a",
+      "guid": "ginl.podbean.com/025f763f-8381-3c21-a6bb-c52a6eb20d2b",
+      "name": "The Battle for the Mind",
+      "datePublished": 1771412400,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/3t2kdx6fwycfsqtj/260218_TheBattleForTheMind.mp3",
+      "duration": 2573
+    },
+    {
+      "uuid": "b0cb24af-06ac-462c-8c0d-2ad67418d95d",
+      "guid": "ginl.podbean.com/d57e6e8c-352a-311f-8efd-d535d1cfdd2e",
+      "name": "Holiness: Overview",
+      "datePublished": 1771239600,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/q7kqzv7dwp2diafw/260216_HolinessOverview.mp3",
+      "duration": 2154
+    },
+    {
+      "uuid": "d5d290ca-5f94-4476-9fba-b2ee9e6d213e",
+      "guid": "ginl.podbean.com/0d65da03-8f0f-3d83-a2c9-230b2caada08",
+      "name": "What Is the Bible?",
+      "datePublished": 1770980400,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/xvb6ke2d92njxadh/260213_WhatIsTheBible.mp3",
+      "duration": 1945
+    },
+    {
+      "uuid": "d1a0b1af-5aa5-4159-b6f2-57690317be72",
+      "guid": "ginl.podbean.com/f9d80740-fe03-3872-82fc-82d316734f05",
+      "name": "Basics",
+      "datePublished": 1770807600,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/sf59f6edsgywvmqk/260211_Basics.mp3",
+      "duration": 2667
+    },
+    {
+      "uuid": "aed600c5-cca7-4df7-845a-5d4d099eff9a",
+      "guid": "ginl.podbean.com/fc9cdc23-eabe-3cfb-a2ea-6e78354c48cc",
+      "name": "How to Handle Trouble",
+      "datePublished": 1770634800,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/r6zwusak39w9gz8u/260209_HowToHandleTrouble.mp3",
+      "duration": 2186
+    },
+    {
+      "uuid": "2721a7a3-718b-458c-979f-c45bd9433dbd",
+      "guid": "ginl.podbean.com/c9a27063-a1b6-337b-853d-9fb57b17e442",
+      "name": "Union With Christ",
+      "datePublished": 1770375600,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/nc36ah9u5r67m4eq/260206_UnionWithChrist.mp3",
+      "duration": 2449
+    },
+    {
+      "uuid": "7016c323-8544-4232-9632-827d3bbb2d53",
+      "guid": "ginl.podbean.com/71b49679-74d1-3b64-86c6-cb33ea96a7df",
+      "name": "Election",
+      "datePublished": 1770216085,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/7muq777b9d3eba4m/260204_Election.mp3",
+      "duration": 2800
+    },
+    {
+      "uuid": "d9ea4a55-1fb1-44d5-9208-f93e6f2f8e9d",
+      "guid": "ginl.podbean.com/31e73fad-1fc3-3ef2-b8b4-0ca0e1cf8718",
+      "name": "Contentment",
+      "datePublished": 1770045198,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/asgaci7wn64hsv88/260202_Contentment.mp3",
+      "duration": 2101
+    },
+    {
+      "uuid": "db0264ba-40ba-436a-a212-3337bb79413c",
+      "guid": "ginl.podbean.com/60500d9a-e121-3fe2-b643-0d267bedf7e2",
+      "name": "Integrity",
+      "datePublished": 1769770800,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/mmh6xwhnigdqgaqi/260130_Integrity.mp3",
+      "duration": 2073
+    },
+    {
+      "uuid": "1a1fb7d3-9c19-4807-b7e7-5e277d89f1fa",
+      "guid": "ginl.podbean.com/9463f587-f6e8-30a2-80d2-c9693c576fcb",
+      "name": "Rich in Faith",
+      "datePublished": 1769598000,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/g73qktsjpvdnkxqw/260128_RichInFaith.mp3",
+      "duration": 2224
+    },
+    {
+      "uuid": "f4e63223-71f2-47b4-ad5e-2a2783ae024f",
+      "guid": "ginl.podbean.com/dcac7754-8e30-3e64-9c85-079a14805693",
+      "name": "Overflowing Joy",
+      "datePublished": 1769425200,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/vaccbqjy98fzw6nm/260126_OverflowingJoy.mp3",
+      "duration": 2456
+    },
+    {
+      "uuid": "6ee826e9-c691-4bf9-955f-42feb62b28b2",
+      "guid": "ginl.podbean.com/b5a119fb-44a1-3a3b-9741-6db2f413e5a8",
+      "name": "Sex and the End of Loneliness",
+      "datePublished": 1769166000,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/tbbxqkgkc2fgsq89/260123_SexAndTheEndOfLoneliness.mp3",
+      "duration": 2429
+    },
+    {
+      "uuid": "0c2b97ea-024a-43c8-88d9-0825ad75fc9e",
+      "guid": "ginl.podbean.com/bd79e970-c373-3bd3-9e7e-cf71f1b34a45",
+      "name": "Love Your Enemies",
+      "datePublished": 1769005546,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/n9ycjfr8hhp3hrdb/260121_LoveYourEnemies.mp3",
+      "duration": 2142
+    },
+    {
+      "uuid": "fd2b0813-d3ea-4f85-a89e-b8a7607f519a",
+      "guid": "ginl.podbean.com/07401715-2042-34c3-adc9-23416b263285",
+      "name": "Aggressive Compassion",
+      "datePublished": 1768820400,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/6ewzmmn7cxik64h4/260119_AggressiveCompassion.mp3",
+      "duration": 2128
+    },
+    {
+      "uuid": "d266d9e7-b763-4a32-8e78-e9ffa68a3856",
+      "guid": "ginl.podbean.com/33f476e1-81bc-3ed2-99dd-6638d46546ac",
+      "name": "Secret Treason",
+      "datePublished": 1768561200,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/cfj8gn8iyyfy9h5a/260116_SecretTreason.mp3",
+      "duration": 2122
+    },
+    {
+      "uuid": "6c7cf0fc-2898-4cb1-a4d1-5b6bced645de",
+      "guid": "ginl.podbean.com/b1f1b2d6-35e3-38f0-80fb-3632dbbb8f49",
+      "name": "Orphans or Children",
+      "datePublished": 1768388400,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/5ghxwdc2mqm4xj6z/260114_OrphansOrChildren.mp3",
+      "duration": 2180
+    },
+    {
+      "uuid": "f22d4fe4-a8a5-4126-b6dc-df5949407a1e",
+      "guid": "ginl.podbean.com/dba8d8a6-f2d0-349a-a25a-9e03177c079b",
+      "name": "Entering His Rest",
+      "datePublished": 1768215600,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/69mjmxf4nvig3uis/260112_EnteringHisRest.mp3",
+      "duration": 2294
+    },
+    {
+      "uuid": "ff5631b4-8cde-4daa-9a7a-0e8dc02418f9",
+      "guid": "ginl.podbean.com/d9754bab-9739-3e2a-ae67-3aba2a16f038",
+      "name": "First of All",
+      "datePublished": 1767956400,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/t47gk45hw25vgxdn/260109_FirstOfAll.mp3",
+      "duration": 2047
+    },
+    {
+      "uuid": "700712e6-0300-435b-8124-953f7a0f8b45",
+      "guid": "ginl.podbean.com/c26f1a63-0674-3bc0-8bf2-eb708e8fa271",
+      "name": "God’s Law",
+      "datePublished": 1767783600,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/t43wn6mj2zmd5cg8/260107_GodsLaw.mp3",
+      "duration": 2243
+    },
+    {
+      "uuid": "28fe1e1e-003f-445e-a4f6-8dfb2fbc587b",
+      "guid": "ginl.podbean.com/d4787a03-0b77-35b1-830a-af5853bb53cf",
+      "name": "Seeking the Kingdom",
+      "datePublished": 1767610800,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/vmkwwkeybvhicqq3/260105_SeekingTheKingdom.mp3",
+      "duration": 2143
+    },
+    {
+      "uuid": "54b1e043-adf3-463c-9526-f3c66971c1b5",
+      "guid": "ginl.podbean.com/46dde447-89c1-31eb-a792-c970540e1e1b",
+      "name": "Thy Will Be Done",
+      "datePublished": 1767351600,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/x2pb4sc4hzvtbvfn/260102_ThyWillBeDone.mp3",
+      "duration": 2822
+    },
+    {
+      "uuid": "a1a9b906-4450-4515-a14b-b9e7769a35ef",
+      "guid": "ginl.podbean.com/eef6cc73-1417-37dd-b9a4-1b31d11dd3c4",
+      "name": "Admitting",
+      "datePublished": 1767178800,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/c6dnt75caegqgy3c/251231_Admitting.mp3",
+      "duration": 2459
+    },
+    {
+      "uuid": "b96301de-c1ea-4c36-a1e8-569ed3652165",
+      "guid": "ginl.podbean.com/43ed3b92-9b75-31cf-87f9-5e6ce889a57a",
+      "name": "How To Pray",
+      "datePublished": 1767006000,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/47f5qc7x2zunks5a/251229_HowToPray.mp3",
+      "duration": 2513
+    },
+    {
+      "uuid": "f728c571-2393-4b0f-bbd5-b422833da103",
+      "guid": "ginl.podbean.com/fcb49520-5878-3b54-b0de-f52d0f24b361",
+      "name": "Radical Generosity",
+      "datePublished": 1766746800,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/htzg2eqw5ahn8tfv/251226_RadicalGenerosity.mp3",
+      "duration": 2612
+    },
+    {
+      "uuid": "a43ece5d-7a8c-4eab-bbb6-df0854526a6e",
+      "guid": "ginl.podbean.com/739bf3ce-0a21-3697-95dd-883c15db439f",
+      "name": "The Power of the Incarnation",
+      "datePublished": 1766574000,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/itjjdvh4qfm6344q/251224_ThePowerOfTheIncarnation.mp3",
+      "duration": 2142
+    },
+    {
+      "uuid": "18315f7e-1271-4d3f-989f-0da9c049757f",
+      "guid": "ginl.podbean.com/4b21bd5b-3084-38b9-ad3b-84409384c8f3",
+      "name": "The Glory of the Incarnation",
+      "datePublished": 1766401200,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/6ucb22vsstwtuazx/251222_TheGloryOfTheIncarnation_UPDATED.mp3",
+      "duration": 1831
+    },
+    {
+      "uuid": "4d2cd928-8801-43ba-8098-0914009dddb1",
+      "guid": "ginl.podbean.com/e7a53bd5-c0f5-3d15-9662-510805a78c0f",
+      "name": "Born Again",
+      "datePublished": 1766142000,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/tek2r7qarvugnmhu/251219_BornAgain_UPDATED.mp3",
+      "duration": 2282
+    },
+    {
+      "uuid": "924ba883-4595-489f-8e42-494148abdefd",
+      "guid": "ginl.podbean.com/d2bf84b1-c58c-35a1-b28b-cab8d6ecc409",
+      "name": "The Word",
+      "datePublished": 1765984540,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/ynskrmnp72jz6qk9/251217_TheWord_UPDATED.mp3",
+      "duration": 2244
+    },
+    {
+      "uuid": "a3cae885-0810-40f3-ada6-79934cb28f86",
+      "guid": "ginl.podbean.com/d6b690e1-588b-33d6-8d77-81873187b8c4",
+      "name": "Does God Control Everything?",
+      "datePublished": 1765796400,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/cmq4vkzdhieex5xq/251215_DoesGodControlEverything_UPDATED.mp3",
+      "duration": 2515
+    },
+    {
+      "uuid": "5454a7ae-15c5-4d73-adf8-811f42abf443",
+      "guid": "ginl.podbean.com/51a4a5db-1f0b-3704-8390-65718832ba48",
+      "name": "Love Beyond Degree",
+      "datePublished": 1765537200,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/7kackcg64ywajim9/251212_LoveBeyondDegree.mp3",
+      "duration": 1921
+    },
+    {
+      "uuid": "0d1f7de7-20c3-4236-b599-6de9fc91f0ab",
+      "guid": "ginl.podbean.com/487c1391-7876-3ceb-829e-e76059446645",
+      "name": "Groaning in the Spirit",
+      "datePublished": 1765364400,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/42jw4jnvspc452qi/251210_GroaningInTheSpirit.mp3",
+      "duration": 2146
+    },
+    {
+      "uuid": "5e091bd3-0911-4d73-b181-d5d0bcdfc2c1",
+      "guid": "ginl.podbean.com/74e22bb0-fa07-3e5a-9202-a1f01d2a73de",
+      "name": "Mortification Through Joy",
+      "datePublished": 1765191600,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/37s9aa6jid26q8s6/251208_MortificationThroughJoy.mp3",
+      "duration": 2114
+    },
+    {
+      "uuid": "bf2ed821-e120-4cab-823b-da642949f905",
+      "guid": "ginl.podbean.com/bb310deb-5a57-370c-8ba9-29c44436fbf9",
+      "name": "Splitness",
+      "datePublished": 1764932400,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/cxqrreep62rxmj7t/251205_Splitness.mp3",
+      "duration": 2201
+    },
+    {
+      "uuid": "9a12119c-6a89-470f-adf2-6e21261d4c3b",
+      "guid": "ginl.podbean.com/4c345ecd-3c94-31fb-87a6-ed489b471b5e",
+      "name": "Perfect Freedom",
+      "datePublished": 1764771472,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/hg4agbb7dtspb74f/251203_PerfectFreedom.mp3",
+      "duration": 2738
+    },
+    {
+      "uuid": "2ba65a35-6a35-4d23-83d8-ba0db3d0b6a7",
+      "guid": "ginl.podbean.com/b32225be-1ff2-3e39-b8fb-aef09a5d21f1",
+      "name": "Money and the Logic of Grace",
+      "datePublished": 1764673200,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/f7wefuujfeg7pc3q/251202_MoneyAndTheLogicOfGrace.mp3",
+      "duration": 2527
+    },
+    {
+      "uuid": "fb85ae6e-c813-4fe3-875a-03dbb215fdb7",
+      "guid": "ginl.podbean.com/25050205-776e-338e-892b-300e5229e0d9",
+      "name": "The Cosmic Spirit",
+      "datePublished": 1764586800,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/ezhb8pm2ibwa23ph/251201_TheCosmicSpirit.mp3",
+      "duration": 2251
+    },
+    {
+      "uuid": "058e2e0c-1f9e-4e52-9a7d-6ee18d867ba9",
+      "guid": "ginl.podbean.com/374ed77a-49b7-39cc-9a7b-720c956f02ab",
+      "name": "The Gifts of the Spirit",
+      "datePublished": 1764327600,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/dban4jqw77c29pk7/251128_TheGiftsOfTheSpirit.mp3",
+      "duration": 2377
+    },
+    {
+      "uuid": "893a8720-ac32-4637-9b15-ae0ac5308657",
+      "guid": "ginl.podbean.com/7ba08bba-3185-38e5-b3a3-c6fbbe486e4c",
+      "name": "Thanksgiving Message from Kathy Keller",
+      "datePublished": 1764241200,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/tb6uxvjsv9wu6w7k/Kathy_Thanksgiving_Audio.m4a",
+      "duration": 182
+    },
+    {
+      "uuid": "9b6425cf-ce77-4c9f-9621-50705da0b81e",
+      "guid": "ginl.podbean.com/72ff8311-695d-310d-b2a2-dae1edfedd64",
+      "name": "Life in the Spirit",
+      "datePublished": 1764154800,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/s4vb7eckdvdfezbt/251126_LifeInTheSpirit.mp3",
+      "duration": 1975
+    },
+    {
+      "uuid": "34d1373f-880f-41e6-be74-c477ff5192ee",
+      "guid": "ginl.podbean.com/8c664089-e1d8-3fd4-bfdf-a2b7636abc39",
+      "name": "Who Is the Spirit?",
+      "datePublished": 1763982000,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/2irtcaumd8buyeh7/251124_WhoIsTheSpirit.mp3",
+      "duration": 2610
+    },
+    {
+      "uuid": "768863b8-08d9-4ee4-8acc-b171a06cacbd",
+      "guid": "ginl.podbean.com/66380bb7-f705-373a-a425-0b1500ffb614",
+      "name": "Self-Control",
+      "datePublished": 1763722800,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/xrs9vsi86w8z3ixg/251121_SelfControl.mp3",
+      "duration": 2112
+    },
+    {
+      "uuid": "666393c5-e6bb-4829-a8c5-7f83cf383760",
+      "guid": "ginl.podbean.com/6a257300-aa25-3ede-ae35-0b5117f0a698",
+      "name": "Humility",
+      "datePublished": 1763550000,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/9dmxy5nrte9a3agt/251119_Humility.mp3",
+      "duration": 2297
+    },
+    {
+      "uuid": "9d978120-ced1-4ab0-8a5a-b170a84bb335",
+      "guid": "ginl.podbean.com/0cc6f8c4-24e8-3e04-981f-f93c71a8c37b",
+      "name": "Integrity",
+      "datePublished": 1763377200,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/3fjhz4hupkb9esmr/251117_Integrity.mp3",
+      "duration": 2433
+    },
+    {
+      "uuid": "8086b33e-6308-42d5-8ed0-17a6991de834",
+      "guid": "ginl.podbean.com/a6b09c40-257f-3d4d-b6c2-4f028e57bf92",
+      "name": "Kindness",
+      "datePublished": 1763118000,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/8ijaafiizn5q2kp3/251114_Kindness.mp3",
+      "duration": 2118
+    },
+    {
+      "uuid": "c9b5b9ea-8c58-4f8b-aa81-f5b8280d416a",
+      "guid": "ginl.podbean.com/4ae12ebc-d7f3-3b52-b4ca-e48cc8cae589",
+      "name": "Patience",
+      "datePublished": 1762945200,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/uqrinmpdbgcpqze8/251112_Patience.mp3",
+      "duration": 2218
+    },
+    {
+      "uuid": "c9eb6769-b7b0-4218-a169-afe94d61162a",
+      "guid": "ginl.podbean.com/cee979f1-00ea-3037-9a40-6cbbb428b951",
+      "name": "Peace",
+      "datePublished": 1762772400,
+      "audioUrl": "https://mcdn.podbean.com/mf/web/yu5qse6iv29qsbb8/251110_Peace.mp3",
+      "duration": 2414
+    }
+  ]
+}

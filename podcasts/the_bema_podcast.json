@@ -1,0 +1,4097 @@
+{
+  "podcastId": "the_bema_podcast",
+  "name": "The BEMA Podcast",
+  "host": "BEMA Discipleship",
+  "taddyUuid": "b48a3be6-0d8c-4d3f-b40a-4c65fed11fad",
+  "totalEpisodes": 511,
+  "episodes": [
+    {
+      "uuid": "02128b00-c30d-4927-a9b1-9f2f64c98cf9",
+      "guid": "905b2cbe-ae99-4ecf-b340-3f322d61e274",
+      "name": "506: The Four Pillars — Talmid & Morah",
+      "datePublished": 1781769600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/905b2cbe-ae99-4ecf-b340-3f322d61e274.mp3",
+      "duration": 3385
+    },
+    {
+      "uuid": "efcf26b0-9dee-4c1b-a79a-3fdfb0690038",
+      "guid": "c42bdcf2-a17b-46de-8f73-c04e8ab82430",
+      "name": "505: The Four Pillars — Discipleship",
+      "datePublished": 1780560000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/c42bdcf2-a17b-46de-8f73-c04e8ab82430.mp3",
+      "duration": 3075
+    },
+    {
+      "uuid": "cad1e481-1bc0-40df-a790-0ff060a80826",
+      "guid": "be9b188d-6613-4701-b7d8-1f7df79ce07a",
+      "name": "504: The Four Pillars — Coming Home to Community",
+      "datePublished": 1779350400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/be9b188d-6613-4701-b7d8-1f7df79ce07a.mp3",
+      "duration": 2338
+    },
+    {
+      "uuid": "e341f699-4214-443e-9eca-5990ac64154b",
+      "guid": "165849f7-4015-4b5b-9ba4-ed43f3cfbaa2",
+      "name": "503: The Four Pillars — Japanese Woodworking Joint",
+      "datePublished": 1778140800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/165849f7-4015-4b5b-9ba4-ed43f3cfbaa2.mp3",
+      "duration": 1904
+    },
+    {
+      "uuid": "12e5c81b-753f-4585-a5c6-19bcdf441865",
+      "guid": "04949ca6-9a67-4531-8c74-ce88244566b5",
+      "name": "502: The Four Pillars — Community",
+      "datePublished": 1776931200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/04949ca6-9a67-4531-8c74-ce88244566b5.mp3",
+      "duration": 3082
+    },
+    {
+      "uuid": "e7a2aabd-9818-4898-bcd9-0eb82331269c",
+      "guid": "c71adaab-5647-406b-9236-92c2f2cda617",
+      "name": "501: The Four Pillars — Tome at the Center of the Spiral",
+      "datePublished": 1775721600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/c71adaab-5647-406b-9236-92c2f2cda617.mp3",
+      "duration": 3234
+    },
+    {
+      "uuid": "af985763-cdc2-49e5-aded-74f5abe528b9",
+      "guid": "23abe88f-c121-4ce0-88ec-53bf3b509e9d",
+      "name": "500: David Rudolph — Passover",
+      "datePublished": 1774512000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/23abe88f-c121-4ce0-88ec-53bf3b509e9d.mp3",
+      "duration": 3383
+    },
+    {
+      "uuid": "338fce38-ed8a-463a-b79a-a8578b7addc9",
+      "guid": "a31e9f62-2b12-4990-ac9e-fd85ba82677d",
+      "name": "499: The Four Pillars — Truth in Text",
+      "datePublished": 1773302400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/a31e9f62-2b12-4990-ac9e-fd85ba82677d.mp3",
+      "duration": 3267
+    },
+    {
+      "uuid": "0538f449-0fcb-473c-b2c4-990fc2b87c7b",
+      "guid": "495f55d9-bde4-4dc8-9600-9335cb45b337",
+      "name": "498: The Four Pillars — Text",
+      "datePublished": 1772096400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/495f55d9-bde4-4dc8-9600-9335cb45b337.mp3",
+      "duration": 3401
+    },
+    {
+      "uuid": "94a499a2-e328-490c-ab04-1261ff4968c2",
+      "guid": "51449467-60ea-43f6-a8b0-59613da4949f",
+      "name": "497: Brad Gray and Brad Nelson — The Lord’s Prayer",
+      "datePublished": 1771491600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/51449467-60ea-43f6-a8b0-59613da4949f.mp3",
+      "duration": 2842
+    },
+    {
+      "uuid": "6d6d7525-548c-44ae-a86e-c47be564d1b7",
+      "guid": "7ed3832d-dfc9-462c-b675-66e07df9fb0c",
+      "name": "496: Session 10 Intro",
+      "datePublished": 1770886800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/7ed3832d-dfc9-462c-b675-66e07df9fb0c.mp3",
+      "duration": 2371
+    },
+    {
+      "uuid": "df0dbe36-160b-4d2e-ab10-81d4c4902699",
+      "guid": "2937510b-9c0e-4cfb-a8e5-a8dbcfaea614",
+      "name": "495: Session 9 Capstone",
+      "datePublished": 1770282000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/2937510b-9c0e-4cfb-a8e5-a8dbcfaea614.mp3",
+      "duration": 3036
+    },
+    {
+      "uuid": "82dfb4b5-4604-4203-b031-7c425e1ad119",
+      "guid": "819a6611-6b45-4b04-820f-5cc1e39a1385",
+      "name": "494: Vice & Virtue — Love",
+      "datePublished": 1769677200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/819a6611-6b45-4b04-820f-5cc1e39a1385.mp3",
+      "duration": 1613
+    },
+    {
+      "uuid": "80d54898-5cf2-40b7-96a7-a2f6b10de796",
+      "guid": "f1666660-c35e-407e-a883-3731bdaa6fb2",
+      "name": "493: Vice & Virtue — Hope",
+      "datePublished": 1769072400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f1666660-c35e-407e-a883-3731bdaa6fb2.mp3",
+      "duration": 4681
+    },
+    {
+      "uuid": "54b2ff50-ea21-4e80-8bf3-30e5f407d683",
+      "guid": "fe69f4c6-ea0f-4ea2-b665-4c79b1e325b2",
+      "name": "492: Vice & Virtue — Faith",
+      "datePublished": 1768467600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/fe69f4c6-ea0f-4ea2-b665-4c79b1e325b2.mp3",
+      "duration": 3336
+    },
+    {
+      "uuid": "e3a0e3a8-9e29-4fad-8ede-01dc46288c84",
+      "guid": "ed300872-cf27-4095-aff3-5531205ddc39",
+      "name": "491: Sandra Richter — Abigail and the Waterfall",
+      "datePublished": 1767862800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ed300872-cf27-4095-aff3-5531205ddc39.mp3",
+      "duration": 3002
+    },
+    {
+      "uuid": "508bdd9b-ef0f-4f11-a83c-66c60c2e40ef",
+      "guid": "1ac482d6-57aa-45c4-9df2-405c7bd8b060",
+      "name": "490: Seven (Bonus Episode)",
+      "datePublished": 1767258000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/1ac482d6-57aa-45c4-9df2-405c7bd8b060.mp3",
+      "duration": 3297
+    },
+    {
+      "uuid": "d874ebb1-90b1-4205-88c9-9726d772be53",
+      "guid": "84882dde-2044-4947-9a5d-4929680f4bf7",
+      "name": "489: Vice & Virtue — Justice",
+      "datePublished": 1766048400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/84882dde-2044-4947-9a5d-4929680f4bf7.mp3",
+      "duration": 4854
+    },
+    {
+      "uuid": "9663d08b-afd7-4071-95be-7d016243a933",
+      "guid": "da140293-0ea0-40db-8a18-2717e118c0e2",
+      "name": "488: Vice & Virtue — Courage",
+      "datePublished": 1765443600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/da140293-0ea0-40db-8a18-2717e118c0e2.mp3",
+      "duration": 3942
+    },
+    {
+      "uuid": "dbf91ffb-de8b-4ae3-a4ed-b05a24bc5b62",
+      "guid": "476acb88-ac0b-41af-8f9b-a339758c149f",
+      "name": "487: Sitting Shiva for Josh Bossé",
+      "datePublished": 1764759600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/476acb88-ac0b-41af-8f9b-a339758c149f.mp3",
+      "duration": 720
+    },
+    {
+      "uuid": "7490d8a3-8c22-44a5-b35b-3466acd4c655",
+      "guid": "3dd6e404-cb23-4f9e-9dae-14dbfcc23d0f",
+      "name": "486: Vice & Virtue — Temperance",
+      "datePublished": 1763629200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/3dd6e404-cb23-4f9e-9dae-14dbfcc23d0f.mp3",
+      "duration": 2862
+    },
+    {
+      "uuid": "12364de2-ff35-4069-b87b-063813d87300",
+      "guid": "39f67c09-f9db-4e70-99a0-35473ba0ee6c",
+      "name": "485: Vice & Virtue — Prudence",
+      "datePublished": 1763024400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/39f67c09-f9db-4e70-99a0-35473ba0ee6c.mp3",
+      "duration": 3562
+    },
+    {
+      "uuid": "5898c2c2-3024-4f49-b39d-1099edb2bfbc",
+      "guid": "ceec7a30-c700-4ee9-80c8-be92ae42d94d",
+      "name": "484: Dallas Jenkins — It Would Have Been Enough (Bonus Episode)",
+      "datePublished": 1762765200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ceec7a30-c700-4ee9-80c8-be92ae42d94d.mp3",
+      "duration": 3480
+    },
+    {
+      "uuid": "9dfde41d-5eef-4ea1-885d-5a54ab508e91",
+      "guid": "03f1c08c-a95d-4159-8126-6bbc6b7f05fc",
+      "name": "483: Annie F. Downs — That Sounds Fun",
+      "datePublished": 1762419600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/03f1c08c-a95d-4159-8126-6bbc6b7f05fc.mp3",
+      "duration": 3222
+    },
+    {
+      "uuid": "93d6519a-9c74-4658-8182-6dd272f95f4f",
+      "guid": "f0976086-7027-4b44-bc78-c8eea9929207",
+      "name": "482: The Chosen S5E8 — “The Upper Room, Part 2” (Bonus Episode)",
+      "datePublished": 1762160400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f0976086-7027-4b44-bc78-c8eea9929207.mp3",
+      "duration": 2151
+    },
+    {
+      "uuid": "acaf29e0-4d5a-4ed8-bd65-f7f8373742df",
+      "guid": "a8fd83ba-78ba-494b-96b0-1facb519fff7",
+      "name": "481: Vice & Virtue — Sloth",
+      "datePublished": 1761811200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/a8fd83ba-78ba-494b-96b0-1facb519fff7.mp3",
+      "duration": 4549
+    },
+    {
+      "uuid": "a9b3cece-4f9d-4a8f-b773-9148559ce78e",
+      "guid": "297af27a-a70f-4631-8398-7dc671be7773",
+      "name": "480: The Chosen S5E7 — “The Upper Room, Part 1” (Bonus Episode)",
+      "datePublished": 1761552000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/297af27a-a70f-4631-8398-7dc671be7773.mp3",
+      "duration": 2216
+    },
+    {
+      "uuid": "ec436bd8-6e99-467b-846b-e10bd7e2f093",
+      "guid": "2f00cc97-58eb-4a76-a286-26c0c96adfc8",
+      "name": "479: Vice & Virtue — Wrath",
+      "datePublished": 1761206400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/2f00cc97-58eb-4a76-a286-26c0c96adfc8.mp3",
+      "duration": 3837
+    },
+    {
+      "uuid": "07636cbf-f226-47db-9444-3226d3ec9efb",
+      "guid": "faeae6c8-6759-44d3-8316-6166e170b0a6",
+      "name": "478: The Chosen S5E6 — “Reunions” (Bonus Episode)",
+      "datePublished": 1760947200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/faeae6c8-6759-44d3-8316-6166e170b0a6.mp3",
+      "duration": 2277
+    },
+    {
+      "uuid": "2b89e41a-ac32-4841-9e6c-179bd2c03f9c",
+      "guid": "5186de41-d0f9-44ec-9a78-fa5cee3fbb23",
+      "name": "477: Vice & Virtue — Envy",
+      "datePublished": 1760601600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/5186de41-d0f9-44ec-9a78-fa5cee3fbb23.mp3",
+      "duration": 3725
+    },
+    {
+      "uuid": "4e6644a1-7dbf-460e-90db-a4a4bd63e87e",
+      "guid": "68b03180-520c-42fe-82ac-25451fb02c3c",
+      "name": "476: The Chosen S5E5 — “Because of Me” (Bonus Episode)",
+      "datePublished": 1760342400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/68b03180-520c-42fe-82ac-25451fb02c3c.mp3",
+      "duration": 1840
+    },
+    {
+      "uuid": "6960a2f1-8d3f-4f86-9140-1d99f4c3d5d8",
+      "guid": "fc4b8507-93e0-43b9-9f16-67ed08bd1962",
+      "name": "475: Vice & Virtue — Vainglory",
+      "datePublished": 1759996800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/fc4b8507-93e0-43b9-9f16-67ed08bd1962.mp3",
+      "duration": 3712
+    },
+    {
+      "uuid": "d47805cf-13b1-4038-8662-1f40c27616fa",
+      "guid": "dd90732d-e10e-4ee0-8d0e-e30933e29c46",
+      "name": "474: The Chosen S5E4 — “The Same Coin” (Bonus Episode)",
+      "datePublished": 1759737600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/dd90732d-e10e-4ee0-8d0e-e30933e29c46.mp3",
+      "duration": 2492
+    },
+    {
+      "uuid": "3886f3a0-c171-4da6-87e0-c147737b2091",
+      "guid": "50552b8a-a0da-46a0-9f74-d5585a96c447",
+      "name": "473: Vice & Virtue — Greed",
+      "datePublished": 1759392000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/50552b8a-a0da-46a0-9f74-d5585a96c447.mp3",
+      "duration": 4448
+    },
+    {
+      "uuid": "d80685f0-6263-43f8-8759-7f37753a9cf0",
+      "guid": "9c5f7f6e-914a-4ec5-b76b-4667d1f6f3f7",
+      "name": "472: The Chosen S5E3 — “Woes” (Bonus Episode)",
+      "datePublished": 1759132800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/9c5f7f6e-914a-4ec5-b76b-4667d1f6f3f7.mp3",
+      "duration": 2303
+    },
+    {
+      "uuid": "294539b4-985b-49a9-807e-f091e387bb2e",
+      "guid": "fb4ed20a-ae3b-40cf-a15f-d462a11b66d2",
+      "name": "471: Vice & Virtue — Gluttony",
+      "datePublished": 1758787200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/fb4ed20a-ae3b-40cf-a15f-d462a11b66d2.mp3",
+      "duration": 3790
+    },
+    {
+      "uuid": "0b2ad1dc-9cf0-4517-9dff-61bea5c88798",
+      "guid": "8c58e368-bb96-4613-83c1-2166a9804dbf",
+      "name": "470: The Chosen S5E2 — “House of Cards” (Bonus Episode)",
+      "datePublished": 1758528000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/8c58e368-bb96-4613-83c1-2166a9804dbf.mp3",
+      "duration": 1664
+    },
+    {
+      "uuid": "a4c70c34-aed7-48cd-870b-ed5ad65f48f4",
+      "guid": "449db452-d592-42dd-a6bd-d9fcda645227",
+      "name": "469: Vice & Virtue — Lust",
+      "datePublished": 1758182400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/449db452-d592-42dd-a6bd-d9fcda645227.mp3",
+      "duration": 3758
+    },
+    {
+      "uuid": "d3feae87-bdd7-4ce7-9429-11a88aa0b991",
+      "guid": "c0e0d652-01a0-4bad-bec1-32d3b032dd05",
+      "name": "468: The Chosen S5E1 — “Entry” (Bonus Episode)",
+      "datePublished": 1757923200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/c0e0d652-01a0-4bad-bec1-32d3b032dd05.mp3",
+      "duration": 2001
+    },
+    {
+      "uuid": "7ba8101e-5693-468b-8f7a-6e8fbbf04751",
+      "guid": "e1f4694b-94d5-4eb6-8a3d-00e003ab0f56",
+      "name": "467: Vice & Virtue — Introduction",
+      "datePublished": 1757577600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/e1f4694b-94d5-4eb6-8a3d-00e003ab0f56.mp3",
+      "duration": 3505
+    },
+    {
+      "uuid": "d9a30758-7e7d-41fc-8a47-3f5b57a5f646",
+      "guid": "af847925-fb9d-418c-a695-d0c2f278f661",
+      "name": "466: Ethan Bryan — If You Were Brave",
+      "datePublished": 1756972800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/af847925-fb9d-418c-a695-d0c2f278f661.mp3",
+      "duration": 2938
+    },
+    {
+      "uuid": "5359a33b-90c6-4ed6-8295-262282ce5f45",
+      "guid": "abe910a2-9c74-4296-8762-9198e73775ed",
+      "name": "465: Qohelet’s Reflection",
+      "datePublished": 1756368000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/abe910a2-9c74-4296-8762-9198e73775ed.mp3",
+      "duration": 3752
+    },
+    {
+      "uuid": "ad01495f-30d5-4440-a44a-6a2eed9cd2c2",
+      "guid": "08832fee-99bb-4926-b9a1-fc98da3fbea3",
+      "name": "464: Qohelet Goes Home",
+      "datePublished": 1755763200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/08832fee-99bb-4926-b9a1-fc98da3fbea3.mp3",
+      "duration": 5757
+    },
+    {
+      "uuid": "27b53d3f-6fc7-4c27-a9d1-5c53e6f7caea",
+      "guid": "3a35869b-7599-4619-85a2-d771ae908f8c",
+      "name": "463: Qohelet Feeds the Ducks",
+      "datePublished": 1755158400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/3a35869b-7599-4619-85a2-d771ae908f8c.mp3",
+      "duration": 4857
+    },
+    {
+      "uuid": "101c2dbc-d7a2-479d-bad6-247c841bcfc1",
+      "guid": "dd657e7c-2281-4e09-aa5e-3e5a11089fc8",
+      "name": "462: Qohelet Rolls the Dice",
+      "datePublished": 1754553600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/dd657e7c-2281-4e09-aa5e-3e5a11089fc8.mp3",
+      "duration": 4544
+    },
+    {
+      "uuid": "b00fb13d-c2d8-4ca7-951d-b67682a2eb4c",
+      "guid": "c1902158-b7ed-4b0b-a50c-0403bed49221",
+      "name": "461: Qohelet Gives a Pep Talk",
+      "datePublished": 1753948800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/c1902158-b7ed-4b0b-a50c-0403bed49221.mp3",
+      "duration": 4579
+    },
+    {
+      "uuid": "2705ea71-1e0f-4528-8e09-67f574d086a6",
+      "guid": "cca592b7-1b09-414b-a747-734052e295f8",
+      "name": "460: Qohelet Hears Bad Words",
+      "datePublished": 1753344000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/cca592b7-1b09-414b-a747-734052e295f8.mp3",
+      "duration": 4075
+    },
+    {
+      "uuid": "ac21687a-7538-4c05-902f-9261286adb6a",
+      "guid": "20e31fde-45bb-4475-a906-22f7d59bcc6a",
+      "name": "459: Qohelet Buys a Coffin",
+      "datePublished": 1752739200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/20e31fde-45bb-4475-a906-22f7d59bcc6a.mp3",
+      "duration": 5011
+    },
+    {
+      "uuid": "807ffa49-a353-4cd3-a1ae-6590c50d43af",
+      "guid": "c0b80a1c-6f92-4661-b079-017a4096dc6d",
+      "name": "458: BEMA Kokomo — The Body of Christ",
+      "datePublished": 1752134400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/c0b80a1c-6f92-4661-b079-017a4096dc6d.mp3",
+      "duration": 3050
+    },
+    {
+      "uuid": "08476c16-28cf-499f-880e-543925ab3a96",
+      "guid": "ac98148f-2cd4-46d5-a42a-bbc3ead56767",
+      "name": "457: Qohelet Checks the Time",
+      "datePublished": 1751529600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ac98148f-2cd4-46d5-a42a-bbc3ead56767.mp3",
+      "duration": 3412
+    },
+    {
+      "uuid": "72c9503d-c562-420d-92de-2ab89cff2dc8",
+      "guid": "068e4237-57e7-44f0-880a-c9af54486204",
+      "name": "456: Qohelet Weeds the Garden",
+      "datePublished": 1750924800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/068e4237-57e7-44f0-880a-c9af54486204.mp3",
+      "duration": 4206
+    },
+    {
+      "uuid": "b9a42836-0f5a-46a9-b6f8-6236a3392cf7",
+      "guid": "cf0735bf-47f1-4266-97e1-903a078aa5c4",
+      "name": "455: Qohelet Fights the Power",
+      "datePublished": 1750320000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/cf0735bf-47f1-4266-97e1-903a078aa5c4.mp3",
+      "duration": 4014
+    },
+    {
+      "uuid": "d77c95a2-f81e-42d5-b0be-fab7624dbe68",
+      "guid": "0079e239-b79b-4f5a-9032-fa83f029ebe2",
+      "name": "454: Qohelet Goes Off",
+      "datePublished": 1749715200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/0079e239-b79b-4f5a-9032-fa83f029ebe2.mp3",
+      "duration": 4649
+    },
+    {
+      "uuid": "f71af396-9600-429c-827a-ca8d096789a6",
+      "guid": "7272613e-e47b-41dd-92fd-392444d1004c",
+      "name": "453: Qohelet Tries to Party",
+      "datePublished": 1749110400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/7272613e-e47b-41dd-92fd-392444d1004c.mp3",
+      "duration": 3389
+    },
+    {
+      "uuid": "ad6e7274-c11c-4587-a271-9be3b62a66f6",
+      "guid": "e6acd205-4cde-4292-90ff-b02a5c25e701",
+      "name": "452: Qohelet Gets Out of Bed",
+      "datePublished": 1748505600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/e6acd205-4cde-4292-90ff-b02a5c25e701.mp3",
+      "duration": 5231
+    },
+    {
+      "uuid": "1ecd073b-f261-4b09-80ac-47c30fdfc3d3",
+      "guid": "b85e2634-39e1-457a-a7db-0bd671d756b4",
+      "name": "451: Ashlee Eiland — Say Good",
+      "datePublished": 1747900800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/b85e2634-39e1-457a-a7db-0bd671d756b4.mp3",
+      "duration": 2483
+    },
+    {
+      "uuid": "62529a36-bad8-452e-bbd6-8b0ff01bdc0f",
+      "guid": "45fbe565-e7a0-4b6d-a370-ca289845b26f",
+      "name": "450: Talmudic Matthew — The 7",
+      "datePublished": 1747296000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/45fbe565-e7a0-4b6d-a370-ca289845b26f.mp3",
+      "duration": 4596
+    },
+    {
+      "uuid": "2d265c54-4346-4ac0-a5d4-931f7cc569f6",
+      "guid": "ffdbf794-f9c4-4671-b323-b69b2b0c8d4d",
+      "name": "449: Talmudic Matthew — The Seven",
+      "datePublished": 1746691200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ffdbf794-f9c4-4671-b323-b69b2b0c8d4d.mp3",
+      "duration": 4016
+    },
+    {
+      "uuid": "afd85e33-db40-4c5a-a53f-41ae9f61c60d",
+      "guid": "63efe524-3d63-4afd-b8d6-97a765df0bf0",
+      "name": "448: Talmudic Matthew — Secret",
+      "datePublished": 1746086400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/63efe524-3d63-4afd-b8d6-97a765df0bf0.mp3",
+      "duration": 2798
+    },
+    {
+      "uuid": "6a4415d9-e7e5-4c0f-9403-ea37914b4950",
+      "guid": "0b6cd4ae-f40b-48c8-9b94-c75523058b66",
+      "name": "447: Talmudic Matthew — Wages",
+      "datePublished": 1745481600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/0b6cd4ae-f40b-48c8-9b94-c75523058b66.mp3",
+      "duration": 2940
+    },
+    {
+      "uuid": "eae1b4b8-eefc-4792-861d-2b915060aa64",
+      "guid": "40c87542-95dc-4b1b-a968-15bc349f929a",
+      "name": "446: Talmudic Matthew — Children",
+      "datePublished": 1744876800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/40c87542-95dc-4b1b-a968-15bc349f929a.mp3",
+      "duration": 3022
+    },
+    {
+      "uuid": "3042a5ca-d1a2-444a-b502-544b0bdbf967",
+      "guid": "d729e87d-ecfc-4c45-bb65-ad8b813f313f",
+      "name": "445: Talmudic Matthew — Enemies",
+      "datePublished": 1744272000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/d729e87d-ecfc-4c45-bb65-ad8b813f313f.mp3",
+      "duration": 3741
+    },
+    {
+      "uuid": "c5e0d14c-11b7-48d5-acb6-e5838f54ee46",
+      "guid": "f86dccdf-3d03-4954-aafe-1a4162f5623c",
+      "name": "444: Karen Stiller — Holiness Here",
+      "datePublished": 1743667200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f86dccdf-3d03-4954-aafe-1a4162f5623c.mp3",
+      "duration": 2286
+    },
+    {
+      "uuid": "cc8c7e05-4532-4e12-9807-28dca9c6a5ec",
+      "guid": "29f83bff-ec91-41d6-a60b-218586ae549f",
+      "name": "443: Talmudic Matthew — Oaths",
+      "datePublished": 1743062400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/29f83bff-ec91-41d6-a60b-218586ae549f.mp3",
+      "duration": 2335
+    },
+    {
+      "uuid": "3cc6c688-2b1a-492d-a895-5503ba6dcac5",
+      "guid": "240529b3-2828-425c-b716-7c77b2f5a3d5",
+      "name": "442: Talmudic Matthew — Marriage",
+      "datePublished": 1742457600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/240529b3-2828-425c-b716-7c77b2f5a3d5.mp3",
+      "duration": 2320
+    },
+    {
+      "uuid": "b29f5b1e-4cc1-4eae-9beb-49684d813c54",
+      "guid": "30668386-32da-451c-b149-1f95956e478f",
+      "name": "441: Talmudic Matthew — Thymos",
+      "datePublished": 1741852800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/30668386-32da-451c-b149-1f95956e478f.mp3",
+      "duration": 2795
+    },
+    {
+      "uuid": "9c17769c-a795-4e44-81ce-9073da9be0b5",
+      "guid": "d0ed12f4-bf90-4aa6-9cc5-a0fd8c976365",
+      "name": "440: Talmudic Matthew — Reconciliation",
+      "datePublished": 1741251600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/d0ed12f4-bf90-4aa6-9cc5-a0fd8c976365.mp3",
+      "duration": 3423
+    },
+    {
+      "uuid": "42a433b2-c58d-4214-8047-08c60a73675e",
+      "guid": "d5011188-bd04-486d-b691-37655b1eafdd",
+      "name": "439: Talmudic Matthew — Anger",
+      "datePublished": 1740646800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/d5011188-bd04-486d-b691-37655b1eafdd.mp3",
+      "duration": 3155
+    },
+    {
+      "uuid": "7dfb226b-fae2-4497-a20f-fcb45ed2bed0",
+      "guid": "307927a4-d857-4003-9c3f-91fc7c28f207",
+      "name": "438: Talmudic Matthew — Truly(?) I Say to You",
+      "datePublished": 1740042000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/307927a4-d857-4003-9c3f-91fc7c28f207.mp3",
+      "duration": 2214
+    },
+    {
+      "uuid": "2e98592c-9cb8-40f2-b746-9668c2c0d384",
+      "guid": "f3315fca-030a-497c-a213-91606280c067",
+      "name": "437: Talmudic Matthew — Mainstream or Marginal",
+      "datePublished": 1739437200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f3315fca-030a-497c-a213-91606280c067.mp3",
+      "duration": 2429
+    },
+    {
+      "uuid": "d6b7dd31-4aca-4913-a0c7-0a23905336ca",
+      "guid": "c8f96702-b066-458a-8f0e-ef0ab8236016",
+      "name": "436: Brant Hansen — 3D Chiastic Chess",
+      "datePublished": 1738832400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/c8f96702-b066-458a-8f0e-ef0ab8236016.mp3",
+      "duration": 3010
+    },
+    {
+      "uuid": "7c675c00-1b92-4b06-82b4-7a8579a068e9",
+      "guid": "f66e63ac-409f-45fa-9008-8fc11bb9b016",
+      "name": "435: Hosea — The Hope of Healing",
+      "datePublished": 1738227600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f66e63ac-409f-45fa-9008-8fc11bb9b016.mp3",
+      "duration": 2411
+    },
+    {
+      "uuid": "43ef3a1e-00fb-44a3-b75b-059e677ad30f",
+      "guid": "5544701d-fe78-4e6b-80da-aac9dbf90805",
+      "name": "434: Hosea — Who Among Us?",
+      "datePublished": 1737622800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/5544701d-fe78-4e6b-80da-aac9dbf90805.mp3",
+      "duration": 2410
+    },
+    {
+      "uuid": "06e8d663-9967-4b4f-9efc-4426656d7bd2",
+      "guid": "340a28ce-bc87-4c48-b38e-eebbfb3a335d",
+      "name": "433: Hosea — Doomed to Repeat It",
+      "datePublished": 1737018000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/340a28ce-bc87-4c48-b38e-eebbfb3a335d.mp3",
+      "duration": 2346
+    },
+    {
+      "uuid": "66954d27-cbb4-4442-ab5f-699f75ea1260",
+      "guid": "fd7382ec-5318-4151-8888-fb62ebf1e9d6",
+      "name": "432: Hosea — God’s Avatar",
+      "datePublished": 1736413200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/fd7382ec-5318-4151-8888-fb62ebf1e9d6.mp3",
+      "duration": 2809
+    },
+    {
+      "uuid": "b4117f90-269d-40a7-b165-6846bc268397",
+      "guid": "76b164f4-41be-4b39-9584-3dc96dd00f05",
+      "name": "431: Hosea — Stubborn Soil",
+      "datePublished": 1735808400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/76b164f4-41be-4b39-9584-3dc96dd00f05.mp3",
+      "duration": 3455
+    },
+    {
+      "uuid": "f28e89b3-ee8d-49b5-bde8-3d66125ce6c4",
+      "guid": "f8491c88-47fb-4ae8-b274-17a6352a2143",
+      "name": "430: It’s a Wonderful Life",
+      "datePublished": 1735203600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f8491c88-47fb-4ae8-b274-17a6352a2143.mp3",
+      "duration": 3567
+    },
+    {
+      "uuid": "0a0ffe24-303a-4dcd-847d-0e7280aac7f9",
+      "guid": "01684d31-a85f-4c4b-9072-9ed99316a070",
+      "name": "429: Catherine McNiel — Fearing Bravely",
+      "datePublished": 1734598800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/01684d31-a85f-4c4b-9072-9ed99316a070.mp3",
+      "duration": 2467
+    },
+    {
+      "uuid": "d185bdc8-d041-4912-8a80-94f673265f3b",
+      "guid": "8b10d38f-c4bf-4bfe-8ed1-7d275fc1a3d3",
+      "name": "428: Hosea — Consequences",
+      "datePublished": 1733994000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/8b10d38f-c4bf-4bfe-8ed1-7d275fc1a3d3.mp3",
+      "duration": 2764
+    },
+    {
+      "uuid": "1ff17b18-a5c7-4c20-b65f-721425fa6565",
+      "guid": "8c6e4279-8607-454a-a94a-e7392ab731ee",
+      "name": "427: Hosea — How Empty Is Empty?",
+      "datePublished": 1733389200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/8c6e4279-8607-454a-a94a-e7392ab731ee.mp3",
+      "duration": 2462
+    },
+    {
+      "uuid": "50c497aa-de2e-4e65-aa8e-a4d742d9f833",
+      "guid": "73a3ce20-e576-40c2-bd38-0fd74e04b0b2",
+      "name": "426: The Chosen S4E8 — “Humble” (Bonus Episode)",
+      "datePublished": 1732525200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/73a3ce20-e576-40c2-bd38-0fd74e04b0b2.mp3",
+      "duration": 2950
+    },
+    {
+      "uuid": "e2ff045c-4e8b-4287-ab7b-43e42545b106",
+      "guid": "c70f5f0c-b99d-418b-b080-fdb470e732fa",
+      "name": "425: Hosea — Fruit in Keeping with Repentance",
+      "datePublished": 1732179600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/c70f5f0c-b99d-418b-b080-fdb470e732fa.mp3",
+      "duration": 1741
+    },
+    {
+      "uuid": "e485846f-5d13-4807-8a5b-c36c676fe45b",
+      "guid": "ff3248b3-1e88-4062-8050-e6cd36427739",
+      "name": "424: The Chosen S4E7 — “The Last Sign” (Bonus Episode)",
+      "datePublished": 1731920400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ff3248b3-1e88-4062-8050-e6cd36427739.mp3",
+      "duration": 2780
+    },
+    {
+      "uuid": "ba141a36-2367-41d2-ae08-326ab1b514a7",
+      "guid": "de0b4044-cfe7-47f5-a873-f81df06062c0",
+      "name": "423: Hosea — Forgiveness",
+      "datePublished": 1731574800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/de0b4044-cfe7-47f5-a873-f81df06062c0.mp3",
+      "duration": 2388
+    },
+    {
+      "uuid": "11b7f0f4-78a2-4172-aad2-6ec81a698b6b",
+      "guid": "29aadc12-039c-450f-8814-e4af824f7df0",
+      "name": "422: The Chosen S4E6 — “Dedication” (Bonus Episode)",
+      "datePublished": 1731315600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/29aadc12-039c-450f-8814-e4af824f7df0.mp3",
+      "duration": 2355
+    },
+    {
+      "uuid": "7be802fa-97e2-42df-addc-f4dd33259dc7",
+      "guid": "6d9ac934-7920-4530-89fc-7fc9cb327e0a",
+      "name": "421: Hosea — When God Goes Missing",
+      "datePublished": 1730970000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/6d9ac934-7920-4530-89fc-7fc9cb327e0a.mp3",
+      "duration": 2822
+    },
+    {
+      "uuid": "ccdf2ea4-987f-4a53-9497-0e3231adbe09",
+      "guid": "9e452a1d-3c6e-4e19-bca6-ea648386f71f",
+      "name": "420: The Chosen S4E5 — “Sitting, Serving, Scheming” (Bonus Episode)",
+      "datePublished": 1730710800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/9e452a1d-3c6e-4e19-bca6-ea648386f71f.mp3",
+      "duration": 2531
+    },
+    {
+      "uuid": "d8d98254-85b1-4444-84c8-f39519e38f6a",
+      "guid": "760147dd-3879-4a67-8400-aebb30bb3889",
+      "name": "419: A. J. Sherrill — Rediscovering Christmas",
+      "datePublished": 1730361600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/760147dd-3879-4a67-8400-aebb30bb3889.mp3",
+      "duration": 2242
+    },
+    {
+      "uuid": "8684cb16-8939-4ed8-8103-183f2b426764",
+      "guid": "754b0641-d3b7-4504-85d2-52c0e5af0c43",
+      "name": "418: The Chosen S4E4 — “Calm Before” (Bonus Episode)",
+      "datePublished": 1730102400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/754b0641-d3b7-4504-85d2-52c0e5af0c43.mp3",
+      "duration": 2454
+    },
+    {
+      "uuid": "514b62d9-3ad5-42d1-be82-c04915545d4d",
+      "guid": "0eaf87cf-6b12-4c69-956d-e1676b41381f",
+      "name": "417: Hosea — Staring Brokenness in the Face",
+      "datePublished": 1729756800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/0eaf87cf-6b12-4c69-956d-e1676b41381f.mp3",
+      "duration": 3062
+    },
+    {
+      "uuid": "9bd76f13-e915-4d6b-be6a-ff879019814f",
+      "guid": "303435dc-adbc-4c95-af05-ce9b9824f2e0",
+      "name": "416: The Chosen S4E3 — “Moon to Blood” (Bonus Episode)",
+      "datePublished": 1729497600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/303435dc-adbc-4c95-af05-ce9b9824f2e0.mp3",
+      "duration": 2460
+    },
+    {
+      "uuid": "693170c0-ef73-479f-abc5-0a2ce4b399ab",
+      "guid": "f53ff747-a019-406a-8439-8c50011b63c6",
+      "name": "415: Hosea — Living Metaphor",
+      "datePublished": 1729152000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f53ff747-a019-406a-8439-8c50011b63c6.mp3",
+      "duration": 3059
+    },
+    {
+      "uuid": "654e6a62-ed02-430f-bea4-6b7cd870f3e8",
+      "guid": "be0021e9-3369-48ad-8e23-a8165a9d5d02",
+      "name": "414: The Chosen S4E2 — “Confessions” (Bonus Episode)",
+      "datePublished": 1728892800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/be0021e9-3369-48ad-8e23-a8165a9d5d02.mp3",
+      "duration": 2585
+    },
+    {
+      "uuid": "b0173543-3633-4b7f-a810-b2ae43fb6974",
+      "guid": "9ca8791d-06ee-4c3e-97ed-63f649ee4c69",
+      "name": "413: Hosea — Context and Caution",
+      "datePublished": 1728547200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/9ca8791d-06ee-4c3e-97ed-63f649ee4c69.mp3",
+      "duration": 3088
+    },
+    {
+      "uuid": "7b272895-3470-42cf-8f4f-7be72a4ad980",
+      "guid": "5a35847e-8185-49f8-bd25-4d1ce68936b1",
+      "name": "412: The Chosen S4E1 — “Promises” (Bonus Episode)",
+      "datePublished": 1728288000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/5a35847e-8185-49f8-bd25-4d1ce68936b1.mp3",
+      "duration": 2518
+    },
+    {
+      "uuid": "abd3c227-5625-4e0c-b5d7-d1d2a7b82d6b",
+      "guid": "f35cf4fa-ab3d-475f-9566-abcb7a09579e",
+      "name": "411: Session 9 Intro",
+      "datePublished": 1727942400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f35cf4fa-ab3d-475f-9566-abcb7a09579e.mp3",
+      "duration": 2254
+    },
+    {
+      "uuid": "e4a837bb-3e16-4d71-8b24-47bff8b64c7c",
+      "guid": "d04063b1-45d8-48fd-a255-63eff05d060d",
+      "name": "410: Session 8 Capstone",
+      "datePublished": 1727337600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/d04063b1-45d8-48fd-a255-63eff05d060d.mp3",
+      "duration": 2576
+    },
+    {
+      "uuid": "a7da0957-c67a-47cc-8357-d31a1ae746f9",
+      "guid": "026be0b6-fe99-4ff7-b3f6-d797a4cfcef4",
+      "name": "409: Sandra Richter — The Epic of Eden",
+      "datePublished": 1726732800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/026be0b6-fe99-4ff7-b3f6-d797a4cfcef4.mp3",
+      "duration": 3455
+    },
+    {
+      "uuid": "e9f7c7a6-96af-4c84-b2e7-143e3f741605",
+      "guid": "94d307f3-9c0f-482a-96dd-3679d6f3b7c2",
+      "name": "408: Practical Shabbat — Deepening",
+      "datePublished": 1726128000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/94d307f3-9c0f-482a-96dd-3679d6f3b7c2.mp3",
+      "duration": 2913
+    },
+    {
+      "uuid": "5e37395d-2e99-4161-9641-96b8847946df",
+      "guid": "50b9efe6-4c89-425b-b3ad-5d0fe6aeb283",
+      "name": "407: Practical Shabbat — Breaking",
+      "datePublished": 1725523200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/50b9efe6-4c89-425b-b3ad-5d0fe6aeb283.mp3",
+      "duration": 3120
+    },
+    {
+      "uuid": "5da9855c-30d9-42d0-b6e9-b005811d85f2",
+      "guid": "8a637fe7-69ea-49be-84e3-23c702c46a3c",
+      "name": "406: Practical Shabbat — Remembering",
+      "datePublished": 1724918400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/8a637fe7-69ea-49be-84e3-23c702c46a3c.mp3",
+      "duration": 5454
+    },
+    {
+      "uuid": "9e3d4e91-5d8b-45a5-a739-deee854c0bf2",
+      "guid": "e86cbfc2-be2d-412f-9782-e88998b5388a",
+      "name": "405: Practical Shabbat — Keeping",
+      "datePublished": 1724313600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/e86cbfc2-be2d-412f-9782-e88998b5388a.mp3",
+      "duration": 3316
+    },
+    {
+      "uuid": "ac9b9891-2625-4646-bf69-1e6f33610cae",
+      "guid": "52d2dec3-cf33-457c-a7ea-7caa972688ce",
+      "name": "404: Mariko Clark — The Book of Belonging",
+      "datePublished": 1723708800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/52d2dec3-cf33-457c-a7ea-7caa972688ce.mp3",
+      "duration": 3343
+    },
+    {
+      "uuid": "d9b6fcf1-a241-4ee3-b31d-757d6958c217",
+      "guid": "8154c61d-3c0a-4f32-bb46-0385eca685aa",
+      "name": "403: Talmudic Matthew — But Actually John",
+      "datePublished": 1723104000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/8154c61d-3c0a-4f32-bb46-0385eca685aa.mp3",
+      "duration": 2806
+    },
+    {
+      "uuid": "ca58cf11-2fd1-4655-98b9-d9a9f26feb42",
+      "guid": "889213aa-4b0c-4364-af29-2268f7b94b39",
+      "name": "402: Talmudic Matthew — Lightly Salted",
+      "datePublished": 1722499200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/889213aa-4b0c-4364-af29-2268f7b94b39.mp3",
+      "duration": 3331
+    },
+    {
+      "uuid": "9daf4df4-f345-4923-b14d-e97ec06c91de",
+      "guid": "ae3024b8-254e-4e49-8f29-f3930ae77c5c",
+      "name": "401: Talmudic Matthew — Light",
+      "datePublished": 1721894400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ae3024b8-254e-4e49-8f29-f3930ae77c5c.mp3",
+      "duration": 3021
+    },
+    {
+      "uuid": "f1b8fee8-023f-4232-9bce-8440209c5a51",
+      "guid": "6f3ffc97-bbb5-4c81-9529-7b6c7a53f828",
+      "name": "400: Talmudic Matthew — Salt",
+      "datePublished": 1721289600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/6f3ffc97-bbb5-4c81-9529-7b6c7a53f828.mp3",
+      "duration": 2323
+    },
+    {
+      "uuid": "32aae274-84c4-4b92-bd3a-b4a40ec0754f",
+      "guid": "fe317caf-6dd7-4a91-ba3c-b2041154a8b3",
+      "name": "399: Talmudic Matthew — Household of God",
+      "datePublished": 1720684800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/fe317caf-6dd7-4a91-ba3c-b2041154a8b3.mp3",
+      "duration": 5818
+    },
+    {
+      "uuid": "0d9bae81-738d-443a-97b9-e0f26541b527",
+      "guid": "af550880-1abe-4269-9d08-1ee09a476a3d",
+      "name": "398: Talmudic Matthew — Blessing",
+      "datePublished": 1720080000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/af550880-1abe-4269-9d08-1ee09a476a3d.mp3",
+      "duration": 3907
+    },
+    {
+      "uuid": "97e3e50a-9c87-4e6d-bce9-6d0038adcc26",
+      "guid": "e98d2be3-adc2-477e-8498-084b1c425f24",
+      "name": "397: Mitch Lavender — Respect and Dignity",
+      "datePublished": 1719475200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/e98d2be3-adc2-477e-8498-084b1c425f24.mp3",
+      "duration": 3544
+    },
+    {
+      "uuid": "30a29667-f57e-4928-a7a2-f8c3e8abda89",
+      "guid": "13df5865-5c7a-4e79-81d8-31f1cd0cfc2c",
+      "name": "396: Talmudic Matthew — Desert and Sea",
+      "datePublished": 1718870400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/13df5865-5c7a-4e79-81d8-31f1cd0cfc2c.mp3",
+      "duration": 4667
+    },
+    {
+      "uuid": "60afe80d-c5e1-4c4c-9b30-8855a2993ab8",
+      "guid": "6d886efe-11ca-491b-875f-1d97de887f42",
+      "name": "395: Talmudic Matthew — Jordan",
+      "datePublished": 1718265600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/6d886efe-11ca-491b-875f-1d97de887f42.mp3",
+      "duration": 3161
+    },
+    {
+      "uuid": "b634ae67-69f5-4926-9141-622ed4a09556",
+      "guid": "f1255f97-6d87-433d-abc2-f0e93c8ea58e",
+      "name": "394: Talmudic Matthew — Stars and Magic",
+      "datePublished": 1717660800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f1255f97-6d87-433d-abc2-f0e93c8ea58e.mp3",
+      "duration": 2746
+    },
+    {
+      "uuid": "a9cd9f90-5110-45a4-b192-7bce8a47a105",
+      "guid": "28dbe185-cb25-4b32-8e3f-c1181dbfae61",
+      "name": "393: Talmudic Matthew — Dreams",
+      "datePublished": 1717056000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/28dbe185-cb25-4b32-8e3f-c1181dbfae61.mp3",
+      "duration": 4289
+    },
+    {
+      "uuid": "e556f236-864e-4e49-93b7-318f10a4a58d",
+      "guid": "e73a0d15-422f-4cd7-9d37-49a7fd2fdb84",
+      "name": "392: Talmudic Matthew — Legacy",
+      "datePublished": 1716451200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/e73a0d15-422f-4cd7-9d37-49a7fd2fdb84.mp3",
+      "duration": 2969
+    },
+    {
+      "uuid": "318624fa-6f3f-4e60-b33b-1aa60eb4f7de",
+      "guid": "876c2fbb-0ac0-4d45-9839-c012be0a0d46",
+      "name": "391: Tommy Brown — The Ache for Meaning",
+      "datePublished": 1715846400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/876c2fbb-0ac0-4d45-9839-c012be0a0d46.mp3",
+      "duration": 2678
+    },
+    {
+      "uuid": "4d47c808-d574-471f-8069-ecf86a756f67",
+      "guid": "ae972108-c63b-4ead-a457-aea45dcc0ef1",
+      "name": "390: Psalms — Feeling Dumb with a Great Cloud of Witnesses",
+      "datePublished": 1715241600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ae972108-c63b-4ead-a457-aea45dcc0ef1.mp3",
+      "duration": 3714
+    },
+    {
+      "uuid": "158154c8-79e4-471d-92a6-54d6baf90482",
+      "guid": "3ca93eb0-1c37-45b4-aa1d-1f4f9ccf6676",
+      "name": "389: Psalms — 23 & Me",
+      "datePublished": 1714636800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/3ca93eb0-1c37-45b4-aa1d-1f4f9ccf6676.mp3",
+      "duration": 4465
+    },
+    {
+      "uuid": "efa06aab-e45c-41e4-ade7-ef2956df8ed4",
+      "guid": "83e6f25d-973a-4865-b3a9-78ce16db1aa1",
+      "name": "388: Psalms — Are You Listening?",
+      "datePublished": 1714032000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/83e6f25d-973a-4865-b3a9-78ce16db1aa1.mp3",
+      "duration": 4199
+    },
+    {
+      "uuid": "dad05291-6794-4bc3-adbd-1efecc8393de",
+      "guid": "531a9ae0-6de1-4d62-a75e-d1101233f8ff",
+      "name": "387: Psalms — More Distant Reflections",
+      "datePublished": 1713427200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/531a9ae0-6de1-4d62-a75e-d1101233f8ff.mp3",
+      "duration": 3098
+    },
+    {
+      "uuid": "316f1338-f221-4249-adbc-163c2bf90803",
+      "guid": "514c6703-8b44-4089-959a-9be3fa8213c3",
+      "name": "386: Psalms — The Whole Human Experience",
+      "datePublished": 1712822400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/514c6703-8b44-4089-959a-9be3fa8213c3.mp3",
+      "duration": 2733
+    },
+    {
+      "uuid": "7a1d32b6-3e30-441d-a693-0e0a83ef3991",
+      "guid": "04555aa1-ca0a-4984-8ea2-b8494dfaf5f8",
+      "name": "385: Psalms — Ultimate Mario Star",
+      "datePublished": 1712217600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/04555aa1-ca0a-4984-8ea2-b8494dfaf5f8.mp3",
+      "duration": 2955
+    },
+    {
+      "uuid": "b14f6bb8-cf86-4a89-8618-bcaea6e285d8",
+      "guid": "d4e8c3df-0567-48f2-8c37-6b8009ddcd0f",
+      "name": "384: Derek Vreeland — Centering Jesus",
+      "datePublished": 1711612800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/d4e8c3df-0567-48f2-8c37-6b8009ddcd0f.mp3",
+      "duration": 2992
+    },
+    {
+      "uuid": "fbea87f2-4115-40b3-9cf1-1d63f6867892",
+      "guid": "72e45fd6-5deb-412b-b1ab-36e5a6a23070",
+      "name": "383: Psalms — Praying Hate",
+      "datePublished": 1711008000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/72e45fd6-5deb-412b-b1ab-36e5a6a23070.mp3",
+      "duration": 4249
+    },
+    {
+      "uuid": "97886101-cc7d-441b-a7c5-20ccfcf3fc6f",
+      "guid": "f0a47752-2d8b-40fd-b56a-afad52329059",
+      "name": "382: Psalms — Small, Not Insignificant",
+      "datePublished": 1710403200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f0a47752-2d8b-40fd-b56a-afad52329059.mp3",
+      "duration": 3120
+    },
+    {
+      "uuid": "ce8a60f6-7715-46c3-9a0e-b59f3fb68845",
+      "guid": "962c5d39-1f8a-41ee-835e-ac3cdc042ec0",
+      "name": "381: Psalms — A Sheep in the Mirror",
+      "datePublished": 1709802000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/962c5d39-1f8a-41ee-835e-ac3cdc042ec0.mp3",
+      "duration": 3363
+    },
+    {
+      "uuid": "89d53887-45ff-4f8c-aa89-aca80a728898",
+      "guid": "5ff8f2b1-ff80-46cd-8d72-8d0af0d7e213",
+      "name": "380: Psalms — The Hidden Face",
+      "datePublished": 1709197200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/5ff8f2b1-ff80-46cd-8d72-8d0af0d7e213.mp3",
+      "duration": 3675
+    },
+    {
+      "uuid": "37fb1e27-e470-45bd-a979-1739f419936e",
+      "guid": "2ae7a195-e622-4e2c-affd-f772fd1cb4c1",
+      "name": "379: Psalms — Every Season of Life",
+      "datePublished": 1708592400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/2ae7a195-e622-4e2c-affd-f772fd1cb4c1.mp3",
+      "duration": 3726
+    },
+    {
+      "uuid": "32deb762-80b7-44b3-9dc2-08afcd6adfe3",
+      "guid": "be5cfa34-3579-4499-b9b3-4c56e98fc432",
+      "name": "378: Lea Schrumpf — Entering Our Stories",
+      "datePublished": 1707987600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/be5cfa34-3579-4499-b9b3-4c56e98fc432.mp3",
+      "duration": 3655
+    },
+    {
+      "uuid": "11acb3df-d42d-48f6-8338-778c881ffbd9",
+      "guid": "eaadabc5-662d-43f4-a1f5-21d17f35e72f",
+      "name": "377: Isaiah — The Fruit of Faithfulness",
+      "datePublished": 1707382800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/eaadabc5-662d-43f4-a1f5-21d17f35e72f.mp3",
+      "duration": 4496
+    },
+    {
+      "uuid": "c453ed0f-ab66-40f9-ac79-f8289b038eb4",
+      "guid": "61a69914-a11b-4ad0-846d-ff22f587870e",
+      "name": "376: Isaiah — Maternal Images of God",
+      "datePublished": 1706778000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/61a69914-a11b-4ad0-846d-ff22f587870e.mp3",
+      "duration": 3283
+    },
+    {
+      "uuid": "86f72a5a-c34f-4874-ab4f-54f1f1e8d3d4",
+      "guid": "ded336f5-f24c-4872-9dbc-4bb6cbd57aa1",
+      "name": "375: Isaiah — What Perseverance Produces",
+      "datePublished": 1706173200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ded336f5-f24c-4872-9dbc-4bb6cbd57aa1.mp3",
+      "duration": 2041
+    },
+    {
+      "uuid": "0a74c631-7c8d-4e85-800f-b8b2002a01b6",
+      "guid": "930d7ae3-20c3-4a02-8d5e-facae194004b",
+      "name": "374: Isaiah — When Suffering Is the Way",
+      "datePublished": 1705568400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/930d7ae3-20c3-4a02-8d5e-facae194004b.mp3",
+      "duration": 3328
+    },
+    {
+      "uuid": "c41cfdd4-b275-4b2d-88c2-7e2daa5957a3",
+      "guid": "6ab83fb8-e47d-4aeb-9fa3-26ef1a0184d2",
+      "name": "373: Preston Ulmer — Deconstruct Faith, Discover Jesus",
+      "datePublished": 1704963600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/6ab83fb8-e47d-4aeb-9fa3-26ef1a0184d2.mp3",
+      "duration": 3572
+    },
+    {
+      "uuid": "1f4f4302-4393-437d-8aec-d308fd458afe",
+      "guid": "161a944a-c1e9-41aa-855c-51c9fcf45c1e",
+      "name": "372: Isaiah — History and Redaction",
+      "datePublished": 1704358800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/161a944a-c1e9-41aa-855c-51c9fcf45c1e.mp3",
+      "duration": 4322
+    },
+    {
+      "uuid": "984fa7b4-6ee8-4e53-ae1c-523cc5c60023",
+      "guid": "e470ba14-d4f1-4249-a737-47ae6d7a7af8",
+      "name": "371: Isaiah — The Hulk Factor",
+      "datePublished": 1703149200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/e470ba14-d4f1-4249-a737-47ae6d7a7af8.mp3",
+      "duration": 2005
+    },
+    {
+      "uuid": "bdf210a5-fff1-444d-aab0-68e2675b5038",
+      "guid": "ddb025bd-5b05-4933-835b-cb814ccaacf9",
+      "name": "370: Isaiah — Woes",
+      "datePublished": 1702544400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ddb025bd-5b05-4933-835b-cb814ccaacf9.mp3",
+      "duration": 3246
+    },
+    {
+      "uuid": "a580739a-bae0-41ba-b1a6-4b964ddd2316",
+      "guid": "f69563d8-b3c6-47a8-8e6e-b0b1f42a4030",
+      "name": "369: Isaiah — The Choice Is Yours",
+      "datePublished": 1701939600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f69563d8-b3c6-47a8-8e6e-b0b1f42a4030.mp3",
+      "duration": 2053
+    },
+    {
+      "uuid": "3c8f7a25-c7a2-432b-98e6-fb49cebb700c",
+      "guid": "f1a2ad26-ca3f-44e9-b11c-d92075dd34b7",
+      "name": "368: Elisa Bosley — Spiritual Eldercare",
+      "datePublished": 1701334800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f1a2ad26-ca3f-44e9-b11c-d92075dd34b7.mp3",
+      "duration": 3309
+    },
+    {
+      "uuid": "315f30b3-cfb4-48db-9e5f-af2697adf197",
+      "guid": "4f89fe58-f96e-4aa6-a111-975e9ad7de4e",
+      "name": "367: Isaiah — Burdens",
+      "datePublished": 1700125200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/4f89fe58-f96e-4aa6-a111-975e9ad7de4e.mp3",
+      "duration": 2831
+    },
+    {
+      "uuid": "a8f08445-df77-4465-a550-c5e78fcbc64f",
+      "guid": "fe921f87-5bd4-4f5f-91dd-688fb627e1b8",
+      "name": "366: Isaiah — Let the Man Cook!",
+      "datePublished": 1699520400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/fe921f87-5bd4-4f5f-91dd-688fb627e1b8.mp3",
+      "duration": 3171
+    },
+    {
+      "uuid": "0d2a3380-0bf6-4b89-b404-338c67f21de2",
+      "guid": "f7a2bbea-16c3-4e86-8fc0-9848e4137090",
+      "name": "365: Isaiah — Prophet vs. Wizard Priests",
+      "datePublished": 1698912000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f7a2bbea-16c3-4e86-8fc0-9848e4137090.mp3",
+      "duration": 3676
+    },
+    {
+      "uuid": "a364e1ea-9cf1-4242-b492-6b6d1fdfc0b5",
+      "guid": "0a55c749-5cd9-42f2-95a9-ad8c7ee9912d",
+      "name": "364: Isaiah — Opening Provocations",
+      "datePublished": 1698307200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/0a55c749-5cd9-42f2-95a9-ad8c7ee9912d.mp3",
+      "duration": 3212
+    },
+    {
+      "uuid": "94f6d2bd-ee53-4917-a80c-b4c01a3257d6",
+      "guid": "20331a07-ee21-4274-b1d8-810b050f6ad4",
+      "name": "363: Isaiah — Prophetic Imagination",
+      "datePublished": 1697702400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/20331a07-ee21-4274-b1d8-810b050f6ad4.mp3",
+      "duration": 3004
+    },
+    {
+      "uuid": "c88c6976-7b8c-4d0a-8f70-ad7e07e9bcad",
+      "guid": "11f93c23-f4d9-4167-9d50-e29838cd135e",
+      "name": "362: Isaiah — Prophetic Pathos",
+      "datePublished": 1697097600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/11f93c23-f4d9-4167-9d50-e29838cd135e.mp3",
+      "duration": 3378
+    },
+    {
+      "uuid": "d2137dc7-6b00-4db4-8b77-22a080ddac18",
+      "guid": "c56de38d-9216-4e9a-ac16-525fb15b1374",
+      "name": "361: Session 8 Intro",
+      "datePublished": 1696492800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/c56de38d-9216-4e9a-ac16-525fb15b1374.mp3",
+      "duration": 2955
+    },
+    {
+      "uuid": "81e7fba4-a74d-4929-af13-3e09249bed3f",
+      "guid": "44981f06-0f75-490e-865c-61f1647e8a33",
+      "name": "360: Session 7 Capstone",
+      "datePublished": 1695888000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/44981f06-0f75-490e-865c-61f1647e8a33.mp3",
+      "duration": 1950
+    },
+    {
+      "uuid": "11e26575-2474-4362-aeba-df29e0abbfb2",
+      "guid": "4e6cfe46-6560-400b-bbd4-a59dc79ff8ce",
+      "name": "359: Dallas Jenkins — Humanity and Historicity (Bonus Episode)",
+      "datePublished": 1695628800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/4e6cfe46-6560-400b-bbd4-a59dc79ff8ce.mp3",
+      "duration": 4744
+    },
+    {
+      "uuid": "33310863-7c66-4c1c-b16b-f487ef9defe1",
+      "guid": "5eb4c387-51de-4064-adf1-323eebe51d0a",
+      "name": "358: Sabbath Practice — Prayer",
+      "datePublished": 1695283200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/5eb4c387-51de-4064-adf1-323eebe51d0a.mp3",
+      "duration": 3462
+    },
+    {
+      "uuid": "0efacf00-b74b-4ab6-92b9-2837d6753496",
+      "guid": "d72ee77e-2c37-4449-94a6-ec2369916b9b",
+      "name": "357: Sabbath Practice — Fasting",
+      "datePublished": 1694678400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/d72ee77e-2c37-4449-94a6-ec2369916b9b.mp3",
+      "duration": 3594
+    },
+    {
+      "uuid": "23b65538-50c4-429d-a664-55a391239b7d",
+      "guid": "8c02b3ab-84b5-4ff0-b0c0-9e3fc54a20b6",
+      "name": "356: Sabbath Practice — Friendship w/ Derrick James Rohr III",
+      "datePublished": 1694073600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/8c02b3ab-84b5-4ff0-b0c0-9e3fc54a20b6.mp3",
+      "duration": 2954
+    },
+    {
+      "uuid": "6fd90637-f0a0-4ebb-9b9c-79b4eb7eb790",
+      "guid": "88e1ee2d-f874-4d87-8268-a18eb6e5d05c",
+      "name": "355: Sabbath Practice — Discipline",
+      "datePublished": 1693468800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/88e1ee2d-f874-4d87-8268-a18eb6e5d05c.mp3",
+      "duration": 2891
+    },
+    {
+      "uuid": "81e83309-194f-46c6-9cf1-06cee4b15946",
+      "guid": "23f63f43-a39f-48ff-8973-2d9199fa77cd",
+      "name": "354: Sabbath Practice — Flow",
+      "datePublished": 1692864000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/23f63f43-a39f-48ff-8973-2d9199fa77cd.mp3",
+      "duration": 4251
+    },
+    {
+      "uuid": "74138450-1e35-487e-bcce-cea83562c4ff",
+      "guid": "31dce880-a613-4a56-b6f7-e87a955fcfe7",
+      "name": "353: Sabbath Practice — Heart",
+      "datePublished": 1692259200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/31dce880-a613-4a56-b6f7-e87a955fcfe7.mp3",
+      "duration": 3060
+    },
+    {
+      "uuid": "16c8e820-de6c-4afb-8d64-07c78cb2b043",
+      "guid": "a1a92426-d28a-43b1-857a-c29240a99a71",
+      "name": "352: Sabbath Practice — Attentiveness",
+      "datePublished": 1691654400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/a1a92426-d28a-43b1-857a-c29240a99a71.mp3",
+      "duration": 3412
+    },
+    {
+      "uuid": "69ad8016-6851-4022-a965-6481da7fa9f0",
+      "guid": "69f21ef2-99d4-46c4-8cac-60dc792e9817",
+      "name": "351: Sabbath Reflection Music (Bonus Episode)",
+      "datePublished": 1691395200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/69f21ef2-99d4-46c4-8cac-60dc792e9817.mp3",
+      "duration": 9280
+    },
+    {
+      "uuid": "d5d28c9f-35d4-4395-983e-c15724f1a8d2",
+      "guid": "ae97d42d-bcd8-45b2-b4f1-a2f327207771",
+      "name": "350: Kat Armstrong — Storyline Bible",
+      "datePublished": 1691049600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ae97d42d-bcd8-45b2-b4f1-a2f327207771.mp3",
+      "duration": 2852
+    },
+    {
+      "uuid": "8afe9104-f4ac-484c-aad9-a88a291dd612",
+      "guid": "56a3ccfa-f0d9-4122-976e-91c605e93399",
+      "name": "349: The Chosen S3E8 — “Sustenance” (Bonus Episode)",
+      "datePublished": 1690790400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/56a3ccfa-f0d9-4122-976e-91c605e93399.mp3",
+      "duration": 3185
+    },
+    {
+      "uuid": "68b3505b-2aa1-4b63-9cb4-304bf7963aad",
+      "guid": "0b9ee128-af92-424f-96a1-de7d4326e4b6",
+      "name": "348: Sabbath Reflection VII — Trust",
+      "datePublished": 1690444800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/0b9ee128-af92-424f-96a1-de7d4326e4b6.mp3",
+      "duration": 2130
+    },
+    {
+      "uuid": "066ead52-bec8-4d23-9df7-364749eb72b2",
+      "guid": "ae9c5a5d-edaf-4031-afad-440caf959954",
+      "name": "347: The Chosen S3E7 — “Ears to Hear” (Bonus Episode)",
+      "datePublished": 1690185600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ae9c5a5d-edaf-4031-afad-440caf959954.mp3",
+      "duration": 2958
+    },
+    {
+      "uuid": "185f9bbd-8ee2-494e-abc0-7354bd950f0d",
+      "guid": "53c551d7-a3a9-4654-ad51-ef701cde6b04",
+      "name": "346: Sabbath Reflection VI — Wonder",
+      "datePublished": 1689840000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/53c551d7-a3a9-4654-ad51-ef701cde6b04.mp3",
+      "duration": 3062
+    },
+    {
+      "uuid": "ee6ef5f1-ee8a-442b-b421-831b63e4df9e",
+      "guid": "ec648364-d4d4-427f-8697-24fbd339d11c",
+      "name": "345: The Chosen S3E6 — “Intensity in Tent City” (Bonus Episode)",
+      "datePublished": 1689580800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ec648364-d4d4-427f-8697-24fbd339d11c.mp3",
+      "duration": 2958
+    },
+    {
+      "uuid": "ca75f033-8bee-4145-91ad-d213dfa77c4d",
+      "guid": "af37cfa8-9a35-4ab4-b204-edb8c85e74b0",
+      "name": "344: Sabbath Reflection V — Place",
+      "datePublished": 1689235200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/af37cfa8-9a35-4ab4-b204-edb8c85e74b0.mp3",
+      "duration": 2787
+    },
+    {
+      "uuid": "e11c6f06-2081-42f7-948b-bfec16060ca4",
+      "guid": "6aa4c136-3604-4c64-beb4-b48ff7195e1b",
+      "name": "343: The Chosen S3E5 — “Clean, Part 2” (Bonus Episode)",
+      "datePublished": 1688976000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/6aa4c136-3604-4c64-beb4-b48ff7195e1b.mp3",
+      "duration": 2651
+    },
+    {
+      "uuid": "b7b5348e-1497-4f0a-9265-befebca6e372",
+      "guid": "6e692b40-0be7-4370-ba57-308623fcc282",
+      "name": "342: Sabbath Reflection IV — Teaching",
+      "datePublished": 1688630400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/6e692b40-0be7-4370-ba57-308623fcc282.mp3",
+      "duration": 2693
+    },
+    {
+      "uuid": "9184be0b-f8d2-4aa0-8640-a8b644ea63c0",
+      "guid": "d4cd11dc-f411-4d74-9f2e-6346bcdbe0b9",
+      "name": "341: The Chosen S3E4 — “Clean, Part 1” (Bonus Episode)",
+      "datePublished": 1688371200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/d4cd11dc-f411-4d74-9f2e-6346bcdbe0b9.mp3",
+      "duration": 2355
+    },
+    {
+      "uuid": "eed78014-db45-4c0a-abe1-84cdb7c9584a",
+      "guid": "82676f1f-51d1-4d8a-b437-0eada8540e4d",
+      "name": "340: Sabbath Reflection III — Community",
+      "datePublished": 1688025600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/82676f1f-51d1-4d8a-b437-0eada8540e4d.mp3",
+      "duration": 2084
+    },
+    {
+      "uuid": "a1564403-eeed-437b-bd5f-58a8daf853bf",
+      "guid": "8262ea83-c4f5-4f4a-bd13-436d87ff7510",
+      "name": "339: The Chosen S3E3 — “Physician, Heal Yourself” (Bonus Episode)",
+      "datePublished": 1687766400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/8262ea83-c4f5-4f4a-bd13-436d87ff7510.mp3",
+      "duration": 3006
+    },
+    {
+      "uuid": "f95880b5-3d6b-4d08-a248-47416c2eec85",
+      "guid": "541d8372-02ac-4cc2-866c-618211e76f62",
+      "name": "338: Sabbath Reflection II — Love",
+      "datePublished": 1687420800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/541d8372-02ac-4cc2-866c-618211e76f62.mp3",
+      "duration": 1990
+    },
+    {
+      "uuid": "d90bb562-3172-4bff-9c27-0057dff11627",
+      "guid": "3185cb65-b309-42f6-be39-15e0e2178eff",
+      "name": "337: The Chosen S3E2 — “Two by Two” (Bonus Episode)",
+      "datePublished": 1687161600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/3185cb65-b309-42f6-be39-15e0e2178eff.mp3",
+      "duration": 2701
+    },
+    {
+      "uuid": "cc8a8577-ff21-4d60-a88f-585eb0de9d3a",
+      "guid": "000d5632-3933-45cd-b19f-7beff6417101",
+      "name": "336: Sabbath Reflection I — Truth",
+      "datePublished": 1686816000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/000d5632-3933-45cd-b19f-7beff6417101.mp3",
+      "duration": 2006
+    },
+    {
+      "uuid": "a5af23b1-b7a0-4f6e-903f-60c73668ef25",
+      "guid": "f32a5935-3d90-406a-9cc9-79ac624969ca",
+      "name": "335: The Chosen S3E1 — “Homecoming” (Bonus Episode)",
+      "datePublished": 1686556800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f32a5935-3d90-406a-9cc9-79ac624969ca.mp3",
+      "duration": 3091
+    },
+    {
+      "uuid": "7316d464-dec7-4ea8-86c4-297b86b8d580",
+      "guid": "b78fdbd4-929c-4ff1-b208-556e49c824ce",
+      "name": "334: Session 7 Intro",
+      "datePublished": 1686211200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/b78fdbd4-929c-4ff1-b208-556e49c824ce.mp3",
+      "duration": 1857
+    },
+    {
+      "uuid": "5ef1c343-03f2-4415-af64-32281725810c",
+      "guid": "7ae298c2-be1b-4327-93f4-17c89ad34ebf",
+      "name": "333: Session 6 Capstone",
+      "datePublished": 1685606400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/7ae298c2-be1b-4327-93f4-17c89ad34ebf.mp3",
+      "duration": 2891
+    },
+    {
+      "uuid": "537bdc57-61b0-49e4-b33d-d9132ede4d49",
+      "guid": "6c7a5701-1d98-49af-8b6d-e3bff7830af2",
+      "name": "332: Andrew DeCort — Flourishing on the Edge of Faith",
+      "datePublished": 1685001600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/6c7a5701-1d98-49af-8b6d-e3bff7830af2.mp3",
+      "duration": 3297
+    },
+    {
+      "uuid": "df9e0bc9-3a4d-4747-8808-ef2e916bbcac",
+      "guid": "10733475-7427-4a1c-939e-0c84176a8088",
+      "name": "331: Sanctuary — Resting with the Mishkan",
+      "datePublished": 1684396800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/10733475-7427-4a1c-939e-0c84176a8088.mp3",
+      "duration": 6429
+    },
+    {
+      "uuid": "05ae1d55-7c80-463e-b981-44699a48dd47",
+      "guid": "845e528b-6dd1-4279-b7e0-28576ec6ebad",
+      "name": "330: Sanctuary — Traversing the Mishkan",
+      "datePublished": 1683792000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/845e528b-6dd1-4279-b7e0-28576ec6ebad.mp3",
+      "duration": 7090
+    },
+    {
+      "uuid": "4b890060-f1a8-4e5b-ad81-2204037c17f2",
+      "guid": "1c333fd8-6914-46ac-a016-6737f5744f53",
+      "name": "329: Sanctuary — Moving the Mishkan",
+      "datePublished": 1683187200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/1c333fd8-6914-46ac-a016-6737f5744f53.mp3",
+      "duration": 6041
+    },
+    {
+      "uuid": "d50f4aa8-689b-4f5f-a8f2-0d965532c46e",
+      "guid": "77f22040-160b-400b-8a36-f1aa7e31720a",
+      "name": "328: Sanctuary — Listening by the Mishkan",
+      "datePublished": 1682582400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/77f22040-160b-400b-8a36-f1aa7e31720a.mp3",
+      "duration": 7254
+    },
+    {
+      "uuid": "f6491e8a-2cf0-4676-bbe3-064c818fbc3c",
+      "guid": "655f6880-1916-4548-ac0d-a832dc1f7f94",
+      "name": "327: Sanctuary — Feasting at the Mishkan",
+      "datePublished": 1681977600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/655f6880-1916-4548-ac0d-a832dc1f7f94.mp3",
+      "duration": 5383
+    },
+    {
+      "uuid": "07d477a1-a616-42bd-ad56-4c22001d83a1",
+      "guid": "044d54ac-3220-4579-8331-90a16ebd80a6",
+      "name": "326: Sanctuary — Entering the Mishkan",
+      "datePublished": 1681372800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/044d54ac-3220-4579-8331-90a16ebd80a6.mp3",
+      "duration": 4313
+    },
+    {
+      "uuid": "4c66904b-3dbc-48b9-9ce2-269b4ee9f903",
+      "guid": "ca9b6c45-08e9-4431-a07d-b0eeda440079",
+      "name": "325: Sanctuary — Waking Up in the Mishkan",
+      "datePublished": 1680768000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ca9b6c45-08e9-4431-a07d-b0eeda440079.mp3",
+      "duration": 4598
+    },
+    {
+      "uuid": "5c2de018-44c3-4752-960b-79e8a6f4f94f",
+      "guid": "88a3af5e-2ce1-49ac-817c-a9391978de42",
+      "name": "324: Anita Grace Brown — Finding Christ in Yoga",
+      "datePublished": 1680163200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/88a3af5e-2ce1-49ac-817c-a9391978de42.mp3",
+      "duration": 2643
+    },
+    {
+      "uuid": "81ef6498-c8da-4ac5-84a0-019c38a83999",
+      "guid": "a26eeeaf-358c-420e-98ee-d09211eceb5c",
+      "name": "323: The Forgotten Women of the Apocalypse",
+      "datePublished": 1679558400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/a26eeeaf-358c-420e-98ee-d09211eceb5c.mp3",
+      "duration": 3657
+    },
+    {
+      "uuid": "c1a36a70-f3e6-4270-872b-bdd6b1d3a15c",
+      "guid": "87225acc-8745-452e-b4b9-7094133b0f94",
+      "name": "322: The Forgotten Women of the New Testament",
+      "datePublished": 1678953600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/87225acc-8745-452e-b4b9-7094133b0f94.mp3",
+      "duration": 3444
+    },
+    {
+      "uuid": "0761c4b0-ff59-4cdf-b877-b06d6b1a62a7",
+      "guid": "103b3048-48a2-4780-be53-d7490b252949",
+      "name": "321: The Forgotten Women of the Tanakh",
+      "datePublished": 1678352400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/103b3048-48a2-4780-be53-d7490b252949.mp3",
+      "duration": 3940
+    },
+    {
+      "uuid": "8a6b309c-8742-41b8-aca4-33b7131478c7",
+      "guid": "ca126a9e-bb26-4ede-8751-4dd9fc93626b",
+      "name": "320: The Forgotten Women — Sages and Wise Women",
+      "datePublished": 1677747600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ca126a9e-bb26-4ede-8751-4dd9fc93626b.mp3",
+      "duration": 2841
+    },
+    {
+      "uuid": "c2da46f3-16c9-4475-87de-8b44937f9c90",
+      "guid": "ed062159-ece8-48ad-82bc-9dd68ac7aa80",
+      "name": "319: The Forgotten Women — Presentism and Primitivism",
+      "datePublished": 1677142800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ed062159-ece8-48ad-82bc-9dd68ac7aa80.mp3",
+      "duration": 2803
+    },
+    {
+      "uuid": "9adbb89e-bac4-4cb4-8e56-de4499a68e68",
+      "guid": "c98ecdde-6d70-4255-9ea0-a499f64907b1",
+      "name": "318: Alonzo Felder — Discovering A. S. J. Allen",
+      "datePublished": 1676538000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/c98ecdde-6d70-4255-9ea0-a499f64907b1.mp3",
+      "duration": 4005
+    },
+    {
+      "uuid": "30780681-3e43-49f7-b265-9ec9351f2c6f",
+      "guid": "f0e5e655-d4ba-4826-b45f-09072c6c4c21",
+      "name": "317: Asking Better Questions of the Bible w/ Erin Geiselman",
+      "datePublished": 1675933200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f0e5e655-d4ba-4826-b45f-09072c6c4c21.mp3",
+      "duration": 4116
+    },
+    {
+      "uuid": "976382dd-f307-4e0a-b9b3-832e933e94de",
+      "guid": "66eee542-bfa6-4856-b107-745f9cf4c205",
+      "name": "316: Parables — The Unforgiving Servant",
+      "datePublished": 1675328400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/66eee542-bfa6-4856-b107-745f9cf4c205.mp3",
+      "duration": 4482
+    },
+    {
+      "uuid": "54c63a36-7ca5-48c3-8a0e-07c87dc627f1",
+      "guid": "bc26d93d-1283-4513-a0b5-32e1b3b73d9e",
+      "name": "315: Parables — The Lost Son",
+      "datePublished": 1674723600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/bc26d93d-1283-4513-a0b5-32e1b3b73d9e.mp3",
+      "duration": 4478
+    },
+    {
+      "uuid": "19178520-334d-4906-950b-84812e160223",
+      "guid": "8eaaba2e-b712-4b0a-b2bc-64486e43efcd",
+      "name": "314: Parables — The Barn Builder",
+      "datePublished": 1674118800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/8eaaba2e-b712-4b0a-b2bc-64486e43efcd.mp3",
+      "duration": 2956
+    },
+    {
+      "uuid": "fc5c00c2-2f49-4ae7-8be3-e72ff2ace444",
+      "guid": "4c5cf0f8-cc6e-4278-9d3d-3cc620407eb4",
+      "name": "313: Parables — The Good Samaritan",
+      "datePublished": 1673514000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/4c5cf0f8-cc6e-4278-9d3d-3cc620407eb4.mp3",
+      "duration": 5009
+    },
+    {
+      "uuid": "e9318136-6600-4d26-9ba2-536a8ea7611d",
+      "guid": "b3043c03-21a8-4af6-a5ee-6890bdfc2188",
+      "name": "312: Parables — Dissecting a Swallow",
+      "datePublished": 1672909200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/b3043c03-21a8-4af6-a5ee-6890bdfc2188.mp3",
+      "duration": 4176
+    },
+    {
+      "uuid": "e7cce178-cf8f-473b-9b55-7bf2910cc739",
+      "guid": "9a0fceb4-d8d7-4c77-86b0-6a153c129d61",
+      "name": "311: Keith Simon — Truth Over Tribe",
+      "datePublished": 1672304400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/9a0fceb4-d8d7-4c77-86b0-6a153c129d61.mp3",
+      "duration": 2937
+    },
+    {
+      "uuid": "5e704926-3004-4c56-b476-7a831d180257",
+      "guid": "ca0e8e36-1192-4eac-ba62-420fa08c5957",
+      "name": "310: The Nativity Story",
+      "datePublished": 1671699600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ca0e8e36-1192-4eac-ba62-420fa08c5957.mp3",
+      "duration": 2813
+    },
+    {
+      "uuid": "b1f0660c-5226-4ca9-bd91-4c88a631f8e4",
+      "guid": "fb3fd055-6e10-4054-a38d-272ab1a0728f",
+      "name": "309: On Social Media (Bonus Episode)",
+      "datePublished": 1671440400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/fb3fd055-6e10-4054-a38d-272ab1a0728f.mp3",
+      "duration": 2340
+    },
+    {
+      "uuid": "0520abf7-c945-43e3-be78-94d13bd0629b",
+      "guid": "b5d63136-59f7-43b0-a069-2b2b64a6f11f",
+      "name": "308: The Chosen S2E9 — “The Messengers”",
+      "datePublished": 1671094800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/b5d63136-59f7-43b0-a069-2b2b64a6f11f.mp3",
+      "duration": 3000
+    },
+    {
+      "uuid": "d9ff9a7b-b16b-475e-971a-ee6020bb6b83",
+      "guid": "44c0fade-5259-4d64-8744-6adc54b671a6",
+      "name": "307: Tohu va Vohu (State of the Podcast)",
+      "datePublished": 1670490000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/44c0fade-5259-4d64-8744-6adc54b671a6.mp3",
+      "duration": 3831
+    },
+    {
+      "uuid": "d9f0af14-308c-40cd-9282-9e0bca1dc093",
+      "guid": "ff919823-24bf-4bb4-a564-e97cc8c7827f",
+      "name": "306: Brian David — Chiasms in John",
+      "datePublished": 1669885200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ff919823-24bf-4bb4-a564-e97cc8c7827f.mp3",
+      "duration": 3589
+    },
+    {
+      "uuid": "71d17491-9145-4a5b-bc86-38789640b2f0",
+      "guid": "88e8cbe6-38ef-4501-88e4-ad4d52aaffd6",
+      "name": "305: Gary Burge — Interpreting the Gospel of John",
+      "datePublished": 1668675600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/88e8cbe6-38ef-4501-88e4-ad4d52aaffd6.mp3",
+      "duration": 3854
+    },
+    {
+      "uuid": "0ae2ad24-fe8e-4868-80ce-4475fd433066",
+      "guid": "06eba72a-6ed4-4669-80ff-70e00bc8cfce",
+      "name": "304: The Construction of the Gospel of John",
+      "datePublished": 1668070800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/06eba72a-6ed4-4669-80ff-70e00bc8cfce.mp3",
+      "duration": 2764
+    },
+    {
+      "uuid": "13b558c8-4c28-497f-a48c-d9e9fe0c66f2",
+      "guid": "7a0e22ac-02c4-4d8c-9a06-56d9a14a34d2",
+      "name": "303: The History and Style of the Gospel of John",
+      "datePublished": 1667462400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/7a0e22ac-02c4-4d8c-9a06-56d9a14a34d2.mp3",
+      "duration": 2808
+    },
+    {
+      "uuid": "980d7a2a-a634-42f8-9955-2ebb03e514ac",
+      "guid": "fbe36286-6c8d-433e-b167-1e16f047ae0a",
+      "name": "302: John — Do You Even Like Me?",
+      "datePublished": 1666857600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/fbe36286-6c8d-433e-b167-1e16f047ae0a.mp3",
+      "duration": 2505
+    },
+    {
+      "uuid": "676da837-67dc-4739-9376-615f5c51d1d3",
+      "guid": "3cad4269-1e6a-489e-9cc7-a0aed07ab9e1",
+      "name": "301: John — On Doubting and Locked Doors",
+      "datePublished": 1666252800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/3cad4269-1e6a-489e-9cc7-a0aed07ab9e1.mp3",
+      "duration": 4362
+    },
+    {
+      "uuid": "5a3201e1-9460-434f-a1e4-ab6e31eaaded",
+      "guid": "911c90ca-29ec-4942-b648-13071635e833",
+      "name": "300: John — The Migdal",
+      "datePublished": 1665648000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/911c90ca-29ec-4942-b648-13071635e833.mp3",
+      "duration": 4558
+    },
+    {
+      "uuid": "8cbcf747-1597-4bd2-83cb-28a8633338e5",
+      "guid": "1d01b343-8424-49b6-8bbf-21507445ddd6",
+      "name": "299: John — One Pierced",
+      "datePublished": 1665043200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/1d01b343-8424-49b6-8bbf-21507445ddd6.mp3",
+      "duration": 1799
+    },
+    {
+      "uuid": "e04da0ba-af81-4840-9f84-c1254bd0cd4d",
+      "guid": "690367ad-548e-442d-a028-2bcdfcbe8fbf",
+      "name": "298: John — Not Forsaken",
+      "datePublished": 1664438400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/690367ad-548e-442d-a028-2bcdfcbe8fbf.mp3",
+      "duration": 2585
+    },
+    {
+      "uuid": "52f66bf8-ba1a-4922-bc38-a2229192ea88",
+      "guid": "079b29f9-c515-4478-9d69-d551f2f0d9b2",
+      "name": "297: Kat Armas — Abuelita Faith",
+      "datePublished": 1663833600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/079b29f9-c515-4478-9d69-d551f2f0d9b2.mp3",
+      "duration": 2854
+    },
+    {
+      "uuid": "9892255c-81fd-41b8-92f3-3494354a56c3",
+      "guid": "5b845138-8563-4c42-b2dd-85c956100ea9",
+      "name": "296: John — I Am He",
+      "datePublished": 1663228800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/5b845138-8563-4c42-b2dd-85c956100ea9.mp3",
+      "duration": 2731
+    },
+    {
+      "uuid": "3e644827-e84d-438d-94f1-2f7f0413bbfd",
+      "guid": "11755ba9-9184-4ee7-9084-733b3f5797ef",
+      "name": "295: John — Strategy",
+      "datePublished": 1662624000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/11755ba9-9184-4ee7-9084-733b3f5797ef.mp3",
+      "duration": 2477
+    },
+    {
+      "uuid": "5c55173c-4693-40cf-835c-bdd1e0608ff1",
+      "guid": "c8da6b58-5885-4c38-8251-66f0ce400896",
+      "name": "294: John — Sacrifice, Suffering, and Joy",
+      "datePublished": 1662019200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/c8da6b58-5885-4c38-8251-66f0ce400896.mp3",
+      "duration": 4200
+    },
+    {
+      "uuid": "bdf06bf8-b653-431b-98e5-c429ce69c226",
+      "guid": "a0f88e2a-25ad-4c18-8d02-6a6cf93d5a12",
+      "name": "293: John — Sin, Righteousness, Judgment",
+      "datePublished": 1661414400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/a0f88e2a-25ad-4c18-8d02-6a6cf93d5a12.mp3",
+      "duration": 2049
+    },
+    {
+      "uuid": "ebfcf151-861a-426d-bbd1-167390783c60",
+      "guid": "0b7e7fdc-769b-4c70-8fdd-33c7ed67b8b8",
+      "name": "292: John — The Pruning Work of Persecution",
+      "datePublished": 1660809600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/0b7e7fdc-769b-4c70-8fdd-33c7ed67b8b8.mp3",
+      "duration": 2907
+    },
+    {
+      "uuid": "d43e58c5-a6bd-434b-9308-7ff5414be3bf",
+      "guid": "b66edc5c-10f2-45eb-9708-cc2e49063920",
+      "name": "291: John — Parakletos",
+      "datePublished": 1660204800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/b66edc5c-10f2-45eb-9708-cc2e49063920.mp3",
+      "duration": 2281
+    },
+    {
+      "uuid": "6cf54d2c-46f3-4905-b511-9e9c8d44a683",
+      "guid": "5eafd44a-cdbe-4a0d-a686-e12c0fbd59b6",
+      "name": "290: John — This Is the Way",
+      "datePublished": 1659600000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/5eafd44a-cdbe-4a0d-a686-e12c0fbd59b6.mp3",
+      "duration": 2890
+    },
+    {
+      "uuid": "9d47f95d-fbff-4a69-b4a3-66e710390a7f",
+      "guid": "63700546-27b2-448e-83b8-2895ac9bcde5",
+      "name": "289: John — Loved to the End",
+      "datePublished": 1658995200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/63700546-27b2-448e-83b8-2895ac9bcde5.mp3",
+      "duration": 2167
+    },
+    {
+      "uuid": "5f18911d-2b28-424f-b8fb-ee49266677cf",
+      "guid": "62c62af2-b35a-49e6-a3bc-de920171cf66",
+      "name": "288: Steve Park — Little Lights",
+      "datePublished": 1658390400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/62c62af2-b35a-49e6-a3bc-de920171cf66.mp3",
+      "duration": 3751
+    },
+    {
+      "uuid": "13e61c4b-f614-4252-9918-e9eb464858d6",
+      "guid": "5a1323de-10d6-4354-a92b-3985631d8309",
+      "name": "287: John — The Test of Meat",
+      "datePublished": 1657785600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/5a1323de-10d6-4354-a92b-3985631d8309.mp3",
+      "duration": 4102
+    },
+    {
+      "uuid": "47db11fb-21ea-4739-b1d6-b3272189e2af",
+      "guid": "6401d9bf-5f1c-4165-93b8-811179e12741",
+      "name": "286: John — The Test of Bread",
+      "datePublished": 1657180800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/6401d9bf-5f1c-4165-93b8-811179e12741.mp3",
+      "duration": 3012
+    },
+    {
+      "uuid": "b674dc15-a0fa-426e-a4a2-8a969057480e",
+      "guid": "c5caf314-f2ef-4e37-9091-b6a2440cc06f",
+      "name": "285: John — Book of Signs",
+      "datePublished": 1656576000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/c5caf314-f2ef-4e37-9091-b6a2440cc06f.mp3",
+      "duration": 2050
+    },
+    {
+      "uuid": "a45efc43-3ac3-402e-8644-7d6020cf1f09",
+      "guid": "10b21ea2-b96c-45be-9f12-f20358e2144f",
+      "name": "284: John — The Hour Has Come",
+      "datePublished": 1655971200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/10b21ea2-b96c-45be-9f12-f20358e2144f.mp3",
+      "duration": 2025
+    },
+    {
+      "uuid": "9c06498d-1dd1-49fa-beeb-121f27237218",
+      "guid": "258ae715-dad7-432b-b1a5-72cd82bb8ba3",
+      "name": "283: John — Missing God in the Name of God",
+      "datePublished": 1655366400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/258ae715-dad7-432b-b1a5-72cd82bb8ba3.mp3",
+      "duration": 2276
+    },
+    {
+      "uuid": "d49c7458-e201-4bac-8ee7-92f5b68e4fab",
+      "guid": "5075f994-05b0-48c8-bb91-b5fb82313fb0",
+      "name": "282: John — The Dance of Grief",
+      "datePublished": 1654761600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/5075f994-05b0-48c8-bb91-b5fb82313fb0.mp3",
+      "duration": 4948
+    },
+    {
+      "uuid": "401ebb73-11f0-4cc9-8418-f6f664a7c5b0",
+      "guid": "46445a86-fcc9-4d45-af97-cdb92c580032",
+      "name": "281: John — You Are Gods",
+      "datePublished": 1654156800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/46445a86-fcc9-4d45-af97-cdb92c580032.mp3",
+      "duration": 3275
+    },
+    {
+      "uuid": "fd3724ac-bdf0-443b-b090-fce20b64b8d5",
+      "guid": "5e578f6a-7797-4b4e-9e26-be5c09eece49",
+      "name": "280: The Road Back to Eden",
+      "datePublished": 1653552000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/5e578f6a-7797-4b4e-9e26-be5c09eece49.mp3",
+      "duration": 2760
+    },
+    {
+      "uuid": "f5360fe1-96a7-48ed-be76-0d90a7a30712",
+      "guid": "26b51d06-f77e-43ec-9890-88b7361c34be",
+      "name": "279: John — My Sheep, My Voice",
+      "datePublished": 1652947200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/26b51d06-f77e-43ec-9890-88b7361c34be.mp3",
+      "duration": 2214
+    },
+    {
+      "uuid": "f0ec8d3b-cb57-4b5e-9897-4827029ac2f8",
+      "guid": "110975ca-6cba-408e-b93d-164b9f170943",
+      "name": "278: John — Only the Blind Can See",
+      "datePublished": 1652342400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/110975ca-6cba-408e-b93d-164b9f170943.mp3",
+      "duration": 2759
+    },
+    {
+      "uuid": "0eeaec6f-ddd2-4ab5-8117-a709844dbaef",
+      "guid": "b69d9f9e-94a6-4e87-af6b-bcd1d2f61aaa",
+      "name": "277: John — Before Abraham Was",
+      "datePublished": 1651737600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/b69d9f9e-94a6-4e87-af6b-bcd1d2f61aaa.mp3",
+      "duration": 1773
+    },
+    {
+      "uuid": "9230d6cc-aa79-44c0-97d4-17149c14ac4e",
+      "guid": "8fc2c3a8-4a2f-46a7-9197-e553eae2bcf4",
+      "name": "276: John — Who Is Your Father?",
+      "datePublished": 1651132800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/8fc2c3a8-4a2f-46a7-9197-e553eae2bcf4.mp3",
+      "duration": 3142
+    },
+    {
+      "uuid": "09176372-4f6d-48ff-a623-a56dbc0503df",
+      "guid": "8d78ec08-f451-4122-96bb-c51617d56dfa",
+      "name": "275: Kate Schmidgall — BitterSweet",
+      "datePublished": 1650528000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/8d78ec08-f451-4122-96bb-c51617d56dfa.mp3",
+      "duration": 2958
+    },
+    {
+      "uuid": "e129ab9d-1992-4867-a49d-f695ee422100",
+      "guid": "e1b66460-8270-4778-9cd0-7a3a70447060",
+      "name": "274: John — Light of the World",
+      "datePublished": 1649923200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/e1b66460-8270-4778-9cd0-7a3a70447060.mp3",
+      "duration": 2054
+    },
+    {
+      "uuid": "8e6659c1-796c-4404-a056-999d7a28e7ee",
+      "guid": "e739686c-66d9-4471-868e-3d4bd731c020",
+      "name": "273: John — Pericope of an Honor Contest",
+      "datePublished": 1649318400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/e739686c-66d9-4471-868e-3d4bd731c020.mp3",
+      "duration": 3094
+    },
+    {
+      "uuid": "d7f9b4a5-969f-4864-9cf4-a3f437200d30",
+      "guid": "1a3b8c5a-0336-4af6-a1b1-ca177daaa32a",
+      "name": "272: The Chosen S2E8 — “Beyond Mountains” (Bonus Episode)",
+      "datePublished": 1649059200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/1a3b8c5a-0336-4af6-a1b1-ca177daaa32a.mp3",
+      "duration": 2538
+    },
+    {
+      "uuid": "d33a95eb-283b-468c-9e44-365c9498b281",
+      "guid": "9eb8d689-5019-4220-85d8-dc1ab8a9f724",
+      "name": "271: John — The Greatest Day of the Feast",
+      "datePublished": 1648713600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/9eb8d689-5019-4220-85d8-dc1ab8a9f724.mp3",
+      "duration": 2728
+    },
+    {
+      "uuid": "8e83af21-0661-41c4-979d-b2937e474ab9",
+      "guid": "de290e23-0c4f-4502-b68f-3095d68a0a83",
+      "name": "270: The Chosen S2E7 — “Reckoning” (Bonus Episode)",
+      "datePublished": 1648454400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/de290e23-0c4f-4502-b68f-3095d68a0a83.mp3",
+      "duration": 2570
+    },
+    {
+      "uuid": "c69c275a-306f-44c6-ae66-948242aff865",
+      "guid": "51e04eae-dcbd-42b0-9d7a-82a34b6a0a80",
+      "name": "269: John — Any Time Will Do",
+      "datePublished": 1648108800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/51e04eae-dcbd-42b0-9d7a-82a34b6a0a80.mp3",
+      "duration": 1892
+    },
+    {
+      "uuid": "2e267c6f-01fe-44fb-93af-6da72aa2c7c2",
+      "guid": "0cce8ffa-443d-40c6-839b-e46274624619",
+      "name": "268: The Chosen S2E6 — “Unlawful” (Bonus Episode)",
+      "datePublished": 1647849600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/0cce8ffa-443d-40c6-839b-e46274624619.mp3",
+      "duration": 1973
+    },
+    {
+      "uuid": "0c985c60-83c7-410a-ba42-3e1b284a33b0",
+      "guid": "4d23767b-f8cf-436b-a9bc-9a7e4058da0d",
+      "name": "267: John — The Far Side of a Tumultuous Sea",
+      "datePublished": 1647504000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/4d23767b-f8cf-436b-a9bc-9a7e4058da0d.mp3",
+      "duration": 4307
+    },
+    {
+      "uuid": "840697de-d43d-48cf-ab1e-72c7c3c9af6c",
+      "guid": "8c2bbfdf-f7c0-48b4-bfa3-e2e53c6583ff",
+      "name": "266: The Chosen S2E5 — “Spirit” (Bonus Episode)",
+      "datePublished": 1647244800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/8c2bbfdf-f7c0-48b4-bfa3-e2e53c6583ff.mp3",
+      "duration": 2309
+    },
+    {
+      "uuid": "aa9821d7-8bdd-4ce6-b926-69f1ad218afd",
+      "guid": "e5348fa9-33d5-4870-bbbb-222bef539808",
+      "name": "265: John — Make Him King",
+      "datePublished": 1646902800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/e5348fa9-33d5-4870-bbbb-222bef539808.mp3",
+      "duration": 2641
+    },
+    {
+      "uuid": "2fb38c00-ab4c-4917-96d6-6ce3f29dd8f2",
+      "guid": "84c26d17-ab88-49cb-82e4-2be79f303316",
+      "name": "264: The Chosen S2E4 — “The Perfect Opportunity” (Bonus Episode)",
+      "datePublished": 1646643600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/84c26d17-ab88-49cb-82e4-2be79f303316.mp3",
+      "duration": 2751
+    },
+    {
+      "uuid": "03018f50-fdf9-41ec-85f2-d806bafcdcd1",
+      "guid": "aa467f49-aa37-4931-9d01-09b5e5447d1a",
+      "name": "263: John — Weighty Testimony",
+      "datePublished": 1646298000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/aa467f49-aa37-4931-9d01-09b5e5447d1a.mp3",
+      "duration": 2985
+    },
+    {
+      "uuid": "12c08233-93fd-451d-a9a4-64ff48715dc5",
+      "guid": "1cf875dd-a9c7-4c1f-81b0-d7def1585a23",
+      "name": "262: The Chosen S2E3 — “Matthew 4:24” (Bonus Episode)",
+      "datePublished": 1646038800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/1cf875dd-a9c7-4c1f-81b0-d7def1585a23.mp3",
+      "duration": 2928
+    },
+    {
+      "uuid": "13368d5b-89d8-4757-98bd-ee083bdf9dde",
+      "guid": "478acb0b-c1f2-43db-8560-97fb0cb3bdd4",
+      "name": "261:  John — What Do You Want?",
+      "datePublished": 1645693200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/478acb0b-c1f2-43db-8560-97fb0cb3bdd4.mp3",
+      "duration": 3626
+    },
+    {
+      "uuid": "b9666973-b8a6-4747-914a-df3a9685761c",
+      "guid": "9ab5ccb1-7a13-4790-98ec-0368f1e4f088",
+      "name": "260: The Chosen S2E2 — “I Saw You” (Bonus Episode)",
+      "datePublished": 1645434000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/9ab5ccb1-7a13-4790-98ec-0368f1e4f088.mp3",
+      "duration": 2244
+    },
+    {
+      "uuid": "442b5ba1-95c9-4af2-9b67-234454f4febe",
+      "guid": "3d42f7e9-7100-442f-bbb1-31b2d5a82c55",
+      "name": "259: Kevan Chandler — We Carry Kevan",
+      "datePublished": 1645088400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/3d42f7e9-7100-442f-bbb1-31b2d5a82c55.mp3",
+      "duration": 3840
+    },
+    {
+      "uuid": "a25f18a8-e1a5-40a1-9161-87eed0d00329",
+      "guid": "149a92ea-bde1-44f0-8106-e6bc8a78d5ac",
+      "name": "258: The Chosen S2E1 — “Thunder” (Bonus Episode)",
+      "datePublished": 1644829200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/149a92ea-bde1-44f0-8106-e6bc8a78d5ac.mp3",
+      "duration": 2925
+    },
+    {
+      "uuid": "a6c2958d-4506-4162-9c9e-2ef32055ffbd",
+      "guid": "2e03cf5b-999b-4acc-8176-0120c329a994",
+      "name": "257: John — Wells and Husbands",
+      "datePublished": 1644483600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/2e03cf5b-999b-4acc-8176-0120c329a994.mp3",
+      "duration": 3366
+    },
+    {
+      "uuid": "3a06f10d-72a0-4791-bb84-4bab0d33a693",
+      "guid": "9144ffea-1ab6-4cd7-a898-55dbe0c1ec53",
+      "name": "256: John — The One from Above",
+      "datePublished": 1643878800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/9144ffea-1ab6-4cd7-a898-55dbe0c1ec53.mp3",
+      "duration": 2523
+    },
+    {
+      "uuid": "c7417f60-8dd3-41ac-ab2c-77446fcf2802",
+      "guid": "9aea3d9a-1d44-4780-b2e8-727ef58020d1",
+      "name": "255: John — Water, Spirit, Darkness, Light",
+      "datePublished": 1643274000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/9aea3d9a-1d44-4780-b2e8-727ef58020d1.mp3",
+      "duration": 4156
+    },
+    {
+      "uuid": "e5be78b2-3db3-4f57-bc5b-85d2c81a0f8a",
+      "guid": "f5835080-54b5-47a1-a82d-26cdd8a443cf",
+      "name": "254: John — A Wedding and Some Housekeeping",
+      "datePublished": 1642669200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f5835080-54b5-47a1-a82d-26cdd8a443cf.mp3",
+      "duration": 2362
+    },
+    {
+      "uuid": "58c0d225-2ea9-4e23-bc06-19720602c6c6",
+      "guid": "2ad016b6-1087-4e35-a73e-eba180780f1c",
+      "name": "253: John — Come and See",
+      "datePublished": 1642064400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/2ad016b6-1087-4e35-a73e-eba180780f1c.mp3",
+      "duration": 2513
+    },
+    {
+      "uuid": "1f8f0d22-99a3-4d9f-8101-798995646fb4",
+      "guid": "dd5fdab6-912e-4c7e-b6e2-bdd0880badae",
+      "name": "252: John — What’s in a Logos?",
+      "datePublished": 1641459600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/dd5fdab6-912e-4c7e-b6e2-bdd0880badae.mp3",
+      "duration": 2280
+    },
+    {
+      "uuid": "60bdb90a-0222-46ca-9074-6cf8d252ca6b",
+      "guid": "ab289769-3a40-401b-a085-d533d24c0140",
+      "name": "251: John Roberts — A Griever’s Guide to Life",
+      "datePublished": 1640854800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ab289769-3a40-401b-a085-d533d24c0140.mp3",
+      "duration": 2940
+    },
+    {
+      "uuid": "56a31237-fa8f-4379-be51-181c1f37147a",
+      "guid": "043b6300-f599-4640-b23e-2e5a4fba6ad0",
+      "name": "250: The Chosen S1E0 — “The Shepherd”",
+      "datePublished": 1640250000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/043b6300-f599-4640-b23e-2e5a4fba6ad0.mp3",
+      "duration": 2291
+    },
+    {
+      "uuid": "62edd1a8-d423-42c3-8d7d-71ddce868d84",
+      "guid": "1df60a2e-4948-41cc-8330-1b667ef29e01",
+      "name": "249: Michael Burns — Escaping the Beast",
+      "datePublished": 1639645200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/1df60a2e-4948-41cc-8330-1b667ef29e01.mp3",
+      "duration": 3745
+    },
+    {
+      "uuid": "34bd99a2-f7c4-4e66-9cb1-a7a46d615ef1",
+      "guid": "a23ca118-fb49-4148-9d03-bfd7cd6d5f1d",
+      "name": "248: Joy and Lot’s Untitled Wife w/ Elle Grover Fricks",
+      "datePublished": 1639040400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/a23ca118-fb49-4148-9d03-bfd7cd6d5f1d.mp3",
+      "duration": 2738
+    },
+    {
+      "uuid": "fab7048f-3e14-4dcf-b0e8-e9ef5529ee45",
+      "guid": "63b0ad93-4334-43a2-a119-c7b23855f45c",
+      "name": "247: Sleepless in Susa w/ Josh Bossé",
+      "datePublished": 1638435600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/63b0ad93-4334-43a2-a119-c7b23855f45c.mp3",
+      "duration": 3492
+    },
+    {
+      "uuid": "6cb9a9f7-3e91-49fe-9cf2-eadfa7b0af41",
+      "guid": "3981e540-f36e-4b2a-9462-8b4c30697cbd",
+      "name": "246: Eugenia Ortega — A Look into Our Window",
+      "datePublished": 1637226000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/3981e540-f36e-4b2a-9462-8b4c30697cbd.mp3",
+      "duration": 2660
+    },
+    {
+      "uuid": "64d36d17-d42c-46ae-ade3-f48303118ef1",
+      "guid": "61e601f0-a24c-4ea6-861e-7d56b735b812",
+      "name": "245: Spiritual Abuse — Liturgy for Repentance and Healing",
+      "datePublished": 1636621200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/61e601f0-a24c-4ea6-861e-7d56b735b812.mp3",
+      "duration": 1380
+    },
+    {
+      "uuid": "e408f21a-4bcb-4f21-8f9f-d6ad673bb7be",
+      "guid": "a3de1048-4872-458c-96eb-3f6fec0aeaaa",
+      "name": "244: Spiritual Abuse — The Rise and Fall of Mars Hill",
+      "datePublished": 1636012800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/a3de1048-4872-458c-96eb-3f6fec0aeaaa.mp3",
+      "duration": 4315
+    },
+    {
+      "uuid": "f2011a44-d810-4140-8bf9-bfd2de10f73a",
+      "guid": "60610d6a-8824-496b-bb21-bba86e326c88",
+      "name": "243: Spiritual Abuse — The Place We Find Ourselves",
+      "datePublished": 1635408000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/60610d6a-8824-496b-bb21-bba86e326c88.mp3",
+      "duration": 2824
+    },
+    {
+      "uuid": "b7eaf44c-3d42-45eb-a77f-022ea24ff011",
+      "guid": "0411b277-c68c-4e25-b8a7-30eb9836d607",
+      "name": "242: Spiritual Abuse — Commodities and Variables",
+      "datePublished": 1634803200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/0411b277-c68c-4e25-b8a7-30eb9836d607.mp3",
+      "duration": 2869
+    },
+    {
+      "uuid": "21a69e16-05bc-4014-af4a-8782d8f68094",
+      "guid": "4d145a29-ac5b-4bb8-920f-b889e7b3b462",
+      "name": "241: Becky Solomon — Don’t Exasperate Your Kids",
+      "datePublished": 1634198400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/4d145a29-ac5b-4bb8-920f-b889e7b3b462.mp3",
+      "duration": 3160
+    },
+    {
+      "uuid": "26773b03-6345-4d37-b346-cebfa99bcce1",
+      "guid": "79411b3c-aa8c-4cd1-ac22-ad575cd63082",
+      "name": "240: Sin and the Archaeology of Joshua w/ Elle Grover Fricks",
+      "datePublished": 1633593600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/79411b3c-aa8c-4cd1-ac22-ad575cd63082.mp3",
+      "duration": 2078
+    },
+    {
+      "uuid": "3ac1147d-5986-4eb9-b792-59ce7a66e3be",
+      "guid": "6eb14803-97fb-4d31-af1b-9d1cd7a6c795",
+      "name": "239: Abraham Considers a Catechism w/ Reed Dent",
+      "datePublished": 1632988800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/6eb14803-97fb-4d31-af1b-9d1cd7a6c795.mp3",
+      "duration": 3365
+    },
+    {
+      "uuid": "3e3351b0-25a9-4be8-a098-c5ba975b76da",
+      "guid": "e23d3257-6760-40f8-876e-c5cfbd091260",
+      "name": "238: Jewish Roots — What Difference Does It Make?",
+      "datePublished": 1632384000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/e23d3257-6760-40f8-876e-c5cfbd091260.mp3",
+      "duration": 3368
+    },
+    {
+      "uuid": "350d99d4-a9a5-4e0f-a4c7-60822eefa149",
+      "guid": "9749affd-2468-42cc-9368-a28b2dfc90e7",
+      "name": "237: Jewish Roots — Ways Parted for a Dark History",
+      "datePublished": 1631779200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/9749affd-2468-42cc-9368-a28b2dfc90e7.mp3",
+      "duration": 3106
+    },
+    {
+      "uuid": "5e52c21b-43dc-44e1-b508-57a9b7f84d0f",
+      "guid": "f26f55f8-ebd9-45e7-b98a-17fa98f4fb3e",
+      "name": "236: Jewish Roots — Paul, Jewish Law, and Atonement in Hebrews",
+      "datePublished": 1631174400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f26f55f8-ebd9-45e7-b98a-17fa98f4fb3e.mp3",
+      "duration": 3329
+    },
+    {
+      "uuid": "b0394a62-79bd-4707-a707-e260add12775",
+      "guid": "490c6598-da2b-441c-960c-8ad4c0bbc140",
+      "name": "235: Jewish Roots — Tanakh and Religion",
+      "datePublished": 1630569600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/490c6598-da2b-441c-960c-8ad4c0bbc140.mp3",
+      "duration": 2600
+    },
+    {
+      "uuid": "cbc32b7e-82d0-48cd-bedb-47288613f91f",
+      "guid": "56c991d3-c8ba-4bcb-973a-5af4f88a458a",
+      "name": "234: Jen Rosner — The Jewish Roots of Christianity",
+      "datePublished": 1629964800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/56c991d3-c8ba-4bcb-973a-5af4f88a458a.mp3",
+      "duration": 3865
+    },
+    {
+      "uuid": "ba46a55f-523e-43cf-8fd8-66b45a83673c",
+      "guid": "c6101863-3cdc-4dc0-88d1-c186e8fa45db",
+      "name": "233: Introducing the Team — Striking the Rock w/ Josh Bossé",
+      "datePublished": 1629360000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/c6101863-3cdc-4dc0-88d1-c186e8fa45db.mp3",
+      "duration": 3669
+    },
+    {
+      "uuid": "0ab53961-dfc2-4286-ab36-8b665cd07029",
+      "guid": "8dffbfbb-835b-4a45-9ea4-b12b5efccf3e",
+      "name": "232: Introducing the Team — Jephthah’s Daughter w/ Elle Grover Fricks",
+      "datePublished": 1628755200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/8dffbfbb-835b-4a45-9ea4-b12b5efccf3e.mp3",
+      "duration": 2472
+    },
+    {
+      "uuid": "fb7a53fa-d837-4452-921f-ea70f92aba6c",
+      "guid": "95f2bca9-31a2-4cbd-8573-354f84c91134",
+      "name": "231: Introducing the Team — Deconstruction w/ Reed Dent",
+      "datePublished": 1628150400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/95f2bca9-31a2-4cbd-8573-354f84c91134.mp3",
+      "duration": 3741
+    },
+    {
+      "uuid": "0b749ce0-bc64-4077-b551-d0f802f9d447",
+      "guid": "72b3d75e-c99d-4d29-9141-2aa2cc2edc7b",
+      "name": "230: Mandy Smith — Unfettered",
+      "datePublished": 1627545600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/72b3d75e-c99d-4d29-9141-2aa2cc2edc7b.mp3",
+      "duration": 3132
+    },
+    {
+      "uuid": "d0a713ee-a75a-4c2d-ac06-6c1f69d77436",
+      "guid": "de0c54a6-46b8-47ba-ac33-520d3343bf45",
+      "name": "229: Dallas Jenkins — Manna Program, Part 2",
+      "datePublished": 1626940800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/de0c54a6-46b8-47ba-ac33-520d3343bf45.mp3",
+      "duration": 2889
+    },
+    {
+      "uuid": "049d5ab4-107f-4e7e-b681-b5dfdbcc1984",
+      "guid": "1fb1580b-b246-42c0-bfc6-9e6afae56c5e",
+      "name": "228: Dallas Jenkins — Manna Program, Part 1",
+      "datePublished": 1626336000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/1fb1580b-b246-42c0-bfc6-9e6afae56c5e.mp3",
+      "duration": 2853
+    },
+    {
+      "uuid": "dcf8f536-ddae-426b-b6c7-6cea57e25837",
+      "guid": "28b12beb-51b9-4ca8-8603-b8e26f3ea7f5",
+      "name": "227: The Chosen S1E8 — “I Am He”",
+      "datePublished": 1625731200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/28b12beb-51b9-4ca8-8603-b8e26f3ea7f5.mp3",
+      "duration": 3672
+    },
+    {
+      "uuid": "4cae327e-844d-4fa0-8c32-b4b111c2be98",
+      "guid": "b02e0786-30f7-40eb-9e9f-b8369ce6fc00",
+      "name": "226: The Chosen S1E7 — “Invitations”",
+      "datePublished": 1625126400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/b02e0786-30f7-40eb-9e9f-b8369ce6fc00.mp3",
+      "duration": 2335
+    },
+    {
+      "uuid": "2952c142-49fe-4cc4-a06c-e0e11c133d08",
+      "guid": "d94394d7-ac2a-41d2-af73-a2da7536c72f",
+      "name": "225: The Chosen S1E6 — “Indescribable Compassion”",
+      "datePublished": 1624521600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/d94394d7-ac2a-41d2-af73-a2da7536c72f.mp3",
+      "duration": 2778
+    },
+    {
+      "uuid": "066ca5f4-ea9b-4f27-91c7-5cb5e93f85d1",
+      "guid": "9d629f3e-7e9c-4c09-a8e0-62c73ebbe595",
+      "name": "224: The Chosen S1E5 — “The Wedding Gift”",
+      "datePublished": 1623916800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/9d629f3e-7e9c-4c09-a8e0-62c73ebbe595.mp3",
+      "duration": 3672
+    },
+    {
+      "uuid": "a6cf741e-0d4e-4af6-81d2-3518c6892055",
+      "guid": "07f60569-5984-4535-a223-a7db11288cc5",
+      "name": "223: The Chosen S1E4 — “The Rock on Which It Is Built”",
+      "datePublished": 1623312000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/07f60569-5984-4535-a223-a7db11288cc5.mp3",
+      "duration": 2363
+    },
+    {
+      "uuid": "0e27fe80-06b8-41e2-af28-57c30a05d846",
+      "guid": "9e3253a6-d633-495d-a9da-b8b7aee32c09",
+      "name": "222: The Chosen S1E3 — “Jesus Loves the Little Children”",
+      "datePublished": 1622707200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/9e3253a6-d633-495d-a9da-b8b7aee32c09.mp3",
+      "duration": 2187
+    },
+    {
+      "uuid": "d2426cf6-f6c3-41c7-9adb-7c9bca3ed755",
+      "guid": "9c22a35f-a007-49bc-b125-eca0292ce98d",
+      "name": "221: The Chosen S1E2 — “Shabbat”",
+      "datePublished": 1622102400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/9c22a35f-a007-49bc-b125-eca0292ce98d.mp3",
+      "duration": 3256
+    },
+    {
+      "uuid": "950bbbae-d520-4dcd-8333-6abafad77aa3",
+      "guid": "ef8b2879-6ec8-48ff-9846-b15320ffd525",
+      "name": "220: The Chosen S1E1 — “I Have Called You by Name”",
+      "datePublished": 1621497600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ef8b2879-6ec8-48ff-9846-b15320ffd525.mp3",
+      "duration": 3470
+    },
+    {
+      "uuid": "f8204ecb-74f6-4330-9858-e9ffde28e106",
+      "guid": "0b0f8baa-3413-4d26-bbf4-13f0836ef715",
+      "name": "219: Becky Solomon — Loving the Adventure",
+      "datePublished": 1620892800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/0b0f8baa-3413-4d26-bbf4-13f0836ef715.mp3",
+      "duration": 3117
+    },
+    {
+      "uuid": "52cd2f93-f1b0-4e23-aa5b-8e30d2128ff9",
+      "guid": "35d93f97-0516-440e-891c-62ddefba9852",
+      "name": "218: Midrash — Death at Dinner",
+      "datePublished": 1620288000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/35d93f97-0516-440e-891c-62ddefba9852.mp3",
+      "duration": 1965
+    },
+    {
+      "uuid": "36405e64-4322-49d5-9a38-4baea8ae32e9",
+      "guid": "9c241180-4fdb-4b5e-9d3b-819aad5bc943",
+      "name": "217: Midrash — Isaac’s Bad Eyes",
+      "datePublished": 1619683200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/9c241180-4fdb-4b5e-9d3b-819aad5bc943.mp3",
+      "duration": 2560
+    },
+    {
+      "uuid": "0a5ccafe-43b6-4570-981f-2d9293666a1b",
+      "guid": "5a8a1a80-9bb6-4faa-bd04-48e4cb1d23f4",
+      "name": "216: Porshe Chiles — Can We Talk?",
+      "datePublished": 1619078400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/5a8a1a80-9bb6-4faa-bd04-48e4cb1d23f4.mp3",
+      "duration": 3046
+    },
+    {
+      "uuid": "4330833c-2c09-40d2-9fb8-ee783edb43f0",
+      "guid": "3c439512-59d5-40f7-b84e-5d382e51f586",
+      "name": "215: Character Study — Joseph, Part 2",
+      "datePublished": 1618473600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/3c439512-59d5-40f7-b84e-5d382e51f586.mp3",
+      "duration": 1963
+    },
+    {
+      "uuid": "8ff1a2d4-5dcb-4086-85ac-4695d961264f",
+      "guid": "5738f953-9adb-4d2e-bcab-3aef35383fe6",
+      "name": "214: Character Study — Joseph, Part 1",
+      "datePublished": 1617868800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/5738f953-9adb-4d2e-bcab-3aef35383fe6.mp3",
+      "duration": 2226
+    },
+    {
+      "uuid": "08198bd5-c35f-4268-aa2f-068855ccedf9",
+      "guid": "024f8eed-1d84-4d86-811f-db9c5ad475d0",
+      "name": "213: Character Study — Jacob, Part 2",
+      "datePublished": 1617264000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/024f8eed-1d84-4d86-811f-db9c5ad475d0.mp3",
+      "duration": 2758
+    },
+    {
+      "uuid": "426c19f1-cce9-46b3-8001-512980715658",
+      "guid": "94c8d0c5-1147-41d2-bfe1-f1064289f1e9",
+      "name": "212: Character Study — Jacob, Part 1",
+      "datePublished": 1616659200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/94c8d0c5-1147-41d2-bfe1-f1064289f1e9.mp3",
+      "duration": 3228
+    },
+    {
+      "uuid": "c968e652-e281-4f03-8d0c-5f33290e15c9",
+      "guid": "40863328-b229-4cf2-b918-8e08e86ef3ce",
+      "name": "211: John Whittaker — Blue Jeans Theology",
+      "datePublished": 1616054400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/40863328-b229-4cf2-b918-8e08e86ef3ce.mp3",
+      "duration": 3120
+    },
+    {
+      "uuid": "8edeb1b1-5a29-4a80-980b-7dbbac72e67a",
+      "guid": "15e0a6a3-11e5-441d-bbdd-a68f8f3a8ea2",
+      "name": "210: Midrash — The Man in the Fur Coat",
+      "datePublished": 1615453200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/15e0a6a3-11e5-441d-bbdd-a68f8f3a8ea2.mp3",
+      "duration": 2252
+    },
+    {
+      "uuid": "6df547a6-c3d0-4687-8e2e-07ad06e6c179",
+      "guid": "617b387c-62d0-4f8a-b034-e33d34380134",
+      "name": "209: Midrash — Noah’s Backstory and the Nephilim",
+      "datePublished": 1614848400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/617b387c-62d0-4f8a-b034-e33d34380134.mp3",
+      "duration": 2951
+    },
+    {
+      "uuid": "1c5bc080-6ae6-4f13-8e09-c0b82f17619b",
+      "guid": "401bc1aa-5020-4363-878d-ac46b2ef6b36",
+      "name": "208: Midrash — Iscah, Sarai, and Birth Orders",
+      "datePublished": 1614243600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/401bc1aa-5020-4363-878d-ac46b2ef6b36.mp3",
+      "duration": 2375
+    },
+    {
+      "uuid": "be3bea8e-0dd8-4eea-b86b-db45515a766b",
+      "guid": "f31063c8-90df-4f8b-bb72-8b1000cf92f8",
+      "name": "207: J. R. Briggs — The Sacred Overlap",
+      "datePublished": 1613638800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f31063c8-90df-4f8b-bb72-8b1000cf92f8.mp3",
+      "duration": 2703
+    },
+    {
+      "uuid": "12d84a53-75d5-43c6-bf03-3735b75ca7a5",
+      "guid": "3681485c-6331-489e-a602-fe4cb7aec6ce",
+      "name": "206: Reed Dent — The Nature of Truth",
+      "datePublished": 1613034000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/3681485c-6331-489e-a602-fe4cb7aec6ce.mp3",
+      "duration": 3456
+    },
+    {
+      "uuid": "32091881-d4e0-4380-bef0-9ae920d7002f",
+      "guid": "049675b8-db99-43cf-ba6f-603239d03687",
+      "name": "205: Session 6 Intro",
+      "datePublished": 1612429200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/049675b8-db99-43cf-ba6f-603239d03687.mp3",
+      "duration": 2910
+    },
+    {
+      "uuid": "347eab5e-c5e0-464f-a5b6-1858508b3b3b",
+      "guid": "7f4220f8-31ec-4b92-aafc-6a6e5f5d5d73",
+      "name": "204: Session 5 Capstone",
+      "datePublished": 1611824400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/7f4220f8-31ec-4b92-aafc-6a6e5f5d5d73.mp3",
+      "duration": 2184
+    },
+    {
+      "uuid": "8073392e-36d7-4e1b-86a2-4fe5938c3e1d",
+      "guid": "cc0cf9ef-64d6-4397-b10b-626b6231485c",
+      "name": "203: You Are Here",
+      "datePublished": 1611219600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/cc0cf9ef-64d6-4397-b10b-626b6231485c.mp3",
+      "duration": 1325
+    },
+    {
+      "uuid": "c1b10055-5f30-4230-a5ba-38c52bc0d878",
+      "guid": "4852e00b-b75a-4e69-96ba-a000a9429a15",
+      "name": "202: AD 1925 to Today",
+      "datePublished": 1610614800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/4852e00b-b75a-4e69-96ba-a000a9429a15.mp3",
+      "duration": 1164
+    },
+    {
+      "uuid": "6a831578-e0cf-4489-90d7-f3daf91fe950",
+      "guid": "e8bfacdb-61f8-41ee-86a6-6a974f3f8040",
+      "name": "201: AD 1800–1925",
+      "datePublished": 1610010000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/e8bfacdb-61f8-41ee-86a6-6a974f3f8040.mp3",
+      "duration": 1393
+    },
+    {
+      "uuid": "b5c92b7a-1966-46a1-8cdf-6337ec4e71ef",
+      "guid": "fca8daef-e12e-4788-b55a-a264532b0a38",
+      "name": "200: AD 1650–1800",
+      "datePublished": 1609405200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/fca8daef-e12e-4788-b55a-a264532b0a38.mp3",
+      "duration": 1035
+    },
+    {
+      "uuid": "06d712ab-b371-4f9f-b5a4-52940479fd65",
+      "guid": "8549dbb2-a0d4-4ac4-a725-b19a37b99749",
+      "name": "199: AD 1550–1650",
+      "datePublished": 1608195600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/8549dbb2-a0d4-4ac4-a725-b19a37b99749.mp3",
+      "duration": 1582
+    },
+    {
+      "uuid": "e9a4644c-697e-4ac3-bb48-b8f6bdc97e3b",
+      "guid": "59b6fb5d-97ee-4c5b-913a-236f1f8a4553",
+      "name": "198: AD 1300–1550",
+      "datePublished": 1607590800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/59b6fb5d-97ee-4c5b-913a-236f1f8a4553.mp3",
+      "duration": 1237
+    },
+    {
+      "uuid": "599a733e-fecc-4731-9f19-4fcc02913e6b",
+      "guid": "0b9ee2c0-13c2-450b-8970-8b3533bc746a",
+      "name": "197: AD 1000–1300",
+      "datePublished": 1606986000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/0b9ee2c0-13c2-450b-8970-8b3533bc746a.mp3",
+      "duration": 1127
+    },
+    {
+      "uuid": "e4207268-4021-404c-828e-57d68307d936",
+      "guid": "b5a8208e-d8a3-42dc-8c8c-d1bc4aa2b1b4",
+      "name": "196: AD 700–1000",
+      "datePublished": 1605776400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/b5a8208e-d8a3-42dc-8c8c-d1bc4aa2b1b4.mp3",
+      "duration": 1584
+    },
+    {
+      "uuid": "e3a09751-8d40-47cf-a2ef-e762623157e7",
+      "guid": "24c3299b-1b22-4119-b476-d2099f010775",
+      "name": "195: AD 500–700",
+      "datePublished": 1605171600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/24c3299b-1b22-4119-b476-d2099f010775.mp3",
+      "duration": 866
+    },
+    {
+      "uuid": "fcf8dbe0-3606-4e50-ab36-2f1808445666",
+      "guid": "4d8a0cf7-0cfc-4db8-94ac-43ad6067385d",
+      "name": "194: AD 300–500",
+      "datePublished": 1604566800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/4d8a0cf7-0cfc-4db8-94ac-43ad6067385d.mp3",
+      "duration": 1421
+    },
+    {
+      "uuid": "b0352685-2448-4b6b-b0f2-045a725dbcf4",
+      "guid": "f78663f1-551a-415f-82e0-80000ec62465",
+      "name": "193: AD 100–300",
+      "datePublished": 1603958400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f78663f1-551a-415f-82e0-80000ec62465.mp3",
+      "duration": 1572
+    },
+    {
+      "uuid": "10b712a3-f213-4a56-90d5-07d598beec68",
+      "guid": "196dc730-74f4-4e3e-9538-908cb42439d8",
+      "name": "192: Telling a Story",
+      "datePublished": 1603353600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/196dc730-74f4-4e3e-9538-908cb42439d8.mp3",
+      "duration": 1549
+    },
+    {
+      "uuid": "6bfe2f5a-801c-4a69-8795-a09b53e1124e",
+      "guid": "be54028f-447b-421a-b246-32c529a0ad8c",
+      "name": "191: Session 5 Intro",
+      "datePublished": 1602749700,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/be54028f-447b-421a-b246-32c529a0ad8c.mp3",
+      "duration": 1284
+    },
+    {
+      "uuid": "f7378abd-ff41-4fe9-b688-a012dd0e9bd6",
+      "guid": "5de0b237-345e-48b8-9a33-4c6ce0c4876c",
+      "name": "190: Session 4 Capstone",
+      "datePublished": 1602748800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/5de0b237-345e-48b8-9a33-4c6ce0c4876c.mp3",
+      "duration": 3089
+    },
+    {
+      "uuid": "60d88f9c-3262-4165-a607-0656a64f7ce7",
+      "guid": "52ed6451-7905-4f24-886f-972cbc0b2ec8",
+      "name": "189: Revelation — The End Is a New Beginning",
+      "datePublished": 1602144000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/52ed6451-7905-4f24-886f-972cbc0b2ec8.mp3",
+      "duration": 1191
+    },
+    {
+      "uuid": "3fd09b10-6c4f-479b-9e68-e6c77d4513bf",
+      "guid": "404fc534-f664-49ab-9e44-448615507a84",
+      "name": "188: Revelation — The Fall of Greatness",
+      "datePublished": 1601539200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/404fc534-f664-49ab-9e44-448615507a84.mp3",
+      "duration": 2566
+    },
+    {
+      "uuid": "ec2f21ff-6a80-4c16-95b8-dbaf151e2787",
+      "guid": "5900223e-86f6-4ab8-9a5c-e066f3cbb7de",
+      "name": "187: Revelation — The Blessed and Faithful Fallen",
+      "datePublished": 1600934400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/5900223e-86f6-4ab8-9a5c-e066f3cbb7de.mp3",
+      "duration": 1724
+    },
+    {
+      "uuid": "133a9a81-ea67-42b2-aded-811f57467577",
+      "guid": "98b3a09b-481f-4bba-af1c-d6b737283344",
+      "name": "186: Revelation — Mother and Dragons",
+      "datePublished": 1600329600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/98b3a09b-481f-4bba-af1c-d6b737283344.mp3",
+      "duration": 1410
+    },
+    {
+      "uuid": "6d1a92d5-bdbb-4e91-b02b-2665537234ea",
+      "guid": "20096f9f-4b4a-487b-a448-2bf4e505fbba",
+      "name": "185: Revelation — Bittersweet Prophecy",
+      "datePublished": 1599724800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/20096f9f-4b4a-487b-a448-2bf4e505fbba.mp3",
+      "duration": 1242
+    },
+    {
+      "uuid": "3c2c5db9-bb6c-4624-be22-212bdfd67302",
+      "guid": "22fc961c-1ed7-44d5-99a8-2a9e6278595e",
+      "name": "184: Revelation — Let the Games Begin",
+      "datePublished": 1599120000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/22fc961c-1ed7-44d5-99a8-2a9e6278595e.mp3",
+      "duration": 1677
+    },
+    {
+      "uuid": "126d4d22-ca93-4eaa-978f-19b9d63e3132",
+      "guid": "a7cea057-07a5-42a7-997b-031f25ad71f5",
+      "name": "183: Revelation — Seals from Scripture",
+      "datePublished": 1598515200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/a7cea057-07a5-42a7-997b-031f25ad71f5.mp3",
+      "duration": 1276
+    },
+    {
+      "uuid": "ea99e223-c8d4-48d1-85e0-539d83032bf1",
+      "guid": "34659e01-dede-4e4a-8b41-b9f0ede6ad1b",
+      "name": "182: Revelation — The Throne Room",
+      "datePublished": 1597910400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/34659e01-dede-4e4a-8b41-b9f0ede6ad1b.mp3",
+      "duration": 1370
+    },
+    {
+      "uuid": "83431a98-56b0-4280-98b1-15946913dd06",
+      "guid": "f28b681d-2051-4359-ab08-78a0aa2afa49",
+      "name": "181: Revelation — Lukewarm Laodicea",
+      "datePublished": 1597305600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f28b681d-2051-4359-ab08-78a0aa2afa49.mp3",
+      "duration": 1589
+    },
+    {
+      "uuid": "d68cd534-d644-48ea-824c-f01d61071263",
+      "guid": "3fc02c1b-5f30-4983-99a9-3ce5f7719202",
+      "name": "180: Revelation — Philadelphia and Their New Name",
+      "datePublished": 1596700800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/3fc02c1b-5f30-4983-99a9-3ce5f7719202.mp3",
+      "duration": 901
+    },
+    {
+      "uuid": "c126f288-86de-4b14-bb1c-aad604275ead",
+      "guid": "863e3bb7-e97c-4492-b4a5-79c93596475b",
+      "name": "179: Revelation — Waking Up in Sardis",
+      "datePublished": 1596096000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/863e3bb7-e97c-4492-b4a5-79c93596475b.mp3",
+      "duration": 2337
+    },
+    {
+      "uuid": "4d67b7f1-859b-4e30-a488-90f6b4884478",
+      "guid": "53b48b48-a416-47bc-9d55-2b8b9cda887a",
+      "name": "178: Revelation — Thyatira and Her Jezebel",
+      "datePublished": 1595491200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/53b48b48-a416-47bc-9d55-2b8b9cda887a.mp3",
+      "duration": 1648
+    },
+    {
+      "uuid": "702d9de5-2cef-48d5-9ff7-043bca06bcce",
+      "guid": "614fa6a9-ae60-4fee-90c0-501d9c2063ae",
+      "name": "177: Revelation — Pergamum and Satan’s Throne",
+      "datePublished": 1594886400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/614fa6a9-ae60-4fee-90c0-501d9c2063ae.mp3",
+      "duration": 2022
+    },
+    {
+      "uuid": "dddf7b84-7a2c-464b-97dd-afc3d29c5dac",
+      "guid": "3b867e01-30cd-4aaf-b8e0-d2db064a5842",
+      "name": "176: Revelation — Smyrna and Their Crown",
+      "datePublished": 1594281600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/3b867e01-30cd-4aaf-b8e0-d2db064a5842.mp3",
+      "duration": 1195
+    },
+    {
+      "uuid": "b73a449f-b169-4847-981e-875f779a8712",
+      "guid": "64b51a02-93a1-42bd-aa02-9ca47c3a0cd5",
+      "name": "175: Revelation — Ephesus and Their First Love",
+      "datePublished": 1593676800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/64b51a02-93a1-42bd-aa02-9ca47c3a0cd5.mp3",
+      "duration": 1012
+    },
+    {
+      "uuid": "8a9fbe51-e730-4b2d-8682-4efded55a6fd",
+      "guid": "be28645d-d0cf-47a4-97be-23b6b476fdfa",
+      "name": "174: Revelation — A Book for Its Time",
+      "datePublished": 1593072000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/be28645d-d0cf-47a4-97be-23b6b476fdfa.mp3",
+      "duration": 1751
+    },
+    {
+      "uuid": "5ced86ea-5e54-4cd3-9f64-c6178420afef",
+      "guid": "e1900f62-ee54-4308-8988-036644718aa8",
+      "name": "173: Jude — False Teachers",
+      "datePublished": 1592467200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/e1900f62-ee54-4308-8988-036644718aa8.mp3",
+      "duration": 1419
+    },
+    {
+      "uuid": "982aec94-afcb-4533-8097-fea5dbdfa200",
+      "guid": "00bc7247-0dca-44d4-ab1e-05cc757dd19b",
+      "name": "172: 3 John — Diotrephes",
+      "datePublished": 1591862400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/00bc7247-0dca-44d4-ab1e-05cc757dd19b.mp3",
+      "duration": 875
+    },
+    {
+      "uuid": "48f3f78e-2705-4c97-be32-dcbedc009db9",
+      "guid": "f4763eb4-9b7c-4029-bc7e-30f9eaa51cc1",
+      "name": "171: 2 John — The “Woman”",
+      "datePublished": 1591257600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f4763eb4-9b7c-4029-bc7e-30f9eaa51cc1.mp3",
+      "duration": 812
+    },
+    {
+      "uuid": "8b1ace0b-b1ee-48d5-b2a1-fae90fde3ac4",
+      "guid": "41fcdde6-b8ef-46a2-a469-d75f5487ffa5",
+      "name": "170: 1 John — Love and Truth",
+      "datePublished": 1590652800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/41fcdde6-b8ef-46a2-a469-d75f5487ffa5.mp3",
+      "duration": 1211
+    },
+    {
+      "uuid": "af89f353-a843-414f-a44d-112db704bbee",
+      "guid": "1adf9b7c-418b-4d9a-8c02-9d4ad867b102",
+      "name": "169: 2 Peter — The Other Side of a Conversation",
+      "datePublished": 1590048000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/1adf9b7c-418b-4d9a-8c02-9d4ad867b102.mp3",
+      "duration": 1853
+    },
+    {
+      "uuid": "676d1fa3-d8a4-401d-848f-555bfaf97f1b",
+      "guid": "0cfa7dee-ef1f-4d59-8c26-5f3d10799b22",
+      "name": "168: 1 Peter — Living Stones and a Spiritual House",
+      "datePublished": 1589443200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/0cfa7dee-ef1f-4d59-8c26-5f3d10799b22.mp3",
+      "duration": 1004
+    },
+    {
+      "uuid": "0c81218f-614c-4425-bc67-bcc6d60ecc79",
+      "guid": "7614cdaf-5e62-4bff-84d3-3c39590d6415",
+      "name": "167: James — Mitzvoth",
+      "datePublished": 1588838400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/7614cdaf-5e62-4bff-84d3-3c39590d6415.mp3",
+      "duration": 1744
+    },
+    {
+      "uuid": "841e6318-1518-4e00-aafa-70d068717015",
+      "guid": "430c7516-85af-47a7-aa04-8c181869fe6e",
+      "name": "166: Hebrews — Atonement 101",
+      "datePublished": 1588233600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/430c7516-85af-47a7-aa04-8c181869fe6e.mp3",
+      "duration": 2747
+    },
+    {
+      "uuid": "edbd06d0-39b3-46b8-8e77-d55b97deb8c7",
+      "guid": "2cfc971c-b79e-4336-a13b-1b53deb48d4c",
+      "name": "165: Hebrews — Running a Better Race",
+      "datePublished": 1587628800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/2cfc971c-b79e-4336-a13b-1b53deb48d4c.mp3",
+      "duration": 2063
+    },
+    {
+      "uuid": "75567346-9421-4c92-8767-cebb072dc6c9",
+      "guid": "b797a145-19dd-4e89-8b37-4855175d56fd",
+      "name": "164: Philemon — Faith Works",
+      "datePublished": 1587024000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/b797a145-19dd-4e89-8b37-4855175d56fd.mp3",
+      "duration": 1543
+    },
+    {
+      "uuid": "c9d1144a-773f-4e01-80f3-b1df5af731d4",
+      "guid": "d630f596-1015-472d-a3c3-508d1ebee1b1",
+      "name": "163: Pastoral Epistles — Timid Timothy & Tough Titus",
+      "datePublished": 1586419200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/d630f596-1015-472d-a3c3-508d1ebee1b1.mp3",
+      "duration": 1401
+    },
+    {
+      "uuid": "fb3fbfe1-e67a-4c76-8a29-bf7433f86c59",
+      "guid": "f0315642-76c7-47b8-8dfd-bb13f678841d",
+      "name": "162: 2 Thessalonians — Man of Lawlessness",
+      "datePublished": 1585814400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f0315642-76c7-47b8-8dfd-bb13f678841d.mp3",
+      "duration": 1019
+    },
+    {
+      "uuid": "09bdb89d-83e9-40aa-8416-61d443c55359",
+      "guid": "ea39b466-7776-4c32-9883-b579f7f0b685",
+      "name": "161: 1 Thessalonians — Parousia",
+      "datePublished": 1585209600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ea39b466-7776-4c32-9883-b579f7f0b685.mp3",
+      "duration": 1303
+    },
+    {
+      "uuid": "f152521d-8b06-4f76-8f78-3e2fb267043b",
+      "guid": "a049585f-7915-468c-88a7-022534150ea3",
+      "name": "160: Colossians — Gnostic Heresy",
+      "datePublished": 1584604800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/a049585f-7915-468c-88a7-022534150ea3.mp3",
+      "duration": 1394
+    },
+    {
+      "uuid": "d2c14a4d-5625-4f5a-8688-0ea7ad50d0af",
+      "guid": "58c8c820-4681-4af3-8dd6-04e8fac5e2da",
+      "name": "159: Philippians — Joy",
+      "datePublished": 1584000000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/58c8c820-4681-4af3-8dd6-04e8fac5e2da.mp3",
+      "duration": 882
+    },
+    {
+      "uuid": "9093342d-bdec-40b6-8351-22c3971b5ab1",
+      "guid": "1bc9f166-3fac-4ca7-9a69-ac73dc781286",
+      "name": "158: Ephesians — Family Membership",
+      "datePublished": 1583398800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/1bc9f166-3fac-4ca7-9a69-ac73dc781286.mp3",
+      "duration": 1728
+    },
+    {
+      "uuid": "92d6d32a-6bb5-47c1-92a9-ad80489b7405",
+      "guid": "0665c00b-5d6a-48fd-a246-08c082378d91",
+      "name": "157: 2 Corinthians — Apostleship",
+      "datePublished": 1582794000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/0665c00b-5d6a-48fd-a246-08c082378d91.mp3",
+      "duration": 1115
+    },
+    {
+      "uuid": "572012a4-cb8b-42a0-a97d-368e6ed7842e",
+      "guid": "6a794c7a-a0dc-4277-9b6d-79717fb00709",
+      "name": "156: 1 Corinthians — Broken Body",
+      "datePublished": 1582189200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/6a794c7a-a0dc-4277-9b6d-79717fb00709.mp3",
+      "duration": 1985
+    },
+    {
+      "uuid": "4100d347-b9b9-47ae-9e10-5f482c279b42",
+      "guid": "7e74c3f1-6101-437d-8d07-6cf9bbbcfc63",
+      "name": "155: Romans — God’s Mission, Paul’s Mission",
+      "datePublished": 1581584400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/7e74c3f1-6101-437d-8d07-6cf9bbbcfc63.mp3",
+      "duration": 2298
+    },
+    {
+      "uuid": "f9105eda-5740-479e-83ce-f2aeb6666250",
+      "guid": "78eb9be2-cfd4-4777-891b-f17b267cb827",
+      "name": "154: Romans — Therefore",
+      "datePublished": 1580979600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/78eb9be2-cfd4-4777-891b-f17b267cb827.mp3",
+      "duration": 1107
+    },
+    {
+      "uuid": "d1e5882b-7705-4889-bd4a-c8dfc6ba2423",
+      "guid": "b55e506f-71de-4f95-b2cc-05a3cfd9772d",
+      "name": "153: Romans — The Potter",
+      "datePublished": 1580374800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/b55e506f-71de-4f95-b2cc-05a3cfd9772d.mp3",
+      "duration": 3262
+    },
+    {
+      "uuid": "cb8ab0c0-d5ff-44f1-bdb5-fb0840a57dce",
+      "guid": "fb9c8748-43e2-42cf-959c-09fb6b39b806",
+      "name": "152: Romans — The Struggle",
+      "datePublished": 1579770000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/fb9c8748-43e2-42cf-959c-09fb6b39b806.mp3",
+      "duration": 2033
+    },
+    {
+      "uuid": "786f58a2-0442-4bc5-bfb7-1bea0a545116",
+      "guid": "45552396-8b69-40a2-96fc-cf88a6fddd89",
+      "name": "151: Romans — Buried Alive",
+      "datePublished": 1579165200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/45552396-8b69-40a2-96fc-cf88a6fddd89.mp3",
+      "duration": 1787
+    },
+    {
+      "uuid": "622f6f84-ce7c-4cd3-ad50-9d15eec32dd9",
+      "guid": "ed2e0335-97e0-411f-b55c-f812c31b833a",
+      "name": "150: Romans — Righteousness from God",
+      "datePublished": 1578560400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ed2e0335-97e0-411f-b55c-f812c31b833a.mp3",
+      "duration": 1610
+    },
+    {
+      "uuid": "4e6f89e0-1734-4220-a13c-ab83a5e59194",
+      "guid": "89dd9ad5-78a7-4fff-bb84-c26b1560aa59",
+      "name": "149: Romans — Blended Family",
+      "datePublished": 1577955600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/89dd9ad5-78a7-4fff-bb84-c26b1560aa59.mp3",
+      "duration": 2297
+    },
+    {
+      "uuid": "7622b15d-252f-4cd2-9143-bd0386e590d2",
+      "guid": "b3d19f53-54df-45d9-91d8-41e549a3155b",
+      "name": "148: Galatians — Set Free to Be Free",
+      "datePublished": 1576746000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/b3d19f53-54df-45d9-91d8-41e549a3155b.mp3",
+      "duration": 1538
+    },
+    {
+      "uuid": "55aa0d24-cdee-4b23-8f05-824f94f8dec0",
+      "guid": "ce4167b8-b615-42ba-be1c-a295e8d35b85",
+      "name": "147: Galatians — Two Women, Two Covenants",
+      "datePublished": 1576141200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ce4167b8-b615-42ba-be1c-a295e8d35b85.mp3",
+      "duration": 1541
+    },
+    {
+      "uuid": "eb632d27-1705-412e-8af1-b9a5504e797d",
+      "guid": "2a768ab1-1b75-4ba5-b088-21c6e5d82b97",
+      "name": "146: Galatians — The Curse",
+      "datePublished": 1575536400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/2a768ab1-1b75-4ba5-b088-21c6e5d82b97.mp3",
+      "duration": 1958
+    },
+    {
+      "uuid": "2efcd10a-8e1b-43ec-8c33-06f781eea2ab",
+      "guid": "7c930fb6-76ba-4400-8cc1-f67fa5e9cf5c",
+      "name": "145: Galatians — Right Hand of Fellowship",
+      "datePublished": 1574326800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/7c930fb6-76ba-4400-8cc1-f67fa5e9cf5c.mp3",
+      "duration": 2113
+    },
+    {
+      "uuid": "a7601b5e-119b-40ac-9da3-3c7122b8e061",
+      "guid": "50674150-4597-4665-b2f6-071cd591413f",
+      "name": "144: Galatians — Paul’s Gospel",
+      "datePublished": 1573722000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/50674150-4597-4665-b2f6-071cd591413f.mp3",
+      "duration": 1529
+    },
+    {
+      "uuid": "70c24e17-7598-4e08-90f7-9ee4fcb36034",
+      "guid": "f58e2e27-5f29-4232-b91c-14ebf96fc6c9",
+      "name": "143: The Epilogue",
+      "datePublished": 1573117200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f58e2e27-5f29-4232-b91c-14ebf96fc6c9.mp3",
+      "duration": 1649
+    },
+    {
+      "uuid": "57d1a247-a115-4a47-9ba4-82c11a22c79f",
+      "guid": "a6237bf6-07a7-463f-a91e-b1ab3ac85ad1",
+      "name": "142: Calling of a Prophet",
+      "datePublished": 1572508800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/a6237bf6-07a7-463f-a91e-b1ab3ac85ad1.mp3",
+      "duration": 1314
+    },
+    {
+      "uuid": "40ed0923-458e-43ac-b6aa-5bf84dd2e8b8",
+      "guid": "a1265f88-53e9-4885-9a02-124b9f8a7aa5",
+      "name": "141: Mathetes or Talmidim?",
+      "datePublished": 1571904000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/a1265f88-53e9-4885-9a02-124b9f8a7aa5.mp3",
+      "duration": 2337
+    },
+    {
+      "uuid": "99246115-0791-4cf1-91c1-96136c6d844a",
+      "guid": "f6a89c25-9263-403b-bdf5-c5281bc7baca",
+      "name": "140: Not to Burden You",
+      "datePublished": 1571299200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f6a89c25-9263-403b-bdf5-c5281bc7baca.mp3",
+      "duration": 2695
+    },
+    {
+      "uuid": "93ef551d-af4d-4b83-b499-b8b7eeffd4ba",
+      "guid": "aa396e16-dd30-49d1-b675-7b193366b2f2",
+      "name": "139: Theosabes",
+      "datePublished": 1570694400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/aa396e16-dd30-49d1-b675-7b193366b2f2.mp3",
+      "duration": 2525
+    },
+    {
+      "uuid": "c78de919-92c1-4cc0-802b-bfff295e9c8b",
+      "guid": "27077705-24e6-4b30-86a4-5cfb34d28005",
+      "name": "138: Unclean Sheets",
+      "datePublished": 1570089600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/27077705-24e6-4b30-86a4-5cfb34d28005.mp3",
+      "duration": 2692
+    },
+    {
+      "uuid": "1881c76f-7e14-4c2d-9fea-7e95bc851798",
+      "guid": "3cb4a5b3-3530-41ca-b412-c92c18ff1808",
+      "name": "137: A Dry Tree",
+      "datePublished": 1569484800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/3cb4a5b3-3530-41ca-b412-c92c18ff1808.mp3",
+      "duration": 1902
+    },
+    {
+      "uuid": "5d032afe-bea8-4f33-888d-20baf2180cc0",
+      "guid": "fd11c224-9a1e-4e89-97f6-08ce69e42d30",
+      "name": "136: Each One",
+      "datePublished": 1568880000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/fd11c224-9a1e-4e89-97f6-08ce69e42d30.mp3",
+      "duration": 2017
+    },
+    {
+      "uuid": "716b59b4-b058-407b-8445-890b132ed7f2",
+      "guid": "35eefbc3-cf68-48c2-857c-78c7467ca9d4",
+      "name": "135: Uncut Corners",
+      "datePublished": 1568275200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/35eefbc3-cf68-48c2-857c-78c7467ca9d4.mp3",
+      "duration": 1737
+    },
+    {
+      "uuid": "7e005111-18cf-4052-b856-670fedaf4d0c",
+      "guid": "770d0d15-0259-47ca-b6b2-3fc352d490bf",
+      "name": "134: Session 4 Intro",
+      "datePublished": 1567671300,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/770d0d15-0259-47ca-b6b2-3fc352d490bf.mp3",
+      "duration": 1199
+    },
+    {
+      "uuid": "53be615c-31b2-4264-848e-71f3199b93c0",
+      "guid": "3315df13-ee2a-46be-b825-ff2958bf5c7f",
+      "name": "133: Session 3 Capstone",
+      "datePublished": 1567670400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/3315df13-ee2a-46be-b825-ff2958bf5c7f.mp3",
+      "duration": 2649
+    },
+    {
+      "uuid": "121a3f26-4349-44c1-afdc-d6b5a1e19a0f",
+      "guid": "589b0319-d78e-4bca-916e-574c8b95ec82",
+      "name": "132: Go",
+      "datePublished": 1567065600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/589b0319-d78e-4bca-916e-574c8b95ec82.mp3",
+      "duration": 1806
+    },
+    {
+      "uuid": "ef923bee-ead7-4ee0-9c7f-3266b604c3cf",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5d5e41977f8ced000101a070",
+      "name": "131: Betrayal",
+      "datePublished": 1566460800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/23c6b040-e906-490a-8c62-8668af81f170.mp3",
+      "duration": 1850
+    },
+    {
+      "uuid": "dc6699c0-eef4-44a2-8f8d-8a4c045af988",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5d54f34c96ab02000180557d",
+      "name": "130: The Plot to Kill Jesus",
+      "datePublished": 1565856000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/9e895808-171d-477f-abdc-3ad781ebc21a.mp3",
+      "duration": 1890
+    },
+    {
+      "uuid": "99fcc15a-9b7d-4f8a-8d03-bfb4298c7650",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5d4bdc7bf29ccc0001a545d3",
+      "name": "129: The Final Week",
+      "datePublished": 1565251200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/08bbe90d-9987-4db7-a683-214ec6febcfb.mp3",
+      "duration": 2269
+    },
+    {
+      "uuid": "407f1c89-00c0-4e3e-b26a-4236bcc1c92f",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5d42b2c96b6b6f0001f05f9b",
+      "name": "128: Faithful and Wise Steward",
+      "datePublished": 1564646400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/68816302-8542-4fc6-9966-383a0fe2c8ae.mp3",
+      "duration": 2580
+    },
+    {
+      "uuid": "899119c9-b118-4d23-9f8e-8b09b84edd00",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5d395887a9e3180001a5cfb6",
+      "name": "127: Six or Seven?",
+      "datePublished": 1564041600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ffaaa2d0-9157-4f40-96ad-43c86418ca24.mp3",
+      "duration": 1711
+    },
+    {
+      "uuid": "a8f17543-c9c0-4f52-973b-404b27398bc7",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5d303c8afc077d00017a758d",
+      "name": "126: Trapped by a Question",
+      "datePublished": 1563436800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/8d6b91d0-8ebb-449f-9b42-fe598b832e11.mp3",
+      "duration": 2668
+    },
+    {
+      "uuid": "62f3d8cb-e848-4c6e-a5a7-fab2696f4d1a",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5d26959a0112250001cade9c",
+      "name": "125: Are You Talking to Me?",
+      "datePublished": 1562832000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/a340f935-168c-4523-b58f-ef3b4ae4aa43.mp3",
+      "duration": 1956
+    },
+    {
+      "uuid": "47fd8c81-bb48-4ea2-a261-df6182722e35",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5d1db0d711031d0001e6c862",
+      "name": "124: Statement of Triumph",
+      "datePublished": 1562227200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/549d2140-7fa3-4efb-9c46-009ab59cf41f.mp3",
+      "duration": 2488
+    },
+    {
+      "uuid": "77498ed2-6535-4687-9a23-665094248200",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5d146de72d27b30001595770",
+      "name": "123: The Heat of the Day",
+      "datePublished": 1561622400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/1ea7fa4b-39ce-426e-97ff-4283e2f20f3b.mp3",
+      "duration": 2006
+    },
+    {
+      "uuid": "a7cb4d9e-f620-4ef4-8402-0a1dfad63507",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5d0b3c30a44d030001e7adce",
+      "name": "122: A Naked Thing",
+      "datePublished": 1561017600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/18066639-eff3-4c07-b230-5d77f8199b6f.mp3",
+      "duration": 1944
+    },
+    {
+      "uuid": "7ac97f60-1fa5-4597-8736-11cc7830f50e",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5d01f84866308b0001212eec",
+      "name": "121: The Key to Your Own Prison",
+      "datePublished": 1560412800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/78ce43bb-ccc6-4093-8646-b61a0b7aac68.mp3",
+      "duration": 2738
+    },
+    {
+      "uuid": "7a39c7f5-f99e-40d2-a9d4-4f4c812ebf68",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5cf8c3e5a3a9f700018e61bc",
+      "name": "120: Truth and Light",
+      "datePublished": 1559808000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/bc908702-b892-4b06-979b-186453eeb886.mp3",
+      "duration": 2475
+    },
+    {
+      "uuid": "5abdbfbd-ba4a-4703-83e3-17c6c51bde3d",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5cef8629dffb70000167a960",
+      "name": "119: The Gates of Hell",
+      "datePublished": 1559203200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/47e61c7b-be2e-4f53-9756-422a3bf7883b.mp3",
+      "duration": 2349
+    },
+    {
+      "uuid": "fc267c3c-605c-4643-9cb8-8e6ce946fc68",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5ce64d7d419202a0f2aa2ec9",
+      "name": "118: Eyes That Cannot See",
+      "datePublished": 1558598400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ba6ee8c3-3352-4986-af50-066b94809474.mp3",
+      "duration": 1731
+    },
+    {
+      "uuid": "08e99f5a-00d4-408d-8f61-01a8920a6d22",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5cdcf3c1eef1a18697128eb5",
+      "name": "117: Jesus Resorts to Name Calling",
+      "datePublished": 1557993600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/4df860d9-6d66-44b3-8522-586d7a7ee5d5.mp3",
+      "duration": 1836
+    },
+    {
+      "uuid": "c31e3336-5cca-4302-8675-282de927eea1",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5cd3a675466a130001ebd377",
+      "name": "116: She Giggled",
+      "datePublished": 1557388800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/eb8b7a9b-578a-474c-b81b-60a1d26d836c.mp3",
+      "duration": 1414
+    },
+    {
+      "uuid": "ace28089-1768-4de5-ae10-0d49d5832116",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5cca9d048165f5e66eed5852",
+      "name": "115: 5 Loaves, 2 Fish, and 1 Big Lesson",
+      "datePublished": 1556784000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/3ad2619e-5ef6-4708-9df3-16f2d67ca82a.mp3",
+      "duration": 2307
+    },
+    {
+      "uuid": "846221dd-dd2f-4a2c-85a0-e17aadcdb2f7",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5cb818f36e9a7f2692fc31aa",
+      "name": "114: Fish in a Net",
+      "datePublished": 1556179200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/3999db17-6e7e-46c2-bcbc-989692364b72.mp3",
+      "duration": 1799
+    },
+    {
+      "uuid": "2edb9e18-7b9f-4b0b-92fc-18a3efcadac2",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5cb81678ec212d1aa1eab066",
+      "name": "113: Treasures and Pearls",
+      "datePublished": 1555574400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/b8f12e97-79ad-48a8-afd0-b9e0d49d3594.mp3",
+      "duration": 1485
+    },
+    {
+      "uuid": "eb7f4b96-30b5-47cb-942b-1033c925b709",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5caecaf1b208fca71832e135",
+      "name": "112: Explanations That Don’t Explain",
+      "datePublished": 1554969600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/39a49ca2-1f71-4e43-b382-ca2399ab8b23.mp3",
+      "duration": 2150
+    },
+    {
+      "uuid": "9da61bdf-be3d-402e-9a57-e2dd3340e30d",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5ca5b2aaeb393131db61d9ad",
+      "name": "111: A Farmer and a Woman",
+      "datePublished": 1554364800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/df0b2691-aada-4e7b-ad54-157345f0e275.mp3",
+      "duration": 1864
+    },
+    {
+      "uuid": "ffefb22b-5871-4d58-ba1e-13771fc4f190",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5c9c6b76652dea3651a3135e",
+      "name": "110: Jewish Hermeneutics",
+      "datePublished": 1553760000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/87502b68-122d-448c-8101-b3d346226ec5.mp3",
+      "duration": 2328
+    },
+    {
+      "uuid": "f11209c8-bd52-429a-9199-e264f01184f7",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5c93204141920263332fa8b6",
+      "name": "109: Which Soil?",
+      "datePublished": 1553155200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f7574875-703b-4506-8bfb-340bfeb21ea8.mp3",
+      "duration": 1770
+    },
+    {
+      "uuid": "96cecfb1-0173-42df-aa50-19d126aaa90a",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5c89f5169140b7d7eeacd328",
+      "name": "108: The Fruit of Beelzebul",
+      "datePublished": 1552550400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/03608581-6893-40ba-ac97-6305106d038d.mp3",
+      "duration": 1953
+    },
+    {
+      "uuid": "f3b7d1e8-16db-461c-8e6c-eda49ab22117",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5c80cb304785d342b6df37c7",
+      "name": "107: Donkeys and Rabbis",
+      "datePublished": 1551949200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/3ca3b505-ec43-4d4c-ae82-9e95bb352739.mp3",
+      "duration": 2677
+    },
+    {
+      "uuid": "4cecd57f-13c2-4e57-9b6a-136828e20df6",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5c778e5f1905f4c757bbc397",
+      "name": "106: Jury Duty in Sodom",
+      "datePublished": 1551344400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/7c2240c6-a0e1-4649-bc8b-3f5de9f651c8.mp3",
+      "duration": 2023
+    },
+    {
+      "uuid": "b2911ca6-ad17-4cdf-84f3-6b1550c999c9",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5c6e6063eb39315d8de2cc7c",
+      "name": "105: An Explosive Kingdom",
+      "datePublished": 1550739600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/3df1408b-b2fc-4c1c-971c-58957c8f4ac6.mp3",
+      "duration": 2666
+    },
+    {
+      "uuid": "8b140a01-6f9f-43c2-b3c5-1eb507c3c6fb",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5c65216aec212de344436e13",
+      "name": "104: Innocent as Doves",
+      "datePublished": 1550134800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/6c91660c-69ad-4782-b75f-e993c81c83fe.mp3",
+      "duration": 2399
+    },
+    {
+      "uuid": "43ff6d74-e7d3-4cbe-a769-7394bc390193",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5c5beb13eb393140dc7b4454",
+      "name": "103: Healing in His Wings",
+      "datePublished": 1549530000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/c226ef79-15dc-4a9a-9a6c-a7bfd7c2eca8.mp3",
+      "duration": 2322
+    },
+    {
+      "uuid": "1f85f5ce-bebb-4c94-b9e6-562e7e7ad767",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5c52a59a2b6a2803e8c56404",
+      "name": "102: Son of Man",
+      "datePublished": 1548925200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/03c0ee82-cbd2-4424-8992-c8f3eef2809f.mp3",
+      "duration": 2646
+    },
+    {
+      "uuid": "929fce19-fcb3-456e-b30a-9a9c51cf1eda",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5c496baa0ebbe8f531dbfebe",
+      "name": "101: The Other Side",
+      "datePublished": 1548320400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f5034826-4038-4ac9-8e51-693f945d61ff.mp3",
+      "duration": 2396
+    },
+    {
+      "uuid": "e4eaa001-1189-46b0-8cac-eb6b66619ad0",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5c401cca2b6a2851985e6448",
+      "name": "100: Healing at Great Cost",
+      "datePublished": 1547715600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/3d08daf3-def3-44e3-9abe-81f4c375e75e.mp3",
+      "duration": 2660
+    },
+    {
+      "uuid": "d36bd1f8-e9fc-4927-a15e-819df660ea5a",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5c36e93d88251b2faf2f7ba8",
+      "name": "99: Fruit of Fools",
+      "datePublished": 1547110800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/e759b9fa-354d-4e05-b963-b52ce745de43.mp3",
+      "duration": 2092
+    },
+    {
+      "uuid": "4fc1932b-8a71-4a88-b2be-0d2c0a43c356",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5c2db236aa4a99b8798fae28",
+      "name": "98: A Good Eye",
+      "datePublished": 1546506000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/6124c231-550c-4225-a334-de66eb08972a.mp3",
+      "duration": 2412
+    },
+    {
+      "uuid": "25e93465-e6e6-4aa6-bf3a-f4dabb92f710",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5c1b2de8032be4faa677a42e",
+      "name": "97: Done in Secret",
+      "datePublished": 1545296400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/e507a6b4-b0d4-4617-8509-c20eca254630.mp3",
+      "duration": 2187
+    },
+    {
+      "uuid": "c3ed1d4c-5068-499e-a49c-edf1d20ddd7b",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5c11bc25898583735e560aae",
+      "name": "96: But I Say Unto You",
+      "datePublished": 1544691600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/618d0ee2-2e90-4f89-a81e-3db3b9f654fb.mp3",
+      "duration": 2295
+    },
+    {
+      "uuid": "27f25587-55b4-411f-b859-5d1b18662e41",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5c08ca144d7a9c4906d94211",
+      "name": "95: Abolish or Fulfill",
+      "datePublished": 1544086800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/d1a0545e-fe41-4c2b-a288-44f38a41fd2e.mp3",
+      "duration": 2275
+    },
+    {
+      "uuid": "589210b5-6c4b-44f5-9d9c-6dd5d7fcb9ad",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5bff858703ce643c6ff65330",
+      "name": "94: Hope of the World",
+      "datePublished": 1543482000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/4bbc9699-b89c-43a7-bd46-bddb71458140.mp3",
+      "duration": 1556
+    },
+    {
+      "uuid": "34ccbac8-dcbc-45ac-9647-bf14e058776f",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5bed0a9d352f53b39fffce81",
+      "name": "93: Blessed",
+      "datePublished": 1542272400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/95a1cc27-44ab-4d0e-8618-53197db4acc8.mp3",
+      "duration": 2270
+    },
+    {
+      "uuid": "257aa5a7-965c-4fab-8b70-62b3969f8d38",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5be3f85021c67cb4e3ef406a",
+      "name": "92: How to Bring Order Out of Chaos",
+      "datePublished": 1541667600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/a5db5015-6007-4ab6-a06d-de460a7fbb2e.mp3",
+      "duration": 1645
+    },
+    {
+      "uuid": "636ddb02-3744-4d31-a8a2-783fc99b3c83",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5bda85f04fa51a6960c38f08",
+      "name": "91: Tavilah T'Shuvah",
+      "datePublished": 1541059200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/691d9682-6b4a-4f1d-b811-c838affff2f9.mp3",
+      "duration": 2261
+    },
+    {
+      "uuid": "c8482a01-f431-4d7f-ac9a-36c198a43dce",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5bd16c4cb208fc4331c57a75",
+      "name": "90: A Gospel of Two Kingdoms",
+      "datePublished": 1540454400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/7cd6f2c3-6bf5-49ca-9bf2-24882842afca.mp3",
+      "duration": 1422
+    },
+    {
+      "uuid": "a20c8939-99a5-44de-ae93-65aabec8b813",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5bc823a053450a52e8f4f0fd",
+      "name": "89: Written in the Stars",
+      "datePublished": 1539849600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/cb0f014d-ace2-497c-98e1-0e11152b6a60.mp3",
+      "duration": 2649
+    },
+    {
+      "uuid": "2f7c5c63-cf6a-409a-b3ec-b2144d5ef25b",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5bbf1ff2eef1a1350e62524c",
+      "name": "88: Setting the Stage",
+      "datePublished": 1539244800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/a54b83bb-cf9a-4957-8f8c-b55aee2b2c28.mp3",
+      "duration": 1619
+    },
+    {
+      "uuid": "b2abfab3-f4f9-4601-a77e-9d184b323f32",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5bb5b0999140b7eecfaffaf6",
+      "name": "87: John — Grafted",
+      "datePublished": 1538640000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ed18a627-146f-41f6-af85-c4e7aa54eb5a.mp3",
+      "duration": 2435
+    },
+    {
+      "uuid": "e1bbe39d-84f7-49bc-a265-e9a74175af48",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5bac76e39140b7582b96db43",
+      "name": "86: Luke — Ordered",
+      "datePublished": 1538035200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/90910824-197d-41f0-b68d-92a11e114727.mp3",
+      "duration": 1332
+    },
+    {
+      "uuid": "ef82ad87-6d79-4bee-9b14-49e4dedc03dc",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5ba31f231ae6cf58cac4be70",
+      "name": "85: Mark — Roman Gospel",
+      "datePublished": 1537430400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/479f64f9-76f3-471c-a57e-09eb883b66cc.mp3",
+      "duration": 2372
+    },
+    {
+      "uuid": "994b48e6-f606-45a3-81b5-ac0d2e2a7ecb",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5b9a153d575d1f3c4745af41",
+      "name": "84: Matthew — Mumzer",
+      "datePublished": 1536825600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/575d2e41-eacc-4dbf-a6a4-0cf7f4ef0a04.mp3",
+      "duration": 1932
+    },
+    {
+      "uuid": "fd9be8fe-a804-4837-84b2-d2f513cc987c",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5b90cd1340ec9ab3a961ff5a",
+      "name": "83: Gospel Narrative",
+      "datePublished": 1536220800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ba07f539-d620-481d-90d0-7ed5dd07a433.mp3",
+      "duration": 1929
+    },
+    {
+      "uuid": "6ad8149c-2319-4d70-b7f3-82947736c611",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5b876483562fa7972e63ff42",
+      "name": "82: The Text — When, Where, Who, and Why",
+      "datePublished": 1535616000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/b556f171-a466-4591-aca0-6348e43250f6.mp3",
+      "duration": 2961
+    },
+    {
+      "uuid": "64623bd0-6bc0-4e52-b8c6-23c55663f625",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5b726b8a575d1f3a6fb52192",
+      "name": "81: Silent Years — Association",
+      "datePublished": 1534406400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/317c48d5-1a1e-4b2a-8df3-4d59e59e0528.mp3",
+      "duration": 2168
+    },
+    {
+      "uuid": "9b1cf098-0c72-4250-834f-1cebda7a7c94",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5b62c527352f53e99ff31321",
+      "name": "80: Silent Years — Pharisees",
+      "datePublished": 1533196800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/1c8ee24f-ca92-4149-8569-7077953da5da.mp3",
+      "duration": 1477
+    },
+    {
+      "uuid": "b035cd56-a80a-45ba-950a-2b632bdf709c",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5b5043dd1ae6cfa99e632c87",
+      "name": "79: Silent Years — Zealots",
+      "datePublished": 1531987200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/59cabfc8-1601-48e0-820c-8ad8398dff8a.mp3",
+      "duration": 2449
+    },
+    {
+      "uuid": "cbe799e3-c207-4a08-96f9-7e0de5a33e7c",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5b3ddbf3f950b77f51984150",
+      "name": "78: Silent Years — Essenes",
+      "datePublished": 1530777600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f630851b-9bd2-4b60-9086-5c92d1d7dda9.mp3",
+      "duration": 1305
+    },
+    {
+      "uuid": "05ab0ea6-745d-4a40-a399-784e527703c6",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5b2b4e2bf950b7ec244af0f8",
+      "name": "77: Silent Years — Herodians",
+      "datePublished": 1529568000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/e7db409b-084b-4440-bc4b-e0b1e5e8e8aa.mp3",
+      "duration": 1875
+    },
+    {
+      "uuid": "a3735d6d-2724-45f1-b83e-5d14ddca95f2",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5b140f2c758d4674dd76787a",
+      "name": "76: Silent Years — Sadducees",
+      "datePublished": 1528358400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ff679d9a-e85a-47ef-a09f-daf9dd87b221.mp3",
+      "duration": 1944
+    },
+    {
+      "uuid": "7dece8b5-b060-46e0-8863-cdddbd3bd5d6",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5b066d14352f537faa9169e6",
+      "name": "75: Silent Years — Welcome to Hellenism",
+      "datePublished": 1527148800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ff6f4ac7-c74b-4ff5-876b-6ff51b31bdca.mp3",
+      "duration": 1877
+    },
+    {
+      "uuid": "078fefd3-a00c-47f6-ad5c-027e9ca77677",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5af40d1888251bd3a022d0d7",
+      "name": "74: Silent Years — Synagogue",
+      "datePublished": 1525939200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/c7536e01-8930-451d-8403-fac0aa4f65da.mp3",
+      "duration": 2520
+    },
+    {
+      "uuid": "99de5e47-c155-44c4-bc4e-f9067724efef",
+      "guid": "57b79073d482e9b69b7a1a19:5ad6e4172b6a284cf9ff6200:5ad6e5c51ae6cf08acc040ba",
+      "name": "73: Session 3 Intro",
+      "datePublished": 1524730500,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/292c2554-7e2e-47fe-b0f7-7e0ad3197912.mp3",
+      "duration": 1085
+    },
+    {
+      "uuid": "0b71190c-4049-478c-8060-743bcc6136fe",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:5ad8386eaa4a996c2d5b7b01",
+      "name": "72: Session 2 Capstone",
+      "datePublished": 1524729600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/92d80293-2db0-41dd-b16c-aa9049c22905.mp3",
+      "duration": 1592
+    },
+    {
+      "uuid": "c353d635-68dd-4f69-a79f-e072f66acaa5",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:5ad81a7c1ae6cf35111e11cb",
+      "name": "71: The Prophetic Table",
+      "datePublished": 1524124800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/23ab5b4d-c156-4e5d-95fd-dd01c03c9d5d.mp3",
+      "duration": 1350
+    },
+    {
+      "uuid": "1115fc57-8b1f-473d-8e66-35c55306b7ab",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:5acef1a81ae6cf77137c9dbb",
+      "name": "70: Esther — Purim",
+      "datePublished": 1523520000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/6c0c1f24-1a40-4a78-978b-ba811114b5b7.mp3",
+      "duration": 2083
+    },
+    {
+      "uuid": "5b38aba9-e5a0-419c-a7dd-aed8280b78ed",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:5ac5c6611ae6cf3b2c67809b",
+      "name": "69: Malachi — Q&A",
+      "datePublished": 1522915200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ae57bf3a-ba8c-44e2-8788-5f0bcd19ac24.mp3",
+      "duration": 1079
+    },
+    {
+      "uuid": "2fc679c2-60fd-44f9-978e-79c16fc58746",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:5abc7d1a6d2a733c07ac5821",
+      "name": "68: Zechariah — Apocalyptic Literature",
+      "datePublished": 1522310400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/4397bbae-c02b-4716-a58e-3de754b75dc1.mp3",
+      "duration": 953
+    },
+    {
+      "uuid": "a2eff220-80e7-4bf2-bdd9-7b4be09a5105",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:5ab357a2352f53484000c0b0",
+      "name": "67: Haggai — Build!",
+      "datePublished": 1521705600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/4f996cee-de08-4982-9412-7d5760b0ef0f.mp3",
+      "duration": 1387
+    },
+    {
+      "uuid": "46ce26ce-6b3a-424c-9702-8738893d7539",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:5aaa0fabf9619ada9290aac4",
+      "name": "66: Ezra/Nehemiah — Passionate Leadership",
+      "datePublished": 1521100800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/104dac7a-499b-4979-8035-4984eaf0e55d.mp3",
+      "duration": 1386
+    },
+    {
+      "uuid": "2c8c7ee6-9adc-4bdc-892e-848698c24c7d",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:5aa0e96cc83025fedf5bc1ab",
+      "name": "65: 4 Isaiah — Hope",
+      "datePublished": 1520499600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/30045f5c-c6ff-4f89-a4c4-f691962cbad7.mp3",
+      "duration": 1492
+    },
+    {
+      "uuid": "10f5aabc-5193-445a-bccd-35674df0d063",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:5a97a478652dea1afc81bf2d",
+      "name": "64: 3 Isaiah — Servant",
+      "datePublished": 1519894800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/58d9523f-dbc8-4f5c-b3a6-4ae97083a21d.mp3",
+      "duration": 1543
+    },
+    {
+      "uuid": "c182382c-8b28-415b-9976-6b9f58c91ec5",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:5a8e6e36419202db3245bbb2",
+      "name": "63: Job — Perspective",
+      "datePublished": 1519290000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/7f4b8013-976b-4ea5-89e8-2fd06d2b34b7.mp3",
+      "duration": 1586
+    },
+    {
+      "uuid": "4fba5592-dce8-44f1-ab18-592c342b883c",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:5a85338ee4966b15dda25a8a",
+      "name": "62: Daniel — Son of Man",
+      "datePublished": 1518685200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/08957d7c-2e92-4781-b9a3-5e24995f13cb.mp3",
+      "duration": 1265
+    },
+    {
+      "uuid": "5768ea80-ac05-4b50-87b0-a4349c2b0e14",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:5a7c0d2671c10b9941f0a4b8",
+      "name": "61: Ezekiel — Strength",
+      "datePublished": 1518080400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/3bc8a255-ef32-4d99-9edd-32717f8797c5.mp3",
+      "duration": 1443
+    },
+    {
+      "uuid": "6841c289-3368-4e19-9d8c-b45eebffd017",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:5a72c5f9f9619ac3d252ea53",
+      "name": "60: Joel — Locusts",
+      "datePublished": 1517475600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/2749780d-f511-4b07-b742-cc0b0ae698bd.mp3",
+      "duration": 1538
+    },
+    {
+      "uuid": "c1f64f60-0136-475b-b1cd-e74417d60960",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:5a696d7a652deaeb8076ffac",
+      "name": "59: Obadiah — Petra",
+      "datePublished": 1516870800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/1fd9ae29-af43-48e5-bd76-0a8dc54352af.mp3",
+      "duration": 1280
+    },
+    {
+      "uuid": "2cd592bf-d010-4778-9faa-5d5824651201",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:5a60523c71c10b8fa3d113c1",
+      "name": "58: Habakkuk — Watchtower",
+      "datePublished": 1516266000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/e3087d9e-ff6b-4af6-8ce2-9e9a331aec04.mp3",
+      "duration": 1591
+    },
+    {
+      "uuid": "b1b20fbf-4a58-4f1b-baa6-309878700b39",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:5a57171f419202b169a1b007",
+      "name": "57: Lamentations — Lament and Hope",
+      "datePublished": 1515661200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f5111a26-65f6-4bda-9e36-d46308629796.mp3",
+      "duration": 1548
+    },
+    {
+      "uuid": "26ebabda-8afb-4ee1-8510-a59d3a4daf89",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:5a4dd02d652dea036ca334bd",
+      "name": "56: Jeremiah — Weeping",
+      "datePublished": 1515056400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ad7bc283-adce-43e8-88ea-e15d6b88d755.mp3",
+      "duration": 2423
+    },
+    {
+      "uuid": "ac050b1a-1a00-45ac-b89f-441704529f03",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:5a3250b6652dea4e8a2eba40",
+      "name": "55: 2 Isaiah — Woe",
+      "datePublished": 1513242000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/8cf8502c-ccb4-4e9e-a312-797cfa05b2fa.mp3",
+      "duration": 1921
+    },
+    {
+      "uuid": "6328ffea-d13f-45bc-8173-d37c49889554",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:5a28ff68f9619ace6d766298",
+      "name": "54: Zephaniah — T'shuvah",
+      "datePublished": 1512637200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/6f19b544-616d-4e68-b1f8-d23c1aaeb717.mp3",
+      "duration": 2112
+    },
+    {
+      "uuid": "6512cb74-8b69-415a-9b57-6e334ab01627",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:5a1fc5a4c830253d32dbfe89",
+      "name": "53: Nahum — Diyn",
+      "datePublished": 1512032400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/6436e8cf-5dda-4750-9bf0-08d8d75f370b.mp3",
+      "duration": 1376
+    },
+    {
+      "uuid": "b5bae780-0c32-455a-b3e4-c831c45a2f2c",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:5a0d4f8f652deae2eb779dfc",
+      "name": "52: Jonah — Potential",
+      "datePublished": 1510822800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/43b5bf47-90f3-4f20-9905-8681a189636b.mp3",
+      "duration": 2111
+    },
+    {
+      "uuid": "181f27f9-9003-46f0-a7f8-157da872cae1",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:5a0419d6085229e18aa4398a",
+      "name": "51: 1 Isaiah — Vineyard",
+      "datePublished": 1510218000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/89115ac3-e633-4c39-87e5-c37bb711818e.mp3",
+      "duration": 2252
+    },
+    {
+      "uuid": "d013500d-4c2f-4a07-9e21-e5ff0b6f4737",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:59fac2f68165f5028c5f903f",
+      "name": "50: Micah — Judge",
+      "datePublished": 1509609600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/90726620-27e9-4280-87e8-3178e91c38e0.mp3",
+      "duration": 2526
+    },
+    {
+      "uuid": "705f1fe9-8beb-438e-9b7e-a1289f33404e",
+      "guid": "994f4d22-23db-4ea4-8799-71157f629308",
+      "name": "Verastikh (Hosea)",
+      "datePublished": 1509005700,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/994f4d22-23db-4ea4-8799-71157f629308.mp3",
+      "duration": 68
+    },
+    {
+      "uuid": "9f257541-3b6f-427b-8109-cdb97d8410bf",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:59f17d83692ebe6007232ae4",
+      "name": "49: Hosea — Prostitute",
+      "datePublished": 1509004800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/088d3d25-53ba-4ddf-b15e-4844782b5918.mp3",
+      "duration": 1621
+    },
+    {
+      "uuid": "95e9235b-b4e2-4346-826d-8e5e9da86af2",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:59e84c816f4ca39efc124033",
+      "name": "48: Amos — Plumb Line",
+      "datePublished": 1508400000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/98875eb9-c297-46d6-8028-382fdbbf10b8.mp3",
+      "duration": 2285
+    },
+    {
+      "uuid": "54a8030a-1e14-40f4-bd34-d19fd8c0f233",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:59defa7e80bd5e963fd6e5e8",
+      "name": "47: The Lord’s Mouthpiece",
+      "datePublished": 1507795200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/6120421e-8c66-49e3-acc6-96998885d378.mp3",
+      "duration": 1179
+    },
+    {
+      "uuid": "290b7998-d2bd-4668-af9f-cbc286829fb1",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:59d5d1e3a803bba2527daf86",
+      "name": "46: Song of Sexuality",
+      "datePublished": 1507190400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f7d1ae32-37f8-46ca-981f-b355cc38fcdc.mp3",
+      "duration": 1991
+    },
+    {
+      "uuid": "16000001-c2e3-4583-86dd-85201dd68ac3",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:59cca977cd39c3e808ccc38c",
+      "name": "45: Wisdom and Meaning",
+      "datePublished": 1506585600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/91c43a87-6dc1-4213-9ea5-13e350469551.mp3",
+      "duration": 1620
+    },
+    {
+      "uuid": "03408c75-3ede-4e7d-b288-09b48f3e6545",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:59c362a01f318d489cde2a3f",
+      "name": "44: Our Harps in the Trees",
+      "datePublished": 1505980800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/cbaf96ad-7593-4405-a910-880c6d1f85cc.mp3",
+      "duration": 1909
+    },
+    {
+      "uuid": "e335f58e-7ecb-44cd-b578-6e06fa89b222",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:59ba2e50e45a7c88ea9602a8",
+      "name": "43: Go in Peace",
+      "datePublished": 1505376000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/3e4172f0-4193-4ccc-bfd7-c7745ca9740d.mp3",
+      "duration": 2064
+    },
+    {
+      "uuid": "7ff80c73-1682-4cdb-b1bf-954912bfd45b",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:59b0ec89b7411ca20a0febc0",
+      "name": "42: The Fire of Elijah",
+      "datePublished": 1504771200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/534e5951-809d-40e7-b0d0-8a48a809b2f1.mp3",
+      "duration": 2607
+    },
+    {
+      "uuid": "3f4c124c-e485-473a-a2dc-ccac1c9c37a0",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:59a7aa26cd0f6870302c797f",
+      "name": "41: The Story Behind the Story",
+      "datePublished": 1504166400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/1ce0db88-f86d-44ed-89cb-4646bad43aff.mp3",
+      "duration": 2190
+    },
+    {
+      "uuid": "77951568-86d7-4d0d-936b-a5dc844acc18",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:599e7920914e6b73b9a04d64",
+      "name": "40: One Story, Two Sources",
+      "datePublished": 1503561600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/299baa3e-0cd0-48ab-a94a-f50b6ae5203e.mp3",
+      "duration": 1803
+    },
+    {
+      "uuid": "105807ed-d65f-4931-a441-6247ef24c05d",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:598bff62197aea3c27f717b3",
+      "name": "39: A King After God’s Own Heart",
+      "datePublished": 1502352000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/417f4b5e-6ed7-4424-9093-a7e8c5d12474.mp3",
+      "duration": 2720
+    },
+    {
+      "uuid": "105de6b0-ff8a-4400-a6cf-77efca632209",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:59798d3215d5db2591648d58",
+      "name": "38: A Donkey Herder to Lead Us",
+      "datePublished": 1501142400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/184e26e1-0fc7-42c8-96d0-2d9769f6b76b.mp3",
+      "duration": 1692
+    },
+    {
+      "uuid": "3ff24344-a62e-4cc9-9e52-45a3f491dedb",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:596718321e5b6c31e1ec0108",
+      "name": "37: A Love Story",
+      "datePublished": 1499932800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/5f8e308a-45c8-4c8b-bbda-417b12be25be.mp3",
+      "duration": 2877
+    },
+    {
+      "uuid": "2d583c85-e1ec-4849-a85b-fc004d7c3901",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:5954960ebebafb5e2571482c",
+      "name": "36: The Redemption Cycle",
+      "datePublished": 1498723200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/7b0dd127-96ec-4d78-b19a-9a42426be83c.mp3",
+      "duration": 1956
+    },
+    {
+      "uuid": "87e3162f-8ec2-47ca-b1f3-05c9bd264ca9",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:59423d13e58c624bbba214f2",
+      "name": "35: Crossroads of the Earth",
+      "datePublished": 1497513600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/8614d725-9113-4471-8043-e82aebc9c47d.mp3",
+      "duration": 2437
+    },
+    {
+      "uuid": "41271239-cbe8-4715-9457-07a2decdf505",
+      "guid": "f8ec2b17-9131-48dc-9fd7-10d14b619f4c",
+      "name": "Special Announcement for July 2026",
+      "datePublished": 1496908800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f8ec2b17-9131-48dc-9fd7-10d14b619f4c.mp3",
+      "duration": 71
+    },
+    {
+      "uuid": "a62334e3-5738-4972-9bf6-f9bad95c4572",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:592faff615d5db909ee4d793",
+      "name": "34: The Hardest Story in the Bible (for me)",
+      "datePublished": 1496304000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/88726eba-748f-4e3c-99b6-8281c58e80ad.mp3",
+      "duration": 3371
+    },
+    {
+      "uuid": "30cbf92f-c6d7-43ec-b844-6bcd2c5fffc0",
+      "guid": "57b79073d482e9b69b7a1a19:591636208419c282a857380e:5916381046c3c45c5c6ce772",
+      "name": "33: Session 2 Intro",
+      "datePublished": 1495095300,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/fb97afe4-defa-4180-bc6b-e9a1769ba25b.mp3",
+      "duration": 1373
+    },
+    {
+      "uuid": "fc1b3f73-cd46-455c-ad55-f4912b6fbcdd",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:591d3af91e5b6cb773a62c2e",
+      "name": "32: Session 1 Capstone",
+      "datePublished": 1495094400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/0933347d-80e5-4595-aab7-8d01b6a333de.mp3",
+      "duration": 1667
+    },
+    {
+      "uuid": "36b626ba-de79-4439-abfb-cc64a8ddffb2",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:59141db0e6f2e10a5caf78ce",
+      "name": "31: Remember Where You Came From",
+      "datePublished": 1494489600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/754c2cdd-9a30-47dd-a754-44a17b9d3ec0.mp3",
+      "duration": 2588
+    },
+    {
+      "uuid": "d85d699b-594c-407d-ba9c-ab933d539975",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:590ace2c46c3c4b30420d5fb",
+      "name": "30: Lead with Your Voice",
+      "datePublished": 1493884800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/10896165-9da9-46cf-a70e-45076084fb94.mp3",
+      "duration": 2423
+    },
+    {
+      "uuid": "4dc8f98a-2b6e-4321-b4cd-76e869282a9e",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:59017da26b8f5b870312dfe1",
+      "name": "29: Images of the Desert — Wadi and En Gedi",
+      "datePublished": 1493280000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/f39395d3-fa35-4c9c-9d67-af51fe37e375.mp3",
+      "duration": 2541
+    },
+    {
+      "uuid": "d6ddf74e-710b-4ed0-8aa6-06b9d09ba69e",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:58f84aa7725e25f6a4bd3b99",
+      "name": "28: Images of the Desert — Ar'ar and Tamarisk",
+      "datePublished": 1492675200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/8a688c15-6c9c-4a0e-ae37-eeebae9f1841.mp3",
+      "duration": 1696
+    },
+    {
+      "uuid": "8b96ecc4-f385-4821-bf0e-f9ce3bfb21a7",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:58ef081cd2b857e333d2de01",
+      "name": "27: Images of the Desert — Rotem and Acacia",
+      "datePublished": 1492070400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/e72a7ad6-d998-4899-af9f-53ca127a43a0.mp3",
+      "duration": 2140
+    },
+    {
+      "uuid": "8a8aef42-53a0-4217-8c86-b0234339f6b1",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:58e5de1bc534a58796067e82",
+      "name": "26: Images of the Desert — Shepherd",
+      "datePublished": 1491465600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/d62aa96d-58de-4f49-854c-ab16574af58a.mp3",
+      "duration": 2329
+    },
+    {
+      "uuid": "e7ade05c-d4a5-4bff-8121-1448d2472baa",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:58dca089c534a5a988711992",
+      "name": "25: A Kingdom of What?",
+      "datePublished": 1490860800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/52abb681-531c-4e68-9136-5b5ced952f3d.mp3",
+      "duration": 2952
+    },
+    {
+      "uuid": "fdc24289-777d-43b5-9718-41b71951d5e4",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:58d357b71e5b6c804e634988",
+      "name": "24: Creating a Space",
+      "datePublished": 1490256000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/7f12cb5d-e941-430c-bcb1-246fd52e6eec.mp3",
+      "duration": 4052
+    },
+    {
+      "uuid": "d7f588fa-39c7-41fe-bba9-042bdc67cea8",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:58ca28b88419c287d4b48a93",
+      "name": "23: Falling on Joyful Faces",
+      "datePublished": 1489651200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/36ccf2a3-adc7-4ffa-8846-63148fc6e817.mp3",
+      "duration": 1719
+    },
+    {
+      "uuid": "3de4f594-9a0e-45ea-bcc2-168f46b77874",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:58c0f48e37c581ac65c69a9c",
+      "name": "22: Under the Chuppah",
+      "datePublished": 1489050000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/3416fecc-0433-4739-8333-a9fa88e52b28.mp3",
+      "duration": 2684
+    },
+    {
+      "uuid": "1bc556f5-d79c-46ce-ad59-eae3d2745ae7",
+      "guid": "8a17d848-b297-4b5b-a000-28a2255df18b",
+      "name": "“Jesus Shema”",
+      "datePublished": 1488446100,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/8a17d848-b297-4b5b-a000-28a2255df18b.mp3",
+      "duration": 78
+    },
+    {
+      "uuid": "f38597dc-be5a-4a1b-8f62-5d0b5e445ea6",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:58b7c7601e5b6cfc1768960d",
+      "name": "21: With All Your Soul & “Very”",
+      "datePublished": 1488445200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/61c6dd78-a79b-48e1-af83-a621ce0b1753.mp3",
+      "duration": 2169
+    },
+    {
+      "uuid": "24dca86b-4e42-4a30-875c-f8e71b5afed2",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:58ae72406b8f5b803385337f",
+      "name": "20: With All Your Heart",
+      "datePublished": 1487840400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/37fa3dcb-9359-458e-a406-1aab9fcbb26d.mp3",
+      "duration": 3287
+    },
+    {
+      "uuid": "dd186c1a-5a3c-4eaf-ac58-a76600b8f5ba",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:58a54a8ee6f2e11e86871625",
+      "name": "19: A Strengthened Heart",
+      "datePublished": 1487235600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/a2ccd08b-7d28-4d5c-a78e-94afe9b03fef.mp3",
+      "duration": 2827
+    },
+    {
+      "uuid": "85b7db65-8cd4-42e3-8d80-df23ef7debb6",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:589bf6f82994cafc6ae72fb1",
+      "name": "18: A Tale of Two Kingdoms",
+      "datePublished": 1486630800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/befad4e4-0c0b-4b7c-94e5-0b41ff30ed4e.mp3",
+      "duration": 2714
+    },
+    {
+      "uuid": "573141a5-053c-4169-aed9-bd95e72c9027",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:5892c9649f745653f78a21a6",
+      "name": "17: A God Who Hears the Cry",
+      "datePublished": 1486026000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/6d72e9a6-924c-473a-ae04-4eb0924ba337.mp3",
+      "duration": 2460
+    },
+    {
+      "uuid": "9368483b-06a5-49ab-8dd0-7ab378fe03d8",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:5889a3bbbebafb85b35deb46",
+      "name": "16: Out of the Pit",
+      "datePublished": 1485421200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/cd278b51-4432-4bb0-bcc8-ec6e318c18ec.mp3",
+      "duration": 2829
+    },
+    {
+      "uuid": "2126b8c3-84f7-43a1-b9e5-e74a5a707113",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:58806705e6f2e1431061e7af",
+      "name": "15: Into the Pit",
+      "datePublished": 1484816400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/56947232-e260-490b-80b3-63775edf5318.mp3",
+      "duration": 3351
+    },
+    {
+      "uuid": "6674a397-7428-4fbb-9f1b-3ba02c7b4511",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:58772e86bf629a1623877f40",
+      "name": "14: Grappling with God, Part 2",
+      "datePublished": 1484211600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/4dbb169a-b984-47ec-b250-f995207665d1.mp3",
+      "duration": 2541
+    },
+    {
+      "uuid": "ca8a8cee-28e2-4169-8922-b19109b091e9",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:586dfa2bf5e2319aa2784cb3",
+      "name": "13: Grappling with God, Part 1",
+      "datePublished": 1483606800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/b278775f-1313-4790-b0dd-45d01d46202f.mp3",
+      "duration": 2540
+    },
+    {
+      "uuid": "0cc50f0e-716c-4506-8169-9a748dd0ad9f",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:58524119e58c62343f3bea7d",
+      "name": "12: A Mission Realized",
+      "datePublished": 1481792400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/bb262c26-79db-4cfd-b079-ef41ab2dd05d.mp3",
+      "duration": 2428
+    },
+    {
+      "uuid": "1caca814-9f2d-44ae-9970-f04e509fa537",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:58490c1dd1758e4fb829644a",
+      "name": "11: Here I Am",
+      "datePublished": 1481187600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/ce05e962-81f6-45d8-b002-87f5b7c9387e.mp3",
+      "duration": 3521
+    },
+    {
+      "uuid": "1d8875f7-2280-48e8-9e12-03d4558bfdc0",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:583fc3896a49633dc718ec06",
+      "name": "10: Walking the Blood Path",
+      "datePublished": 1480582800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/61caf9f9-610d-4143-9f88-2c5f16b3041e.mp3",
+      "duration": 2695
+    },
+    {
+      "uuid": "c9ab6edf-6de8-4bbf-9ada-d8709f06fd98",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:582d57adc534a5fce5295655",
+      "name": "9: Letting Go",
+      "datePublished": 1479373200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/8c1b62de-ce59-4529-82a2-f7094a349ce7.mp3",
+      "duration": 2714
+    },
+    {
+      "uuid": "ee1c6c83-c9c1-4025-88df-6f3bf86ed19e",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:5823c79a37c581110933faf6",
+      "name": "8: Buried in a Genealogy",
+      "datePublished": 1478768400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/8fcd093a-344b-4fe0-b8b3-460dd973c339.mp3",
+      "duration": 2618
+    },
+    {
+      "uuid": "f6dc0656-0107-4182-a276-c0dca9942dd2",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:581a8414893fc0c77e3b807b",
+      "name": "7: The Preface",
+      "datePublished": 1478160000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/491eb18d-0b1d-4ac3-a0d0-9e222d2c0816.mp3",
+      "duration": 1139
+    },
+    {
+      "uuid": "fa88d962-884c-4fa9-a347-97f1e062c624",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:58117fe26a49630f40b6addd",
+      "name": "6: A Tale of a Tower",
+      "datePublished": 1477555200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/62379e74-04d7-4776-84c8-2b7df25c5d8d.mp3",
+      "duration": 2399
+    },
+    {
+      "uuid": "b0bbb3bc-09d1-401b-9d4d-c4893f3fa2f2",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:580839c059cc68e812757925",
+      "name": "5: A Misplaced Curse",
+      "datePublished": 1476950400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/02d1bac1-7085-46e1-8ece-5e9e4e3a8165.mp3",
+      "duration": 2219
+    },
+    {
+      "uuid": "ddea0be9-c3c0-4e78-958f-690880ffb76e",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:57f5d49be4fcb5154dc74c30",
+      "name": "4: His Bow in the Clouds",
+      "datePublished": 1475740800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/b183af98-2046-428c-ab23-92db003b9300.mp3",
+      "duration": 2040
+    },
+    {
+      "uuid": "2ad201f6-455f-4d62-8e71-2551942ac509",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:57e31a8a8419c27908be5a23",
+      "name": "3: Master the Beast",
+      "datePublished": 1474531200,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/44657d2a-969b-4d04-8ead-5e00d9a175d3.mp3",
+      "duration": 1587
+    },
+    {
+      "uuid": "cdc115e6-0850-4dda-84ab-2acfe8728816",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:57daa8bae58c627633876fdd",
+      "name": "2: Knowing When to Say “Enough”",
+      "datePublished": 1473926400,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/e8b72123-1083-448d-a29f-f43f935ece70.mp3",
+      "duration": 3178
+    },
+    {
+      "uuid": "4605cb5c-683b-4d6f-b680-0bf4d67252bd",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:57d159bd9de4bbd9d306ad52",
+      "name": "1: Trust the Story",
+      "datePublished": 1473321600,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/12e69976-b104-40bb-9876-025466d839f7.mp3",
+      "duration": 3188
+    },
+    {
+      "uuid": "ca18cb0b-279b-4ebf-bea6-bacbb2941f06",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:57c7a61cd1758efe189a86e1",
+      "name": "0: Introductory Lesson",
+      "datePublished": 1472716800,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/3052e3df-cb1c-4eb7-8528-9978857915ac.mp3",
+      "duration": 2882
+    },
+    {
+      "uuid": "6ecbe166-3174-4e5e-b61a-68af7e932ef0",
+      "guid": "57b79073d482e9b69b7a1a19:57b793c003596e6c59accf62:57bcc5cdd482e9272989d0f3",
+      "name": "-1: What Is BEMA?",
+      "datePublished": 1472112000,
+      "audioUrl": "https://aphid.fireside.fm/d/1437767933/7d8cc2be-fe66-43fb-ada4-e62e2f8c00e7/02619575-a441-4071-a2cd-18eda592e131.mp3",
+      "duration": 2582
+    }
+  ]
+}

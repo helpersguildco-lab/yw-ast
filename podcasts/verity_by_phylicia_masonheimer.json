@@ -1,0 +1,1561 @@
+{
+  "podcastId": "verity_by_phylicia_masonheimer",
+  "name": "Verity by Phylicia Masonheimer",
+  "host": "Phylicia Masonheimer",
+  "taddyUuid": "b92028af-6b45-45c6-a9b4-baade5ee2c4d",
+  "totalEpisodes": 194,
+  "episodes": [
+    {
+      "uuid": "ef7801df-24dc-4a67-ac64-7d5a5aaf325a",
+      "guid": "f0de1453-dc87-42cf-ad02-d212bf4fc994",
+      "name": "Thrift With Me! How Phylicia finds Theology books on a Budget (audio only)",
+      "datePublished": 1781800484,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/6a341e24867f293f5d1e408d/size/17251821/audio-files/616389ba0fa9fb91fad22f87/153d22ff-201b-423c-929a-9d5bd8078d4e.mp3",
+      "duration": 718
+    },
+    {
+      "uuid": "bc63e7ec-1464-4166-84a1-c721a84e6d93",
+      "guid": "f50f8dd8-7fff-4407-993e-4a2e4003a2f4",
+      "name": "174 | Answered Prayer: Testimonies to Strengthen Your Faith",
+      "datePublished": 1778166554,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/69fcab1a8caf64428f93c19b/size/61666029/audio-files/616389ba0fa9fb91fad22f87/5b5cb463-716a-49d4-9994-5a9015bcb73d.mp3",
+      "duration": 2569
+    },
+    {
+      "uuid": "c1696b9b-2e72-4422-98a7-0a73830f19a5",
+      "guid": "a2416413-0e3c-4d9a-88e2-56457b95283d",
+      "name": "173 | Women, Anxiety & Prayer with Dr. Rachel Rauch",
+      "datePublished": 1777565379,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/69f37ec3850f83977efebe08/size/47232045/audio-files/616389ba0fa9fb91fad22f87/7e88335c-e143-45c5-b528-9a16b4cd1d85.mp3",
+      "duration": 1967
+    },
+    {
+      "uuid": "289c989f-3115-4c68-8cae-e6a0c0d3dd42",
+      "guid": "128394f1-6876-4dbd-a7c1-4ea598e8e4a8",
+      "name": "172 | Praying Through Chronic Illness & Suffering with Olivia Gerber",
+      "datePublished": 1776942000,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/69e9956acb29b4779ee480b5/size/50787693/audio-files/616389ba0fa9fb91fad22f87/74d3e637-4e49-4a0d-9456-c08ea44833e9.mp3",
+      "duration": 2116
+    },
+    {
+      "uuid": "48a0d30d-e1dc-48e5-b68b-936c2db2f043",
+      "guid": "a9ab3a60-ce49-4cc4-a433-dc533b1b79fb",
+      "name": "171 | Praying God's Word for All of Life's Seasons with Jodie Berndt",
+      "datePublished": 1776355944,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/69e10a689934a008b74275a1/size/55473453/audio-files/616389ba0fa9fb91fad22f87/6cb08d69-b27f-48fa-a043-52b4d08cf9b6.mp3",
+      "duration": 2311
+    },
+    {
+      "uuid": "4a0bfceb-ae01-4df0-b6d8-4956b4490ae4",
+      "guid": "a4923042-f2c2-4a97-8d5b-074e8bad6006",
+      "name": "170 | Are My Prayers Hindered? Biblical Answers to Your Questions",
+      "datePublished": 1775755479,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/69d7e0d77accdc524c89e37e/size/32775597/audio-files/616389ba0fa9fb91fad22f87/de91257b-7556-48b0-a53d-b7693141fe02.mp3",
+      "duration": 1365
+    },
+    {
+      "uuid": "eb94be4f-ddc7-4ed2-9b10-036a80275df5",
+      "guid": "70d20379-bdc7-4438-a3a3-cf76fd494e65",
+      "name": "Resurrection Day! | Holy Week Day 8",
+      "datePublished": 1775386800,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/69cec55a6209196d93dc4442/size/13737069/audio-files/616389ba0fa9fb91fad22f87/2bcc0c6f-385c-4db5-aad5-4cc942df0382.mp3",
+      "duration": 572
+    },
+    {
+      "uuid": "65d176f7-6d9d-41ad-ab8e-710f6ddb096a",
+      "guid": "138a7019-723a-40a8-9cb4-12c54b3a3308",
+      "name": "Holy Saturday | Holy Week Day 7",
+      "datePublished": 1775300400,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/69ceb9e142438d4a6e3d598a/size/7426989/audio-files/616389ba0fa9fb91fad22f87/8c464211-7b6f-44e3-b8dd-f96856ccc25c.mp3",
+      "duration": 309
+    },
+    {
+      "uuid": "2324d579-53c6-4e77-ad9b-d064f8288c15",
+      "guid": "1865da70-6098-43ee-8ab8-0735c40d88db",
+      "name": "Good Friday | Holy Week Day 6",
+      "datePublished": 1775214000,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/69ceb25099901eac503fa3df/size/11820717/audio-files/616389ba0fa9fb91fad22f87/10a7df30-1415-411f-8129-139007e7711c.mp3",
+      "duration": 492
+    },
+    {
+      "uuid": "b0556d9e-6cfd-4bd2-9368-9d2603a51a03",
+      "guid": "ec3b4341-4c95-442e-abb6-5f65ec0e8500",
+      "name": "Maundy Thursday | Holy Week Day 5",
+      "datePublished": 1775127600,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/69cdd3699934a053ff409b30/size/11700909/audio-files/616389ba0fa9fb91fad22f87/2d657009-c663-41c9-8322-a5538e06c5fe.mp3",
+      "duration": 487
+    },
+    {
+      "uuid": "02f975a0-daed-4032-b4a5-bbb0f9f70d64",
+      "guid": "615029e8-e662-4d39-8c72-666f9fcd29f9",
+      "name": "Spy Wednesday | Holy Week Day 4",
+      "datePublished": 1775096426,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/69cdd26a9934a0160a409b25/size/12780333/audio-files/616389ba0fa9fb91fad22f87/0daa06f1-cca2-4c19-9119-62fc7b2c7cea.mp3",
+      "duration": 532
+    },
+    {
+      "uuid": "35e930a2-f82f-4664-8108-cafc8c1e5353",
+      "guid": "9295c85d-cd06-400f-a73b-ddc6ba38ecd4",
+      "name": "Holy Tuesday | Holy Week Day 3",
+      "datePublished": 1774987283,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/69cc2813bb44493469db38be/size/9062253/audio-files/616389ba0fa9fb91fad22f87/4c03dbdf-4813-49a3-91ec-9fd651f158de.mp3",
+      "duration": 377
+    },
+    {
+      "uuid": "6f2254a4-490d-4c2a-9fb7-51730f5498f0",
+      "guid": "cf0c6d8b-8edc-4b2d-8240-a3f7d6e89f29",
+      "name": "Holy Monday | Holy Week Day 2",
+      "datePublished": 1774911600,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/69c885aab06b96dd2fddfd20/size/13780269/audio-files/616389ba0fa9fb91fad22f87/b85b8dc0-9917-4b40-8458-ade55a2171e0.mp3",
+      "duration": 574
+    },
+    {
+      "uuid": "6c84c854-d4ff-40dc-a5be-db7d26b8d5d1",
+      "guid": "9e45e260-4a3b-4e70-92bf-9c91280a6abe",
+      "name": "Palm Sunday | Holy Week Day 1",
+      "datePublished": 1774784520,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/69c88459b06b9613d0ddfd14/size/11615661/audio-files/616389ba0fa9fb91fad22f87/bce1fd6e-3d64-4c6a-8d87-32fea51f25de.mp3",
+      "duration": 483
+    },
+    {
+      "uuid": "97f1cb12-c1fd-429e-80eb-7daac410205c",
+      "guid": "615375ba-9087-49fe-b728-a176907a5999",
+      "name": "Holy Week Mini-series Announcement!",
+      "datePublished": 1774549566,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/69c57a3ef698ba794b2a07f8/size/2746413/audio-files/616389ba0fa9fb91fad22f87/5e4d3bc2-5e28-493c-b88c-3504ccf82cd9.mp3",
+      "duration": 114
+    },
+    {
+      "uuid": "47a8a141-8ed9-4eed-b712-52f44fd4e9ff",
+      "guid": "9a2caf93-71c2-4ef0-92a6-a4d3475b48de",
+      "name": "169 | What Is Praying in Tongues—and Is It for Christians Today?",
+      "datePublished": 1773944899,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/69bc4043ed7b15a58e825cfe/size/53727597/audio-files/616389ba0fa9fb91fad22f87/304380fc-a524-4363-bb7a-c4610c14c492.mp3",
+      "duration": 2238
+    },
+    {
+      "uuid": "82456e0e-83df-4711-851c-4ac88959e2e7",
+      "guid": "6a8b8951-bc6d-4a86-bd8d-8fb7709e0a6a",
+      "name": "168 | Liturgical Prayers: Are Written Prayers Biblical or Just Empty Tradition?",
+      "datePublished": 1773333483,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/69b2ebeb2c590d23bafa0f21/size/57983661/audio-files/616389ba0fa9fb91fad22f87/ab3febb7-8dc3-4ca5-b5c6-af35158a08f2.mp3",
+      "duration": 2415
+    },
+    {
+      "uuid": "18a6b359-16b8-4e4a-b631-827d998eb7f7",
+      "guid": "7f84eb83-6ef5-4756-9d98-da7421f0c66f",
+      "name": "167 | Why Do I Feel Bored in Prayer?",
+      "datePublished": 1772730861,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/69a9b9ed90c23119532001f1/size/56487789/audio-files/616389ba0fa9fb91fad22f87/f4f49754-2a0e-4f65-be43-c70e31fccda7.mp3",
+      "duration": 2353
+    },
+    {
+      "uuid": "f40f19d3-9038-4a75-a71f-e719be2b1b19",
+      "guid": "8724281e-9256-41cb-a68b-4bff338db0eb",
+      "name": "166 | Does God hear Everyone's Prayers?",
+      "datePublished": 1772125182,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/69a07bfef22cefbe5ca78c9f/size/57858093/audio-files/616389ba0fa9fb91fad22f87/8b613e09-dc21-4f6a-a4cf-dbdf0e52dbb1.mp3",
+      "duration": 2410
+    },
+    {
+      "uuid": "d786ad27-c3ec-428e-856d-e6f94e60bc5a",
+      "guid": "b1f19d10-34ae-407c-821b-030a0cb15009",
+      "name": "165 | Can Satan Hear My Prayers?",
+      "datePublished": 1771520400,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/69973f37ea720f56c3094e15/size/37445805/audio-files/616389ba0fa9fb91fad22f87/270468a5-af8f-40da-9416-2544d437ab9f.mp3",
+      "duration": 1560
+    },
+    {
+      "uuid": "f667912b-79e3-47ee-bc51-6174dcc5b240",
+      "guid": "ce91ec86-273f-4399-92f8-5f3449a48401",
+      "name": "164 | When God Doesn't Answer",
+      "datePublished": 1770917125,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/698e0d05aca354136dcf653b/size/70938477/audio-files/616389ba0fa9fb91fad22f87/2e38cf2c-81e4-4746-980b-b714d1b77b27.mp3",
+      "duration": 2955
+    },
+    {
+      "uuid": "34070896-7e49-485c-a8f0-6f7f8776bfa6",
+      "guid": "f62f8784-2604-4e1f-ac96-92708f00bb08",
+      "name": "163 | Praying God's Will",
+      "datePublished": 1770310800,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/6983d0df6271aeaa0b993d37/size/58634541/audio-files/616389ba0fa9fb91fad22f87/b6d0ca52-7c77-4312-b5d6-96da10b3d77c.mp3",
+      "duration": 2443
+    },
+    {
+      "uuid": "b6d158f6-2e66-4b0f-b06f-cc3ae45f9e83",
+      "guid": "50fdb7b3-7624-40a6-b557-ebc36c0a00a8",
+      "name": "162 | Do We Need Deliverance Prayer?",
+      "datePublished": 1769706000,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/6978f5637f05e04a4d253f66/size/87741549/audio-files/616389ba0fa9fb91fad22f87/f2063984-0f80-4ba1-9876-d957e0e21bc0.mp3",
+      "duration": 3655
+    },
+    {
+      "uuid": "4a0e464e-bb7c-4c41-b8cd-877cc9bc1f7b",
+      "guid": "58add3b5-e6e5-45a9-8930-d3ac8df4b42d",
+      "name": "161 | Can the Saints Pray for Us?",
+      "datePublished": 1769179237,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/6972dfba82dc36292fb98c5b/size/54222381/audio-files/616389ba0fa9fb91fad22f87/f3219db9-707c-45a1-b950-6711ecddd273.mp3",
+      "duration": 2259
+    },
+    {
+      "uuid": "50c50642-6309-49e1-aef6-9b16d7f95f8a",
+      "guid": "6b79a49a-8cb0-4859-b7bd-4019effc5a7e",
+      "name": "Verity Podcast is BACK 🙏 | Prayer Series Starting January 22",
+      "datePublished": 1768867834,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/696ec7fa4316143e8611b932/size/1783341/audio-files/616389ba0fa9fb91fad22f87/fbc7887f-2228-409b-992e-ae3ec8b6a2ab.mp3",
+      "duration": 74
+    },
+    {
+      "uuid": "e7988dbf-95ad-46c8-ae17-254c7478050f",
+      "guid": "4974962c-e936-46d3-b25f-c3bfb828d980",
+      "name": "160 | Why God Doesn't Need Your Hustle: Learning to Rest in Him",
+      "datePublished": 1760189460,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/68e872a00bc89d012a932409/size/51689709/audio-files/616389ba0fa9fb91fad22f87/1cab6e83-845f-4e9c-b179-531305e61b2b.mp3",
+      "duration": 2153
+    },
+    {
+      "uuid": "672a5850-693b-43cd-9e41-fdf1746cf293",
+      "guid": "6a95b2e0-045f-4bf1-9c9d-33bb26f811f7",
+      "name": "159 | Carry The Gospel: How One Conversation Changed Everything",
+      "datePublished": 1758980700,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/68d5f2af4e5bb732cdf0d782/size/52849197/audio-files/616389ba0fa9fb91fad22f87/50082243-abb8-4fa5-b714-5c9a7b7970cb.mp3",
+      "duration": 2202
+    },
+    {
+      "uuid": "df46545c-f4b1-4109-bab3-17dd8a0fcbb6",
+      "guid": "e932368f-f421-42a7-910c-75cf2f07dca6",
+      "name": "158 | Speak Your Story: How Your Testimony Changes the World",
+      "datePublished": 1758391191,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/68ceeb97421850dd125c5a77/size/62601453/audio-files/616389ba0fa9fb91fad22f87/480252b6-bb01-4e47-91d8-27963283ab6f.mp3",
+      "duration": 2608
+    },
+    {
+      "uuid": "27264baf-9f30-4735-8959-6799ed75ead6",
+      "guid": "497ea075-07ff-443a-97c7-cd854f069a34",
+      "name": "157 | Living Out Theology in Pain: The Real Story Behind Our 5 Month Break",
+      "datePublished": 1757728897,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/68c4d081e0488410ced056d5/size/33039405/audio-files/616389ba0fa9fb91fad22f87/c752bc04-f08b-4e4c-a0f0-36ebd19f81c8.mp3",
+      "duration": 1376
+    },
+    {
+      "uuid": "d6fb55ae-f45f-4737-9215-5290a527aa65",
+      "guid": "5ad5e88f-ee23-46d0-8dea-133642a0f7dd",
+      "name": "156 | Chatting with a 4th Generation Member of \"The Way\" 2x2s",
+      "datePublished": 1743256800,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/67e6a9b96471be7142203a34/size/66351658/audio-files/616389ba0fa9fb91fad22f87/9fd9dd9f-846b-4ed2-99f5-b22003706bf7.mp3",
+      "duration": 2764
+    },
+    {
+      "uuid": "96f12e20-7c44-4e87-93da-dfcfde85ca9d",
+      "guid": "8ab77aab-68bb-49b7-9a7d-b1f8a7108dc4",
+      "name": "155 | Do Christians Need to Obey Old Testament Law?",
+      "datePublished": 1742620879,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/67de48cf5900bdf9939f7930/size/37103661/audio-files/616389ba0fa9fb91fad22f87/8f188aec-1c7c-4c63-8eb0-20ce0aebbe10.mp3",
+      "duration": 1545
+    },
+    {
+      "uuid": "c9fe6569-73b0-4d3c-8677-d13e3ae3b8fa",
+      "guid": "0face106-5143-4385-b31c-cbf99277bcc4",
+      "name": "154 | How Believable Ideas Lead to Dangerous Beliefs - Unmasking Marcionism",
+      "datePublished": 1741970891,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/67d45dcb674fe32732c03000/size/42304941/audio-files/616389ba0fa9fb91fad22f87/862459a2-4081-4274-8572-64d01f0e9430.mp3",
+      "duration": 1762
+    },
+    {
+      "uuid": "583a5ac4-3838-45a1-8249-e6d1888d6cce",
+      "guid": "d0b0a861-05f2-42e0-a792-2920da5a68ee",
+      "name": "153 | Understanding Lent: Traditions, Sacrifices, and Spiritual Growth",
+      "datePublished": 1741314740,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/67ca5ab49fd8d776cdef04eb/size/9449901/audio-files/616389ba0fa9fb91fad22f87/6c9e9e63-da18-4e9d-8d0a-6329d97d0e1a.mp3",
+      "duration": 393
+    },
+    {
+      "uuid": "fd853b8e-548d-490f-a6aa-7c3236a6746c",
+      "guid": "f2ad3a9f-75cf-480b-bbf5-6a34bc847039",
+      "name": "152 | How Gnosticism Contradicts Christian Teaching",
+      "datePublished": 1740159866,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/67b8bb7a655faf3d3d407d30/size/44513325/audio-files/616389ba0fa9fb91fad22f87/0f284da4-7b24-40a1-bfba-470754af14e8.mp3",
+      "duration": 1854
+    },
+    {
+      "uuid": "ff474e43-633d-4dd8-b7dc-588251556c1c",
+      "guid": "5cc4c1cd-4c8f-4220-b915-bfe47624066b",
+      "name": "151 | Understanding the Ancient False Doctrine Behind Jehovah's Witness and LDS",
+      "datePublished": 1738920120,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/67a4fecd5130982d0bf9264d/size/43293357/audio-files/616389ba0fa9fb91fad22f87/dba1a36f-5530-4ca7-ac85-2527f5b2296b.mp3",
+      "duration": 1803
+    },
+    {
+      "uuid": "42233d86-0427-4a46-bf62-d8cffef95e02",
+      "guid": "97fecf25-0492-4222-8dbd-72ca83611cd7",
+      "name": "150 | Protect Your Faith: Learn to Discern False Teachers",
+      "datePublished": 1737712800,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/678f156065ef52473c5e3d47/size/39697389/audio-files/616389ba0fa9fb91fad22f87/a6df5437-e011-4138-a18e-7b24ffaa530b.mp3",
+      "duration": 1654
+    },
+    {
+      "uuid": "4c732d5e-cbed-4cac-a240-c5170265c4d5",
+      "guid": "513f4bac-5ee8-4eb8-802c-28fbc0ccd720",
+      "name": "149 | Wrestling with Faith: Can I Trust The Bible?",
+      "datePublished": 1737263268,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/678c88a465ef527ffc5e12be/size/61729965/audio-files/616389ba0fa9fb91fad22f87/1abfd8a6-6e03-4f87-9766-b4f475ec1063.mp3",
+      "duration": 2572
+    },
+    {
+      "uuid": "910746bf-9d9d-42e7-97b8-585b78116a1c",
+      "guid": "95371ea5-4379-44b8-bd8d-d397b7943cdc",
+      "name": "148 | Don't Fall for DANGEROUS Interpretations of Scripture | Do this Instead",
+      "datePublished": 1734104399,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/675c554fc3845d5d9b56cc3b/size/31580973/audio-files/616389ba0fa9fb91fad22f87/5975f32c-1afa-457f-bdf4-322b5afb90d1.mp3",
+      "duration": 1315
+    },
+    {
+      "uuid": "1146d256-7960-4071-8ab3-c74ec5b237f3",
+      "guid": "334f13b8-05c9-4cd9-ac1b-a0cf3fd61d08",
+      "name": "147 | If I'm Saved, Why Does My Behavior Matter?",
+      "datePublished": 1733781480,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/675777d0a9d9a951ef4fc4d1/size/27015890/audio-files/616389ba0fa9fb91fad22f87/c6ac4f50-6e49-4b08-b81b-d339232a25d7.mp3",
+      "duration": 1058
+    },
+    {
+      "uuid": "505a50d8-a08e-4fe7-bd27-caa3dd879cc4",
+      "guid": "94cd2540-3801-46f6-8d2c-d73b093c8e54",
+      "name": "146 | Why Do I Need Jesus if I Am Already Good?",
+      "datePublished": 1732943040,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3a16e1c7cb503aaab64a/size/39342217/audio-files/616389ba0fa9fb91fad22f87/d9b9f909-1f5b-40bf-87ea-de167f69bd0d.mp3",
+      "duration": 1572
+    },
+    {
+      "uuid": "30054101-6a08-4b53-b5a6-33fc5a11ce8c",
+      "guid": "f6301412-eae4-453b-8b55-ed8236ae6734",
+      "name": "145 | ANSWERED! Why Did Jesus Have to Die? (And Other Important Questions!)",
+      "datePublished": 1731715200,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3a39e1c7cb2e43aab64d/size/56558689/audio-files/616389ba0fa9fb91fad22f87/eb3be4dc-e130-4bd6-9a5a-911670d1e855.mp3",
+      "duration": 2289
+    },
+    {
+      "uuid": "d7fb749f-e4d0-40c8-97c9-4a5b880035cf",
+      "guid": "a241fbf3-abcd-417b-bd86-ef6828624774",
+      "name": "BONUS | The BEST Way to Combat Fear and Anxiety in Election Week",
+      "datePublished": 1730848980,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3a56e1c7cb2763aab64f/size/39011930/audio-files/616389ba0fa9fb91fad22f87/351e842b-4349-4538-a892-3dc6438b5ece.mp3",
+      "duration": 1558
+    },
+    {
+      "uuid": "52ad369f-92e7-4027-89e6-54b9df18862f",
+      "guid": "627bccb4-29cd-4e11-84b0-678b6042c381",
+      "name": "144 | Can I Beat Anxiety?",
+      "datePublished": 1730815080,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3a6fe1c7cb173baab65a/size/35262339/audio-files/616389ba0fa9fb91fad22f87/826a2e12-c6e7-46f0-bc6a-9992c9c6efd6.mp3",
+      "duration": 1402
+    },
+    {
+      "uuid": "f73d5692-c187-440d-81bf-58a776d6d3ad",
+      "guid": "21145f3e-d61a-4ace-8f6e-ad159357478e",
+      "name": "143 | How do I Know it's God's Will",
+      "datePublished": 1730751180,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3a86b9166b13b0e665b0/size/28633075/audio-files/616389ba0fa9fb91fad22f87/367fda63-6f7a-4da5-8df1-c0177a5fe825.mp3",
+      "duration": 1126
+    },
+    {
+      "uuid": "71f8f789-2329-467e-b586-147f0a0e95b4",
+      "guid": "4ce96f29-d868-4e6b-852c-3bdfa403dfc8",
+      "name": "142 | Am I Really Saved",
+      "datePublished": 1728019620,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3a971dd8693b180e36a8/size/17417905/audio-files/616389ba0fa9fb91fad22f87/48394d32-bbf5-4896-8f88-7dd056532ac0.mp3",
+      "duration": 658
+    },
+    {
+      "uuid": "acd25e0c-d939-49bd-9240-5aa1ed8ae9ca",
+      "guid": "668d5920-f43a-4a19-bf1c-691dcf88227f",
+      "name": "142 | Does Quiet Time Matter?",
+      "datePublished": 1727933040,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3aacb9166b1618e665bb/size/25993905/audio-files/616389ba0fa9fb91fad22f87/2870bd61-7e50-40e2-891b-cf917c81392e.mp3",
+      "duration": 1016
+    },
+    {
+      "uuid": "b488a894-a7c9-4fd7-b4d1-a1bb79552825",
+      "guid": "8a4ed04d-efbd-4469-944a-7f4eb1e53336",
+      "name": "141 | Is Spiritual Warfare Real?",
+      "datePublished": 1727846460,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3ac94cab5acae7527d78/size/42237739/audio-files/616389ba0fa9fb91fad22f87/47f2209d-d23a-4a89-9afb-4b38feb2a025.mp3",
+      "duration": 1693
+    },
+    {
+      "uuid": "bb40e6f6-6cba-4ba3-ad84-e7e25918f1a4",
+      "guid": "024b5201-8669-44c7-acb2-c70e7a38c793",
+      "name": "140 | Sharing Your Faith",
+      "datePublished": 1727792340,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3af29e50bf43099aa861/size/34386916/audio-files/616389ba0fa9fb91fad22f87/5ae53bf5-2746-44c7-b1e5-f45692652e4a.mp3",
+      "duration": 1365
+    },
+    {
+      "uuid": "68751673-8100-46ec-bd2f-1383a44c3f3d",
+      "guid": "a8e000f6-56f6-4d02-9bb0-2eea4615a0c5",
+      "name": "139 | How to Hear God's Voice",
+      "datePublished": 1725606000,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3b2ae1c7cbabe1aab662/size/34836385/audio-files/616389ba0fa9fb91fad22f87/179ae4d0-dc69-43b2-b012-f80dbc9e10e1.mp3",
+      "duration": 1418
+    },
+    {
+      "uuid": "14b0c437-aa93-44ff-9fbb-5b6c0163badd",
+      "guid": "bce158ea-09bb-477f-b6ae-5ad26a37fe93",
+      "name": "138 | Can I Be Free From Legalism?",
+      "datePublished": 1725519480,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3b3f1dd869366f0e36bd/size/24780030/audio-files/616389ba0fa9fb91fad22f87/f70500c7-3e41-4843-b1bc-8fce12a00656.mp3",
+      "duration": 999
+    },
+    {
+      "uuid": "cf9c4d4e-46dc-42f7-9477-8f7e6393972a",
+      "guid": "4bb04e0e-08b0-4ca0-b3f1-575b7a5af421",
+      "name": "137 | How Does God Speak to Us?",
+      "datePublished": 1724263080,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3b5a15ebe079aaf4babc/size/23799213/audio-files/616389ba0fa9fb91fad22f87/6f759e93-f42e-4cea-b05b-617bf073f1fa.mp3",
+      "duration": 991
+    },
+    {
+      "uuid": "faa6c630-c1ee-42b2-ba70-0cf1e3b457fc",
+      "guid": "591f2d2b-1019-423a-b9bd-03ed1a18faa6",
+      "name": "136 | Why Should We Bother to Pray if God is Sovereign?",
+      "datePublished": 1723690560,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3ba3b9166b253ee665cf/size/32766957/audio-files/616389ba0fa9fb91fad22f87/d9284d05-ab60-4198-8ddb-1ffa6daebefc.mp3",
+      "duration": 1365
+    },
+    {
+      "uuid": "77c95248-e880-4a70-9291-4fd9d4775365",
+      "guid": "dbc7ba12-a842-4c1b-bcc9-612da3961b94",
+      "name": "135 | Why am I still sinning?",
+      "datePublished": 1712727180,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3bcd148b7072747fd377/size/47456925/audio-files/616389ba0fa9fb91fad22f87/fa7d7688-86fb-493d-bb00-560243e329d8.mp3",
+      "duration": 1965
+    },
+    {
+      "uuid": "2b4229a6-67fe-4806-8098-5b51122e8aab",
+      "guid": "7131df75-7697-47d7-9cbb-1616f0505c10",
+      "name": "134 | How to Understand the Bible",
+      "datePublished": 1711667460,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3befe1c7cb87b7aab66f/size/40872809/audio-files/616389ba0fa9fb91fad22f87/3a2b98bd-e006-446a-9252-4aad0155ad0e.mp3",
+      "duration": 1691
+    },
+    {
+      "uuid": "278a41dc-922c-49e9-a90f-164b4a922257",
+      "guid": "41d9974e-0d50-4ae0-9ff5-decbe2a25e98",
+      "name": "133 | How do I know I'm saved?",
+      "datePublished": 1711433160,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3c0b4cab5a061c527d88/size/32465298/audio-files/616389ba0fa9fb91fad22f87/4bb997a5-7cc9-4c0c-afda-fd282f408da9.mp3",
+      "duration": 1341
+    },
+    {
+      "uuid": "e674f6f5-2cdf-4b3f-9d13-c7fb7d936635",
+      "guid": "8982c6b0-62e1-43aa-8dd9-62be157d4d00",
+      "name": "132 | What is the gospel?",
+      "datePublished": 1711375200,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3c27e353c0699452818f/size/36538091/audio-files/616389ba0fa9fb91fad22f87/0dbf3647-1997-4f33-aa1f-0097cdefd275.mp3",
+      "duration": 1510
+    },
+    {
+      "uuid": "a05c582d-7b08-4a98-802e-ee292ee6c39d",
+      "guid": "9debc8d3-2291-40b8-b728-a4b22754cb60",
+      "name": "131 | The Rise to Power: How the Early Church Gained Political Influence",
+      "datePublished": 1711344600,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3c46a59a115689e20a74/size/42086940/audio-files/616389ba0fa9fb91fad22f87/b7bf5320-fcae-461e-bbf5-a2ca39f99a5f.mp3",
+      "duration": 1741
+    },
+    {
+      "uuid": "2c414225-9f01-4825-b7ea-2047c996f7aa",
+      "guid": "3a14e395-ea1d-4e7b-89b8-55d49d8c5640",
+      "name": "130 | Enemy of the State: Missions in the Early Church",
+      "datePublished": 1707286740,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3c648f976cf6939cc7ef/size/35818834/audio-files/616389ba0fa9fb91fad22f87/11e12f1b-b299-42a7-992a-77e4639fba92.mp3",
+      "duration": 1480
+    },
+    {
+      "uuid": "f87fe4f4-bef9-4cf4-99f9-304624c920cc",
+      "guid": "97caeb7e-d891-4f6d-a702-757196b7ccc5",
+      "name": "129 | Advent Special: Not-So-Silent Night",
+      "datePublished": 1703055960,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3c80148b7000bf7fd384/size/27779443/audio-files/616389ba0fa9fb91fad22f87/f4690df2-ffbe-4346-bbbc-80ee19eb70a0.mp3",
+      "duration": 1145
+    },
+    {
+      "uuid": "6d5caee4-18dc-4a39-8884-410728bc9209",
+      "guid": "08689584-6c20-42fa-aa83-1044e8cd59d2",
+      "name": "128 | How the Early Church Did Church",
+      "datePublished": 1702447200,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3cb79e50bf9b889aa87c/size/41864469/audio-files/616389ba0fa9fb91fad22f87/0812f491-98d5-423e-87f4-2a41cb50c18b.mp3",
+      "duration": 1732
+    },
+    {
+      "uuid": "9b6af74e-33fd-4c00-acd6-36e0c0119116",
+      "guid": "1c5ce6e4-138d-41b9-8456-db11ceb8ad80",
+      "name": "127 | The Call to Social Martyrdom",
+      "datePublished": 1701940740,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3cdd4cab5af850527d9e/size/59030924/audio-files/616389ba0fa9fb91fad22f87/f4709588-c842-46db-8841-aafb411fc296.mp3",
+      "duration": 2447
+    },
+    {
+      "uuid": "90db7744-b3ff-47ad-819b-f88c50bb2b6f",
+      "guid": "4d28d2d6-a45e-4d95-9685-8db5b15071cf",
+      "name": "126 | Identifying a Counterfeit Gospel (for iTunes)",
+      "datePublished": 1701373920,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3d0e15ebe0b07bf4bad6/size/62961827/audio-files/616389ba0fa9fb91fad22f87/fde1bbbc-6de1-4bfb-bbfc-89154da0ca13.mp3",
+      "duration": 2611
+    },
+    {
+      "uuid": "5f6ccae3-6e98-4820-bf68-5d83f819cdff",
+      "guid": "00092f3a-10a5-42cb-866e-fb73bfc16dc4",
+      "name": "125 | The World of the Early Church",
+      "datePublished": 1700631540,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3d4c1dd86945040e36d2/size/92435543/audio-files/616389ba0fa9fb91fad22f87/b6807a1b-557b-4f89-82f1-12f97d849417.mp3",
+      "duration": 3839
+    },
+    {
+      "uuid": "a8e35cfe-9461-4d0e-b5a8-777c86c36114",
+      "guid": "231bfa5c-984e-4683-828b-9cd63adaac61",
+      "name": "124 |  You Were Born Into a Story",
+      "datePublished": 1700068260,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3d691dd8693da90e36d4/size/27142373/audio-files/616389ba0fa9fb91fad22f87/4f3fa716-435c-4c84-987e-ca3dd73bc1b6.mp3",
+      "duration": 1119
+    },
+    {
+      "uuid": "e54e522a-ddde-436c-8711-5d8a23090aef",
+      "guid": "1d35d9b0-9a41-482c-a7eb-befa7f0ab4f8",
+      "name": "123 | AMA from Verity Conference 2023 (CORRECTED)",
+      "datePublished": 1699470060,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3dcde353c0b47c5281b1/size/86495954/audio-files/616389ba0fa9fb91fad22f87/3e70f9f5-db95-4e22-9fd2-e20864cbc9ac.mp3",
+      "duration": 3592
+    },
+    {
+      "uuid": "00effad9-699f-4d3f-add4-65545be4e8aa",
+      "guid": "96083b26-b99f-44fd-90d7-27f16bf5a0b3",
+      "name": "122 | Levitical Purification After Childbirth",
+      "datePublished": 1694581200,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3dfe148b708ac87fd399/size/28430693/audio-files/616389ba0fa9fb91fad22f87/9f48f1c4-7b66-4025-a2c5-ab72bee04a1c.mp3",
+      "duration": 1172
+    },
+    {
+      "uuid": "cd284f22-b944-496b-ba87-9436fbb32e8c",
+      "guid": "27fe4b34-1bbe-45d4-affd-b67733f65020",
+      "name": "121 | Supplication in Prayer",
+      "datePublished": 1692766800,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3e12e1c7cb6c0eaab696/size/20405902/audio-files/616389ba0fa9fb91fad22f87/df2913b6-8d27-4ebe-94e6-d5baa574fdae.mp3",
+      "duration": 838
+    },
+    {
+      "uuid": "e04d8c90-ae72-4979-9f9f-0f850ca73c26",
+      "guid": "a5ca244b-8ce8-4b83-884e-8aca50e770b0",
+      "name": "120 | Thanking God in Prayer",
+      "datePublished": 1692160740,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3e27a59a111031e20a97/size/19503890/audio-files/616389ba0fa9fb91fad22f87/fa28f315-98b4-4e4d-bb87-7b1dc919e183.mp3",
+      "duration": 801
+    },
+    {
+      "uuid": "7708a2dd-4aa5-46cf-9bfb-3655531d5210",
+      "guid": "1454a12b-6743-4024-96bd-ad4c7625ce08",
+      "name": "119 | Confessing to God in Prayer",
+      "datePublished": 1691555400,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3e378f976c4fbc9cc80e/size/12625631/audio-files/616389ba0fa9fb91fad22f87/17654bcb-4362-461e-a3d1-7750a7a68ceb.mp3",
+      "duration": 514
+    },
+    {
+      "uuid": "1d621b5a-b585-4ad9-ae81-09ab114a3b04",
+      "guid": "8e2609b2-3f57-4a35-8dde-62a813351fee",
+      "name": "118 | Adoring God in Prayer",
+      "datePublished": 1690977360,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3e4af6f33e02078b9009/size/17416439/audio-files/616389ba0fa9fb91fad22f87/44d3d31f-6913-439d-8676-37ebfafd0128.mp3",
+      "duration": 714
+    },
+    {
+      "uuid": "f5997915-86c3-47d5-9047-1a64134754c2",
+      "guid": "56e22baa-abd5-4e39-8ddc-113e681079ed",
+      "name": "117 | Why Pray if God is Sovereign?",
+      "datePublished": 1689739080,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3e7615ebe07c2ef4bafd/size/58420333/audio-files/616389ba0fa9fb91fad22f87/0c877224-9053-4675-add6-7f02aabd713d.mp3",
+      "duration": 2422
+    },
+    {
+      "uuid": "00020fae-4b00-48af-a586-b946ace14c20",
+      "guid": "aefcdc2a-1708-427a-b89b-d177004c441c",
+      "name": "116 | What is Biblical Prophecy?",
+      "datePublished": 1688052360,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3eca148b70525c7fd3a8/size/66444126/audio-files/616389ba0fa9fb91fad22f87/d863a527-324c-41d5-ba34-e443cad5ed35.mp3",
+      "duration": 2756
+    },
+    {
+      "uuid": "4ffa3bcc-0b18-4a3d-91e4-9f69a6b22b02",
+      "guid": "0cc95c18-31ca-44fb-9b6c-d8cf43e1fb7d",
+      "name": "115 | Desperate for God: My Testimony",
+      "datePublished": 1687327620,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3f10eb7bff45cb82ca25/size/88866555/audio-files/616389ba0fa9fb91fad22f87/0af5c9a7-7fed-4bb3-afd6-9c337ab7d1be.mp3",
+      "duration": 3691
+    },
+    {
+      "uuid": "0647a208-fbc9-40b0-8078-9c473d1ee2e4",
+      "guid": "84374c05-340a-4b74-bf04-bb4ec8299385",
+      "name": "114 | Reconstructing After Legalism",
+      "datePublished": 1686831960,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3f434cab5a294c527db8/size/81626581/audio-files/616389ba0fa9fb91fad22f87/dfa5fe6d-1b29-41c2-a38b-356bb267efc9.mp3",
+      "duration": 3389
+    },
+    {
+      "uuid": "b4c6cdd7-e907-4a72-9488-d52c60c11840",
+      "guid": "3927fe7f-9d6e-4b0f-b2f7-d59e26841475",
+      "name": "113 | Should Christians Boycott Secular Companies?",
+      "datePublished": 1686113760,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3f6feb7bff853a82ca2c/size/75551688/audio-files/616389ba0fa9fb91fad22f87/f7f66c3f-863a-45c9-aaa0-c83a64c9bd21.mp3",
+      "duration": 3136
+    },
+    {
+      "uuid": "b5c17551-3c2b-431f-af0c-09874aaee278",
+      "guid": "c0717b99-91ba-4568-870c-711eea134dff",
+      "name": "112 | Navigating Theological Differences in Dating",
+      "datePublished": 1685506500,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3f9b4cab5a5b9c527dc5/size/68959128/audio-files/616389ba0fa9fb91fad22f87/4e60b2d6-0875-46d6-a0a5-b52c6917df72.mp3",
+      "duration": 2861
+    },
+    {
+      "uuid": "4d47bafe-36de-499a-9dcd-f745a126e183",
+      "guid": "e19b7f9b-ba95-4001-ba42-d208a91b63fd",
+      "name": "111 | Does God Give Consequences to His Children?",
+      "datePublished": 1684299600,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b3fc89e50bf473e9aa8a3/size/69478623/audio-files/616389ba0fa9fb91fad22f87/d0bad640-f5a4-465e-b26f-1f275ea0b32e.mp3",
+      "duration": 2883
+    },
+    {
+      "uuid": "721801dd-bbfb-472f-b911-a7eb625df753",
+      "guid": "9b091036-fde5-4236-afef-c0881cfb0f9e",
+      "name": "110 | How to Take a Shallow Bible Study Deeper",
+      "datePublished": 1683694800,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4007f6f33eeb998b9030/size/48193540/audio-files/616389ba0fa9fb91fad22f87/ab3be8ec-ebcc-4b0d-8be2-ec6b7e0d9534.mp3",
+      "duration": 1996
+    },
+    {
+      "uuid": "5bb7414c-46a3-4ed4-b174-ba294b9d734e",
+      "guid": "19894fc3-dee8-439e-9c7d-5f1b52277e97",
+      "name": "109 | Can Women Teach Theology to Other Women?",
+      "datePublished": 1683090000,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4071f6f33e83748b9046/size/63956372/audio-files/616389ba0fa9fb91fad22f87/cc9da9a4-9f46-4409-acbf-d6bd2cb33101.mp3",
+      "duration": 2653
+    },
+    {
+      "uuid": "fd7071dc-2f3b-428b-bc06-38d51eb36645",
+      "guid": "91b4cece-4454-4c39-98a3-3beafa596fd5",
+      "name": "108 | What is the Prosperity Gospel?",
+      "datePublished": 1681275600,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4094e353c006335281ce/size/54250070/audio-files/616389ba0fa9fb91fad22f87/015f75a4-bb8b-4146-b44e-2ee61b10ab12.mp3",
+      "duration": 2248
+    },
+    {
+      "uuid": "10e0dc6d-ffbd-4707-ac6b-d757089bfaab",
+      "guid": "bca9f083-1eda-428e-aca3-f83e06472e18",
+      "name": "107 | How Not to Be A Christian Bully",
+      "datePublished": 1680670800,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b40aca59a1169c8e20aae/size/30017315/audio-files/616389ba0fa9fb91fad22f87/5fc391b3-e72d-43b7-8e48-705784040761.mp3",
+      "duration": 1239
+    },
+    {
+      "uuid": "55d133f3-5c15-4fe0-9d04-4b6acfb25d2e",
+      "guid": "ad3516b2-810c-4436-bf67-1451264cf66a",
+      "name": "106 | How Do I Know I Am Truly Saved?",
+      "datePublished": 1680061980,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b40d4f6f33e42da8b9050/size/62236409/audio-files/616389ba0fa9fb91fad22f87/31443d15-039b-48d3-84e2-0a602d872875.mp3",
+      "duration": 2581
+    },
+    {
+      "uuid": "20bd861f-e38b-4955-94e4-65d83fb5f62d",
+      "guid": "0e5d0e77-fb9e-4b6a-9508-d42997756ca7",
+      "name": "105 | Ten Ways to Integrate Prayer Into Your Day",
+      "datePublished": 1679458500,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b40f0e353c086b65281d3/size/40673798/audio-files/616389ba0fa9fb91fad22f87/9258ae04-21fd-4a86-a213-485c75509bf9.mp3",
+      "duration": 1683
+    },
+    {
+      "uuid": "a8aa4140-72a4-49ff-ade1-dc6510354147",
+      "guid": "b7bb6c23-540b-4e8d-b6b0-3446f4613d13",
+      "name": "104 | Bible Study for Your Learning Style",
+      "datePublished": 1678852800,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b410cf6f33ed51a8b9054/size/31786589/audio-files/616389ba0fa9fb91fad22f87/634b26be-d299-465e-ade2-a7cb06d51581.mp3",
+      "duration": 1312
+    },
+    {
+      "uuid": "6a499f61-8b4a-48cd-8f96-cebb619bcc93",
+      "guid": "240953ca-c450-4a8e-8ecb-71f9308f04c7",
+      "name": "BONUS | A Conversation About the Holy Spirit with Matt Jacobson",
+      "datePublished": 1678427040,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4142a59a114f98e20aba/size/65555413/audio-files/616389ba0fa9fb91fad22f87/d9a770a9-a6c7-4392-98d9-b74a9d4699ca.mp3",
+      "duration": 2719
+    },
+    {
+      "uuid": "d0732693-fc57-44da-8357-ee4045fb48f1",
+      "guid": "db817ed4-bec6-4fe9-a9ff-4dc67ab1f302",
+      "name": "103 | Does the Bible Condemn Tattoos?",
+      "datePublished": 1678278600,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4178f6f33e81e18b905e/size/26952351/audio-files/616389ba0fa9fb91fad22f87/a41b9e50-0429-4d37-a456-e27ebb330a25.mp3",
+      "duration": 1111
+    },
+    {
+      "uuid": "a22b899f-6382-4304-a089-639b96f9c6eb",
+      "guid": "4ab8ff2c-69af-4c5a-bae2-69b79f03dce3",
+      "name": "BONUS | Every Woman a Theologian Preview | Chapter 5",
+      "datePublished": 1677823200,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b418f8f976cded09cc844/size/21469036/audio-files/616389ba0fa9fb91fad22f87/e6bfdeed-3949-488c-985c-961d90120405.mp3",
+      "duration": 882
+    },
+    {
+      "uuid": "99fdf657-c37d-4504-bcb5-7546b69410fd",
+      "guid": "fd3fec19-824c-406b-a6ac-ba973e284b99",
+      "name": "BONUS | Every Woman a Theologian Preview | Chapter 6",
+      "datePublished": 1677218400,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b41a34cab5a507c527deb/size/20170644/audio-files/616389ba0fa9fb91fad22f87/b2b5e909-cf5a-426f-971f-70ca4a4069f6.mp3",
+      "duration": 828
+    },
+    {
+      "uuid": "58429bd1-7b8e-4c29-9d66-28f150ff71c6",
+      "guid": "884392f4-e2a6-4900-91b1-94bd971d0284",
+      "name": "102 | End Times Hope v. End Times Fear",
+      "datePublished": 1677045600,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b41c4a59a116465e20abd/size/38560794/audio-files/616389ba0fa9fb91fad22f87/12a4d6c8-0545-46c0-978d-420479bcedfb.mp3",
+      "duration": 1595
+    },
+    {
+      "uuid": "c750d0f4-9ff7-4b48-833c-e119756bd267",
+      "guid": "ed204d04-a47f-4c7d-90a0-51ec19a4df33",
+      "name": "BONUS | Every Woman a Theologian Preview | Chapter 2",
+      "datePublished": 1676690820,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b41d88f976c6c219cc84e/size/19028318/audio-files/616389ba0fa9fb91fad22f87/ae5c0baa-ec48-49bc-b8c9-74f4516e38f2.mp3",
+      "duration": 781
+    },
+    {
+      "uuid": "de703451-b067-496a-ae1e-ab5857074ef7",
+      "guid": "155e3ed3-55fd-4b75-8b0a-b5a01308cb86",
+      "name": "101 | Why Bother With the Church?",
+      "datePublished": 1676440800,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b41f74cab5a0686527def/size/35396635/audio-files/616389ba0fa9fb91fad22f87/afc46d04-62d1-4188-ade9-48236e8fc659.mp3",
+      "duration": 1463
+    },
+    {
+      "uuid": "72c6a9be-b4a0-4e4b-b98b-63b2e21e908e",
+      "guid": "e82a8812-ea3d-4631-8c95-5ad2497a437e",
+      "name": "100 | The Holy Spirit for Dummies",
+      "datePublished": 1675832460,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b421fe1c7cb9c2baab6d0/size/52170293/audio-files/616389ba0fa9fb91fad22f87/68c4b139-da95-4f52-9316-c3b173971ab5.mp3",
+      "duration": 2162
+    },
+    {
+      "uuid": "141dbedb-87aa-4f98-99dd-0c2572803180",
+      "guid": "0ae5e45f-61fe-4bac-987c-28b2544a4860",
+      "name": "099 | Is God Choosing Who Will Be Saved?",
+      "datePublished": 1675231200,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4254e353c091a25281e5/size/69762028/audio-files/616389ba0fa9fb91fad22f87/18dc087b-7bc0-46b5-b457-070633df899f.mp3",
+      "duration": 2895
+    },
+    {
+      "uuid": "d02168cb-4691-4299-ad2c-95a0e2886b1e",
+      "guid": "61171d01-ab9d-4791-8ac9-be598c88af9b",
+      "name": "098 | Did Jesus Really Claim to Be God?",
+      "datePublished": 1674626400,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b429de353c060585281f1/size/48368977/audio-files/616389ba0fa9fb91fad22f87/aa6f22c9-3162-45ce-97b1-50050c32f6a0.mp3",
+      "duration": 2003
+    },
+    {
+      "uuid": "f514a86d-c6be-4b6c-8f3a-fa5e5d412886",
+      "guid": "e53ad765-e329-4f7d-8840-f52aca10df59",
+      "name": "097 | Did God Set Humans Up to Fail",
+      "datePublished": 1674023940,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b42c69e50bf2e079aa8da/size/58321767/audio-files/616389ba0fa9fb91fad22f87/3afcbcbc-51b5-41ed-ac3a-38534776d137.mp3",
+      "duration": 2418
+    },
+    {
+      "uuid": "a7932a6f-e6c4-4759-b5a6-1b112893fa19",
+      "guid": "375e04a4-dd91-4a02-a3a7-fba5164220be",
+      "name": "096 | The Mean Old Testament God",
+      "datePublished": 1673500500,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b42e91dd869bfff0e372d/size/54024090/audio-files/616389ba0fa9fb91fad22f87/090bdf13-82ef-4703-b9b4-0a25d2ae7eff.mp3",
+      "duration": 2239
+    },
+    {
+      "uuid": "415b7a95-07c2-4043-b836-bcd99e62412c",
+      "guid": "81ed3420-3da9-4255-87e8-21bac496c8fd",
+      "name": "095 | How Do I Know I'm Interpreting the Bible Correctly?",
+      "datePublished": 1672813500,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b430e4cab5ae644527dfb/size/49835525/audio-files/616389ba0fa9fb91fad22f87/0123ab20-c48f-47d5-8ed7-32365329dc47.mp3",
+      "duration": 2064
+    },
+    {
+      "uuid": "7628a4bd-5e26-4fc1-b0d1-a589fcd117e7",
+      "guid": "91b48ddc-8a3f-4b99-8358-caf62ba01984",
+      "name": "094 | How to Read the Whole Bible in 2023!",
+      "datePublished": 1672034400,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b431d4cab5aaa46527dff/size/10493514/audio-files/616389ba0fa9fb91fad22f87/2831fb5d-9ec9-40f3-8463-ed4de390cbd7.mp3",
+      "duration": 425
+    },
+    {
+      "uuid": "755cf334-b5b1-4a46-8445-25cf54d0f3a9",
+      "guid": "f5008008-fcb1-4978-a9e7-a5b292f6f98c",
+      "name": "093 | How to Succeed at a Bible Reading Plan",
+      "datePublished": 1671602400,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b433fa59a1164a9e20ae1/size/51801948/audio-files/616389ba0fa9fb91fad22f87/97ec75e7-e933-4cc5-8dd0-51e4395a4ffa.mp3",
+      "duration": 2146
+    },
+    {
+      "uuid": "7f76e9d8-2369-4cbc-b2e9-86aab1330e08",
+      "guid": "1feaf3bb-2134-4722-bd32-6fc8baf3c73b",
+      "name": "092 | What is Biblical Repentance?",
+      "datePublished": 1670993820,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b436e4cab5a83e5527e00/size/75271576/audio-files/616389ba0fa9fb91fad22f87/f22d13a0-fc84-4cf9-a55c-e2e5cce31a8c.mp3",
+      "duration": 3124
+    },
+    {
+      "uuid": "8473177a-ebe4-492a-95e7-d18f617aef92",
+      "guid": "6d1030cd-a8fd-4192-a7db-e97a397326dd",
+      "name": "091 | Can God Satisfy My Heart?",
+      "datePublished": 1670392800,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4390e353c0c029528200/size/33876339/audio-files/616389ba0fa9fb91fad22f87/81cafbe9-0a9b-4317-ad19-44d501793736.mp3",
+      "duration": 1399
+    },
+    {
+      "uuid": "f7d87f97-1ce8-4eed-bc11-72f0e258a463",
+      "guid": "2718b31d-e3a6-4e8a-9a2a-e64a2437941d",
+      "name": "090 | Discerning Christmas",
+      "datePublished": 1669788000,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b43a6a59a11bac8e20ae4/size/25276290/audio-files/616389ba0fa9fb91fad22f87/ee7d50f4-a16b-407a-8b5a-8255091d5c61.mp3",
+      "duration": 1041
+    },
+    {
+      "uuid": "bdb82329-113f-476d-a371-2aed87ca5912",
+      "guid": "23746392-6008-46fc-adf7-3bc41f4d2683",
+      "name": "089 | Phylicia's Advent Recommendations",
+      "datePublished": 1669183200,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b43d98f976ced259cc868/size/30311373/audio-files/616389ba0fa9fb91fad22f87/499aff77-2c21-4b76-8394-df43812fb142.mp3",
+      "duration": 1251
+    },
+    {
+      "uuid": "45e48a0d-030e-493b-ae7b-f28d9c2225d6",
+      "guid": "076a38b5-fd55-4117-a546-944b3829eed2",
+      "name": "088 | How to Find Freedom from Legalism",
+      "datePublished": 1668648840,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b43fff6f33efa6d8b906d/size/29969584/audio-files/616389ba0fa9fb91fad22f87/d247e8fa-724f-4979-a5c0-99c4fd84db54.mp3",
+      "duration": 1246
+    },
+    {
+      "uuid": "c7b8fca9-6a91-49c2-ba92-e006fad93043",
+      "guid": "3cbcce86-63e4-4be7-8a96-a5a282bb4093",
+      "name": "087 | Panel Discussion from the 2022 Verity Conference",
+      "datePublished": 1668017040,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b443d15ebe045c3f4bb62/size/97070604/audio-files/616389ba0fa9fb91fad22f87/08ab30cb-a362-42f9-b6f9-4ffd63cd694a.mp3",
+      "duration": 4032
+    },
+    {
+      "uuid": "345a55fa-1f6a-4e6f-b6c4-7ef7e1259ae8",
+      "guid": "bc70749c-52a8-4ec1-849b-79441bb05e22",
+      "name": "086 | The Ultimate Church History Book List",
+      "datePublished": 1667365200,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4462a59a114470e20af3/size/55225377/audio-files/616389ba0fa9fb91fad22f87/b6ee6e14-65cd-401d-9384-ec97d28e78d4.mp3",
+      "duration": 2289
+    },
+    {
+      "uuid": "a1688541-8cf4-42d4-910b-866b218001b5",
+      "guid": "ec34bebc-e58d-4191-be35-b6b13ff9922f",
+      "name": "085 | Why We Need to Pray (and How to Do It!)",
+      "datePublished": 1666760400,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b448bf6f33e63f98b9076/size/66459358/audio-files/616389ba0fa9fb91fad22f87/93631660-1c7e-4eb3-9705-074a3932c2b1.mp3",
+      "duration": 2757
+    },
+    {
+      "uuid": "91d65226-b3be-446f-946f-7a6e1c7168de",
+      "guid": "cb1e0fb0-a98b-482e-ad8c-4cf9ec868d45",
+      "name": "084 | How to Walk by the Spirit",
+      "datePublished": 1666155600,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b44ac15ebe0850bf4bb70/size/51004885/audio-files/616389ba0fa9fb91fad22f87/b3e6afce-199c-4762-aaa0-a020d2541d80.mp3",
+      "duration": 2113
+    },
+    {
+      "uuid": "50fe7a3c-ef21-437e-a0db-05d0d5db5ecd",
+      "guid": "8902e0ba-42f9-4fd0-8c6a-400e9f8b362c",
+      "name": "083 | What I Read This Year",
+      "datePublished": 1665550740,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b44ef148b7015727fd3fe/size/41900849/audio-files/616389ba0fa9fb91fad22f87/7d15e322-5828-47e9-bfdf-e9f65af69450.mp3",
+      "duration": 1734
+    },
+    {
+      "uuid": "b44d8bcb-8eaf-4b7e-93d6-700a8cd86a6e",
+      "guid": "3f06c31d-b0e3-4a47-b4d1-4bfda4c6c850",
+      "name": "082 | Discerning Theology in Worship Music",
+      "datePublished": 1664946000,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4560e353c07a51528224/size/53479894/audio-files/616389ba0fa9fb91fad22f87/c24cc9a3-b473-4f75-9bad-b81a8c2074ca.mp3",
+      "duration": 2216
+    },
+    {
+      "uuid": "26d595fa-8b8e-4af1-a159-533042b2b6c0",
+      "guid": "d422065d-a8eb-441a-a665-6377cb754073",
+      "name": "081 | Discerning Halloween",
+      "datePublished": 1664341200,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b458e8f976c5ff69cc88d/size/69013082/audio-files/616389ba0fa9fb91fad22f87/89d99bb6-4827-41c9-a956-f6c0fbc25d41.mp3",
+      "duration": 2863
+    },
+    {
+      "uuid": "069cd63b-3663-4b71-a845-dee6a4e30d4a",
+      "guid": "659c413a-0c8c-4578-babe-2ffddbdf3131",
+      "name": "080 | Five Christian Creeds",
+      "datePublished": 1663823624,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b45c0148b7026de7fd403/size/42435167/audio-files/616389ba0fa9fb91fad22f87/2f53c3b2-61f5-4708-a4f6-9b28295a4357.mp3",
+      "duration": 1756
+    },
+    {
+      "uuid": "9e612921-147e-4ab1-a924-51acf6319799",
+      "guid": "76afda3c-9c59-4229-8fa3-d63daafa2a7b",
+      "name": "079 | How to Hear God's Voice",
+      "datePublished": 1663135678,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b45eca59a11d832e20b0d/size/32170184/audio-files/616389ba0fa9fb91fad22f87/4813be86-7937-4ff1-a2a1-5276260ddc3a.mp3",
+      "duration": 1328
+    },
+    {
+      "uuid": "f5bece14-86d8-42f2-951a-6e9d61ec222a",
+      "guid": "2c25c3de-17ae-4f91-9b85-591071cb6383",
+      "name": "078 | My Favorite Children's Books & Bibles",
+      "datePublished": 1661922876,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b46259e50bf02509aa91b/size/24988631/audio-files/616389ba0fa9fb91fad22f87/50122e61-2a99-435c-9298-72fa67605962.mp3",
+      "duration": 1029
+    },
+    {
+      "uuid": "c8460b15-106d-4e13-9255-113b2d8dcefc",
+      "guid": "fd3c886a-be30-4493-9f8e-9141feb5c2c1",
+      "name": "077 | How to Choose a Church",
+      "datePublished": 1661317220,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b46439e50bf79129aa91d/size/36169344/audio-files/616389ba0fa9fb91fad22f87/5183624f-5ec8-4a62-8f35-b4a807bc3503.mp3",
+      "duration": 1495
+    },
+    {
+      "uuid": "733511c7-b524-4e3e-931f-05d36efe8f7b",
+      "guid": "a8315063-bbe5-4a04-99a9-45718a18b461",
+      "name": "076 | Does God Forgive Sexual Sin?",
+      "datePublished": 1660712444,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4663f6f33ec49c8b9091/size/47975722/audio-files/616389ba0fa9fb91fad22f87/8c6c5025-e9c7-457f-8c84-b1edcfef3f97.mp3",
+      "duration": 1987
+    },
+    {
+      "uuid": "2cf89030-d88a-408b-a5d3-b92f09e1a698",
+      "guid": "9ffa1481-c12a-4600-ac85-cf17339ba6db",
+      "name": "075 | Building a Sustainable Bible Study Routine",
+      "datePublished": 1660107644,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b467d15ebe068c8f4bb95/size/28034418/audio-files/616389ba0fa9fb91fad22f87/cfc7cdd8-e5bd-4e81-a615-c17a5eb7088e.mp3",
+      "duration": 1156
+    },
+    {
+      "uuid": "f7f7b160-3e1e-4e68-a8e7-0c679524521f",
+      "guid": "5ebe62b7-2f0b-46f9-beaa-497c6832e664",
+      "name": "074 | Five Views of Communion",
+      "datePublished": 1659511808,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b469ae1c7cb23dcaab700/size/30789840/audio-files/616389ba0fa9fb91fad22f87/04da054d-7d32-4a25-942d-8f85d22adea4.mp3",
+      "duration": 1271
+    },
+    {
+      "uuid": "f8cb70b7-4392-4535-b8d6-0bfa26fba241",
+      "guid": "19170e93-c947-43c6-876d-97ec5ae92546",
+      "name": "073 | Rapid Fire Theology Q/A",
+      "datePublished": 1647406827,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b46b715ebe049e8f4bb9f/size/30834751/audio-files/616389ba0fa9fb91fad22f87/4f036de5-7b71-4e0e-903a-7ac7924ac711.mp3",
+      "duration": 1273
+    },
+    {
+      "uuid": "d7c57845-01ff-41f4-b047-f582a2ae0053",
+      "guid": "8726be82-64c9-485d-be94-0f0ba8732ee8",
+      "name": "072 | Five Views of Creation",
+      "datePublished": 1646815857,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b46d415ebe016f1f4bba2/size/39053147/audio-files/616389ba0fa9fb91fad22f87/f4b571d7-6198-4055-b2de-3c43df9cbce3.mp3",
+      "duration": 1615
+    },
+    {
+      "uuid": "a5f8347f-a900-410c-ba8c-43dd14b28be5",
+      "guid": "73ecbd27-791e-4c2c-b8bf-622f00f4650d",
+      "name": "071 | Is it a Sin to Drink Alcohol?",
+      "datePublished": 1644991200,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4709a59a1173e4e20b2a/size/34953152/audio-files/616389ba0fa9fb91fad22f87/fceda757-dcb2-41f4-b987-4a0da6f18e82.mp3",
+      "duration": 1444
+    },
+    {
+      "uuid": "efac2fcb-070f-4974-88be-cb5a5998fcb4",
+      "guid": "0d28948b-1d0b-4cb1-b198-a7cc9b8a3a92",
+      "name": "070 | Who Was Saint Valentine?",
+      "datePublished": 1644386438,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4730f6f33e0ad58b909d/size/14061677/audio-files/616389ba0fa9fb91fad22f87/7150ce21-48a9-459d-82f1-4d307c1710af.mp3",
+      "duration": 574
+    },
+    {
+      "uuid": "cc9372b9-c830-4345-8f44-34d254ba49f7",
+      "guid": "c746d172-cbea-46cb-b993-9e4800fea684",
+      "name": "069 | How Did the Sabbath Become Sunday Worship?",
+      "datePublished": 1643782988,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4750f6f33e745b8b90a1/size/51718847/audio-files/616389ba0fa9fb91fad22f87/373920c5-6d93-4438-9c25-3a040ebfbf2c.mp3",
+      "duration": 2143
+    },
+    {
+      "uuid": "383f2ce1-68c7-4f9c-b788-94bcfad06910",
+      "guid": "aa6abe30-f7f6-4975-90e4-26ea36fcb511",
+      "name": "068 | Should Christian Women Watch Redeeming Love?",
+      "datePublished": 1642606294,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b47794cab5a36f3527e43/size/73518624/audio-files/616389ba0fa9fb91fad22f87/1a30c2a6-3620-462a-8103-74cd6df4512a.mp3",
+      "duration": 3051
+    },
+    {
+      "uuid": "c0f1daa8-59eb-48d7-82c8-ce3d6c5ccbbe",
+      "guid": "25978962-f8d5-415a-b961-948a8dee34d8",
+      "name": "067 | Building a Healthy Marriage: On Growth",
+      "datePublished": 1640813739,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4797f6f33e37d68b90a7/size/47635332/audio-files/616389ba0fa9fb91fad22f87/e6270c19-d98e-4039-b8c7-4dd929338392.mp3",
+      "duration": 1973
+    },
+    {
+      "uuid": "95c3b38d-8d8a-4c57-8c64-53a248ab5dcb",
+      "guid": "ed4aa799-a76b-4cc9-b0f5-d0a225e549be",
+      "name": "066 | Building a Healthy Marriage: On Common Interests",
+      "datePublished": 1640152800,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b47b3f6f33e795d8b90b1/size/44446244/audio-files/616389ba0fa9fb91fad22f87/ed3cd89d-9e5b-46fc-b264-fad33ffed6b5.mp3",
+      "duration": 1840
+    },
+    {
+      "uuid": "8e0bb5f3-1b94-452d-8225-b878624b7c71",
+      "guid": "6e5c02d3-3d0c-4631-98cc-70a6d679998f",
+      "name": "065 | Marriage Episode 10: On Friendships",
+      "datePublished": 1639561635,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b47d0eb7bff591782cab8/size/45006122/audio-files/616389ba0fa9fb91fad22f87/1007a1de-871f-4a3e-be4c-881543d7cc5b.mp3",
+      "duration": 1863
+    },
+    {
+      "uuid": "02159f26-5924-4686-9f9b-a9f5c95802d2",
+      "guid": "a9cc422e-8154-4a50-8562-33efe2e73e73",
+      "name": "064 | Marriage Episode 9: On Flirtation",
+      "datePublished": 1638943200,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b47e7148b7001b47fd41c/size/29157931/audio-files/616389ba0fa9fb91fad22f87/9cca64ca-4348-4d6d-9163-72b50a67a1dc.mp3",
+      "duration": 1203
+    },
+    {
+      "uuid": "941dfe6b-df14-4498-8c43-1ee54fa679a7",
+      "guid": "c8bd66f7-9aeb-4952-90e4-b0aa244b7af2",
+      "name": "063 | Marriage Episode 8: On Church",
+      "datePublished": 1637780752,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b48029e50bfc6839aa945/size/45350821/audio-files/616389ba0fa9fb91fad22f87/4c188e56-832d-4e8b-85d2-68cf75c405da.mp3",
+      "duration": 1877
+    },
+    {
+      "uuid": "50dd4889-1cd8-45b8-a1aa-69374e531644",
+      "guid": "d1074d64-3e8a-4485-82c0-e1e707ed3445",
+      "name": "062 | Marriage Episode 7: On Transitions",
+      "datePublished": 1637168414,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b481c8f976c8cd39cc8c9/size/38909030/audio-files/616389ba0fa9fb91fad22f87/ebf6ec0a-9895-4c1b-aff4-a6c69ccd5ccf.mp3",
+      "duration": 1609
+    },
+    {
+      "uuid": "8da5ecd0-1d0a-4f37-be20-d63dcd60a8ff",
+      "guid": "4f0e8415-587e-4bd3-9002-31e4fc16ae0d",
+      "name": "061 | Marriage Episode 6: On Parenting",
+      "datePublished": 1636535358,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b483fe353c066c7528252/size/57545386/audio-files/616389ba0fa9fb91fad22f87/0e7c75d8-802f-44e8-bf03-9daea648fa3f.mp3",
+      "duration": 2386
+    },
+    {
+      "uuid": "9cd492a8-f9f9-491e-8817-4afa7bfa45f3",
+      "guid": "8ab8e8b4-6ced-4054-913a-b419069e4fd9",
+      "name": "060 | Marriage Episode 5: On Pregnancy and Postpartum",
+      "datePublished": 1635934972,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b485cf6f33e95f08b90bf/size/46238975/audio-files/616389ba0fa9fb91fad22f87/916253f7-8d73-43fe-ba53-4ed6ea9ffc77.mp3",
+      "duration": 1914
+    },
+    {
+      "uuid": "01fc1204-d6b9-4fc1-a910-0ffc948f412f",
+      "guid": "ffc3fc31-5211-4e62-81fb-3f65852a437f",
+      "name": "059 | Marriage Episode 4: On Fighting Well",
+      "datePublished": 1635310800,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4879a59a1117d9e20b49/size/44909188/audio-files/616389ba0fa9fb91fad22f87/6ed20ca9-b028-499a-8358-e9279b18982e.mp3",
+      "duration": 1859
+    },
+    {
+      "uuid": "d430c332-9332-49aa-9e78-13971c46e13a",
+      "guid": "26c8283b-b9cb-4bd2-9c6d-6e167673f957",
+      "name": "058 | Marriage Episode 3: On Sexual Sin",
+      "datePublished": 1634706000,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b489915ebe06986f4bbc4/size/52063577/audio-files/616389ba0fa9fb91fad22f87/3820f552-8137-428e-bf14-1af4808deee2.mp3",
+      "duration": 2157
+    },
+    {
+      "uuid": "bd36c730-f569-4486-8ae2-ae8cfff4c092",
+      "guid": "670e5ba3-a7a5-4492-acf9-6a0d89c6b4e7",
+      "name": "057 | Marriage Episode 2: On Gender Roles",
+      "datePublished": 1634101200,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b48bab9166b11eae666a2/size/46419887/audio-files/616389ba0fa9fb91fad22f87/0e8839f9-a622-4679-9b2c-e63866ab06ce.mp3",
+      "duration": 1922
+    },
+    {
+      "uuid": "ae04b183-233f-4537-bf00-aeb01ef6df7c",
+      "guid": "230ccdbe-f9a6-4193-8de7-549c7f48dfa1",
+      "name": "056 | Marriage Episode 1: Our Marriage Story",
+      "datePublished": 1633496400,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b48d815ebe09a6df4bbcc/size/48530048/audio-files/616389ba0fa9fb91fad22f87/68edcb0d-724a-4886-b5fe-247b816e8c60.mp3",
+      "duration": 2010
+    },
+    {
+      "uuid": "872f1708-f7f9-4dfa-8d04-34a1c3c73905",
+      "guid": "42a83a6b-fbd4-47df-b9d2-ca6a9ae1cc7e",
+      "name": "055 | The Trinity, Modalism, and ESS",
+      "datePublished": 1629867600,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b48f9e353c03b15528269/size/52018309/audio-files/616389ba0fa9fb91fad22f87/133eef3b-68f3-4084-af44-2887ef3b6397.mp3",
+      "duration": 2160
+    },
+    {
+      "uuid": "ac71c279-aeb4-4a0d-ba65-c2c0f73c7903",
+      "guid": "07b917bf-d412-458a-8f54-98f277fd71c2",
+      "name": "054 | Two Views on Tithing",
+      "datePublished": 1628681858,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b49138f976c6de89cc8e7/size/38560930/audio-files/616389ba0fa9fb91fad22f87/a1cd3c44-0486-4c38-a76a-22156350c8b0.mp3",
+      "duration": 1595
+    },
+    {
+      "uuid": "0e935bbd-06f6-4f04-bf24-5288c83320c6",
+      "guid": "b4335288-b7d3-435e-9e97-ea47bbd34a64",
+      "name": "053 | The Biblical Case for Fasting (and How to Start)",
+      "datePublished": 1628052637,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b49299e50bf10489aa967/size/29521840/audio-files/616389ba0fa9fb91fad22f87/457ef295-7d8a-4e3a-8e0e-73fa59fa162b.mp3",
+      "duration": 1218
+    },
+    {
+      "uuid": "dc4bfd10-3683-42b0-b0b4-1c5b5c516434",
+      "guid": "0581ca22-0172-4610-9b89-a7906e88a03a",
+      "name": "052 | Seven Views of the Atonement",
+      "datePublished": 1627450210,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b494e4cab5a9acd527e63/size/64738686/audio-files/616389ba0fa9fb91fad22f87/dd1cc6f4-7237-45e6-ab51-8a24a91d61bf.mp3",
+      "duration": 2685
+    },
+    {
+      "uuid": "346cd22b-d203-4b59-acb5-e9a238eb564d",
+      "guid": "206a394c-3d79-4ec3-9afb-6ad1f6b8706b",
+      "name": "051 | Ask Anything Q&A | Part 2",
+      "datePublished": 1624424400,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b49614cab5a26db527e6c/size/28957087/audio-files/616389ba0fa9fb91fad22f87/dc3e5774-1259-49b4-9e28-b7ce62c29e81.mp3",
+      "duration": 1194
+    },
+    {
+      "uuid": "1f5e969f-8459-4ad9-a82b-38534a564e4e",
+      "guid": "2a4e8d9c-404a-44d1-9afa-e786c513f99f",
+      "name": "050 | Is Contemplative Prayer Biblical?",
+      "datePublished": 1623823200,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b497ba59a11dd3ce20b64/size/51561417/audio-files/616389ba0fa9fb91fad22f87/dd4cc81f-0b6f-428f-bbfb-d2934478ef37.mp3",
+      "duration": 2136
+    },
+    {
+      "uuid": "8a8c297f-824c-4f55-8a74-8312c128765c",
+      "guid": "7d011b6f-ee6a-43e7-b155-f973b33b78d9",
+      "name": "049 | How to Discern Core Doctrine",
+      "datePublished": 1623214800,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4998a59a11c7cce20b69/size/57607366/audio-files/616389ba0fa9fb91fad22f87/4395aa4a-ab3d-4db8-a966-097eef120c00.mp3",
+      "duration": 2388
+    },
+    {
+      "uuid": "506e139c-d7c4-4b12-bfd6-c3868022a8ff",
+      "guid": "cd158103-9559-4c25-8af3-c7f311049eb0",
+      "name": "048 | What is Dispensationalism",
+      "datePublished": 1622610000,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b49ad4cab5a7f39527e7b/size/36063031/audio-files/616389ba0fa9fb91fad22f87/70ac5818-f45c-4250-bc9c-fdaeb26d1bc3.mp3",
+      "duration": 1490
+    },
+    {
+      "uuid": "d416bcf3-ebb7-4121-aa17-c584b88ca3f7",
+      "guid": "abccd28f-4349-40d5-a201-bc7b5b73c6c8",
+      "name": "047 | Four Views of Baptism",
+      "datePublished": 1622005200,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b49cbf6f33e3f238b90e4/size/58226314/audio-files/616389ba0fa9fb91fad22f87/cf015d33-0a39-4caf-abc8-d7405a0c35f8.mp3",
+      "duration": 2414
+    },
+    {
+      "uuid": "b859a390-e62d-4ba4-9751-45636ca13a61",
+      "guid": "ecaf6c14-a53e-401e-b28b-24ee2036cd08",
+      "name": "046 | Mariology: Understanding the Theotokos",
+      "datePublished": 1621433280,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b49e3e1c7cbe0b3aab74b/size/45342291/audio-files/616389ba0fa9fb91fad22f87/0e5619d8-2ae6-4090-af38-8d560a1a799a.mp3",
+      "duration": 1883
+    },
+    {
+      "uuid": "a33a52c7-e82c-4fb7-b98e-ffe99f0f1c69",
+      "guid": "8daeebf8-4b42-4858-9c52-4a58e90347c0",
+      "name": "BONUS: Fruitful Gospel Conversations about Race with Charaia Calabrass",
+      "datePublished": 1618556400,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4a051dd869f93c0e37aa/size/64481568/audio-files/616389ba0fa9fb91fad22f87/431f1f4a-4616-4b4f-a01d-bb3d75bf525e.mp3",
+      "duration": 2675
+    },
+    {
+      "uuid": "42e51ea2-4427-4317-979c-56df8a8e2a75",
+      "guid": "d516a3f8-6134-4c11-816b-efed77a37e50",
+      "name": "045 | Ask Anything Q&A",
+      "datePublished": 1618383600,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4a219e50bf06149aa992/size/46869048/audio-files/616389ba0fa9fb91fad22f87/af2264b9-a437-4b73-9af3-454b3315e0b2.mp3",
+      "duration": 1941
+    },
+    {
+      "uuid": "c427ba3b-e3ec-4401-bd14-8ccebc28dc8a",
+      "guid": "bb09daa7-5350-4868-b6de-dca7e8a032ef",
+      "name": "BONUS: Same Sex Attraction with Brenna Blain",
+      "datePublished": 1617944400,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4a3f8f976c435e9cc903/size/53743749/audio-files/616389ba0fa9fb91fad22f87/05088588-4339-46c8-9cd2-4aea9194e8eb.mp3",
+      "duration": 2227
+    },
+    {
+      "uuid": "5e9241d5-e993-4eba-abae-03d686e429b0",
+      "guid": "dbb45c91-ca5f-41f3-a977-988578961c97",
+      "name": "044 | Is Easter Pagan?",
+      "datePublished": 1617778800,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4a5ba59a1132f7e20b7c/size/46447049/audio-files/616389ba0fa9fb91fad22f87/6b5372e9-d00b-48f2-a133-839d7167275e.mp3",
+      "duration": 1930
+    },
+    {
+      "uuid": "ac4a6758-6c60-45cc-bc48-272c015ba6de",
+      "guid": "f90b7079-5b95-4129-9284-91be71ce5122",
+      "name": "043 | Cessationism v. Continuationism",
+      "datePublished": 1617166800,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4a778f976c84889cc90c/size/45387781/audio-files/616389ba0fa9fb91fad22f87/20af2ec6-e016-4689-a8e3-2b914f8377b0.mp3",
+      "duration": 1879
+    },
+    {
+      "uuid": "1e8f431c-8dd0-4aa9-ba58-07797d5b6c32",
+      "guid": "1976819b-f8e4-4814-9cf3-087c1ea8977c",
+      "name": "BONUS: Grace with Amy Ford",
+      "datePublished": 1616787892,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4a9815ebe06894f4bc0d/size/58727283/audio-files/616389ba0fa9fb91fad22f87/6806cf29-4d30-4fa5-885e-3016b2352a79.mp3",
+      "duration": 2435
+    },
+    {
+      "uuid": "45536b22-cff9-4c57-b970-9eabd2fe0732",
+      "guid": "476c4de5-fa94-4d09-a02f-fb897b6461a4",
+      "name": "042 | Four Views of the End Times",
+      "datePublished": 1616610405,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4ab39e50bf704c9aa9af/size/44221379/audio-files/616389ba0fa9fb91fad22f87/1ad96736-fe54-4cfc-92ac-09da8bb3bbb7.mp3",
+      "duration": 1830
+    },
+    {
+      "uuid": "28456bbd-1fab-406f-a09e-68f4b3416629",
+      "guid": "91484eb7-c76d-46e7-8c98-72c5911903e5",
+      "name": "041 | Theology of Worship with Alana Nelson",
+      "datePublished": 1615363200,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4ade1dd86934470e37c9/size/72441795/audio-files/616389ba0fa9fb91fad22f87/ff16e99d-842a-4498-82f8-dcadc21d928b.mp3",
+      "duration": 3006
+    },
+    {
+      "uuid": "e461b3ea-3f44-45b0-9070-613d355eeabe",
+      "guid": "947937b7-ac69-464a-850a-797213afdc12",
+      "name": "040 | Calvinism and Arminianism: An Overview",
+      "datePublished": 1614754800,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4b00148b70923b7fd48f/size/49839870/audio-files/616389ba0fa9fb91fad22f87/cec0ca3f-30ab-4e16-ac9d-87bdc6db16b0.mp3",
+      "duration": 2064
+    },
+    {
+      "uuid": "72c951da-f3a6-4e09-8ddc-bbb87fd8af65",
+      "guid": "aba1a5b6-de09-482f-ac54-22b0e001450a",
+      "name": "039 | Discernment v. Critical Spirit: What's the Difference?",
+      "datePublished": 1614146400,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4b1615ebe0b683f4bc24/size/25742548/audio-files/616389ba0fa9fb91fad22f87/16958ba4-ba1f-4661-adc7-8028f2cf4932.mp3",
+      "duration": 1060
+    },
+    {
+      "uuid": "fa4e038c-ea2f-4452-b7f4-2da534c5fa04",
+      "guid": "57c1aa18-3403-4755-9cf2-6fa475510169",
+      "name": "Season 4 Trailer",
+      "datePublished": 1613548800,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4b21eb7bfff91e82cb22/size/4747980/audio-files/616389ba0fa9fb91fad22f87/cd096958-1c20-4c02-98a5-7ed7e16b3f13.mp3",
+      "duration": 186
+    },
+    {
+      "uuid": "83e30707-8ee6-45f1-b4d9-0036522730e2",
+      "guid": "2b1011f3-755f-4da7-86e3-722b14986204",
+      "name": "BONUS: Mike Winger Interview: NAR and the Passion",
+      "datePublished": 1611129600,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4b428f976c43a89cc92e/size/49055432/audio-files/616389ba0fa9fb91fad22f87/737d2e20-3d56-4f7a-bd35-94ccc14fce27.mp3",
+      "duration": 2032
+    },
+    {
+      "uuid": "6e620a58-950c-45bd-a3a7-1d5dc522f2d2",
+      "guid": "27dc9b9b-5629-46bf-bf76-71a5b6d4642f",
+      "name": "Women's Issues: Q & A",
+      "datePublished": 1606916766,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4b5a8f976c50f69cc933/size/26195413/audio-files/616389ba0fa9fb91fad22f87/8db20260-2d7d-4f8d-ac8b-d9886a8a5330.mp3",
+      "duration": 1079
+    },
+    {
+      "uuid": "28d22a2d-96e9-40d7-bb6e-2b3f83d6b2e1",
+      "guid": "4d03ca6d-3369-4eea-afa9-53539c375fad",
+      "name": "Women's Issues: Modesty",
+      "datePublished": 1606287600,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4b7b9e50bf82d29aa9d5/size/43413588/audio-files/616389ba0fa9fb91fad22f87/138f77c3-7ed3-474f-bd5d-aa8d6962368a.mp3",
+      "duration": 1803
+    },
+    {
+      "uuid": "e2faf8b8-f6f1-4087-affb-2205c5910d28",
+      "guid": "521b510c-9baf-475e-82b8-6d89595c0149",
+      "name": "Women's Issues: Work",
+      "datePublished": 1605686400,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4ba6e1c7cbbbc1aab79d/size/64720668/audio-files/616389ba0fa9fb91fad22f87/016a20f0-4144-43a4-8a7e-e6eaebe95b3b.mp3",
+      "duration": 2685
+    },
+    {
+      "uuid": "6a0c4d23-a33d-42f2-8c1e-86d4a2de7283",
+      "guid": "d4afc6e6-1c13-46db-b5de-ab249b82fa9a",
+      "name": "Women's Issues: Feminism",
+      "datePublished": 1605074400,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4bc7e353c04bd55282d3/size/46866390/audio-files/616389ba0fa9fb91fad22f87/6a2cb47b-b381-460d-86c4-aa76c435b4b5.mp3",
+      "duration": 1941
+    },
+    {
+      "uuid": "9ce8c3b0-ce37-4f0a-9e63-3747901da774",
+      "guid": "2213576a-125a-4d25-a4e4-edc8c888c714",
+      "name": "Women's Issues: The Church",
+      "datePublished": 1604473200,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4bef9e50bf452d9aa9ff/size/59524022/audio-files/616389ba0fa9fb91fad22f87/ddaa382b-6073-4f23-bd8b-04f1ebb5a9d8.mp3",
+      "duration": 2468
+    },
+    {
+      "uuid": "b733b9ac-fcb2-488e-9b09-d6d0f78b7c7d",
+      "guid": "8bedf893-ae31-4028-ab96-bc13d5a2a8e5",
+      "name": "030 | Women's Issues: Marriage",
+      "datePublished": 1603864156,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4c17a59a111efce20bf6/size/61126321/audio-files/616389ba0fa9fb91fad22f87/432ffbb4-7369-45c9-bca6-c5e563e1bc15.mp3",
+      "duration": 2535
+    },
+    {
+      "uuid": "9e48d369-28a8-4a55-abd8-20687cfa9004",
+      "guid": "f0c6733b-f07b-42bd-bd9c-e8bedfcc446c",
+      "name": "029 | Women's Issues: Singleness",
+      "datePublished": 1603260000,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4c471dd8699d500e3827/size/77892148/audio-files/616389ba0fa9fb91fad22f87/35566961-631a-4654-bf8c-fdfcfdb39b8e.mp3",
+      "duration": 3233
+    },
+    {
+      "uuid": "191e883b-e29f-46a9-afe4-ab1ba70555d2",
+      "guid": "61e68547-33bd-4510-90f8-7f5e8e035b90",
+      "name": "028 | Women's Issues: Motherhood Culture",
+      "datePublished": 1602655200,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4c8d8f976c66eb9cc997/size/57275940/audio-files/616389ba0fa9fb91fad22f87/6a7717fd-53cc-4f12-b24f-17359fb0d82a.mp3",
+      "duration": 2374
+    },
+    {
+      "uuid": "2c5338d7-5672-4f13-9ee7-468a942afeb2",
+      "guid": "ec0eefe5-9419-4293-8e0b-6dc236f58088",
+      "name": "027 | Women's Issues: Breastfeeding",
+      "datePublished": 1602046800,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4cb78f976c4a869cc9a2/size/61738038/audio-files/616389ba0fa9fb91fad22f87/83f28fea-a268-414b-bc42-4e8d768b5faf.mp3",
+      "duration": 2560
+    },
+    {
+      "uuid": "4eda5b23-e81e-4428-b008-a0271354ca23",
+      "guid": "83772fd1-3447-4e86-95e1-253c917a2174",
+      "name": "026 | Women's Issues: Body and Sex",
+      "datePublished": 1601442000,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4cdc9e50bf13099aaa41/size/52421722/audio-files/616389ba0fa9fb91fad22f87/ae0747b8-2098-4a32-81a0-53ea64acbeb0.mp3",
+      "duration": 2172
+    },
+    {
+      "uuid": "374c0762-5fb4-4cf5-ab85-d5c8aa86e83e",
+      "guid": "0102f7e0-ec79-4ee9-a2b0-8c9e2dc6b9e1",
+      "name": "025 | Women's Issues: Reframing Pregnancy and Birth",
+      "datePublished": 1600837200,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4d288f976c62d99cc9c1/size/49815851/audio-files/616389ba0fa9fb91fad22f87/b46cbaf4-61cf-4e79-a407-38f970e8bc60.mp3",
+      "duration": 2064
+    },
+    {
+      "uuid": "c8edd72a-ca2c-4f9a-9583-7edf6e2ba178",
+      "guid": "7e3ecf15-dda9-44a8-9423-e3b090bc6f35",
+      "name": "024 | Season 3 Announcement",
+      "datePublished": 1600239600,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4d559e50bf3d779aaa57/size/4477426/audio-files/616389ba0fa9fb91fad22f87/7327c102-4de7-4e0c-8b30-197701575e55.mp3",
+      "duration": 182
+    },
+    {
+      "uuid": "b97ff281-efaa-4977-bb27-c3faa74ddabd",
+      "guid": "94e04730-9872-48fb-81c2-a0b13fa028a1",
+      "name": "023 | John Crist, Repentance, and Restoration",
+      "datePublished": 1599634800,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4daae1c7cb1c28aab81b/size/82516274/audio-files/616389ba0fa9fb91fad22f87/5f167b67-a86d-42bd-9805-867ac22d3801.mp3",
+      "duration": 3434
+    },
+    {
+      "uuid": "7ef372d0-f0dc-44c2-9040-a3ae4ce4939e",
+      "guid": "eff831db-cee7-4a36-b5d7-3cfcaf62de3f",
+      "name": "022 | Racism and the Western Church",
+      "datePublished": 1599030000,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4dd8f6f33e80748b91ce/size/80654382/audio-files/616389ba0fa9fb91fad22f87/9629ad17-3039-4056-9c57-4b07ac4db8c1.mp3",
+      "duration": 3356
+    },
+    {
+      "uuid": "0b028cb3-8090-4c2b-bb9a-dc9d17d502a1",
+      "guid": "24813325-467e-45e4-8a5e-c76d2367c9cf",
+      "name": "021 | Canon Q and A | Understanding the Canon",
+      "datePublished": 1593586800,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4df6e353c02dca528363/size/37875449/audio-files/616389ba0fa9fb91fad22f87/c746915a-652a-4874-9df5-5eb5b0983a5d.mp3",
+      "duration": 1566
+    },
+    {
+      "uuid": "ab72fd31-39f7-4546-8d48-8b5d938b0c49",
+      "guid": "a7807754-f460-4f92-8584-f84fe4575ca5",
+      "name": "020 | Bible Study 101 | Understanding the Canon",
+      "datePublished": 1592978400,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4e148f976cec689cc9d8/size/43010963/audio-files/616389ba0fa9fb91fad22f87/bbfb65ac-b67b-4616-8e86-41166e810aed.mp3",
+      "duration": 1780
+    },
+    {
+      "uuid": "378e644b-f0b0-444f-894a-bd181de22bf9",
+      "guid": "d8680e43-28f7-43c4-9b91-f9498fa91f98",
+      "name": "019 | Is The KJV The Best Bible Translation? | Understanding the Canon",
+      "datePublished": 1592373600,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4e5ae353c06fe4528368/size/45452856/audio-files/616389ba0fa9fb91fad22f87/03493c8d-fc89-4455-a16b-c486960a48cb.mp3",
+      "duration": 1882
+    },
+    {
+      "uuid": "566da28d-0982-47ef-9bac-3cdf9c982371",
+      "guid": "1d3f7f97-6a75-44eb-8a72-6c32035d30c1",
+      "name": "018 | The English Bible: Translation and History | Understanding the Canon",
+      "datePublished": 1591768800,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4e8e15ebe0fe33f4bcee/size/53294244/audio-files/616389ba0fa9fb91fad22f87/55c91f33-d562-4a59-aa15-f960bfa91b59.mp3",
+      "duration": 2208
+    },
+    {
+      "uuid": "17ab163b-d2e1-4831-8606-f125b635bcc8",
+      "guid": "75898cf4-55c1-4db0-a8ad-9c7a905dc4ac",
+      "name": "017 | Canon of Apocrypha | Understanding the Canon",
+      "datePublished": 1591164000,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4eb91dd869d3f70e3889/size/67532011/audio-files/616389ba0fa9fb91fad22f87/02b32d9d-1875-4c8a-8cc0-5e3f30060790.mp3",
+      "duration": 2802
+    },
+    {
+      "uuid": "a1644494-fc21-419c-bfca-17c83bf10b90",
+      "guid": "d38dcf4f-a8b1-42c2-9226-9d11ae11f48f",
+      "name": "016 | Canon of the Epistles | Understanding the Canon",
+      "datePublished": 1590559200,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4ee88f976cf4219cc9db/size/48590830/audio-files/616389ba0fa9fb91fad22f87/5eade38c-2a2f-4589-9d53-f5184546961c.mp3",
+      "duration": 2012
+    },
+    {
+      "uuid": "0b302e23-9cec-4807-801d-435ae7772404",
+      "guid": "92d45e03-dfa0-47b3-902e-55ca128cfe47",
+      "name": "015 | Canon of Gospels | Understanding the Canon",
+      "datePublished": 1589958000,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4f22148b70a7377fd551/size/50120105/audio-files/616389ba0fa9fb91fad22f87/bfed1e14-bff1-45a2-921c-561ba5e367eb.mp3",
+      "duration": 2076
+    },
+    {
+      "uuid": "06a628b6-fc77-44e7-af8a-9c0449da38aa",
+      "guid": "9dfd4b10-4d8c-41a9-b713-24607bf91afa",
+      "name": "014 | Canon of Writings | Understanding the Canon",
+      "datePublished": 1589338513,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4f44e1c7cb558caab836/size/41776851/audio-files/616389ba0fa9fb91fad22f87/52428a16-9497-44f1-916c-9bd0e3e553e0.mp3",
+      "duration": 1729
+    },
+    {
+      "uuid": "7fc7872f-b309-42b5-b87e-1ce93535be4a",
+      "guid": "3eee7377-eaa7-4c59-ac02-62c7a08ef4a9",
+      "name": "013 | Canon of Prophets | Understanding the Canon",
+      "datePublished": 1588744800,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4f838f976c6fa79cc9e2/size/50321130/audio-files/616389ba0fa9fb91fad22f87/3991051d-1c1f-4ea7-96cb-9442aafbd565.mp3",
+      "duration": 2085
+    },
+    {
+      "uuid": "a3a75274-e2dc-4934-afb1-56e46be0dba1",
+      "guid": "45f4673e-6ced-41a9-ba10-0d3b70a44d3f",
+      "name": "012 | Canon of Torah | Understanding the Canon",
+      "datePublished": 1588140000,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4fa21dd869fea80e389a/size/42956416/audio-files/616389ba0fa9fb91fad22f87/b6602460-42e1-48fc-aa79-b442451f0f23.mp3",
+      "duration": 1778
+    },
+    {
+      "uuid": "78f26ae9-c118-4727-a3e5-a80d06ed6daf",
+      "guid": "00584b2b-2f1a-4b4a-8d77-32580cc8815a",
+      "name": "011 | Introduction to the Canon | Understanding the Canon",
+      "datePublished": 1587535200,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4fc0e1c7cbdf87aab83c/size/37688882/audio-files/616389ba0fa9fb91fad22f87/f4f7ae5d-3be0-4395-a2f4-3a3aedc3f240.mp3",
+      "duration": 1558
+    },
+    {
+      "uuid": "195d8a64-7b69-42f6-b3f3-e3d673796473",
+      "guid": "e6a34448-a490-41fc-b422-8d0914924ae0",
+      "name": "010 | What Difference Would We Make? | Theology AMA",
+      "datePublished": 1585724400,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4fe2e1c7cb14b7aab841/size/47373751/audio-files/616389ba0fa9fb91fad22f87/200dd690-3891-47bf-9d77-9af9460b1492.mp3",
+      "duration": 1962
+    },
+    {
+      "uuid": "4334c508-beb0-4f53-be38-642e2310eec4",
+      "guid": "3ffa65cd-2726-4f59-b1c6-c766e382d07c",
+      "name": "009 | Everything I Ever Did: Shame | Theology AMA",
+      "datePublished": 1585119600,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b4fff8f976cd75f9cc9e5/size/36055349/audio-files/616389ba0fa9fb91fad22f87/fe4cacb4-3956-4ffe-86f0-5d1dcd016757.mp3",
+      "duration": 1490
+    },
+    {
+      "uuid": "d89c0c33-3835-45ee-9ecb-04977670fd62",
+      "guid": "bdaafac4-80e5-4d2b-b158-010a905ae6d3",
+      "name": "008 | Grief | Theology AMA",
+      "datePublished": 1583910000,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b5018e1c7cb1d4caab842/size/29661726/audio-files/616389ba0fa9fb91fad22f87/cd87a178-2c07-44f7-95a3-c686ec315438.mp3",
+      "duration": 1224
+    },
+    {
+      "uuid": "0b1cced7-9d67-4922-aa33-103347513437",
+      "guid": "ffaee00a-3f0f-41f8-b1d9-4e592a868767",
+      "name": "007 | Anxiety | Theology AMA",
+      "datePublished": 1583359200,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b5039e1c7cbb831aab844/size/45661280/audio-files/616389ba0fa9fb91fad22f87/c16fa964-6678-4dc8-a5a4-f81b37b4c8d4.mp3",
+      "duration": 1890
+    },
+    {
+      "uuid": "36eceac2-98cc-45d1-875b-d5d9fda2bb5d",
+      "guid": "fd0763e7-a1d1-49c2-9403-ff07e4298283",
+      "name": "006 | Legalism | Theology AMA",
+      "datePublished": 1582761600,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b505ee1c7cb23d9aab848/size/56014106/audio-files/616389ba0fa9fb91fad22f87/b7f43c63-b199-448c-aea1-3cdd7fb1146d.mp3",
+      "duration": 2322
+    },
+    {
+      "uuid": "ef018438-e0ce-4f67-9eae-72392e011268",
+      "guid": "e816a01c-492a-4064-b500-b784e03ecb8e",
+      "name": "005| How \"Stop Calling Me Beautiful\" Was Born | Theology AMA",
+      "datePublished": 1582099500,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b50748f976cb2ad9cc9ea/size/28320510/audio-files/616389ba0fa9fb91fad22f87/11e6408d-d1c2-4b0f-829d-4c5c5d1e3104.mp3",
+      "duration": 1168
+    },
+    {
+      "uuid": "74be2a27-d52f-4b58-8a14-194bb59918fe",
+      "guid": "7524308c-f9aa-4bc2-acfd-67bf93a14f80",
+      "name": "004| Redeeming Broken Sexuality | Theology AMA",
+      "datePublished": 1581364800,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b5098148b7077157fd563/size/51688812/audio-files/616389ba0fa9fb91fad22f87/5db59732-bbda-441e-b816-d2c077f8df01.mp3",
+      "duration": 2142
+    },
+    {
+      "uuid": "bfc03cc8-dbad-4d55-a13b-de63c1eb0193",
+      "guid": "1d2fe95c-3add-439d-9d9d-dcd02001b0fc",
+      "name": "003 | Overcoming the Fear of Man | Theology AMA",
+      "datePublished": 1581012000,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b50b9148b7044937fd564/size/40486800/audio-files/616389ba0fa9fb91fad22f87/7dfe4e65-5085-457a-9b70-5b7c8c83f928.mp3",
+      "duration": 1675
+    },
+    {
+      "uuid": "3765ac72-6dad-4e34-b121-5af3cc4b5b5b",
+      "guid": "2c9cd8d1-ac47-4ce3-8521-af1a6e7302f9",
+      "name": "002 | Cultivating a Lasting Community | Theology AMA",
+      "datePublished": 1580839200,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b50d8b9166b7f0be667b7/size/41699412/audio-files/616389ba0fa9fb91fad22f87/f3c814f8-d451-48cf-996f-ae73abd7df35.mp3",
+      "duration": 1725
+    },
+    {
+      "uuid": "490e0c2e-50db-44aa-9dd9-2075214f238d",
+      "guid": "e2c9b488-9d45-4844-8467-8a9dc79bd28a",
+      "name": "001 | Why The Instagram Bible Won't Free You | Theology AMA",
+      "datePublished": 1580748094,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b50f6f6f33e9ac98b91e2/size/38726116/audio-files/616389ba0fa9fb91fad22f87/0c6ffa1d-e6cd-4eac-a3f8-3f583cc60677.mp3",
+      "duration": 1601
+    },
+    {
+      "uuid": "80106003-831f-4482-a288-00ffb6e12b62",
+      "guid": "7ca72aad-d3a3-492b-b936-10c80d951dcc",
+      "name": "Verity by Phylicia Masonheimer Trailer",
+      "datePublished": 1578324560,
+      "audioUrl": "https://redirect.zencastr.com/r/episode/674b5102a59a11482ae20c79/size/6885058/audio-files/616389ba0fa9fb91fad22f87/636f0ebf-255d-4045-abb1-6f2470415fa9.mp3",
+      "duration": 275
+    }
+  ]
+}
