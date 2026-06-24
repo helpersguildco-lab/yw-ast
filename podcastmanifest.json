@@ -159,7 +159,7 @@
       "id": "the_bema_podcast",
       "name": "The BEMA Podcast",
       "host": "BEMA Discipleship",
-      "category": "PODCASTSERIES_RELIGION_AND_SPIRITUALITY_CHRISTIANITY",
+      "category": "SERIE PODS",
       "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/18.webp",
       "totalEpisodes": 511,
       "dataFile": "the_bema_podcast.json"
@@ -168,7 +168,7 @@
       "id": "the_holy_post",
       "name": "The Holy Post",
       "host": "Phil Vischer",
-      "category": "PODCASTSERIES_RELIGION_AND_SPIRITUALITY",
+      "category": "SERIE PODS",
       "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/19.webp",
       "totalEpisodes": 792,
       "dataFile": "the_holy_post.json"
@@ -177,7 +177,7 @@
       "id": "passion_city_church_podcast",
       "name": "Passion City Church Podcast",
       "host": "Passion City Church",
-      "category": "PODCASTSERIES_RELIGION_AND_SPIRITUALITY_CHRISTIANITY",
+      "category": "SERIE PODS",
       "thumbnailUrl": "https://cdn.jsdelivr.net/gh/helpersguildco-lab/yw-ast%40main/podcasticon/20.webp",
       "totalEpisodes": 600,
       "dataFile": "passion_city_church_podcast.json"
